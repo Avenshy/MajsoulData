@@ -86,3 +86,32 @@ jobs:
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Run get_max_data.py
+        id: get_max_data
+        run: python get_max_data.py
+
+      - name: Get latest release
+        id: get_latest_release
+        uses: joutvhu/get-release@v1
+        with:
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Upload release
+        uses: softprops/action-gh-release@v3
+        if: |
+          steps.get_latest_release.outcome == 'failure' ||
+          steps.get_latest_release.outputs.tag_name != steps.get_max_data.outputs.version
+        with:
+          tag_name: ${{ steps.get_max_data.outputs.version }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body: |
+            Release ${{ steps.get_max_data.outputs.version }}
+            Auto-generated max_data.json
+          make_latest: true
+          files: max_data.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
