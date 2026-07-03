@@ -87,6 +87,9 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Copy and rename majsoul_protocol.desc
+        run: cp /tmp/majsoul_protocol.desc ./liqi.desc
+
       - name: Run get_max_data.py
         id: get_max_data
         run: python get_max_data.py
@@ -115,5 +118,6 @@ jobs:
           files: |
             max_data.json
             max_data.yaml
+            liqi.desc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
