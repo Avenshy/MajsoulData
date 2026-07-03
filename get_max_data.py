@@ -1,3 +1,4 @@
+from ruamel.yaml import YAML
 import os
 import json
 
@@ -7,9 +8,9 @@ def set_version():
     with open('data/meta.json', 'r') as f:
         product_version = json.load(f)['product_version']
 
-    output = os.getenv('GITHUB_OUTPUT')
-    with open(output, "a") as f:
-        f.write(f'version={docs_version}-{product_version}\n')
+    # output = os.getenv('GITHUB_OUTPUT')
+    # with open(output, "a") as f:
+    #     f.write(f'version={docs_version}-{product_version}\n')
         
 def set_max_data():
     max_data={}
@@ -35,7 +36,11 @@ def set_max_data():
         max_data["endings"] = [endings["id"] for endings in json.load(f)]
 
     with open('max_data.json','w', encoding="utf-8") as f:
-        json.dump(max_data, f, separators=(',', ':'),indent =None)
+        json.dump({"mod": max_data}, f, separators=(',', ':'),indent =None)
+
+    with open('max_data.yaml','w', encoding="utf-8") as f:
+        yaml = YAML()
+        yaml.dump({"mod": max_data}, f)
 
 
 def main():
