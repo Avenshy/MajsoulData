@@ -8,9 +8,9 @@ def set_version():
     with open('data/meta.json', 'r') as f:
         product_version = json.load(f)['product_version']
 
-    # output = os.getenv('GITHUB_OUTPUT')
-    # with open(output, "a") as f:
-    #     f.write(f'version={docs_version}-{product_version}\n')
+    output = os.getenv('GITHUB_OUTPUT')
+    with open(output, "a") as f:
+        f.write(f'version={docs_version}-{product_version}\n')
         
 def set_max_data():
     max_data={}
