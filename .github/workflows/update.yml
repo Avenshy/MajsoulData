@@ -113,10 +113,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             Release ${{ steps.get_max_data.outputs.version }}
-            Auto-generated max_data.json and max_data.yaml files.
+            Auto-generated max_data.yaml and liqi.desc files.
           make_latest: true
           files: |
-            max_data.json
             max_data.yaml
             liqi.desc
         env:
