@@ -35,9 +35,6 @@ def set_max_data():
     with open("./data/tables/spot/rewards.json", "r", encoding="utf-8") as f:
         max_data["endings"] = [endings["id"] for endings in json.load(f)]
 
-    with open('max_data.json','w', encoding="utf-8") as f:
-        json.dump({"mod": max_data}, f, separators=(',', ':'),indent =None)
-
     with open('max_data.yaml','w', encoding="utf-8") as f:
         yaml = YAML()
         yaml.dump({"mod": max_data}, f)
