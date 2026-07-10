@@ -18,5 +18,25 @@
     "activity_id": 250895,
     "progress": 10000,
     "reward": ""
+  },
+  {
+    "activity_id": 260697,
+    "progress": 2500,
+    "reward": "100002-12888"
+  },
+  {
+    "activity_id": 260697,
+    "progress": 5000,
+    "reward": "100002-16888"
+  },
+  {
+    "activity_id": 260697,
+    "progress": 7500,
+    "reward": "304005-1"
+  },
+  {
+    "activity_id": 260697,
+    "progress": 10000,
+    "reward": ""
   }
 ]

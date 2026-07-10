@@ -780,6 +780,26 @@
     "attachments": []
   },
   {
+    "id": 143,
+    "title": {
+      "chs": "服饰返场投票活动奖励",
+      "chs_t": "服飾返場投票活動獎勵",
+      "jp": "「着せ替え復刻投票」報酬",
+      "en": "Outfit Return Vote Event Rewards",
+      "kr": "스킨 앙코르 투표 이벤트 보상"
+    },
+    "content_template": {
+      "chs": "感谢参与服饰返场投票活动，请查收您的奖励。\n邮件有效期为30天，请注意及时领取。",
+      "chs_t": "感謝參與服飾返場投票活動，請查收您的獎勵。\n郵件有效期為30天，請注意及時領取。",
+      "jp": "いつも「雀魂-じゃんたま-」をお楽しみいただき、誠にありがとうございます。\n\nイベント「着せ替え復刻投票」の報酬をお送りいたしました。\n\nこれからも「雀魂-じゃんたま-」をどうぞよろしくお願いします。\n\n※本メールは受信後、30日で削除されますのでご注意ください。",
+      "en": "Thank you for participating in the Outfit Return Vote event. Please claim your rewards.\n*Upon receiving the mail, it will expire in 30 days. Please claim it in time.",
+      "kr": "스킨 앙코르 투표 이벤트에 참가해주신 작사님께 감사의 마음을 담아 아래 보상을 드립니다.\n*해당 우편의 유효기간은 30일이며, 기간 내 수령을 부탁드립니다."
+    },
+    "expire_type": 1,
+    "expire_param": "30d",
+    "attachments": []
+  },
+  {
     "id": 10001,
     "title": {
       "chs": "小黑盒账号绑定",

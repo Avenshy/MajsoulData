@@ -1,9 +1,12 @@
 {
   "title": 0,
-  "title_reward": 0,
+  "home_page_get_button": 0,
+  "home_page_get_button_ash": 0,
   "popup_title_get": 0,
+  "title_reward": 0,
   "popup_title_rank": 0,
   "title_hot": 0,
   "icon_compete": 0,
-  "icon_normal": 0
+  "icon_normal": 0,
+  "popup_vote_get": 0
 }

@@ -6367,5 +6367,49 @@
     "id": 260691,
     "type": "daily_sign",
     "need_popout": 1
+  },
+  {
+    "id": 260692,
+    "type": "vote",
+    "need_popout": 1,
+    "name": {
+      "chs": "服饰返场投票",
+      "chs_t": "服飾返場投票",
+      "jp": "着せ替え復刻投票",
+      "en": "Outfit Return Vote",
+      "kr": "한정 스킨 앙코르"
+    }
+  },
+  {
+    "id": 260693,
+    "type": "vote",
+    "need_popout": null
+  },
+  {
+    "id": 260694,
+    "type": "period_task",
+    "need_popout": null,
+    "name": {
+      "chs": "投票券活动任务",
+      "chs_t": "投票券活動任務",
+      "jp": "投票券クエスト",
+      "en": "Voting Ticket Missions",
+      "kr": "투표권 이벤트 임무"
+    }
+  },
+  {
+    "id": 260695,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 260696,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 260697,
+    "type": "progress_reward",
+    "need_popout": null
   }
 ]
