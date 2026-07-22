@@ -185,6 +185,7 @@ service Lobby {
   rpc fetchCustomizedContestGameRecords (.lq.ReqFetchCustomizedContestGameRecords) returns (.lq.ResFetchCustomizedContestGameRecords);
   rpc fetchCustomizedContestList (.lq.ReqFetchCustomizedContestList) returns (.lq.ResFetchCustomizedContestList);
   rpc fetchCustomizedContestOnlineInfo (.lq.ReqFetchCustomizedContestOnlineInfo) returns (.lq.ResFetchCustomizedContestOnlineInfo);
+  rpc fetchDailySignActivityData (.lq.ReqFetchDailySignActivityData) returns (.lq.ResFetchDailySignActivityData);
   rpc fetchDailySignInInfo (.lq.ReqCommon) returns (.lq.ResDailySignInInfo);
   rpc fetchDailyTask (.lq.ReqCommon) returns (.lq.ResDailyTask);
   rpc fetchFriendApplyList (.lq.ReqCommon) returns (.lq.ResFriendApplyList);

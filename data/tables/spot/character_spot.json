@@ -255,6 +255,91 @@
     }
   },
   {
+    "id": 20000126,
+    "sort": 10,
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012601,
+    "full_fetter_skin": 40012602,
+    "hand": 309998,
+    "favorite": 2,
+    "star_5_material": "302006-10,302009-10,303123|303023-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": null,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000105",
+    "sound": 92,
+    "sound_volume": 1,
+    "sex": 1,
+    "collaboration": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": null,
+    "treasure_sp": null,
+    "name": {
+      "chs": "墨菲",
+      "chs_t": "墨菲",
+      "jp": "モフィー",
+      "en": "Murphy",
+      "kr": "머피"
+    },
+    "desc_stature": {
+      "chs": "178厘米",
+      "chs_t": "178公分",
+      "jp": "178cm",
+      "en": "178cm",
+      "kr": "178cm"
+    },
+    "desc_birth": {
+      "chs": "12月27日",
+      "chs_t": "12月27日",
+      "jp": "12月27日",
+      "en": "27th December",
+      "kr": "12월 27일"
+    },
+    "desc_age": {
+      "chs": "16",
+      "chs_t": "16",
+      "jp": "16",
+      "en": "16",
+      "kr": "16세"
+    },
+    "desc_bloodtype": {
+      "chs": "B",
+      "chs_t": "B",
+      "jp": "B",
+      "en": "B",
+      "kr": "B"
+    },
+    "desc_cv": {
+      "chs": "KENN",
+      "chs_t": "KENN",
+      "jp": "KENN",
+      "en": "KENN",
+      "kr": "KENN"
+    },
+    "desc_hobby": {
+      "chs": "编程、漫画、话梅糖",
+      "chs_t": "程式設計、漫畫、話梅糖",
+      "jp": "プログラミング、のど飴（梅味）、漫画",
+      "en": "Programming, comics, plum candy",
+      "kr": "프로그래밍, 만화, 매실맛 사탕"
+    },
+    "desc": {
+      "chs": "出勤率很低的「问题儿童」之一，成绩严重偏科的理科生，喜欢独来独往。私底下是个小有名气的黑客，代号ICE，不过学校里知道这个身份的人只有学生会的几位。麻将是为了应对家中亲戚被迫学会的，打得还不错，但是本人对于这种极其耗费精力的「运动」，似乎没有多喜欢。",
+      "chs_t": "出勤率很低的「問題兒童」之一，成績嚴重偏科的理科生，喜歡獨來獨往。私底下是個小有名氣的駭客，代號ICE，不過學校裡知道這個身分的人只有學生會的幾位。麻將是為了應對家中親戚被迫學會的，打得還不錯，但是本人對於這種極其耗費精力的「運動」，似乎沒有多喜歡。",
+      "jp": "万年出席率ギリギリで、理系科目の成績だけは優秀な、朝葉高校の問題児の一人。ICEというハンドルネームでハッカー活動をしているが、正体は生徒会のメンバーにしか明かしていない。\n麻雀はエネルギーを消費するので特に好きではないが、親戚によく付き合わされるため、一般人よりはそこそこ出来る。",
+      "en": "A problem student and lone wolf who has a poor attendance rate at school, with great grades in science subjects but not so much in others. In private, he is a famous hacker under the codename \"ICE\", but only a few students in the student council know about this. He learned mahjong to fend off relatives, but he doesn't seem to like this tiring \"sport\" much.",
+      "kr": "낮은 출석률을 보이는 문제아 중 하나지만, 이과 계열 과목 성적은 좋은 학생이다. 혼자 있는 걸 좋아하는 성격이다. ICE라는 이름으로 비밀리에 해커활동을 하고 있으며, 그쪽 세계에서는 유명세가 있는 편이지만, 학교 학생들 중 이 사실을 아는 사람은 몇 없다. 마작은 친척들에게 배워 꽤 잘 한다. 그러나 대국에 소모하는 에너지는 모두 '운동'이라 여기기 때문에 마작을 그다지 좋아하지는 않는다."
+    }
+  },
+  {
     "id": 20009992,
     "sort": 9992,
     "name_chs2": null,

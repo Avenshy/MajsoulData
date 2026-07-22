@@ -3661,5 +3661,130 @@
       "en": "赠予双圣战冠军",
       "kr": "赠予双圣战冠军"
     }
+  },
+  {
+    "id": 600162,
+    "icon": "deco/title/xsqhb/pic/xsqhb.png",
+    "icon_item": "deco/title/xsqhb/pic/xsqhb_item.jpg",
+    "priority": 40104,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557065
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "学生雀魂杯　東場",
+      "chs_t": "学生雀魂杯　東場",
+      "jp": "学生雀魂杯　東場",
+      "en": "学生雀魂杯　東場",
+      "kr": "学生雀魂杯　東場"
+    },
+    "desc": {
+      "chs": "「学生雀魂杯」優勝記念称号",
+      "chs_t": "「学生雀魂杯」優勝記念称号",
+      "jp": "「学生雀魂杯」優勝記念称号",
+      "en": "「学生雀魂杯」優勝記念称号",
+      "kr": "「学生雀魂杯」優勝記念称号"
+    }
+  },
+  {
+    "id": 600163,
+    "icon": "deco/title/24sxz2/pic/24sxz2.png",
+    "icon_item": "deco/title/24sxz2/pic/24sxz2_item.jpg",
+    "priority": 40105,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557066
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象戰冠軍",
+      "kr": "四象戰冠軍"
+    },
+    "desc": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "贈予四象戰冠軍",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    }
+  },
+  {
+    "id": 600164,
+    "icon": "deco/title/24sxz3/pic/24sxz3.png",
+    "icon_item": "deco/title/24sxz3/pic/24sxz3_item.jpg",
+    "priority": 40106,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557067
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象戰冠軍",
+      "kr": "四象戰冠軍"
+    },
+    "desc": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "贈予四象戰冠軍",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    }
+  },
+  {
+    "id": 600165,
+    "icon": "deco/title/24sxz4/pic/24sxz4.png",
+    "icon_item": "deco/title/24sxz4/pic/24sxz4_item.jpg",
+    "priority": 40107,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557068
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象戰冠軍",
+      "kr": "四象戰冠軍"
+    },
+    "desc": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "贈予四象戰冠軍",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    }
+  },
+  {
+    "id": 600166,
+    "icon": "deco/title/24sxz2/pic/24sxz2.png",
+    "icon_item": "deco/title/24sxz2/pic/24sxz2_item.jpg",
+    "priority": 40108,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557069
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象・朱雀",
+      "en": "四象戰冠軍",
+      "kr": "四象戰冠軍"
+    },
+    "desc": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "四象戦夏の陣優勝称号",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    }
   }
 ]

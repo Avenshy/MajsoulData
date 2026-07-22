@@ -1549,6 +1549,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e20000117\\925.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e20000118\\0.png",
       "fileType": 0
     },
@@ -4365,6 +4369,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200031\\925.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200031\\959.png",
       "fileType": 0
     },
@@ -5178,6 +5186,10 @@
     },
     {
       "filepath": "deco\\emo\\e200044\\888.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200044\\925.png",
       "fileType": 0
     },
     {
@@ -9809,6 +9821,14 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\loading_cg\\260701\\main\\260701.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\260701\\thumb\\260701_thumb.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\loading_cg\\CG200001\\main\\CG200001.jpg",
       "fileType": 0
     },
@@ -9974,6 +9994,14 @@
     },
     {
       "filepath": "deco\\loading_cg\\CG200025\\thumb\\CG200025_thumb.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\CG200044\\main\\CG200044.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\CG200044\\thumb\\CG200044_thumb.jpg",
       "fileType": 0
     },
     {
@@ -13237,47 +13265,7 @@
       "fileType": 1
     },
     {
-      "filepath": "extendRes\\skin_shop\\a37NP_shop.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\skin_shop\\a37WS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\ailishaCJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\ailishaSY_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\aiyinWS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\aiyinYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\bamuweiLF_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\bamuweiSDJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\bamuweiYSJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\beijianshaheziLF_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\beijianshaheziSC_shop.jpg",
       "fileType": 0
     },
     {
@@ -13317,43 +13305,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\chutaoNP_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\erjietangLF_shop.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\erjietangYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\erzhigongSD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\fujiWQ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\fuziXN_shop.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\skin_shop\\huiyejiWQ_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\jianaiYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\kongSDJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\laien_SD_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\jiutiaoliyuJK_shop.jpg",
       "fileType": 0
     },
     {
@@ -13361,39 +13317,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\lianggongxingshu_YY_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\mila_hxsw_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\lingYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\longchuanxiayanCJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\longchuanxiayanWQ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\mingzhiyingshu_YY_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\mingzhiyingshuWSJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\mingzhiyingshuYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\qianzhiWS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\qihailinaiSD_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\qihailinai_hxsw_shop.jpg",
       "fileType": 0
     },
     {
@@ -13401,27 +13329,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\qixiYSJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\qixiYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\ruyuecaiyinYD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\ruyuelian_WS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\ruyuelian_YD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\senchuanlingziWS_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\selected_package1_shop.jpg",
       "fileType": 0
     },
     {
@@ -13429,19 +13337,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\shiyuanduihaiSD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\shiyuanduihaiYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\sigongxiashengXN_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\sigongxiashengYZ_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\shiyuanduihai_hxsw_shop.jpg",
       "fileType": 0
     },
     {
@@ -13449,7 +13345,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\tengbenqiluoWQ_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\tengbenqiluoJK_shop.jpg",
       "fileType": 0
     },
     {
@@ -13457,27 +13353,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\wushilanyangcai_XN_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\wushilanyangcai_YZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\xiamierWQ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\xiangyuanwu_WS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\xiangyuanwuWQ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\xiaoniaoyouchutianSY_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\yijiJK_shop.jpg",
       "fileType": 0
     },
     {
@@ -13485,39 +13361,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\yizhilaikongCJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yizhilaikongKX_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yizhilaikongWS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\youYZ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yuejianshan_WS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yuesefuYD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\zekesi_YY_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\zeniyaCJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\zhaitengzhi_YY_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\zeniyaJK_shop.jpg",
       "fileType": 0
     },
     {
@@ -13621,6 +13465,14 @@
       "fileType": 1
     },
     {
+      "filepath": "extendRes\\treasurehead\\yh3_lh.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "extendRes\\treasurehead\\yh4_lh.png",
+      "fileType": 1
+    },
+    {
       "filepath": "extendRes\\treasurehead\\zl_c.png",
       "fileType": 1
     },
@@ -13693,7 +13545,15 @@
       "fileType": 1
     },
     {
+      "filepath": "extendRes\\treasurehead\\zl1_lh.png",
+      "fileType": 1
+    },
+    {
       "filepath": "extendRes\\treasurehead\\zl2_d.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "extendRes\\treasurehead\\zl2_lh.png",
       "fileType": 1
     },
     {
@@ -31233,10 +31093,6 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26toupiao_0.png",
-      "fileType": 1
-    },
-    {
       "filepath": "ui\\activity\\lobby\\banner_rotationalmatch\\pic\\anye.png",
       "fileType": 1
     },
@@ -31313,19 +31169,27 @@
       "fileType": 0
     },
     {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang1_b.jpg",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang2_b.jpg",
+      "fileType": 1
+    },
+    {
       "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26qingyun.png",
       "fileType": 0
     },
     {
       "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26qingyun_b.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26toupiao.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26toupiao_b.jpg",
       "fileType": 1
     },
     {
@@ -31741,6 +31605,10 @@
       "fileType": 1
     },
     {
+      "filepath": "ui\\activity\\lobby\\digmine\\pic\\goto2_2.png",
+      "fileType": 1
+    },
+    {
       "filepath": "ui\\activity\\lobby\\digmine\\pic\\light.png",
       "fileType": 0
     },
@@ -31754,6 +31622,14 @@
     },
     {
       "filepath": "ui\\activity\\lobby\\digmine\\pic\\music.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\digmine\\pic\\music2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\digmine\\pic\\music3.png",
       "fileType": 0
     },
     {
@@ -33583,6 +33459,10 @@
     {
       "filepath": "ui\\common\\main\\pic\\sima_queshi.png",
       "fileType": 1
+    },
+    {
+      "filepath": "ui\\common\\main\\pic\\skin_bg.png",
+      "fileType": 0
     },
     {
       "filepath": "ui\\common\\main\\pic\\slashline.png",
@@ -40499,6 +40379,30 @@
     {
       "filepath": "ui\\spot\\pic_scattered\\qianzhizhitiao.png",
       "fileType": 1
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\qihailinai_6.png",
+      "fileType": 0
     },
     {
       "filepath": "ui\\spot\\pic_scattered\\qunliao_fuzi1.png",

@@ -762,6 +762,10 @@
       "request": "ReqFetchCustomizedContestOnlineInfo",
       "response": "ResFetchCustomizedContestOnlineInfo"
     },
+    "fetchDailySignActivityData": {
+      "request": "ReqFetchDailySignActivityData",
+      "response": "ResFetchDailySignActivityData"
+    },
     "fetchDailySignInInfo": {
       "request": "ReqCommon",
       "response": "ResDailySignInInfo"

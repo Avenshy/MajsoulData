@@ -1729,6 +1729,244 @@
     "type_desc": "不甘"
   },
   {
+    "id": 1815,
+    "character": 200018,
+    "type": 15,
+    "path": "audio/sound/baishinainai/spot/baishinainai01",
+    "type_desc": "抱歉1"
+  },
+  {
+    "id": 1816,
+    "character": 200018,
+    "type": 16,
+    "path": "audio/sound/baishinainai/spot/baishinainai02",
+    "type_desc": "开心1"
+  },
+  {
+    "id": 1817,
+    "character": 200018,
+    "type": 17,
+    "path": "audio/sound/baishinainai/spot/baishinainai03",
+    "type_desc": "疑问1"
+  },
+  {
+    "id": 1818,
+    "character": 200018,
+    "type": 18,
+    "path": "audio/sound/baishinainai/spot/baishinainai04",
+    "type_desc": "开心2"
+  },
+  {
+    "id": 1819,
+    "character": 200018,
+    "type": 19,
+    "path": "audio/sound/baishinainai/spot/baishinainai05",
+    "type_desc": "疑问2"
+  },
+  {
+    "id": 1820,
+    "character": 200018,
+    "type": 20,
+    "path": "audio/sound/baishinainai/spot/baishinainai06",
+    "type_desc": "开心3"
+  },
+  {
+    "id": 1821,
+    "character": 200018,
+    "type": 21,
+    "path": "audio/sound/baishinainai/spot/baishinainai07",
+    "type_desc": "疑问3"
+  },
+  {
+    "id": 1822,
+    "character": 200018,
+    "type": 22,
+    "path": "audio/sound/baishinainai/spot/baishinainai08",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 1823,
+    "character": 200018,
+    "type": 23,
+    "path": "audio/sound/baishinainai/spot/baishinainai09",
+    "type_desc": "开心4"
+  },
+  {
+    "id": 1824,
+    "character": 200018,
+    "type": 24,
+    "path": "audio/sound/baishinainai/spot/baishinainai10",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 1825,
+    "character": 200018,
+    "type": 25,
+    "path": "audio/sound/baishinainai/spot/baishinainai11",
+    "type_desc": "开心5"
+  },
+  {
+    "id": 1826,
+    "character": 200018,
+    "type": 26,
+    "path": "audio/sound/baishinainai/spot/baishinainai12",
+    "type_desc": "开心6"
+  },
+  {
+    "id": 1827,
+    "character": 200018,
+    "type": 27,
+    "path": "audio/sound/baishinainai/spot/baishinainai13",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 1828,
+    "character": 200018,
+    "type": 28,
+    "path": "audio/sound/baishinainai/spot/baishinainai14",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 1829,
+    "character": 200018,
+    "type": 29,
+    "path": "audio/sound/baishinainai/spot/baishinainai15",
+    "type_desc": "感谢1"
+  },
+  {
+    "id": 1830,
+    "character": 200018,
+    "type": 30,
+    "path": "audio/sound/baishinainai/spot/baishinainai16",
+    "type_desc": "惊讶1"
+  },
+  {
+    "id": 1831,
+    "character": 200018,
+    "type": 31,
+    "path": "audio/sound/baishinainai/spot/baishinainai17",
+    "type_desc": "开心7"
+  },
+  {
+    "id": 1832,
+    "character": 200018,
+    "type": 32,
+    "path": "audio/sound/baishinainai/spot/baishinainai18",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 1833,
+    "character": 200018,
+    "type": 33,
+    "path": "audio/sound/baishinainai/spot/baishinainai19",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 1834,
+    "character": 200018,
+    "type": 34,
+    "path": "audio/sound/baishinainai/spot/baishinainai20",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 1835,
+    "character": 200018,
+    "type": 35,
+    "path": "audio/sound/baishinainai/spot/baishinainai21",
+    "type_desc": "惊讶2"
+  },
+  {
+    "id": 1836,
+    "character": 200018,
+    "type": 36,
+    "path": "audio/sound/baishinainai/spot/baishinainai22",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 1837,
+    "character": 200018,
+    "type": 37,
+    "path": "audio/sound/baishinainai/spot/baishinainai23",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 1838,
+    "character": 200018,
+    "type": 38,
+    "path": "audio/sound/baishinainai/spot/baishinainai24",
+    "type_desc": "语气8"
+  },
+  {
+    "id": 1839,
+    "character": 200018,
+    "type": 39,
+    "path": "audio/sound/baishinainai/spot/baishinainai25",
+    "type_desc": "开心8"
+  },
+  {
+    "id": 1840,
+    "character": 200018,
+    "type": 40,
+    "path": "audio/sound/baishinainai/spot/baishinainai26",
+    "type_desc": "伤心1"
+  },
+  {
+    "id": 1841,
+    "character": 200018,
+    "type": 41,
+    "path": "audio/sound/baishinainai/spot/baishinainai27",
+    "type_desc": "伤心2"
+  },
+  {
+    "id": 1842,
+    "character": 200018,
+    "type": 42,
+    "path": "audio/sound/baishinainai/spot/baishinainai28",
+    "type_desc": "打招呼2"
+  },
+  {
+    "id": 1843,
+    "character": 200018,
+    "type": 43,
+    "path": "audio/sound/baishinainai/spot/baishinainai29",
+    "type_desc": "语气9"
+  },
+  {
+    "id": 1844,
+    "character": 200018,
+    "type": 44,
+    "path": "audio/sound/baishinainai/spot/baishinainai30",
+    "type_desc": "伤心3"
+  },
+  {
+    "id": 1845,
+    "character": 200018,
+    "type": 45,
+    "path": "audio/sound/baishinainai/spot/baishinainai31",
+    "type_desc": "惊讶3"
+  },
+  {
+    "id": 1846,
+    "character": 200018,
+    "type": 46,
+    "path": "audio/sound/baishinainai/spot/baishinainai32",
+    "type_desc": "开心9"
+  },
+  {
+    "id": 1847,
+    "character": 200018,
+    "type": 47,
+    "path": "audio/sound/baishinainai/spot/baishinainai33",
+    "type_desc": "开心10"
+  },
+  {
+    "id": 1848,
+    "character": 200018,
+    "type": 48,
+    "path": "audio/sound/baishinainai/spot/baishinainai34",
+    "type_desc": "惊讶4"
+  },
+  {
     "id": 1901,
     "character": 200019,
     "type": 1,
@@ -4093,6 +4331,286 @@
     "type": 14,
     "path": "audio/sound/qihailinai/spot/jtm_rei_243",
     "type_desc": "疑惑"
+  },
+  {
+    "id": 4415,
+    "character": 200044,
+    "type": 15,
+    "path": "audio/sound/qihailinai/spot/qihailinai01",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 4416,
+    "character": 200044,
+    "type": 16,
+    "path": "audio/sound/qihailinai/spot/qihailinai02",
+    "type_desc": "工作1"
+  },
+  {
+    "id": 4417,
+    "character": 200044,
+    "type": 17,
+    "path": "audio/sound/qihailinai/spot/qihailinai03",
+    "type_desc": "工作2"
+  },
+  {
+    "id": 4418,
+    "character": 200044,
+    "type": 18,
+    "path": "audio/sound/qihailinai/spot/qihailinai04",
+    "type_desc": "工作3"
+  },
+  {
+    "id": 4419,
+    "character": 200044,
+    "type": 19,
+    "path": "audio/sound/qihailinai/spot/qihailinai05",
+    "type_desc": "开心1"
+  },
+  {
+    "id": 4420,
+    "character": 200044,
+    "type": 20,
+    "path": "audio/sound/qihailinai/spot/qihailinai06",
+    "type_desc": "开心2"
+  },
+  {
+    "id": 4421,
+    "character": 200044,
+    "type": 21,
+    "path": "audio/sound/qihailinai/spot/qihailinai07",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 4422,
+    "character": 200044,
+    "type": 22,
+    "path": "audio/sound/qihailinai/spot/qihailinai08",
+    "type_desc": "开心3"
+  },
+  {
+    "id": 4423,
+    "character": 200044,
+    "type": 23,
+    "path": "audio/sound/qihailinai/spot/qihailinai09",
+    "type_desc": "疑问1"
+  },
+  {
+    "id": 4424,
+    "character": 200044,
+    "type": 24,
+    "path": "audio/sound/qihailinai/spot/qihailinai10",
+    "type_desc": "犹豫1"
+  },
+  {
+    "id": 4425,
+    "character": 200044,
+    "type": 25,
+    "path": "audio/sound/qihailinai/spot/qihailinai11",
+    "type_desc": "犹豫2"
+  },
+  {
+    "id": 4426,
+    "character": 200044,
+    "type": 26,
+    "path": "audio/sound/qihailinai/spot/qihailinai12",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 4427,
+    "character": 200044,
+    "type": 27,
+    "path": "audio/sound/qihailinai/spot/qihailinai13",
+    "type_desc": "道谢1"
+  },
+  {
+    "id": 4428,
+    "character": 200044,
+    "type": 28,
+    "path": "audio/sound/qihailinai/spot/qihailinai14",
+    "type_desc": "开心4"
+  },
+  {
+    "id": 4429,
+    "character": 200044,
+    "type": 29,
+    "path": "audio/sound/qihailinai/spot/qihailinai15",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 4430,
+    "character": 200044,
+    "type": 30,
+    "path": "audio/sound/qihailinai/spot/qihailinai16",
+    "type_desc": "开心5"
+  },
+  {
+    "id": 4431,
+    "character": 200044,
+    "type": 31,
+    "path": "audio/sound/qihailinai/spot/qihailinai17",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 4432,
+    "character": 200044,
+    "type": 32,
+    "path": "audio/sound/qihailinai/spot/qihailinai18",
+    "type_desc": "转折1"
+  },
+  {
+    "id": 4433,
+    "character": 200044,
+    "type": 33,
+    "path": "audio/sound/qihailinai/spot/qihailinai19",
+    "type_desc": "转折2"
+  },
+  {
+    "id": 4434,
+    "character": 200044,
+    "type": 34,
+    "path": "audio/sound/qihailinai/spot/qihailinai20",
+    "type_desc": "道谢2"
+  },
+  {
+    "id": 4435,
+    "character": 200044,
+    "type": 35,
+    "path": "audio/sound/qihailinai/spot/qihailinai21",
+    "type_desc": "惊讶1"
+  },
+  {
+    "id": 4436,
+    "character": 200044,
+    "type": 36,
+    "path": "audio/sound/qihailinai/spot/qihailinai22",
+    "type_desc": "肯定2"
+  },
+  {
+    "id": 4437,
+    "character": 200044,
+    "type": 37,
+    "path": "audio/sound/qihailinai/spot/qihailinai23",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 4438,
+    "character": 200044,
+    "type": 38,
+    "path": "audio/sound/qihailinai/spot/qihailinai24",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 4439,
+    "character": 200044,
+    "type": 39,
+    "path": "audio/sound/qihailinai/spot/qihailinai25",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 4440,
+    "character": 200044,
+    "type": 40,
+    "path": "audio/sound/qihailinai/spot/qihailinai26",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 4441,
+    "character": 200044,
+    "type": 41,
+    "path": "audio/sound/qihailinai/spot/qihailinai27",
+    "type_desc": "惊讶2"
+  },
+  {
+    "id": 4442,
+    "character": 200044,
+    "type": 42,
+    "path": "audio/sound/qihailinai/spot/qihailinai28",
+    "type_desc": "语气8"
+  },
+  {
+    "id": 4443,
+    "character": 200044,
+    "type": 43,
+    "path": "audio/sound/qihailinai/spot/qihailinai29",
+    "type_desc": "道歉1"
+  },
+  {
+    "id": 4444,
+    "character": 200044,
+    "type": 44,
+    "path": "audio/sound/qihailinai/spot/qihailinai30",
+    "type_desc": "惊讶3"
+  },
+  {
+    "id": 4445,
+    "character": 200044,
+    "type": 45,
+    "path": "audio/sound/qihailinai/spot/qihailinai31",
+    "type_desc": "语气9"
+  },
+  {
+    "id": 4446,
+    "character": 200044,
+    "type": 46,
+    "path": "audio/sound/qihailinai/spot/qihailinai32",
+    "type_desc": "工作4"
+  },
+  {
+    "id": 4447,
+    "character": 200044,
+    "type": 47,
+    "path": "audio/sound/qihailinai/spot/qihailinai33",
+    "type_desc": "工作5"
+  },
+  {
+    "id": 4448,
+    "character": 200044,
+    "type": 48,
+    "path": "audio/sound/qihailinai/spot/qihailinai34",
+    "type_desc": "语气10"
+  },
+  {
+    "id": 4449,
+    "character": 200044,
+    "type": 49,
+    "path": "audio/sound/qihailinai/spot/qihailinai35",
+    "type_desc": "惊讶4"
+  },
+  {
+    "id": 4450,
+    "character": 200044,
+    "type": 50,
+    "path": "audio/sound/qihailinai/spot/qihailinai36",
+    "type_desc": "语气11"
+  },
+  {
+    "id": 4451,
+    "character": 200044,
+    "type": 51,
+    "path": "audio/sound/qihailinai/spot/qihailinai37",
+    "type_desc": "语气12"
+  },
+  {
+    "id": 4452,
+    "character": 200044,
+    "type": 52,
+    "path": "audio/sound/qihailinai/spot/qihailinai38",
+    "type_desc": "开心6"
+  },
+  {
+    "id": 4453,
+    "character": 200044,
+    "type": 53,
+    "path": "audio/sound/qihailinai/spot/qihailinai39",
+    "type_desc": "承接1"
+  },
+  {
+    "id": 4454,
+    "character": 200044,
+    "type": 54,
+    "path": "audio/sound/qihailinai/spot/qihailinai40",
+    "type_desc": "开心7"
   },
   {
     "id": 4501,

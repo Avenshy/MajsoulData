@@ -171,7 +171,14 @@ message Sheet_Activity_ActivityRoom {
   uint32 hunzhiyiji_mode = 18;
   uint32 wanxiangxiuluo_mode = 19;
   uint32 beishuizhizhan_mode = 20;
-  uint32 xiakeshang_mode = 21;
+}
+
+message Sheet_Activity_AmuletUpgrade {
+  uint32 id = 1;
+  uint32 level = 2;
+  uint32 skill_point = 3;
+  uint32 buff_id = 4;
+  uint32 display_value = 5;
 }
 
 message Sheet_Activity_ArenaActivity {
@@ -208,28 +215,6 @@ message Sheet_Activity_ArenaRewardDisplay {
   string reward_3_remark = 9;
   uint32 reward_4 = 10;
   string reward_4_remark = 11;
-}
-
-message Sheet_Activity_BingoCard {
-  uint32 card_id = 1;
-  string type = 2;
-  uint32 base_task_id = 3;
-  uint32 pos = 4;
-}
-
-message Sheet_Activity_BingoInfo {
-  uint32 activity_id = 1;
-  uint32 card_id = 2;
-  uint32 unlock_day = 3;
-}
-
-message Sheet_Activity_BingoReward {
-  uint32 card_id = 1;
-  uint32 reward_id = 2;
-  string reward = 3;
-  repeated uint32 required_pos = 4;
-  uint32 reward_type = 5;
-  uint32 node_mark = 6;
 }
 
 message Sheet_Activity_BuffCondition {
@@ -1089,12 +1074,6 @@ message Sheet_Amulet_AmuletGoods {
   repeated uint32 badge_weight = 8;
 }
 
-message Sheet_Amulet_AmuletLargeNumber {
-  string number_id = 1;
-  string number_unit_cn = 2;
-  string number_unit_en = 3;
-}
-
 message Sheet_Amulet_AmuletPool {
   uint32 level_amulet_pool_id = 1;
   uint32 amulet_id = 2;
@@ -1180,7 +1159,6 @@ message Sheet_Character_Cutin {
   int32 char_y = 6;
   uint32 char_width = 7;
   uint32 char_height = 8;
-  uint32 type = 9;
 }
 
 message Sheet_Character_Emoji {
@@ -1358,40 +1336,39 @@ message Sheet_Desktop_Matchmode {
   uint32 hunzhiyiji_mode = 19;
   uint32 wanxiangxiuluo_mode = 20;
   uint32 beishuizhizhan_mode = 21;
-  uint32 xiakeshang_mode = 22;
-  uint32 room = 23;
-  uint32 mode = 24;
-  uint32 can_sumup = 25;
-  string room_name_chs = 26;
-  string room_name_chs_t = 27;
-  string room_name_jp = 28;
-  string room_name_en = 29;
-  string room_name_kr = 30;
-  string str_rule = 31;
-  string interval_image = 32;
-  repeated string rule_images = 33;
-  int32 glimit_floor = 34;
-  int32 glimit_ceil = 35;
-  int32 gcarry = 36;
-  int32 exchange_rate = 37;
-  int32 levelpoint1 = 38;
-  int32 levelpoint2 = 39;
-  int32 levelpoint3 = 40;
-  int32 levelpoint4 = 41;
-  int32 fish_point = 42;
-  int32 init_point = 43;
-  int32 back_point = 44;
-  int32 count_point = 45;
-  repeated int32 buchang = 46;
-  uint32 level_limit = 47;
-  uint32 level_limit_ceil = 48;
-  int32 tip = 49;
-  int32 friendship = 50;
-  uint32 chest_id = 51;
-  repeated uint32 chest_exp_add = 52;
-  uint32 level_match = 53;
-  uint32 level_match_range = 54;
-  uint32 level_match_max = 55;
+  uint32 room = 22;
+  uint32 mode = 23;
+  uint32 can_sumup = 24;
+  string room_name_chs = 25;
+  string room_name_chs_t = 26;
+  string room_name_jp = 27;
+  string room_name_en = 28;
+  string room_name_kr = 29;
+  string str_rule = 30;
+  string interval_image = 31;
+  repeated string rule_images = 32;
+  int32 glimit_floor = 33;
+  int32 glimit_ceil = 34;
+  int32 gcarry = 35;
+  int32 exchange_rate = 36;
+  int32 levelpoint1 = 37;
+  int32 levelpoint2 = 38;
+  int32 levelpoint3 = 39;
+  int32 levelpoint4 = 40;
+  int32 fish_point = 41;
+  int32 init_point = 42;
+  int32 back_point = 43;
+  int32 count_point = 44;
+  repeated int32 buchang = 45;
+  uint32 level_limit = 46;
+  uint32 level_limit_ceil = 47;
+  int32 tip = 48;
+  int32 friendship = 49;
+  uint32 chest_id = 50;
+  repeated uint32 chest_exp_add = 51;
+  uint32 level_match = 52;
+  uint32 level_match_range = 53;
+  uint32 level_match_max = 54;
 }
 
 message Sheet_Desktop_Settings {
@@ -1541,7 +1518,7 @@ message Sheet_Fan_Fan {
   string sound = 12;
   uint32 is_guyi = 13;
   uint32 rarity = 14;
-  string show_range_1 = 15;
+  uint32 show_range_1 = 15;
   string show_range_2 = 16;
   uint32 merge_id = 17;
   uint32 mark = 18;
@@ -1636,58 +1613,57 @@ message Sheet_ItemDefinition_Character {
   string emo = 22;
   uint32 sound = 23;
   float sound_volume = 24;
-  string sound_folder = 25;
-  uint32 sex = 26;
-  string desc_stature_chs = 27;
-  string desc_stature_chs_t = 28;
-  string desc_stature_jp = 29;
-  string desc_stature_en = 30;
-  string desc_stature_kr = 31;
-  string desc_birth_chs = 32;
-  string desc_birth_chs_t = 33;
-  string desc_birth_jp = 34;
-  string desc_birth_en = 35;
-  string desc_birth_kr = 36;
-  string desc_age_chs = 37;
-  string desc_age_chs_t = 38;
-  string desc_age_jp = 39;
-  string desc_age_en = 40;
-  string desc_age_kr = 41;
-  string desc_bloodtype_chs = 42;
-  string desc_bloodtype_chs_t = 43;
-  string desc_bloodtype_jp = 44;
-  string desc_bloodtype_en = 45;
-  string desc_bloodtype_kr = 46;
-  string desc_cv_chs = 47;
-  string desc_cv_chs_t = 48;
-  string desc_cv_jp = 49;
-  string desc_cv_en = 50;
-  string desc_cv_kr = 51;
-  string desc_hobby_chs = 52;
-  string desc_hobby_chs_t = 53;
-  string desc_hobby_jp = 54;
-  string desc_hobby_en = 55;
-  string desc_hobby_kr = 56;
-  string desc_chs = 57;
-  string desc_item_chs = 58;
-  string desc_chs_t = 59;
-  string desc_item_chs_t = 60;
-  string desc_jp = 61;
-  string desc_item_jp = 62;
-  string desc_en = 63;
-  string desc_item_en = 64;
-  string desc_kr = 65;
-  string desc_item_kr = 66;
-  uint32 collaboration = 67;
-  uint32 region_limit = 68;
-  repeated uint32 skin_lib = 69;
-  uint32 ur = 70;
-  uint32 ur_ron = 71;
-  uint32 ur_liqi = 72;
-  string ur_cutin = 73;
-  uint32 limited = 74;
-  uint32 treasure_sp = 75;
-  uint32 blink = 76;
+  uint32 sex = 25;
+  string desc_stature_chs = 26;
+  string desc_stature_chs_t = 27;
+  string desc_stature_jp = 28;
+  string desc_stature_en = 29;
+  string desc_stature_kr = 30;
+  string desc_birth_chs = 31;
+  string desc_birth_chs_t = 32;
+  string desc_birth_jp = 33;
+  string desc_birth_en = 34;
+  string desc_birth_kr = 35;
+  string desc_age_chs = 36;
+  string desc_age_chs_t = 37;
+  string desc_age_jp = 38;
+  string desc_age_en = 39;
+  string desc_age_kr = 40;
+  string desc_bloodtype_chs = 41;
+  string desc_bloodtype_chs_t = 42;
+  string desc_bloodtype_jp = 43;
+  string desc_bloodtype_en = 44;
+  string desc_bloodtype_kr = 45;
+  string desc_cv_chs = 46;
+  string desc_cv_chs_t = 47;
+  string desc_cv_jp = 48;
+  string desc_cv_en = 49;
+  string desc_cv_kr = 50;
+  string desc_hobby_chs = 51;
+  string desc_hobby_chs_t = 52;
+  string desc_hobby_jp = 53;
+  string desc_hobby_en = 54;
+  string desc_hobby_kr = 55;
+  string desc_chs = 56;
+  string desc_item_chs = 57;
+  string desc_chs_t = 58;
+  string desc_item_chs_t = 59;
+  string desc_jp = 60;
+  string desc_item_jp = 61;
+  string desc_en = 62;
+  string desc_item_en = 63;
+  string desc_kr = 64;
+  string desc_item_kr = 65;
+  uint32 collaboration = 66;
+  uint32 region_limit = 67;
+  repeated uint32 skin_lib = 68;
+  uint32 ur = 69;
+  uint32 ur_ron = 70;
+  uint32 ur_liqi = 71;
+  string ur_cutin = 72;
+  uint32 limited = 73;
+  uint32 treasure_sp = 74;
+  uint32 blink = 75;
 }
 
 message Sheet_ItemDefinition_Currency {
@@ -1898,8 +1874,7 @@ message Sheet_ItemDefinition_View {
   uint32 character_id = 4;
   repeated string sargs = 5;
   uint32 old_effect_mark = 6;
-  uint32 hand_version = 7;
-  uint32 seat_related = 8;
+  uint32 new_hand = 7;
 }
 
 message Sheet_Leaderboard_Leaderboard {
@@ -2117,7 +2092,6 @@ message Sheet_OutfitConfig_Headframe {
 
 message Sheet_OutfitConfig_Liqi {
   uint32 id = 1;
-  string hide_direction = 2;
 }
 
 message Sheet_OutfitConfig_Mjp {
@@ -2140,59 +2114,6 @@ message Sheet_OutfitConfig_Ron {
 
 message Sheet_OutfitConfig_Tablecloth {
   uint32 id = 1;
-}
-
-message Sheet_QuestCrew_QcCharacterPool {
-  uint32 id = 1;
-  uint32 character_id = 2;
-  uint32 sta = 3;
-  uint32 str = 4;
-  uint32 spd = 5;
-  uint32 luc = 6;
-  uint32 effect = 7;
-  uint32 show_in_market = 8;
-  string hiring_price = 9;
-  uint32 item_id = 10;
-  uint32 name = 11;
-  uint32 skill = 12;
-  string npc_code = 13;
-  uint32 display_change = 14;
-}
-
-message Sheet_QuestCrew_QcEffect {
-  uint32 id = 1;
-  uint32 type = 2;
-  repeated int32 args = 3;
-}
-
-message Sheet_QuestCrew_QcInfo {
-  uint32 id = 1;
-  uint32 character_pool_id = 2;
-  uint32 quest_pool_id = 3;
-  string refresh_market_price = 4;
-  uint32 market_count = 5;
-  string character_charging_price = 6;
-  uint32 great_success_effect_ceo = 7;
-  uint32 great_success_ceo = 8;
-  repeated uint32 init_character_id = 9;
-}
-
-message Sheet_QuestCrew_QcQuestPool {
-  uint32 id = 1;
-  uint32 quest_id = 2;
-  uint32 sort = 3;
-  uint32 type = 4;
-  uint32 str = 5;
-  uint32 spd = 6;
-  uint32 luc = 7;
-  uint32 unlock_days = 8;
-  uint32 consume = 9;
-  uint32 rewards = 10;
-  uint32 client = 11;
-  uint32 character_id = 12;
-  uint32 client_name = 13;
-  uint32 quest_desc = 14;
-  string npc_code = 15;
 }
 
 message Sheet_RankIntroduce_Rank {
@@ -2252,39 +2173,6 @@ message Sheet_Season_TicketRetry {
   uint32 cost = 3;
 }
 
-message Sheet_Shoot_ShootEnemy {
-  uint32 group_id = 1;
-  uint32 enemy_id = 2;
-  uint32 hp = 3;
-  uint32 reward_group_id = 4;
-  uint32 x = 5;
-  uint32 y = 6;
-  uint32 width = 7;
-}
-
-message Sheet_Shoot_ShootInfo {
-  uint32 activity_id = 1;
-  uint32 missions_group_id = 2;
-  uint32 level_count = 3;
-  uint32 bullet_item_id = 4;
-}
-
-message Sheet_Shoot_ShootMission {
-  uint32 group_id = 1;
-  uint32 level = 2;
-  uint32 enemy_group_id = 3;
-}
-
-message Sheet_Shoot_ShootReward {
-  uint32 group_id = 1;
-  uint32 reward_id = 2;
-  string reward = 3;
-  uint32 reward_level = 4;
-  uint32 star_num = 5;
-  uint32 reward_merge = 6;
-  uint32 activity_id = 7;
-}
-
 message Sheet_Shops_Goods {
   uint32 id = 1;
   uint32 category = 2;
@@ -2331,12 +2219,6 @@ message Sheet_Shops_IntervalRefreshGoods {
 message Sheet_Shops_ItemPackage {
   uint32 id = 1;
   string item_info = 2;
-}
-
-message Sheet_Shops_SelectedPackage {
-  uint32 id = 1;
-  uint32 goods_id = 2;
-  string price = 3;
 }
 
 message Sheet_Shops_ZhpGoods {

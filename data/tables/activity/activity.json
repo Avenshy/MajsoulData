@@ -6411,5 +6411,104 @@
     "id": 260697,
     "type": "progress_reward",
     "need_popout": null
+  },
+  {
+    "id": 260701,
+    "type": "random_task",
+    "need_popout": 1,
+    "name": {
+      "chs": "花梦蝶栖",
+      "chs_t": "花夢蝶棲",
+      "jp": "蝶が見る花の夢",
+      "en": "Winged Slumber",
+      "kr": "꽃의 꿈에 깃든 나비"
+    }
+  },
+  {
+    "id": 260702,
+    "type": "mine",
+    "need_popout": null,
+    "name": {
+      "chs": "丝萦梦网",
+      "chs_t": "絲縈夢網",
+      "jp": "夢に絡む幻の糸",
+      "en": "Lost in the Dreamweb",
+      "kr": "꿈을 엮는 실"
+    }
+  },
+  {
+    "id": 260710,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 260711,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 260712,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 260720,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260721,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260722,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260723,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260724,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260725,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260730,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260731,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260732,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260733,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260734,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260735,
+    "type": "chest_replace_up",
+    "need_popout": null
   }
 ]

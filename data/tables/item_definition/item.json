@@ -6908,7 +6908,7 @@
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、和了時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다.(이벤트 기간 중에만 획득 가능)"
+      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다."
     },
     "desc": {
       "chs": "喵武者一姬的杀手锏，专门用来打断国士无双、九莲宝灯等大招的蓄力。(当期活动限定，活动结束后将从卡池中下架)",
@@ -8188,7 +8188,7 @@
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、立直時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다.(이벤트 기간 중에만 획득 가능)"
+      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다."
     },
     "desc": {
       "chs": "“一秒挠……挥七刀可是一姬的绝活喵~”(当期活动限定，活动结束后将从卡池中下架)",
@@ -12907,7 +12907,7 @@
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、立直棒を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "장식품 화면에서 리치봉을 변경할 수 있다.(이벤트 기간 중에만 획득 가능)"
+      "kr": "장식품 화면에서 리치봉을 변경할 수 있다."
     },
     "desc": {
       "chs": "喵武者一姬的佩刀，传说见过其刃锋芒的人，都在对局中倒下了。(当期活动限定，活动结束后将从卡池中下架)",
@@ -13963,7 +13963,7 @@
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、麻雀牌を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "장식품 화면에서 마작패를 변경할 수 있다.(이벤트 기간 중에만 획득 가능)"
+      "kr": "장식품 화면에서 마작패를 변경할 수 있다."
     },
     "desc": {
       "chs": "喵武者一姬的使魔之一，虽然看起来比灵煤球凶，却意外的是容易害羞的性格。(当期活动限定，活动结束后将从卡池中下架)",
@@ -15203,7 +15203,7 @@
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、雀卓を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "장식품 화면에서 작탁을 변경할 수 있다.(이벤트 기간 중에만 획득 가능)"
+      "kr": "장식품 화면에서 작탁을 변경할 수 있다."
     },
     "desc": {
       "chs": "勇敢猫猫不怕困难，不管是潜伏在宫殿里的敌人还是端坐在牌桌前的对手，喵武者一姬都将迎刃而上。(当期活动限定，活动结束后将从卡池中下架)",
@@ -20737,6 +20737,60 @@
     }
   },
   {
+    "id": 307292,
+    "sort": 15092,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260701/thumb/260701_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260701
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-08-05 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "绿野蝶踪-2026",
+      "chs_t": "綠野蝶蹤-2026",
+      "jp": "森の妖精さん-2026",
+      "en": "Where Butterflies Roam (2026)",
+      "kr": "요정이 머문 자리-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "蝶羽翩跹间，阳光和微风被揉进原野的花香中，妖精们亦于此处小憩。",
+      "chs_t": "蝶羽翩躚間，陽光和微風被揉進原野的花香中，妖精們亦於此處小憩。",
+      "jp": "やわらかな日差しにそよ風、そして花の香り。ここは妖精さんたちの憩いの場所。",
+      "en": "Fluttering butterflies weave the sunlight and breeze into the meadow's sweet scent. Here, little fairies come to nap.",
+      "kr": "나비의 날개가 너울너울 춤추는 사이, 햇살과 산들바람이 들판의 꽃향기에 스며들고, 요정들도 이곳에서 잠시 머무른다."
+    },
+    "expire_desc": {
+      "chs": "2026-08-05 05:00:00",
+      "chs_t": "2026-08-05 05:00:00",
+      "jp": "2026/08/05 5:59 まで",
+      "en": "2026-08-04 14:00:00 (UTC-7)",
+      "kr": "2026.08.05 06:00(GMT+9)"
+    }
+  },
+  {
     "id": 307401,
     "sort": 16201,
     "name_chs_t2": null,
@@ -25011,6 +25065,53 @@
       "jp": "アカギ×雀魂コラボ記念イラスト",
       "en": "AKAGI × Mahjong Soul Collab Commemoration",
       "kr": "[작혼 X 아카기] 콜라보 기념 일러스트"
+    }
+  },
+  {
+    "id": 307492,
+    "sort": 15092,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260701/thumb/260701_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260701
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "绿野蝶踪-2026",
+      "chs_t": "綠野蝶蹤-2026",
+      "jp": "森の妖精さん-2026",
+      "en": "Where Butterflies Roam (2026)",
+      "kr": "요정이 머문 자리-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "蝶羽翩跹间，阳光和微风被揉进原野的花香中，妖精们亦于此处小憩。",
+      "chs_t": "蝶羽翩躚間，陽光和微風被揉進原野的花香中，妖精們亦於此處小憩。",
+      "jp": "やわらかな日差しにそよ風、そして花の香り。ここは妖精さんたちの憩いの場所。",
+      "en": "Fluttering butterflies weave the sunlight and breeze into the meadow's sweet scent. Here, little fairies come to nap.",
+      "kr": "나비의 날개가 너울너울 춤추는 사이, 햇살과 산들바람이 들판의 꽃향기에 스며들고, 요정들도 이곳에서 잠시 머무른다."
     }
   },
   {
@@ -29600,7 +29701,7 @@
       "chs_t": "翻開機會",
       "jp": "めくり回数",
       "en": "Flip Attempt",
-      "kr": "뒤집기 횟수"
+      "kr": "오픈 횟수"
     },
     "desc_func": {
       "chs": "活动限定道具",
@@ -37760,6 +37861,276 @@
     }
   },
   {
+    "id": 30550043,
+    "sort": 5089,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_ssz/pic/headframe_ssz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-双圣战",
+      "chs_t": "頭像框-雙聖戰",
+      "jp": "双聖の眷属たち",
+      "en": "双聖の眷属たち",
+      "kr": "프로필 테두리 - 쌍상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年8月1日05：00まで）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 2027년 8월 1일 00:00까지)"
+    },
+    "desc": {
+      "chs": "头像框-双圣战",
+      "chs_t": "頭像框-雙聖戰",
+      "jp": "",
+      "en": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年8月1日05：00まで）",
+      "kr": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年8月1日05：00まで）"
+    },
+    "expire_desc": {
+      "chs": "2027-08-01 05:00:00",
+      "chs_t": "2027-08-01 05:00:00",
+      "jp": "2027-08-01 05:00:00",
+      "en": "2027-08-01 05:00:00",
+      "kr": "2027-08-01 05:00:00"
+    }
+  },
+  {
+    "id": 30550044,
+    "sort": 5090,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_sxz/pic/headframe_sxz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "四象を翔ける者",
+      "en": "Limited Portrait Frame",
+      "kr": "프로필 테두리 - 사상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に四回行われる四象戦の優勝者のみが使用できるフレーム",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 1년)"
+    },
+    "desc": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "",
+      "en": "A reward for Mahjong Soul official tournament winner. (Expires in 1 year)",
+      "kr": "사상전 우승자 전용 테두리."
+    },
+    "expire_desc": {
+      "chs": "2027-08-01 05:00:00",
+      "chs_t": "2027-08-01 05:00:00",
+      "jp": "2027-08-01 05:00:00",
+      "en": "2027-08-01 05:00:00",
+      "kr": "2027-08-01 05:00:00"
+    }
+  },
+  {
+    "id": 30550045,
+    "sort": 5091,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_sxz/pic/headframe_sxz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-10-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "四象を翔ける者",
+      "en": "Limited Portrait Frame",
+      "kr": "프로필 테두리 - 사상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に四回行われる四象戦の優勝者のみが使用できるフレーム",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 1년)"
+    },
+    "desc": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "",
+      "en": "A reward for Mahjong Soul official tournament winner. (Expires in 1 year)",
+      "kr": "사상전 우승자 전용 테두리."
+    },
+    "expire_desc": {
+      "chs": "2027-10-01 05:00:00",
+      "chs_t": "2027-10-01 05:00:00",
+      "jp": "2027-10-01 05:00:00",
+      "en": "2027-10-01 05:00:00",
+      "kr": "2027-10-01 05:00:00"
+    }
+  },
+  {
+    "id": 30550046,
+    "sort": 5092,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_sxz/pic/headframe_sxz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2028-01-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "四象を翔ける者",
+      "en": "Limited Portrait Frame",
+      "kr": "프로필 테두리 - 사상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に四回行われる四象戦の優勝者のみが使用できるフレーム",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 1년)"
+    },
+    "desc": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "",
+      "en": "A reward for Mahjong Soul official tournament winner. (Expires in 1 year)",
+      "kr": "사상전 우승자 전용 테두리."
+    },
+    "expire_desc": {
+      "chs": "2028-01-01 05:00:00",
+      "chs_t": "2028-01-01 05:00:00",
+      "jp": "2028-01-01 05:00:00",
+      "en": "2028-01-01 05:00:00",
+      "kr": "2028-01-01 05:00:00"
+    }
+  },
+  {
+    "id": 30550047,
+    "sort": 5093,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_sxz/pic/headframe_sxz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "四象を翔ける者",
+      "en": "Limited Portrait Frame",
+      "kr": "프로필 테두리 - 사상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に四回行われる四象戦の優勝者のみが使用できるフレーム",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 1년)"
+    },
+    "desc": {
+      "chs": "头像框-四象战",
+      "chs_t": "頭像框-四象戰",
+      "jp": "",
+      "en": "A reward for Mahjong Soul official Catfood Bowl tournament winner. (Expires in 1 year)",
+      "kr": "사상전 우승자 전용 테두리."
+    },
+    "expire_desc": {
+      "chs": "2027年8月1日まで",
+      "chs_t": "2027年8月1日まで",
+      "jp": "2027年8月1日まで",
+      "en": "2027年8月1日まで",
+      "kr": "2027年8月1日まで"
+    }
+  },
+  {
     "id": 30557001,
     "sort": 6027,
     "name_chs_t2": null,
@@ -40547,6 +40918,231 @@
       "jp": "2027-08-01 05:00:00",
       "en": "2027-08-01 05:00:00",
       "kr": "2027-08-01 05:00:00"
+    }
+  },
+  {
+    "id": 30557065,
+    "sort": 6087,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/xsqhb/pic/xsqhb_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "学生雀魂杯　東場",
+      "chs_t": "学生雀魂杯　東場",
+      "jp": "学生雀魂杯　東場",
+      "en": "学生雀魂杯　東場",
+      "kr": "学生雀魂杯　東場"
+    },
+    "desc_func": {
+      "chs": "「学生雀魂杯」優勝記念称号",
+      "chs_t": "「学生雀魂杯」優勝記念称号",
+      "jp": "「学生雀魂杯」優勝記念称号",
+      "en": "「学生雀魂杯」優勝記念称号",
+      "kr": "「学生雀魂杯」優勝記念称号"
+    },
+    "expire_desc": {
+      "chs": "2027年08月01日まで",
+      "chs_t": "2027年08月01日まで",
+      "jp": "2027年08月01日まで",
+      "en": "2027年08月01日まで",
+      "kr": "2027年08月01日まで"
+    }
+  },
+  {
+    "id": 30557066,
+    "sort": 6088,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/24sxz2/pic/24sxz2_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象战冠军",
+      "kr": "四象战冠军"
+    },
+    "desc_func": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "「四象戦」優勝賞品",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    },
+    "expire_desc": {
+      "chs": "2027-08-01 05:00:00",
+      "chs_t": "2027-08-01 05:00:00",
+      "jp": "2027-08-01 05:00:00",
+      "en": "2027-08-01 05:00:00",
+      "kr": "2027-08-01 05:00:00"
+    }
+  },
+  {
+    "id": 30557067,
+    "sort": 6089,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/24sxz3/pic/24sxz3_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-10-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象战冠军",
+      "kr": "四象战冠军"
+    },
+    "desc_func": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "「四象戦」優勝賞品",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    },
+    "expire_desc": {
+      "chs": "2027-10-01 05:00:00",
+      "chs_t": "2027-10-01 05:00:00",
+      "jp": "2027-10-01 05:00:00",
+      "en": "2027-10-01 05:00:00",
+      "kr": "2027-10-01 05:00:00"
+    }
+  },
+  {
+    "id": 30557068,
+    "sort": 6090,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/24sxz4/pic/24sxz4_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2028-01-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象戦優勝",
+      "en": "四象战冠军",
+      "kr": "四象战冠军"
+    },
+    "desc_func": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "「四象戦」優勝賞品",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    },
+    "expire_desc": {
+      "chs": "2028-01-01 05:00:00",
+      "chs_t": "2028-01-01 05:00:00",
+      "jp": "2028-01-01 05:00:00",
+      "en": "2028-01-01 05:00:00",
+      "kr": "2028-01-01 05:00:00"
+    }
+  },
+  {
+    "id": 30557069,
+    "sort": 6091,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/24sxz2/pic/24sxz2_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象・朱雀",
+      "en": "四象・朱雀",
+      "kr": "四象・朱雀"
+    },
+    "desc_func": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "四象戦夏の陣優勝称号",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    },
+    "expire_desc": {
+      "chs": "2027年8月1日まで",
+      "chs_t": "2027年8月1日まで",
+      "jp": "2027年8月1日まで",
+      "en": "2027年8月1日まで",
+      "kr": "2027年8月1日まで"
     }
   },
   {
@@ -44963,6 +45559,53 @@
       "jp": "「ジェーンの守護者」記念イラスト",
       "en": "[Protector of Jane] Achievement Commemoration",
       "kr": "[제인의 수호자] 달성 기념 일러스트"
+    }
+  },
+  {
+    "id": 30740023,
+    "sort": 16023,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/CG200044/thumb/CG200044_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      30740023
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "七海礼奈的守护者",
+      "chs_t": "七海禮奈的守護者",
+      "jp": "七海礼奈の守護者",
+      "en": "Protector of Reina Nanami",
+      "kr": "나나미 레이나의 수호자"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "【七海礼奈的守护者】成就纪念插图",
+      "chs_t": "【七海禮奈的守護者】成就紀念插圖",
+      "jp": "「七海礼奈の守護者」記念イラスト",
+      "en": "[Protector of Reina Nanami] Achievement Commemoration",
+      "kr": "[나나미 레이나의 수호자] 달성 기념 일러스트"
     }
   },
   {

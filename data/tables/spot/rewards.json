@@ -1620,6 +1620,78 @@
     }
   },
   {
+    "id": 4400041,
+    "type": 1,
+    "reward": "302007-1",
+    "content": {
+      "chs": "解锁结局【通往幸福的魔法】",
+      "chs_t": "解鎖結局【通往幸福的魔法】",
+      "jp": "End1. 幸せの魔法",
+      "en": "Unlock the Ending - The Magic of Happiness",
+      "kr": "End1. 행복으로 가는 마법"
+    }
+  },
+  {
+    "id": 4400042,
+    "type": 3,
+    "reward": "100002-8000",
+    "content": {
+      "chs": "解锁结局【安全距离】",
+      "chs_t": "解鎖結局【安全距離】",
+      "jp": "End2. 安全距離",
+      "en": "Unlock the Ending - Across the Counter",
+      "kr": "End2. 안전거리"
+    }
+  },
+  {
+    "id": 4400051,
+    "type": 1,
+    "reward": "304005-1",
+    "content": {
+      "chs": "解锁结局【梦醒待续】",
+      "chs_t": "解鎖結局【夢醒待續】",
+      "jp": "End3. 夢の続きへ",
+      "en": "Unlock the Ending - When the Dream Ends",
+      "kr": "End3. 꿈 너머의 이야기"
+    }
+  },
+  {
+    "id": 4400052,
+    "type": 3,
+    "reward": "302011-1,100002-12000",
+    "content": {
+      "chs": "解锁结局【更深的迷雾】",
+      "chs_t": "解鎖結局【更深的迷霧】",
+      "jp": "End4. 深くなる迷霧",
+      "en": "Unlock the Ending - Deeper in the Mist",
+      "kr": "End4. 더 깊어진 안개"
+    }
+  },
+  {
+    "id": 4400061,
+    "type": 1,
+    "reward": "302001-1",
+    "content": {
+      "chs": "解锁结局【飞过花海的她】",
+      "chs_t": "解鎖結局【飛過花海的她】",
+      "jp": "End5. 花の海を飛び越えて",
+      "en": "Unlock the Ending - Above the Sea of Flowers",
+      "kr": "End5. 꽃의 바다를 건넌 그녀"
+    }
+  },
+  {
+    "id": 4400062,
+    "type": 3,
+    "reward": "304006-1",
+    "content": {
+      "chs": "解锁结局【等待花开】",
+      "chs_t": "解鎖結局【等待花開】",
+      "jp": "End6. 花咲くを待つ",
+      "en": "Unlock the Ending - Until the Flowers Bloom",
+      "kr": "End6. 꽃이 피기를 기다리며"
+    }
+  },
+  {
     "id": 9400041,
     "type": 1,
     "reward": "302005-1",

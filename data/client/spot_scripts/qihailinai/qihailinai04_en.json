@@ -1,0 +1,978 @@
+[
+  {
+    "line": 46,
+    "text": "player"
+  },
+  {
+    "line": 516,
+    "text": "Coffee, Magic, and Miss Commander"
+  },
+  {
+    "line": 517,
+    "text": "Fuyumi Shinomiya"
+  },
+  {
+    "line": 519,
+    "text": "At Éternité"
+  },
+  {
+    "line": 520,
+    "text": "Ichihime"
+  },
+  {
+    "line": 522,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 524,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 527,
+    "text": "Reina Nanami"
+  },
+  {
+    "line": 528,
+    "text": "Welcome, {var:player_nickname}! Please, come in!"
+  },
+  {
+    "line": 530,
+    "text": "What's the occasion?"
+  },
+  {
+    "line": 532,
+    "text": "Did you come up with another new blend?"
+  },
+  {
+    "line": 535,
+    "text": "Leia"
+  },
+  {
+    "line": 537,
+    "text": "Magical?"
+  },
+  {
+    "line": 541,
+    "text": "Sounds quite impressive..."
+  },
+  {
+    "line": 542,
+    "text": "What about you, Reina? Did the magic show you anything happy?"
+  },
+  {
+    "line": 543,
+    "text": "Well... umm..."
+  },
+  {
+    "line": 544,
+    "text": "Just seeing your smiling faces around me... that's all the happiness I need."
+  },
+  {
+    "line": 546,
+    "text": "Mm... Zzz..."
+  },
+  {
+    "line": 550,
+    "text": "My head's getting woozy too, nyaa... Nyaa? Is it just me, or is the ceiling going round and round, nyaa...?"
+  },
+  {
+    "line": 551,
+    "text": "Huh?"
+  },
+  {
+    "line": 558,
+    "text": "That's... the reminder sticker we put on our new drinks, right?"
+  },
+  {
+    "line": 561,
+    "text": "Aha, here it is!"
+  },
+  {
+    "line": 562,
+    "text": "It was sitting in Miss Leia's gift bag the entire time."
+  },
+  {
+    "line": 565,
+    "text": "I've got a bad feeling about this..."
+  },
+  {
+    "line": 566,
+    "text": "Hey! Is everyone all right?!"
+  },
+  {
+    "line": 567,
+    "text": "Everyone"
+  },
+  {
+    "line": 568,
+    "text": "........."
+  },
+  {
+    "line": 570,
+    "text": "That's got to be ten times your regular meal... at least!"
+  },
+  {
+    "line": 574,
+    "text": "Hey, don't volunteer me without asking!"
+  },
+  {
+    "line": 575,
+    "text": "You can't leap around in the café. Someone could get hurt!"
+  },
+  {
+    "line": 582,
+    "text": "Munch! Nyaaa... It's sooo good!!!"
+  },
+  {
+    "line": 583,
+    "text": "Phew... that was a close one."
+  },
+  {
+    "line": 584,
+    "text": "Reina, that was incredible!"
+  },
+  {
+    "line": 595,
+    "text": "Yep! We'll get her the sunlight she needs!"
+  },
+  {
+    "line": 597,
+    "text": "Phew..."
+  },
+  {
+    "line": 599,
+    "text": "Thank you, and I'm so sorry for dragging you into this mess!"
+  },
+  {
+    "line": 600,
+    "text": "It's okay. I'll bring Fuyumi to her seat so she can sleep properly..."
+  },
+  {
+    "line": 601,
+    "text": "Oh no you don't!!"
+  },
+  {
+    "line": 602,
+    "text": "??"
+  },
+  {
+    "line": 608,
+    "text": "The rug! Watch your step!"
+  },
+  {
+    "line": 609,
+    "text": "What?"
+  },
+  {
+    "line": 610,
+    "text": "Oof..."
+  },
+  {
+    "line": 611,
+    "text": "Are you hurt?!"
+  },
+  {
+    "line": 613,
+    "text": "I didn't... fall?"
+  },
+  {
+    "line": 616,
+    "text": "Zzz..."
+  },
+  {
+    "line": 617,
+    "text": "Phew... finally, they're all sound asleep now."
+  },
+  {
+    "line": 622,
+    "text": "Ah..."
+  },
+  {
+    "line": 630,
+    "text": "Eep!"
+  },
+  {
+    "line": 632,
+    "text": "Reina...?"
+  },
+  {
+    "line": 634,
+    "text": "Eh?!"
+  },
+  {
+    "line": 636,
+    "text": "And the hand towel drops right into the narrow gap between the sink and the wall."
+  },
+  {
+    "line": 637,
+    "text": "Oof..."
+  },
+  {
+    "line": 639,
+    "text": "Reina, want me to pick that up for you?"
+  },
+  {
+    "line": 642,
+    "text": "Eh?"
+  },
+  {
+    "line": 643,
+    "text": "But there's still plenty of cleanup to do here..."
+  },
+  {
+    "line": 644,
+    "text": "You seem like you could use some help right now."
+  },
+  {
+    "line": 645,
+    "text": "I'm asking you... please!"
+  },
+  {
+    "line": 648,
+    "text": "Reina, please, let me help you."
+  },
+  {
+    "line": 649,
+    "text": "Okay, I understand."
+  },
+  {
+    "line": 651,
+    "text": "{var:player_nickname}..."
+  },
+  {
+    "line": 652,
+    "text": "You want to be... someone I can lean on?"
+  },
+  {
+    "line": 653,
+    "text": "Yeah. Wait here, I'll be right back."
+  },
+  {
+    "line": 654,
+    "text": "(Fetch the towel and rinse it clean with warm water)"
+  },
+  {
+    "line": 656,
+    "text": "...!"
+  },
+  {
+    "line": 658,
+    "text": "Especially for me – getting to fight side by side with you is a true honor, Miss Commander."
+  },
+  {
+    "line": 659,
+    "text": "..."
+  },
+  {
+    "line": 663,
+    "text": "Got it. Leave it to me."
+  },
+  {
+    "line": 664,
+    "text": "After a close look at the wheelchair..."
+  },
+  {
+    "line": 666,
+    "text": "Mm-hmm."
+  },
+  {
+    "line": 667,
+    "text": "Opening my arms, I gently lift her up out of the chair, being as careful as I can."
+  },
+  {
+    "line": 672,
+    "text": "I place everything she asks for right where she can reach it."
+  },
+  {
+    "line": 674,
+    "text": "Okay..."
+  },
+  {
+    "line": 675,
+    "text": "{var:player_nickname}... I'm done changing."
+  },
+  {
+    "line": 676,
+    "text": "After a while"
+  },
+  {
+    "line": 679,
+    "text": "Need some help, Reina?"
+  },
+  {
+    "line": 680,
+    "text": "If you wouldn't mind..."
+  },
+  {
+    "line": 682,
+    "text": "Mm..."
+  },
+  {
+    "line": 683,
+    "text": "The moment I touch her, I feel her foot instinctively curl away, just slightly."
+  },
+  {
+    "line": 684,
+    "text": "Reina... your feet?"
+  },
+  {
+    "line": 688,
+    "text": "It's okay. Everything's going to be fine."
+  },
+  {
+    "line": 689,
+    "text": "The Reina I know has never been anything less than amazing."
+  },
+  {
+    "line": 690,
+    "text": "Do you really mean that, {var:player_nickname}?"
+  },
+  {
+    "line": 691,
+    "text": "Always."
+  },
+  {
+    "line": 693,
+    "text": "What do you mean?"
+  },
+  {
+    "line": 694,
+    "text": "That magic coffee from Miss Leia... I had some too."
+  },
+  {
+    "line": 695,
+    "text": "I was just hoping... I might be able to see my mom and dad again."
+  },
+  {
+    "line": 697,
+    "text": "I don't understand... Am I the only one who couldn't see anything?"
+  },
+  {
+    "line": 698,
+    "text": "Oh, Reina..."
+  },
+  {
+    "line": 699,
+    "text": "But when I think about it... maybe this was for the best."
+  },
+  {
+    "line": 701,
+    "text": "But even if you had, Reina, you'd still have me."
+  },
+  {
+    "line": 703,
+    "text": "Listen to me, Reina. In my eyes, you are never a burden. Not now, not ever."
+  },
+  {
+    "line": 705,
+    "text": "You always try to take care of everything and do it all perfectly, and that's truly remarkable."
+  },
+  {
+    "line": 708,
+    "text": "{var:player_nickname}..."
+  },
+  {
+    "line": 709,
+    "text": "You are far too kind."
+  },
+  {
+    "line": 710,
+    "text": "The more time I spend with you, the more I see it."
+  },
+  {
+    "line": 713,
+    "text": "The way any ordinary girl would be?"
+  },
+  {
+    "line": 714,
+    "text": "You can always count on me, Reina."
+  },
+  {
+    "line": 715,
+    "text": "!!"
+  },
+  {
+    "line": 716,
+    "text": "(Reach out and place your hand gently over hers.)"
+  },
+  {
+    "line": 717,
+    "text": "Huh?"
+  },
+  {
+    "line": 718,
+    "text": "Her first instinct is to pull away, but I hold her hand with the softest grip."
+  },
+  {
+    "line": 720,
+    "text": "I can feel her tension melting away, little by little."
+  },
+  {
+    "line": 721,
+    "text": "Okay. I understand."
+  },
+  {
+    "line": 723,
+    "text": "And I can feel it. Her heart is finally opening up to me, just a little."
+  },
+  {
+    "line": 724,
+    "text": "Well then, Reina, shall we head back out?"
+  },
+  {
+    "line": 725,
+    "text": "Mm-hmm."
+  },
+  {
+    "line": 726,
+    "text": "Later that night"
+  },
+  {
+    "line": 727,
+    "text": "..."
+  },
+  {
+    "line": 728,
+    "text": "Hmm...?"
+  },
+  {
+    "line": 729,
+    "text": "???"
+  },
+  {
+    "line": 730,
+    "text": "Reina, what flavor would you like your coffee to be today?"
+  },
+  {
+    "line": 732,
+    "text": "What...?!"
+  },
+  {
+    "line": 739,
+    "text": "New... memories?"
+  },
+  {
+    "line": 740,
+    "text": "..."
+  },
+  {
+    "line": 743,
+    "text": "?!"
+  },
+  {
+    "line": 746,
+    "text": "I turn around to give her some space."
+  },
+  {
+    "line": 754,
+    "text": "Everything is back to exactly how it was before."
+  },
+  {
+    "line": 758,
+    "text": "But still..."
+  },
+  {
+    "line": 760,
+    "text": "I wonder when I'll ever find the answer to that question."
+  },
+  {
+    "line": 765,
+    "text": "Egg tart? That's the chandelier!"
+  },
+  {
+    "line": 768,
+    "text": "Nyaa! It goes down so smooth! This hits the spot almost as much as that premium fatty tuna Master treated me to! Reina, pour me another, nyaa!"
+  },
+  {
+    "line": 769,
+    "text": "Mmm... it's so warm and cozy!//nIt takes me right back to that one summer when I was little... the first time I finally got the morning glories in our yard to climb the trellis!"
+  },
+  {
+    "line": 771,
+    "text": "I push open the door to Éternité to find everyone gathered in a cozy circle. They are cradling coffee cups in their hands, every face glowing with warm, genuine smiles."
+  },
+  {
+    "line": 774,
+    "text": "Umm, you could say that!//nThis – is \"Memoria Latte,\" made from those magical coffee beans Miss Leia dropped off the other day."
+  },
+  {
+    "line": 775,
+    "text": "Wow, Miss Leia! You brought that whole bag just for our manager?!"
+  },
+  {
+    "line": 776,
+    "text": "Mm-hmm. Éternité is a place that brings joy to people. I always find such peace here. Reina's a gifted girl, and I wanted to give her happiness a magical touch."
+  },
+  {
+    "line": 777,
+    "text": "Yes. These beans have been blessed with a special magic that stirs up your happiest memories."
+  },
+  {
+    "line": 778,
+    "text": "Ooh, got it! I'll let Reina know. Thank you, Miss Leia!"
+  },
+  {
+    "line": 779,
+    "text": "And that's the story. Miss Leia is unbelievably thoughtful."
+  },
+  {
+    "line": 781,
+    "text": "Pfft-hahaha! Fuyumi totally dozed off, nyaa! I've never seen anyone pass out from coffee before, nyaa!"
+  },
+  {
+    "line": 782,
+    "text": "Wait, actually..."
+  },
+  {
+    "line": 783,
+    "text": "Ugh, me too... Like I sprinted through every sports club on campus in a single afternoon... Hahaha! I'm totally wiped out, but the good kind of wiped out..."
+  },
+  {
+    "line": 784,
+    "text": "This magic coffee packs a serious punch, hahaha..."
+  },
+  {
+    "line": 785,
+    "text": "Everyone's acting weird. Did I... brew it wrong?"
+  },
+  {
+    "line": 786,
+    "text": "Hinata, did Miss Leia mention anything else when she dropped off the beans? Any special notes?"
+  },
+  {
+    "line": 788,
+    "text": "Oh! Maybe it was... \"Stir before enjoying\"?"
+  },
+  {
+    "line": 789,
+    "text": "Oh? Reina, did I ever tell you I write little notes for all my plants?"
+  },
+  {
+    "line": 790,
+    "text": "Looks like the magic's gotten to Hinata as well."
+  },
+  {
+    "line": 792,
+    "text": "Adorably unpredictable behavior?"
+  },
+  {
+    "line": 793,
+    "text": "Nyaa-hahaha! Never better! I'm pretty sure I could eat a hundred egg tarts in one sitting right now, nyaa!"
+  },
+  {
+    "line": 794,
+    "text": "Nyaa-nyaa-nyaa! Look, there's a huge wild egg tart growing right out of the ceiling up there!"
+  },
+  {
+    "line": 796,
+    "text": "I-Ichihime, wait! That \"egg tart\"... it's still runny inside!"
+  },
+  {
+    "line": 797,
+    "text": "Nyaa? Really?"
+  },
+  {
+    "line": 798,
+    "text": "Y-yes."
+  },
+  {
+    "line": 799,
+    "text": "Ahem... I've always heard that a true gourmet waits until a dish is at its absolute peak – fresh from the oven."
+  },
+  {
+    "line": 802,
+    "text": "Oh no, please... this is so embarrassing! I had no idea it'd turn out like this..."
+  },
+  {
+    "line": 803,
+    "text": "It's okay, Reina! And {var:player_nickname}, everything's fine...!"
+  },
+  {
+    "line": 804,
+    "text": "Heave-ho... heave-ho... Employee of the Month Hinata Takanashi, at your service!"
+  },
+  {
+    "line": 806,
+    "text": "This poor water lily is in terrible shape. Her leaves are drooping something awful! I need to get her outside for some proper hydration and sunlight."
+  },
+  {
+    "line": 807,
+    "text": "Oh, I should mention – I'm actually an expert at taking care of plants!"
+  },
+  {
+    "line": 808,
+    "text": "Hinata, look! Your new sunflower is wilting! I think it's feeling left out!"
+  },
+  {
+    "line": 809,
+    "text": "Wait, really?! I didn't mean to ignore it... How do I make it better?!"
+  },
+  {
+    "line": 810,
+    "text": "Umm, Hinata, how about you leave this \"Miss Water Lily\" to {var:player_nickname} and me? We'll take good care of her."
+  },
+  {
+    "line": 811,
+    "text": "Oh wow, thank you both so much! That's a huge help! I'm off to check on my sunflower. See ya!"
+  },
+  {
+    "line": 812,
+    "text": "Finally, things are back under control. Reina, you were like a commander out there!"
+  },
+  {
+    "line": 813,
+    "text": "Just as I steady Fuyumi to guide her back to her seat, Nana suddenly springs to her feet –"
+  },
+  {
+    "line": 814,
+    "text": "Everyone's completely off their game! I need to get them pumped up again!"
+  },
+  {
+    "line": 815,
+    "text": "First up, we take out whatever's making everyone woozy!!"
+  },
+  {
+    "line": 816,
+    "text": "Nana, you can barely walk straight. Just leave the unfinished coffee to me."
+  },
+  {
+    "line": 817,
+    "text": "I'm fine, really! I'm walking totally straight... See?"
+  },
+  {
+    "line": 818,
+    "text": "The moment Nana loses her balance, Reina spins her wheelchair around and reaches out to catch her."
+  },
+  {
+    "line": 819,
+    "text": "Oh gosh, I-I'm so sorry, Reina...!"
+  },
+  {
+    "line": 820,
+    "text": "Nana is unhurt, but the coffee pot in her hand goes down with her, splashing every last drop across Reina's skirt."
+  },
+  {
+    "line": 821,
+    "text": "Hmm... I got in touch with Miss Leia just now. She's gone out of town for the day, but she assured me everyone will recover fully after a good hour or two of sleep. She'll come by later to check on us... Thank goodness."
+  },
+  {
+    "line": 823,
+    "text": "Oh, I just did what I could... But having you by my side really helped me stay calm, {var:player_nickname}. Thank you for being here..."
+  },
+  {
+    "line": 824,
+    "text": "Her voice trails off as she looks down at the dark stain on her skirt. She tries to hide it, only to realize her hands are stained with coffee as well."
+  },
+  {
+    "line": 825,
+    "text": "A moment ago the calm \"commander\" seemed so in control, but now there's a sudden hint of panic in her smile."
+  },
+  {
+    "line": 826,
+    "text": "S-sorry you had to see that..."
+  },
+  {
+    "line": 827,
+    "text": "That must have happened when you caught Nana. Want me to go get some wet wipes for you?"
+  },
+  {
+    "line": 828,
+    "text": "No, it's okay. It's just a little coffee stain. I can take care of it myself."
+  },
+  {
+    "line": 829,
+    "text": "Really, {var:player_nickname}, just go sit over there and relax!"
+  },
+  {
+    "line": 830,
+    "text": "She's still smiling, but there's a strange stiffness in the way she moves her wheelchair. The chair creaks oddly, like it's taking way more effort to move than usual."
+  },
+  {
+    "line": 831,
+    "text": "She struggles to steer her wheelchair over to the sink behind the counter, turns her back to me, and fumbles to get the water running."
+  },
+  {
+    "line": 832,
+    "text": "She accidentally turns the faucet on full blast, and a sudden burst of water splashes right onto her."
+  },
+  {
+    "line": 833,
+    "text": "Umm... please ignore that. Just a quick wipe and I'm fine..."
+  },
+  {
+    "line": 834,
+    "text": "Reina quickly shuts it off, but as she reaches for a hand towel on the shelf, she ends up knocking it right off the edge."
+  },
+  {
+    "line": 835,
+    "text": "She edges her wheelchair closer to the gap, bending forward and stretching her arm out, desperately trying to reach the towel.//nBut the chair gets in the way. No matter how much she twists, leans, and stretches, the towel remains just beyond her fingertips."
+  },
+  {
+    "line": 836,
+    "text": "N-no, I can do it... just give me a minute."
+  },
+  {
+    "line": 837,
+    "text": "Umm... actually, {var:player_nickname}... you've already helped me more than enough today. Would it be okay if you... just leave for now?"
+  },
+  {
+    "line": 838,
+    "text": "She cuts me off before I can finish, her head sinking low."
+  },
+  {
+    "line": 839,
+    "text": "Reina, usually so calm and warm, looks completely flustered."
+  },
+  {
+    "line": 840,
+    "text": "You always step up to take care of everyone else. But even a commander needs someone to lean on sometimes. Let me take some of the pressure off, Reina."
+  },
+  {
+    "line": 841,
+    "text": "(Gently place the warm towel into her hands)"
+  },
+  {
+    "line": 842,
+    "text": "This whole coffee accident was a close call, but looking back, it was actually pretty fun."
+  },
+  {
+    "line": 843,
+    "text": "Oh, {var:player_nickname}... you always have a way with words, but... thank you."
+  },
+  {
+    "line": 844,
+    "text": "She eventually surrendered, admitting the truth in a voice so soft I could barely hear it."
+  },
+  {
+    "line": 845,
+    "text": "Actually... the bearings on my wheelchair seem to have gotten jammed when I caught Nana. I don't think... I can deal with that on my own."
+  },
+  {
+    "line": 846,
+    "text": "I see the problem. This shouldn't be too hard to fix, but I'll need you out of the wheelchair to work on it, Reina. Can you manage that?"
+  },
+  {
+    "line": 847,
+    "text": "She feels impossibly light in my arms, her body stiff and tense with nerves, like a startled little kitten."
+  },
+  {
+    "line": 848,
+    "text": "Following her lead, I lay her down on the cot in the break room, where she keeps some daily necessities for emergencies."
+  },
+  {
+    "line": 849,
+    "text": "Spare clothes, towels, a basin of warm water... anything else you need?"
+  },
+  {
+    "line": 850,
+    "text": "These will do for now... Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 851,
+    "text": "Okay, I'll go fix the wheelchair now. Take all the time you need, and let me know when you're done."
+  },
+  {
+    "line": 852,
+    "text": "I step inside to find her in fresh clothes, sitting on the edge of the cot. She's awkwardly trying to slide her feet into her shoes, but her legs don't seem to have the strength for it."
+  },
+  {
+    "line": 853,
+    "text": "Every time I saw Reina at Éternité, she was always beaming, greeting me with an upbeat \"Welcome!\" Her smile was so bright that it was easy to forget – the confident manager who had everything under control was managing it all from her chair."
+  },
+  {
+    "line": 854,
+    "text": "Yes. I can still feel them. I can even wiggle them a tiny bit."
+  },
+  {
+    "line": 855,
+    "text": "But no matter how hard I try, I can't make them carry my weight..."
+  },
+  {
+    "line": 856,
+    "text": "I hate that you have to see me like this, {var:player_nickname}... It's awful."
+  },
+  {
+    "line": 857,
+    "text": "But... I didn't actually see a thing."
+  },
+  {
+    "line": 858,
+    "text": "But nothing came – no warmth, no joy, no happy memories... I saw nothing at all."
+  },
+  {
+    "line": 859,
+    "text": "If I'd gotten woozy along with everyone else, it would have been a complete disaster, right? Haha."
+  },
+  {
+    "line": 860,
+    "text": "Oh... no, I-I couldn't let that happen. With my condition, I can't imagine how much of a burden I would be to you..."
+  },
+  {
+    "line": 861,
+    "text": "Eh...?"
+  },
+  {
+    "line": 862,
+    "text": "But if you ever get tired, or if you just want to let your guard down for once, I'll always be there by your side."
+  },
+  {
+    "line": 863,
+    "text": "I'm not just here for the capable manager. I'm here for the real Reina, too. The one who gets tired, the one who needs someone to lean on."
+  },
+  {
+    "line": 864,
+    "text": "Everyone says I'm the kind one, but the truth is... it's you, {var:player_nickname}."
+  },
+  {
+    "line": 865,
+    "text": "So... is it okay if I get used to... you taking care of me like this, {var:player_nickname}?"
+  },
+  {
+    "line": 866,
+    "text": "As our hands meet, a quiet warmth flows between us – slow, steady, unwavering."
+  },
+  {
+    "line": 867,
+    "text": "At last, her familiar, gentle smile returns. But this time, there's a newfound warmth beneath it."
+  },
+  {
+    "line": 870,
+    "text": "I can finally see you again! The magic coffee really works!"
+  },
+  {
+    "line": 871,
+    "text": "Silly girl... we never left. And we're so glad you have someone so kind by your side."
+  },
+  {
+    "line": 872,
+    "text": "Yes, Reina. Now it's time for you to go out and make some new, happy memories of your own."
+  },
+  {
+    "line": 873,
+    "text": "No... please, don't... Mom, Dad – stay! Don't leave me again! I don't care if it's just a dream!"
+  },
+  {
+    "line": 874,
+    "text": "Reina... please, help me."
+  },
+  {
+    "line": 876,
+    "text": "Oh, um – hold on a second. {var:player_nickname}, could you turn around for a bit? I-I just need to fix myself up."
+  },
+  {
+    "line": 877,
+    "text": "Behind me, I hear soft rustling, water splashing in the sink, and the sound of her breathing – hurried and uneven, as if she's trying to hide it."
+  },
+  {
+    "line": 878,
+    "text": "Reina, are you sure you don't need any help?"
+  },
+  {
+    "line": 879,
+    "text": "No, it's alright. Everything's fine now."
+  },
+  {
+    "line": 880,
+    "text": "She's tied a clean apron around her waist, perfectly hiding the stains on her skirt as if nothing happened. And on her face is that same flawless, gentle smile."
+  },
+  {
+    "line": 881,
+    "text": "Sorry for keeping you so long. Please, accept this... just a little something from me."
+  },
+  {
+    "line": 882,
+    "text": "Oh, Reina's handmade cookies? Thanks."
+  },
+  {
+    "line": 883,
+    "text": "She's back to being the perfectly capable manager, and I'm just a regular customer on the receiving end of her thanks."
+  },
+  {
+    "line": 884,
+    "text": "Take care on your way home, and please come back soon!"
+  },
+  {
+    "line": 885,
+    "text": "Well, maybe it was just easier for her to pretend today's little accident never happened?"
+  },
+  {
+    "line": 886,
+    "text": "Why wasn't Reina affected by the Memoria Latte?"
+  },
+  {
+    "line": 889,
+    "text": "Hmm...?"
+  },
+  {
+    "line": 890,
+    "text": "Thanks, Hinata, I appreciate the spirit, but... where are you hauling Fuyumi off to? She's sound asleep, you know."
+  },
+  {
+    "line": 891,
+    "text": "I'm sure you are... but please put her down first!"
+  },
+  {
+    "line": 892,
+    "text": "You did amazing, Reina. Managing this whole mess on your own... that's just incredible!"
+  },
+  {
+    "line": 893,
+    "text": "(Gently cup her ankle)"
+  },
+  {
+    "line": 894,
+    "text": "Reina's Dad"
+  },
+  {
+    "line": 895,
+    "text": "Reina's Mom"
+  },
+  {
+    "line": 896,
+    "text": "Just waiting here like this... is that really okay?"
+  },
+  {
+    "line": 897,
+    "text": "This is amazing! It feels like I'm right back at the breakfast table with Mom, Dad, and my brother. I can even taste Mom's freshly baked bread, warm from the oven!"
+  },
+  {
+    "line": 898,
+    "text": "Ohhh yeah! This brings it all back!//nLast year's volleyball finals against the class next door, I nailed the match point, and the whole team lifted me up cheering! I can see it like it was yesterday!"
+  },
+  {
+    "line": 901,
+    "text": "Oh, {var:player_nickname}, please try some too! Everyone's been loving it, so I made sure to save you a cup. Here, let me just go get it..."
+  },
+  {
+    "line": 902,
+    "text": "Hmm... special notes? Oh! There was a small card tucked inside that says... \"Thank you for that blend! My ninja energy is fully restored.\" Wait... no, that's the note Ransei left us the other time..."
+  },
+  {
+    "line": 903,
+    "text": "\"...These beans are infused with potent magic. Please drink responsibly, or you may temporarily enter a dream-like state that leads to... adorably unpredictable behavior...\""
+  },
+  {
+    "line": 904,
+    "text": "Master! You're up, nyaa! Gimme that shoulder and watch me pull off my Ichihime Cannonball...!"
+  },
+  {
+    "line": 905,
+    "text": "Won't you try these instead? My freshly baked seaweed cookies. They're at their absolute perfection right now!"
+  },
+  {
+    "line": 906,
+    "text": "Nyaa! That's our Reina, always knows best! All right, I'm digging in, nyaa!"
+  },
+  {
+    "line": 907,
+    "text": "Reina, come try my seaweed cookies fresh from the oven!"
+  },
+  {
+    "line": 908,
+    "text": "Dad...? Mom...?!"
+  },
+  {
+    "line": 909,
+    "text": "Who... who's there?"
+  }
+]

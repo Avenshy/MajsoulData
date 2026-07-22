@@ -1,0 +1,274 @@
+27:player
+
+589:Reina Nanami
+592:???
+604:Leia
+608:Thank you, Miss Leia.
+612:Hehe... But that's exactly what makes you so good at what you do, Reina.
+628:(A monster locked up in her heart...)
+634:Reina? You're awake.
+643:Mai Aihara
+678:W.I.N
+685:D-did I just...
+695:{var:player_nickname}...
+703:(Take this moment to dig deeper into her "monster")
+712:"The monster doesn't have a face."
+713:"The monster was crying out for help."
+725:Murphy
+746:player
+873:The One in My Dreams
+874:"H-help... help me..."
+875:"Somebody... please!"
+876:The voice... it sounds like someone's crying... I-I turn around, and I see...
+877:What did you see?
+878:This monster... It doesn't have a face, and its body's all bent and tangled up...
+879:{var:player_nickname}... I... I-I'm so scared!
+881:It's okay. That was just a bad dream.
+883:Reina, I'm right here with you.
+884:Whew...
+885:I've noticed Reina hasn't been quite herself lately.
+886:It took some gentle pushing before she finally admitted it. She's been having the same haunting dream, night after night.
+887:I wasn't going to let it go, so she finally agreed to come with me to Leia's herb shop.
+888:There now, Reina. Promise me you'll find me earlier next time, hmm? Don't let things sit for so long.
+889:Datura
+890:Leia set two cups right in front of us. The tea gave off this curious scent.
+891:Drink up, now. This blend is meant to soothe your nerves. You've been wound too tight, dear. Just let yourself rest.
+892:Hmm... Miss Leia, this flavor is really... something special...
+893:You know, if you cold-brewed this and added just a little citrus syrup... it might actually make a really lovely summer special!
+894:Ah! I did it again, didn't I? I just... kind of slip into thinking about the menu. Sorry...
+895:Mm. Thank you...
+896:The calming tea works fast. Curled up on the sofa, Reina's breath grows slow as she sinks into a light sleep.
+897:(whispers) Leia, so what's really going on with her?
+898:Hmm... she's been weighed down by an awfully heavy heart.
+899:Let me guess. That Memoria Latte didn't work on her at first, did it?
+900:Yeah, but she did tell me that she finally dreamed of the happy memories she wanted to see that night.
+901:But not long after, that "monster" started creeping into her dreams too.
+902:Just as I suspected. I understand what's happening now.
+903:You see, Reina's heart is like a house with every door and window bolted shut. Ordinary magic simply cannot find its way in. But you, somehow, got her to open a window just a crack. That's what let the magic sneak through...
+904:And the same goes for that sudden nightmare. Something she's kept locked up tight felt that crack, and now it's rattling its cage.
+905:You mean... that "monster"?
+906:So that's what's been weighing her down?
+907:I believe so. But I can't tell for sure if it's a lingering ghost, or childhood trauma, or perhaps something else entirely... What I can do is help stabilize her mind so she has the strength to face it when the time comes.
+908:{var:player_nickname}, you're the reason she could see those happy memories. And you're the only one who can help her escape this nightmare.
+909:I see. Thank you, Leia.
+910:(So it all comes back to that car accident, doesn't it?)
+912:(I need to find out more about what happened.)
+913:Then, I dig up everything I can find about the accident on my phone. Unfortunately, nothing particularly unusual turns up for now.
+914:Mm...
+915:Oh no... you've caught me in a mess again, {var:player_nickname}.
+916:Don't be silly, you look fine. In fact, you're looking a lot better. Ready to head to the next place?
+917:Eh? Where are we going?
+918:Leia said the herbal tea can only settle your nerves for a while. Her magic alone isn't enough to rid you of the nightmare for good.
+919:But I want you to sleep peacefully every single night, Reina. I don't know how yet, but I'll figure it out. Will you trust me?
+920:...
+921:Okay. I trust you, {var:player_nickname}.
+922:And so, we set out for our next stop in search of a true cure.
+923:Rest assured. I've checked thoroughly, and there are no ghosts or curses present. But... I can feel it – a sorrow so deep, lingering around her heart... The nightmare probably comes from there.
+924:the Temple of Moons
+925:Sorrow...? If we can help her let go of some of it, she might feel better.
+926:Thanks, Mai. I've got an idea.
+927:I bring Reina to the magnificent ancient tree standing within the Temple of Moons. A soft wind rustles through its branches, and countless prayer slips of every color flutter and sway, like a thousand flowers blooming all at once.
+928:Wow, it's beautiful... I've heard the regulars at Éternité talk about this. The place at the Temple of Moons where people leave their hopes and dreams. It's... really nice.
+929:Would you like to give it a try, Reina? They say if you hang a prayer slip on this wishing tree with your own hands, the gods above will surely notice.
+930:Really? Me?
+931:She looks at the paper and pen I hold out, and for just a heartbeat, her eyes light up. Then the light fades, and she looks away.
+932:No, it's okay. The tree's far too tall for me... I could never hang it up on my own. Honestly... just being here and seeing it with you is already more than I could ask for.
+933:But you're not on your own, are you?
+934:If I pick you up, I'm sure we can reach it.
+935:Eh?! No, no, that's... too much to ask of you.
+936:Reina, remember what we talked about? I want to be someone you can lean on.
+937:And you don't have to ask for it.
+938:Besides... I have a feeling the gods built this tree so tall that they could witness moments just like this – people supporting one another, reaching up together.
+939:Reina Nanami looks at me for a long moment, hesitating. Then, at last, she nods, as if she has finally made up her mind.
+940:Okay then... I'll be leaning on you, {var:player_nickname}.
+941:She takes the pen and begins to write, taking her time with each word.
+942:Gods above, please hear me. I wish for everyone to be safe, always, and for happiness to find all of them.
+943:Okay. I did it. It's up there now!
+944:It feels like... a little bit of weight just lifted away from my chest.
+945:Hmm... The sorrow weighing on Reina's heart has definitely eased a bit!
+946:You might want to try to find more ways to keep her spirits up. Then she'll get all better in no time.
+947:If happy memories can drive out the nightmares... I know exactly where to take her.
+948:Ehh?! A W.I.N concert?! W-we're actually going to their live show?!
+949:But it's going to be so crowded... My wheelchair will just get in the way and ruin it for others.
+950:Don't worry about that. The venue is equipped with accessible ramps and a huge reserved platform. You won't be in anyone's way, I promise.
+951:And when Kana heard you were coming, she personally saved us the best seats in the house. All we have to do is show up.
+952:(Give Reina a reassuring look)
+953:Um, okay...
+954:I'll stop worrying from now on.
+955:S-so... actually... I really do want to go! With you!
+956:Good. Then let's head inside!
+957:Three... two... one.
+958:Gooood evening, everyone! We're W.I.N! Are you ready for an unforgettable night?!
+959:Whoa!
+960:The music roars through us like thunder. Blinding lights shatter the darkness, and thousands of light sticks dance in sync – a kind of magic you can never feel through a screen.
+961:The light pouring from that stage swallows Reina whole. She has never, ever let herself be part of a crowd this wild and passionate since her accident. But tonight, she does.
+962:Right now, she has forgotten the crowd around her, and the wheelchair she sits in. All that remains is the stage, the music, and the wonder on her face.
+963:The first song wraps up. She blinks, staring at her raised hand – she's been waving it to the beat right along with the crowd without even realizing it.
+964:That was perfect, Reina. This is what a live show is all about. Just let go and enjoy every moment.
+965:You deserve to enjoy a night of pure, simple joy just like anyone else, Reina.
+966:Okay!
+967:Oh, {var:player_nickname}, look at the stage! The next song's coming up!
+968:And just like that, she finally let go and let the music take her.
+969:Wow! Kana is completely different from how she is at the café! She's literally glowing!
+970:Now I get why Hinata is such a huge fan of hers... I guess that makes two of us!
+971:I slowly push Reina's wheelchair along the riverside path. She has this rare, peaceful look on her face.
+972:Your happiness is all that matters.
+973:I just realized... it's been forever since I spent a whole day out like this.//nMost days, I just stick close to Éternité to catch a little sun...
+974:Honestly... it didn't really feel like we were looking for a way to stop the nightmares...//nMore like you were just... taking me out, {var:player_nickname}.
+975:I felt so bad at first, thinking I was asking too much of you... but before I knew it, I was completely caught up in the fun.
+976:I'm really happy!
+977:Reina tries her hardest to smile, but for a split second, her expression freezes.
+978:Anyway... don't worry about it. Getting to be with {var:player_nickname} the whole day is already enough for me.//nYou've done so much today... Let's head back now, okay?
+979:(Just let her enjoy this and call it a day)
+980:Not quite yet.
+981:Eh?
+982:I know you're smiling, but deep down, you're still scared that nightmare is going to come back tonight, aren't you?
+983:Umm... nothing ever gets past you, does it?
+984:Now that we know the monster in your nightmares isn't some ghost or curse, there's nothing left to be afraid of.
+985:I know how hard this is, but could you tell me about the monster one more time? Let's drag it out into the light together.
+986:Okay... What else do you want to know, {var:player_nickname}?
+987:I remember you said...
+988:Yeah... I was shaking so hard I couldn't make out its face. It was like... you know when latte art gets ruined, and the coffee and milk bleed together into this murky swirl of brown and white? It looked just like that.
+989:Yeah... I always hear it crying out first, and then... it suddenly appears right in front of me. I started shaking so hard I couldn't make out its face.
+990:It was like...//nYou know when latte art gets ruined, and the coffee and milk bleed together into this murky swirl of brown and white?//nIt looked just like that.
+991:Brown and white?
+992:As she says that, a certain face flashes in my mind – a friend with a unique gift for translating raw emotions and intuition into striking colors.
+993:Reina, let's go see one more friend, okay? She's an artist with a pretty special talent. Maybe she can help us fix this latte, and show us what the foam art was supposed to look like.
+994:{var:player_nickname}... you mean... draw the nightmare out?
+995:D-drawing something so terrifying... is that really a good idea?
+996:Reina, I know there's more to your dreams than just fear and darkness.
+997:...
+998:Okay. I trust you, {var:player_nickname}. Let's do this.
+999:Oh... you're not here about a deadline. I love people who lead with that. Come on in.
+1000:We step into the creatively cluttered studio where Murphy, the manga artist, does her work.
+1001:Reina stumbles through the details of her nightmare, piece by piece. When she finishes...
+1002:Hmm. A faceless "monster" in your dreams, huh? Don't tell me you've been blessed by the Ancient Gods of Inspiration too? Though I doubt it's the same thing...
+1003:But with the way you've described it, drawing it out is a piece of cake for a pro manga artist like me.
+1004:Hmm... so the form it takes... from what you've described... goes here... and here... like that...
+1005:Whoa. Didn't expect it to look quite like that.
+1006:Wait. Already? What does it look like?
+1007:I've already got the line art mapped out in my head. But... before I add the color, there's something I want to ask.
+1008:{var:player_nickname}, in your eyes... what kind of person is Reina?
+1009:Someone gentle, yet incredibly strong.
+1010:Someone who always brings warmth to everyone around her.
+1011:Reina... she's like the winter sun. She's so gentle, but she's the strongest person I've ever known.
+1012:I-I'm not that great!
+1013:Reina tugs at the edge of my sleeve.
+1014:Mm. That's it then.
+1015:Now I get it.
+1016:...
+1017:Murphy gets to work, effortlessly weaving the colors together. Warped shapes, broken lines... little by little, the chaotic fragments from Reina's description begin to take form, pieced back together by Murphy's instinct.
+1018:There. Done.
+1019:This is...
+1020:This isn't a monster at all. It's... a flower spirit trying to break free?
+1021:She is flawless, breathtaking, her wings shimmering with traces of magic. And her face...
+1022:She looks just like...
+1023:Reina?
+1024:EHH?!
+1025:Yeah. What you've been dreaming of was never a monster. It was her. Or rather... yourself.
+1026:You saw a monster because of the way you've been looking at yourself. The fear came from inside you.
+1027:Keeping who you really are locked up inside... you can manage that when you're awake. But once you fall asleep, you can't hold the door shut anymore.
+1028:Hmm... crying out for help, but only deep inside your own heart... Reina, you're way too hard on yourself.
+1029:N-no... that's not...
+1030:Every trace of color drains from Reina's face in an instant, as if her very soul has been ripped away.
+1031:That's not me. It can't be.
+1032:I'm nothing like that!
+1033:She wrenches her wheelchair around and bursts through the door.
+1034:Huff... huff...
+1035:Reina, calm down! Ack!
+1036:She's so panicked that she pushes her wheelchair forward without looking. I step in front of her to stop her, and she runs right into me.
+1037:Ah... I'm so sorry! {var:player_nickname}, I... I didn't mean to...
+1038:She buries her face in her hands, her shoulders shaking violently.
+1039:I'm fine, Reina.
+1040:I'm just worried about you. Why does it shake you so badly to know that it was yourself in that dream?
+1041:...
+1042:Because...
+1043:Because... I don't deserve wings like those at all...
+1044:I... I was never meant to fly again!
+1045:What do you mean?
+1046:My life should've ended that day... in that accident, with Mom and Dad.
+1047:Of all people... why me? Why did I get to live?
+1048:Reina... that accident wasn't your fault.
+1049:...
+1050:Yes it was.
+1051:You know nothing, {var:player_nickname}...
+1052:If I hadn't asked to go out for my birthday... If I weren't so powerless, they'd still be...!
+1053:I was right there with them.
+1054:But my legs wouldn't move at all... I could only watch as the fire took them...
+1055:I couldn't save them...
+1056:There was nothing I could do... nothing!!
+1057:Fire?
+1058:(Wait, that doesn't add up.)
+1059:(According to the news articles from back then...)
+1060:Sigh... I guess the one small mercy was that the car never caught fire. Otherwise, even Reina in the back seat might not have made it until help arrived...
+1061:(Wait, does this mean...?!)
+1062:Reina. You just said... you saw fire, didn't you?
+1063:The flames were everywhere...
+1064:Mom and Dad... they must've been in so much pain...
+1065:I can't... I'll never, ever forgive myself for this!
+1066:...That's why you've never been able to talk to anyone about the accident. Not your doctors, not your family... not even your closest friends.
+1067:I draw a deep breath. This might be it – the one chance to defeat the monster in her heart.
+1068:Reina. Look at me. I need you to listen to every word I'm about to say.
+1070:Before I say anything else... please forgive me.
+1071:Today, while you were resting at Leia's, I was desperately trying to find a way to stop your nightmares. So... I looked up the accident.
+1072:What?
+1073:I only searched through old news articles. I was just hoping to find a clue about your "monster"... but that's when I found this. It's an official report from the city.
+1074:!!!
+1075:I know how painful this must be. You've been running from everything about that day for so long... But please. Let's look at it together. Just this once.
+1076:Right here, the article says: "Though the vehicle suffered severe damage, it did not catch fire or explode, allowing emergency crews precious time to arrive."
+1077:And Reina...
+1078:It says you were pulled out of the car by bystanders right after the crash.
+1079:Which means, at the moment of the accident... you were already unconscious from the impact.
+1080:So... the fire. Watching your parents in the flames while you couldn't move... Reina, it never happened.
+1081:!!!
+1082:H-how... How is that possible...
+1083:But I was definitely... I know I was!
+1084:I was right beside them... I was there, and I saw...
+1085:What did you see?
+1086:I... I don't know... I only remember my legs couldn't move... and then... and then everything just... went blank...
+1087:Something shifts in Reina's eyes. Her anguish and stubbornness slowly give way to a wavering confusion.//nIt's as if, for the very first time, she's actually looking at the memory that's tormented her for so long.
+1088:And that confirms everything for me.
+1089:Reina... do you know what a "false memory" is?
+1090:When someone goes through something deeply traumatic and is left with that desperate feeling that they should've done something... sometimes the mind creates memories that were never real. It makes them up to answer that need.
+1091:You were drowning in grief after losing your parents, and you couldn't stop blaming yourself for being helpless. So your mind invented a fire... to give you a reason to punish yourself.
+1092:It twisted the truth. Reina, all this really proves is how much you loved your mom and dad. And how desperately you wished you could have saved them.
+1093:...
+1094:She's too stunned to speak, staring at me like her whole world has just been turned upside down. I try with everything I have – my eyes, the warmth of my hands – to pour some courage into her.
+1095:For a long, long time, Reina just sits there. Then, slowly, her gaze drifts down to the news report still glowing on my phone.
+1096:So it was... all in my head?
+1097:As her eyes trace line after line of the article, tears begin to fall, heavy drops splashing onto her lap one after another.
+1098:(Kneel beside her and hold her close as she trembles)
+1099:It was never your fault, Reina. You wanted so desperately to undo that accident that your own heart built a terrible cage to lock yourself inside.
+1100:Trapped in the past all this time, torturing yourself day after day...
+1101:To think you've been enduring these nightmares all alone... while still finding a way to show everyone that gentle smile of yours...
+1102:It breaks my heart.
+1103:The real you... the Reina I see, is exactly like that little flower spirit. You were always meant to have beautiful wings. You should have been flying free in your own sky a long, long time ago.
+1104:That's not just me hoping. Your parents... I know they're watching. I know they want you to fly too.
+1105:So, Reina... I need you to trust me completely. This time, no matter what it takes...
+1106:...I'm pulling you out of this nightmare!
+1107:Ah...
+1108:I... I...
+1109:...Aaaaaaah...!!
+1110:At last, she lets it all out. She buries her face in my shoulder as the tears come flooding down.
+1111:Her heart was never meant to bear so much. But here, now, under a sky full of stars, the sorrow finally, finally begins to ebb away.
+1112:Can we... just stop here?
+1113:Thank you, {var:player_nickname}. For everything today.
+1114:Now... I think I just need some time alone. To talk things through with who I am now, and who I used to be.
+1115:Of course. And if you ever need me. I'm right here.
+1116:We may have put her nightmares to rest, but protecting her in the waking world – that's a promise I've only just begun to keep.
+1117:This is Reina's first step toward embracing who she really is. And as for the two of us... our journey together is just getting started.
+1118:Let's call it a day then. Get some good rest, Reina. I'm sure you'll have sweet dreams tonight.
+1119:Yeah. Thank you for everything, {var:player_nickname}. Today... was the happiest day I've had in a long time.
+1120:That night, for the first time in a long while, Reina didn't have a single nightmare.
+1121:I really thought that one happy day was enough to fix it. That the nightmare was gone for good.//nBut I was wrong. Because a few days later...
+1122:Umm...
+1123:Reina! Are you okay?! Did you have another nightmare?!
+1124:Haha... sorry... you noticed, huh? Are the bags under my eyes that bad?
+1125:This isn't funny, Reina. We can't just let this keep happening...
+1126:It's okay, really. I know what the monster in my dreams is now... so it's not going to hurt me anymore. Don't worry about me, {var:player_nickname}.
+1127:Huh?! You know what it is? Explain it to me!
+1128:Oh, that reminds me... Miss Leia sent some new coffee beans over. Apparently, they're infused with the same calming herbs from her tea. She called it "Nighty Coffee"!
+1129:Let me brew you a cup! I already tried it, and it's actually really, really good!
+1130:You're not being subtle at all, Reina... You're deflecting.
+1131:What exactly did she dream about?//nWhatever it was... she's buried it back inside, behind the locked doors to her heart once again.
+1135:I pull out my phone and bring up a screenshot of an old traffic report.

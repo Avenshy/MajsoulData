@@ -2698,6 +2698,7 @@ message TransparentData {
   bytes data = 2;
   string session = 3;
   .lq.NetworkEndpoint remote = 4;
+  string platform = 5;
 }
 
 message UInt32ArrayDirty {

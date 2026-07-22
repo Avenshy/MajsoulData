@@ -282,6 +282,7 @@
     - [ReqFetchCustomizedContestGameRecords](#lq-ReqFetchCustomizedContestGameRecords)
     - [ReqFetchCustomizedContestList](#lq-ReqFetchCustomizedContestList)
     - [ReqFetchCustomizedContestOnlineInfo](#lq-ReqFetchCustomizedContestOnlineInfo)
+    - [ReqFetchDailySignActivityData](#lq-ReqFetchDailySignActivityData)
     - [ReqFetchFriendGiftActivityData](#lq-ReqFetchFriendGiftActivityData)
     - [ReqFetchJPCommonCreditCardOrder](#lq-ReqFetchJPCommonCreditCardOrder)
     - [ReqFetchLastPrivacy](#lq-ReqFetchLastPrivacy)
@@ -641,6 +642,10 @@
     - [ResFetchCustomizedContestGameRecords](#lq-ResFetchCustomizedContestGameRecords)
     - [ResFetchCustomizedContestList](#lq-ResFetchCustomizedContestList)
     - [ResFetchCustomizedContestOnlineInfo](#lq-ResFetchCustomizedContestOnlineInfo)
+    - [ResFetchDailySignActivityData](#lq-ResFetchDailySignActivityData)
+    - [ResFetchDailySignActivityData.DailySignActivityData](#lq-ResFetchDailySignActivityData-DailySignActivityData)
+    - [ResFetchDailySignActivityData.DailySignActivityDay](#lq-ResFetchDailySignActivityData-DailySignActivityDay)
+    - [ResFetchDailySignActivityData.DailySignActivityReward](#lq-ResFetchDailySignActivityData-DailySignActivityReward)
     - [ResFetchFriendGiftActivityData](#lq-ResFetchFriendGiftActivityData)
     - [ResFetchFriendGiftActivityData.FriendData](#lq-ResFetchFriendGiftActivityData-FriendData)
     - [ResFetchFriendGiftActivityData.ItemCountData](#lq-ResFetchFriendGiftActivityData-ItemCountData)
@@ -1245,12 +1250,10 @@
     - [Sheet_Activity_ActivityGuide](#lqc-Sheet_Activity_ActivityGuide)
     - [Sheet_Activity_ActivityItem](#lqc-Sheet_Activity_ActivityItem)
     - [Sheet_Activity_ActivityRoom](#lqc-Sheet_Activity_ActivityRoom)
+    - [Sheet_Activity_AmuletUpgrade](#lqc-Sheet_Activity_AmuletUpgrade)
     - [Sheet_Activity_ArenaActivity](#lqc-Sheet_Activity_ArenaActivity)
     - [Sheet_Activity_ArenaReward](#lqc-Sheet_Activity_ArenaReward)
     - [Sheet_Activity_ArenaRewardDisplay](#lqc-Sheet_Activity_ArenaRewardDisplay)
-    - [Sheet_Activity_BingoCard](#lqc-Sheet_Activity_BingoCard)
-    - [Sheet_Activity_BingoInfo](#lqc-Sheet_Activity_BingoInfo)
-    - [Sheet_Activity_BingoReward](#lqc-Sheet_Activity_BingoReward)
     - [Sheet_Activity_BuffCondition](#lqc-Sheet_Activity_BuffCondition)
     - [Sheet_Activity_ChestReplaceUp](#lqc-Sheet_Activity_ChestReplaceUp)
     - [Sheet_Activity_ChestUp](#lqc-Sheet_Activity_ChestUp)
@@ -1332,7 +1335,6 @@
     - [Sheet_Amulet_AmuletFan](#lqc-Sheet_Amulet_AmuletFan)
     - [Sheet_Amulet_AmuletGames](#lqc-Sheet_Amulet_AmuletGames)
     - [Sheet_Amulet_AmuletGoods](#lqc-Sheet_Amulet_AmuletGoods)
-    - [Sheet_Amulet_AmuletLargeNumber](#lqc-Sheet_Amulet_AmuletLargeNumber)
     - [Sheet_Amulet_AmuletPool](#lqc-Sheet_Amulet_AmuletPool)
     - [Sheet_Amulet_AmuletRewards](#lqc-Sheet_Amulet_AmuletRewards)
     - [Sheet_Amulet_AmuletShopUpgrade](#lqc-Sheet_Amulet_AmuletShopUpgrade)
@@ -1415,10 +1417,6 @@
     - [Sheet_OutfitConfig_Mpzs](#lqc-Sheet_OutfitConfig_Mpzs)
     - [Sheet_OutfitConfig_Ron](#lqc-Sheet_OutfitConfig_Ron)
     - [Sheet_OutfitConfig_Tablecloth](#lqc-Sheet_OutfitConfig_Tablecloth)
-    - [Sheet_QuestCrew_QcCharacterPool](#lqc-Sheet_QuestCrew_QcCharacterPool)
-    - [Sheet_QuestCrew_QcEffect](#lqc-Sheet_QuestCrew_QcEffect)
-    - [Sheet_QuestCrew_QcInfo](#lqc-Sheet_QuestCrew_QcInfo)
-    - [Sheet_QuestCrew_QcQuestPool](#lqc-Sheet_QuestCrew_QcQuestPool)
     - [Sheet_RankIntroduce_Rank](#lqc-Sheet_RankIntroduce_Rank)
     - [Sheet_RankIntroduce_Rank3](#lqc-Sheet_RankIntroduce_Rank3)
     - [Sheet_Season_LevelTicket](#lqc-Sheet_Season_LevelTicket)
@@ -1426,15 +1424,10 @@
     - [Sheet_Season_Season](#lqc-Sheet_Season_Season)
     - [Sheet_Season_SeasonReward](#lqc-Sheet_Season_SeasonReward)
     - [Sheet_Season_TicketRetry](#lqc-Sheet_Season_TicketRetry)
-    - [Sheet_Shoot_ShootEnemy](#lqc-Sheet_Shoot_ShootEnemy)
-    - [Sheet_Shoot_ShootInfo](#lqc-Sheet_Shoot_ShootInfo)
-    - [Sheet_Shoot_ShootMission](#lqc-Sheet_Shoot_ShootMission)
-    - [Sheet_Shoot_ShootReward](#lqc-Sheet_Shoot_ShootReward)
     - [Sheet_Shops_Goods](#lqc-Sheet_Shops_Goods)
     - [Sheet_Shops_GoodsPackage](#lqc-Sheet_Shops_GoodsPackage)
     - [Sheet_Shops_IntervalRefreshGoods](#lqc-Sheet_Shops_IntervalRefreshGoods)
     - [Sheet_Shops_ItemPackage](#lqc-Sheet_Shops_ItemPackage)
-    - [Sheet_Shops_SelectedPackage](#lqc-Sheet_Shops_SelectedPackage)
     - [Sheet_Shops_ZhpGoods](#lqc-Sheet_Shops_ZhpGoods)
     - [Sheet_Shops_ZhpRefreshGroup](#lqc-Sheet_Shops_ZhpRefreshGroup)
     - [Sheet_Shops_ZhpRefreshPrice](#lqc-Sheet_Shops_ZhpRefreshPrice)
@@ -6466,6 +6459,21 @@
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
 | unique_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqFetchDailySignActivityData"></a>
+
+### ReqFetchDailySignActivityData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id_list | [uint32](#uint32) | repeated |  |
 
 
 
@@ -12388,6 +12396,71 @@
 
 
 
+<a name="lq-ResFetchDailySignActivityData"></a>
+
+### ResFetchDailySignActivityData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| activity_list | [ResFetchDailySignActivityData.DailySignActivityData](#lq-ResFetchDailySignActivityData-DailySignActivityData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ResFetchDailySignActivityData-DailySignActivityData"></a>
+
+### ResFetchDailySignActivityData.DailySignActivityData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| days | [ResFetchDailySignActivityData.DailySignActivityDay](#lq-ResFetchDailySignActivityData-DailySignActivityDay) | repeated |  |
+| type | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ResFetchDailySignActivityData-DailySignActivityDay"></a>
+
+### ResFetchDailySignActivityData.DailySignActivityDay
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| day | [uint32](#uint32) |  |  |
+| rewards | [ResFetchDailySignActivityData.DailySignActivityReward](#lq-ResFetchDailySignActivityData-DailySignActivityReward) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ResFetchDailySignActivityData-DailySignActivityReward"></a>
+
+### ResFetchDailySignActivityData.DailySignActivityReward
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| count | [uint32](#uint32) |  |  |
+
+
+
+
+
+
 <a name="lq-ResFetchFriendGiftActivityData"></a>
 
 ### ResFetchFriendGiftActivityData
@@ -15762,6 +15835,7 @@
 | type | [uint32](#uint32) |  |  |
 | route_id | [string](#string) |  |  |
 | timestamp | [uint64](#uint64) |  |  |
+| platform | [string](#string) |  |  |
 
 
 
@@ -22464,6 +22538,7 @@
 | data | [bytes](#bytes) |  |  |
 | session | [string](#string) |  |  |
 | remote | [NetworkEndpoint](#lq-NetworkEndpoint) |  |  |
+| platform | [string](#string) |  |  |
 
 
 
@@ -23171,7 +23246,25 @@
 | hunzhiyiji_mode | [uint32](#uint32) |  |  |
 | wanxiangxiuluo_mode | [uint32](#uint32) |  |  |
 | beishuizhizhan_mode | [uint32](#uint32) |  |  |
-| xiakeshang_mode | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lqc-Sheet_Activity_AmuletUpgrade"></a>
+
+### Sheet_Activity_AmuletUpgrade
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| level | [uint32](#uint32) |  |  |
+| skill_point | [uint32](#uint32) |  |  |
+| buff_id | [uint32](#uint32) |  |  |
+| display_value | [uint32](#uint32) |  |  |
 
 
 
@@ -23241,61 +23334,6 @@
 | reward_3_remark | [string](#string) |  |  |
 | reward_4 | [uint32](#uint32) |  |  |
 | reward_4_remark | [string](#string) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Activity_BingoCard"></a>
-
-### Sheet_Activity_BingoCard
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| card_id | [uint32](#uint32) |  |  |
-| type | [string](#string) |  |  |
-| base_task_id | [uint32](#uint32) |  |  |
-| pos | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Activity_BingoInfo"></a>
-
-### Sheet_Activity_BingoInfo
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| activity_id | [uint32](#uint32) |  |  |
-| card_id | [uint32](#uint32) |  |  |
-| unlock_day | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Activity_BingoReward"></a>
-
-### Sheet_Activity_BingoReward
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| card_id | [uint32](#uint32) |  |  |
-| reward_id | [uint32](#uint32) |  |  |
-| reward | [string](#string) |  |  |
-| required_pos | [uint32](#uint32) | repeated |  |
-| reward_type | [uint32](#uint32) |  |  |
-| node_mark | [uint32](#uint32) |  |  |
 
 
 
@@ -25038,23 +25076,6 @@
 
 
 
-<a name="lqc-Sheet_Amulet_AmuletLargeNumber"></a>
-
-### Sheet_Amulet_AmuletLargeNumber
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| number_id | [string](#string) |  |  |
-| number_unit_cn | [string](#string) |  |  |
-| number_unit_en | [string](#string) |  |  |
-
-
-
-
-
-
 <a name="lqc-Sheet_Amulet_AmuletPool"></a>
 
 ### Sheet_Amulet_AmuletPool
@@ -25246,7 +25267,6 @@
 | char_y | [int32](#int32) |  |  |
 | char_width | [uint32](#uint32) |  |  |
 | char_height | [uint32](#uint32) |  |  |
-| type | [uint32](#uint32) |  |  |
 
 
 
@@ -25602,7 +25622,6 @@
 | hunzhiyiji_mode | [uint32](#uint32) |  |  |
 | wanxiangxiuluo_mode | [uint32](#uint32) |  |  |
 | beishuizhizhan_mode | [uint32](#uint32) |  |  |
-| xiakeshang_mode | [uint32](#uint32) |  |  |
 | room | [uint32](#uint32) |  |  |
 | mode | [uint32](#uint32) |  |  |
 | can_sumup | [uint32](#uint32) |  |  |
@@ -25861,7 +25880,7 @@
 | sound | [string](#string) |  |  |
 | is_guyi | [uint32](#uint32) |  |  |
 | rarity | [uint32](#uint32) |  |  |
-| show_range_1 | [string](#string) |  |  |
+| show_range_1 | [uint32](#uint32) |  |  |
 | show_range_2 | [string](#string) |  |  |
 | merge_id | [uint32](#uint32) |  |  |
 | mark | [uint32](#uint32) |  |  |
@@ -26067,7 +26086,6 @@
 | emo | [string](#string) |  |  |
 | sound | [uint32](#uint32) |  |  |
 | sound_volume | [float](#float) |  |  |
-| sound_folder | [string](#string) |  |  |
 | sex | [uint32](#uint32) |  |  |
 | desc_stature_chs | [string](#string) |  |  |
 | desc_stature_chs_t | [string](#string) |  |  |
@@ -26457,8 +26475,7 @@
 | character_id | [uint32](#uint32) |  |  |
 | sargs | [string](#string) | repeated |  |
 | old_effect_mark | [uint32](#uint32) |  |  |
-| hand_version | [uint32](#uint32) |  |  |
-| seat_related | [uint32](#uint32) |  |  |
+| new_hand | [uint32](#uint32) |  |  |
 
 
 
@@ -26896,7 +26913,6 @@
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
 | id | [uint32](#uint32) |  |  |
-| hide_direction | [string](#string) |  |  |
 
 
 
@@ -26974,103 +26990,6 @@
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
 | id | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_QuestCrew_QcCharacterPool"></a>
-
-### Sheet_QuestCrew_QcCharacterPool
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| id | [uint32](#uint32) |  |  |
-| character_id | [uint32](#uint32) |  |  |
-| sta | [uint32](#uint32) |  |  |
-| str | [uint32](#uint32) |  |  |
-| spd | [uint32](#uint32) |  |  |
-| luc | [uint32](#uint32) |  |  |
-| effect | [uint32](#uint32) |  |  |
-| show_in_market | [uint32](#uint32) |  |  |
-| hiring_price | [string](#string) |  |  |
-| item_id | [uint32](#uint32) |  |  |
-| name | [uint32](#uint32) |  |  |
-| skill | [uint32](#uint32) |  |  |
-| npc_code | [string](#string) |  |  |
-| display_change | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_QuestCrew_QcEffect"></a>
-
-### Sheet_QuestCrew_QcEffect
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| id | [uint32](#uint32) |  |  |
-| type | [uint32](#uint32) |  |  |
-| args | [int32](#int32) | repeated |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_QuestCrew_QcInfo"></a>
-
-### Sheet_QuestCrew_QcInfo
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| id | [uint32](#uint32) |  |  |
-| character_pool_id | [uint32](#uint32) |  |  |
-| quest_pool_id | [uint32](#uint32) |  |  |
-| refresh_market_price | [string](#string) |  |  |
-| market_count | [uint32](#uint32) |  |  |
-| character_charging_price | [string](#string) |  |  |
-| great_success_effect_ceo | [uint32](#uint32) |  |  |
-| great_success_ceo | [uint32](#uint32) |  |  |
-| init_character_id | [uint32](#uint32) | repeated |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_QuestCrew_QcQuestPool"></a>
-
-### Sheet_QuestCrew_QcQuestPool
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| id | [uint32](#uint32) |  |  |
-| quest_id | [uint32](#uint32) |  |  |
-| sort | [uint32](#uint32) |  |  |
-| type | [uint32](#uint32) |  |  |
-| str | [uint32](#uint32) |  |  |
-| spd | [uint32](#uint32) |  |  |
-| luc | [uint32](#uint32) |  |  |
-| unlock_days | [uint32](#uint32) |  |  |
-| consume | [uint32](#uint32) |  |  |
-| rewards | [uint32](#uint32) |  |  |
-| client | [uint32](#uint32) |  |  |
-| character_id | [uint32](#uint32) |  |  |
-| client_name | [uint32](#uint32) |  |  |
-| quest_desc | [uint32](#uint32) |  |  |
-| npc_code | [string](#string) |  |  |
 
 
 
@@ -27211,83 +27130,6 @@
 
 
 
-<a name="lqc-Sheet_Shoot_ShootEnemy"></a>
-
-### Sheet_Shoot_ShootEnemy
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| group_id | [uint32](#uint32) |  |  |
-| enemy_id | [uint32](#uint32) |  |  |
-| hp | [uint32](#uint32) |  |  |
-| reward_group_id | [uint32](#uint32) |  |  |
-| x | [uint32](#uint32) |  |  |
-| y | [uint32](#uint32) |  |  |
-| width | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Shoot_ShootInfo"></a>
-
-### Sheet_Shoot_ShootInfo
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| activity_id | [uint32](#uint32) |  |  |
-| missions_group_id | [uint32](#uint32) |  |  |
-| level_count | [uint32](#uint32) |  |  |
-| bullet_item_id | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Shoot_ShootMission"></a>
-
-### Sheet_Shoot_ShootMission
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| group_id | [uint32](#uint32) |  |  |
-| level | [uint32](#uint32) |  |  |
-| enemy_group_id | [uint32](#uint32) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Shoot_ShootReward"></a>
-
-### Sheet_Shoot_ShootReward
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| group_id | [uint32](#uint32) |  |  |
-| reward_id | [uint32](#uint32) |  |  |
-| reward | [string](#string) |  |  |
-| reward_level | [uint32](#uint32) |  |  |
-| star_num | [uint32](#uint32) |  |  |
-| reward_merge | [uint32](#uint32) |  |  |
-| activity_id | [uint32](#uint32) |  |  |
-
-
-
-
-
-
 <a name="lqc-Sheet_Shops_Goods"></a>
 
 ### Sheet_Shops_Goods
@@ -27374,23 +27216,6 @@
 | ----- | ---- | ----- | ----------- |
 | id | [uint32](#uint32) |  |  |
 | item_info | [string](#string) |  |  |
-
-
-
-
-
-
-<a name="lqc-Sheet_Shops_SelectedPackage"></a>
-
-### Sheet_Shops_SelectedPackage
-
-
-
-| Field | Type | Label | Description |
-| ----- | ---- | ----- | ----------- |
-| id | [uint32](#uint32) |  |  |
-| goods_id | [uint32](#uint32) |  |  |
-| price | [string](#string) |  |  |
 
 
 
@@ -31181,6 +31006,7 @@
 | fetchCustomizedContestGameRecords | [ReqFetchCustomizedContestGameRecords](#lq-ReqFetchCustomizedContestGameRecords) | [ResFetchCustomizedContestGameRecords](#lq-ResFetchCustomizedContestGameRecords) |  |
 | fetchCustomizedContestList | [ReqFetchCustomizedContestList](#lq-ReqFetchCustomizedContestList) | [ResFetchCustomizedContestList](#lq-ResFetchCustomizedContestList) |  |
 | fetchCustomizedContestOnlineInfo | [ReqFetchCustomizedContestOnlineInfo](#lq-ReqFetchCustomizedContestOnlineInfo) | [ResFetchCustomizedContestOnlineInfo](#lq-ResFetchCustomizedContestOnlineInfo) |  |
+| fetchDailySignActivityData | [ReqFetchDailySignActivityData](#lq-ReqFetchDailySignActivityData) | [ResFetchDailySignActivityData](#lq-ResFetchDailySignActivityData) |  |
 | fetchDailySignInInfo | [ReqCommon](#lq-ReqCommon) | [ResDailySignInInfo](#lq-ResDailySignInInfo) |  |
 | fetchDailyTask | [ReqCommon](#lq-ReqCommon) | [ResDailyTask](#lq-ResDailyTask) |  |
 | fetchFriendApplyList | [ReqCommon](#lq-ReqCommon) | [ResFriendApplyList](#lq-ResFriendApplyList) |  |

@@ -2,7 +2,7 @@
   {
     "skinid": 400107,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "YJ_SE_400107/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -14,7 +14,7 @@
   {
     "skinid": 400305,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "TTJN_SE_400305/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -26,7 +26,7 @@
   {
     "skinid": 400306,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "TTJN_SE_400306/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -34,6 +34,30 @@
     "audio_click": "TTJN_SE_400306/click",
     "audio_click2": null,
     "celebrate_delay": 1
+  },
+  {
+    "skinid": 400406,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "SSQZ_SE_400406/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "SSQZ_SE_400406/greeting",
+    "audio_click": "SSQZ_SE_400406/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 400505,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "XYW_SE_400505/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "XYW_SE_400505/greeting",
+    "audio_click": "XYW_SE_400505/click",
+    "audio_click2": null,
+    "celebrate_delay": null
   },
   {
     "skinid": 400506,
@@ -60,9 +84,21 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 400706,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "BMW_SE_400706/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "BMW_SE_400706/greeting",
+    "audio_click": "BMW_SE_400706/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 400709,
     "spine_layers": 2,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "BMW_SE_400709/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -72,9 +108,21 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 400905,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "ZNY_SE_400905/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "ZNY_SE_400905/greeting",
+    "audio_click": "ZNY_SE_400905/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 400907,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "ZNY_SE_400907/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -96,9 +144,45 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 401004,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "KW_SE_401004/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "KW_SE_401004/greeting",
+    "audio_click": "KW_SE_401004/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 401105,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "SGXS_SE_401105/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "SGXS_SE_401105/greeting",
+    "audio_click": "SGXS_SE_401105/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 401305,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "YZLK_SE_401305/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "YZLK_SE_401305/greeting",
+    "audio_click": "YZLK_SE_401305/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 401709,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "EZGH_SE_401709/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -110,7 +194,7 @@
   {
     "skinid": 401806,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "bsnn_se_401806/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -122,7 +206,7 @@
   {
     "skinid": 401906,
     "spine_layers": 3,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "XNYCT_SE_401906/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -134,7 +218,7 @@
   {
     "skinid": 401907,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "XNYCT_SE_401907/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -144,9 +228,33 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 402005,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "WSLYC_SE_402005/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "WSLYC_SE_402005/greeting",
+    "audio_click": "WSLYC_SE_402005/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 402104,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "LGXS_SE_402104/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "LGXS_SE_402104/greeting",
+    "audio_click": "LGXS_SE_402104/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 402106,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "LGXS_SE_402106/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -158,7 +266,7 @@
   {
     "skinid": 402406,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "BJSHZ_SE_402406/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -170,7 +278,7 @@
   {
     "skinid": 402407,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "BJSHZ_SE_402407/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -182,7 +290,7 @@
   {
     "skinid": 402606,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "CT_SE_402606/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -192,14 +300,62 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 402704,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "YJS_SE_402704/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "YJS_SE_402704/greeting",
+    "audio_click": "YJS_SE_402704/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 402904,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "HYJ_SE_402904/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "HYJ_SE_402904/greeting",
+    "audio_click": "HYJ_SE_402904/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 402907,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "HYJ_SE_402907/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
     "audio_greeting": "HYJ_SE_402907/greeting",
     "audio_click": "HYJ_SE_402907/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 403004,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "RYL_SE_403004/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "RYL_SE_403004/greeting",
+    "audio_click": "RYL_SE_403004/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 403204,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "ALS_SE_403204/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "ALS_SE_403204/greeting",
+    "audio_click": "ALS_SE_403204/click",
     "audio_click2": null,
     "celebrate_delay": null
   },
@@ -218,7 +374,7 @@
   {
     "skinid": 403304,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "SQQSL_SE_403304/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -252,6 +408,30 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 404406,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "qhln_se_404406/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "qhln_se_404406/greeting",
+    "audio_click": "qhln_se_404406/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 404503,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "A37_SE_404503/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "A37_SE_404503/greeting",
+    "audio_click": "A37_SE_404503/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 404505,
     "spine_layers": 2,
     "has_effect": 1,
@@ -262,6 +442,42 @@
     "audio_click": "A37_SE_404505/click",
     "audio_click2": null,
     "celebrate_delay": 1
+  },
+  {
+    "skinid": 404603,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "JCX_SE_404603/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "JCX_SE_404603/greeting",
+    "audio_click": "JCX_SE_404603/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 404704,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "LN_SE_404704/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "LN_SE_404704/greeting",
+    "audio_click": "LN_SE_404704/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 404803,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "SCLZ_SE_404803/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "SCLZ_SE_404803/greeting",
+    "audio_click": "SCLZ_SE_404803/click",
+    "audio_click2": null,
+    "celebrate_delay": null
   },
   {
     "skinid": 404805,
@@ -278,7 +494,7 @@
   {
     "skinid": 404806,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "SCLZ_SE_404806/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -312,6 +528,18 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 405202,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "XYSYY_SE_405202/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "XYSYY_SE_405202/greeting",
+    "audio_click": "XYSYY_SE_405202/click",
+    "audio_click2": "XYSYY_SE_405202/click2",
+    "celebrate_delay": null
+  },
+  {
     "skinid": 405905,
     "spine_layers": 1,
     "has_effect": 1,
@@ -326,7 +554,7 @@
   {
     "skinid": 405906,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "Y_SE_405906/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -338,7 +566,7 @@
   {
     "skinid": 406004,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "ZKS_SE_406004/celebrate",
     "audio_celebrate_idle": "ZKS_SE_406004/celebrate_idle",
     "audio_idle": null,
@@ -346,6 +574,30 @@
     "audio_click": "ZKS_SE_406004/click",
     "audio_click2": null,
     "celebrate_delay": 1
+  },
+  {
+    "skinid": 406102,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "BYLL_SE_406102/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "BYLL_SE_406102/greeting",
+    "audio_click": "BYLL_SE_406102/click",
+    "audio_click2": "BYLL_SE_406102/click2",
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 406703,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "QL_SE_406703/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "QL_SE_406703/greeting",
+    "audio_click": "QL_SE_406703/click",
+    "audio_click2": null,
+    "celebrate_delay": null
   },
   {
     "skinid": 406704,
@@ -360,9 +612,21 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 406803,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "RYCY_SE_406803/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "RYCY_SE_406803/greeting",
+    "audio_click": "RYCY_SE_406803/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 406804,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "RYCY_SE_406804/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -384,6 +648,18 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 407602,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "DCXY_SE_407602/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "DCXY_SE_407602/greeting",
+    "audio_click": "DCXY_SE_407602/click",
+    "audio_click2": "DCXY_SE_407602/click2",
+    "celebrate_delay": null
+  },
+  {
     "skinid": 408304,
     "spine_layers": 3,
     "has_effect": 1,
@@ -398,7 +674,7 @@
   {
     "skinid": 408404,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "LL_SE_408404/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -410,7 +686,7 @@
   {
     "skinid": 409003,
     "spine_layers": 2,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "JS_SE_409003/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -422,7 +698,7 @@
   {
     "skinid": 409203,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "j_se_409203/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -434,7 +710,7 @@
   {
     "skinid": 409502,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "NFH_SE_409502/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -446,7 +722,7 @@
   {
     "skinid": 409803,
     "spine_layers": 1,
-    "has_effect": 0,
+    "has_effect": null,
     "audio_celebrate": "HYQ_SE_409803/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
@@ -549,6 +825,18 @@
     "audio_greeting": "LY_SE_40011203/greeting",
     "audio_click": "LY_SE_40011203/click",
     "audio_click2": "LY_SE_40011203/click2",
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 40011703,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "ml_se_40011703/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "ml_se_40011703/greeting",
+    "audio_click": "ml_se_40011703/click",
+    "audio_click2": null,
     "celebrate_delay": null
   },
   {

@@ -1034,13 +1034,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "为你应援！",
-      "chs_t": "為你應援！",
-      "jp": "tbd",
-      "en": "Go! Sparkle! Shine!",
-      "kr": "너를 향한 응원!"
     }
   },
   {
@@ -5704,13 +5697,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "为你应援！",
-      "chs_t": "為你應援！",
-      "jp": "tbd",
-      "en": "Go! Sparkle! Shine!",
-      "kr": "너를 향한 응원!"
     }
   },
   {
@@ -8188,6 +8174,24 @@
     }
   },
   {
+    "charid": 200031,
+    "sub_id": 925,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      403105
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    }
+  },
+  {
     "charid": 200032,
     "sub_id": 10,
     "type": 1,
@@ -10037,6 +10041,24 @@
     }
   },
   {
+    "charid": 200044,
+    "sub_id": 925,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      404406
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    }
+  },
+  {
     "charid": 200045,
     "sub_id": 10,
     "type": 1,
@@ -10990,13 +11012,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "tbd",
-      "chs_t": "tbd",
-      "jp": "tbd",
-      "en": "tbd",
-      "kr": "tbd"
     }
   },
   {
@@ -11113,13 +11128,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "tbd",
-      "chs_t": "tbd",
-      "jp": "tbd",
-      "en": "tbd",
-      "kr": "tbd"
     }
   },
   {
@@ -12958,13 +12966,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "为你应援！",
-      "chs_t": "為你應援！",
-      "jp": "tbd",
-      "en": "Go! Sparkle! Shine!",
-      "kr": "너를 향한 응원!"
     }
   },
   {
@@ -17307,13 +17308,6 @@
       "jp": "着せ替え入手",
       "en": "Unlock Outfit",
       "kr": "스킨 오픈"
-    },
-    "after_unlock_desc": {
-      "chs": "为你应援！",
-      "chs_t": "為你應援！",
-      "jp": "tbd",
-      "en": "Go! Sparkle! Shine!",
-      "kr": "너를 향한 응원!"
     }
   },
   {
@@ -18417,6 +18411,24 @@
       "jp": "3月11日まで使用可能",
       "en": "Until 2026/3/10 (UTC-7)",
       "kr": "2026/3/11 만료"
+    }
+  },
+  {
+    "charid": 20000117,
+    "sub_id": 925,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      40011703
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
     }
   },
   {

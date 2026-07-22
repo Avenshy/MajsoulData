@@ -10980,6 +10980,23 @@
           "nested_messages": []
         },
         {
+          "name": "ReqFetchDailySignActivityData",
+          "full_name": ".lq.ReqFetchDailySignActivityData",
+          "fields": [
+            {
+              "name": "activity_id_list",
+              "full_name": ".lq.ReqFetchDailySignActivityData.activity_id_list",
+              "number": 1,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ReqFetchFriendGiftActivityData",
           "full_name": ".lq.ReqFetchFriendGiftActivityData",
           "fields": [
@@ -21966,6 +21983,120 @@
           "nested_messages": []
         },
         {
+          "name": "ResFetchDailySignActivityData",
+          "full_name": ".lq.ResFetchDailySignActivityData",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResFetchDailySignActivityData.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "activity_list",
+              "full_name": ".lq.ResFetchDailySignActivityData.activity_list",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ResFetchDailySignActivityData.DailySignActivityData",
+              "type_code": 11,
+              "raw_type_ref": "RESFETCHDAILYSIGNACTIVITYDATA_DAILYSIGNACTIVITYDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": [
+            {
+              "name": "DailySignActivityReward",
+              "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityReward",
+              "fields": [
+                {
+                  "name": "id",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityReward.id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "count",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityReward.count",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            },
+            {
+              "name": "DailySignActivityDay",
+              "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityDay",
+              "fields": [
+                {
+                  "name": "day",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityDay.day",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "rewards",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityDay.rewards",
+                  "number": 2,
+                  "label": "repeated",
+                  "type": ".lq.ResFetchDailySignActivityData.DailySignActivityReward",
+                  "type_code": 11,
+                  "raw_type_ref": "RESFETCHDAILYSIGNACTIVITYDATA_DAILYSIGNACTIVITYREWARD"
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            },
+            {
+              "name": "DailySignActivityData",
+              "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityData",
+              "fields": [
+                {
+                  "name": "activity_id",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityData.activity_id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "days",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityData.days",
+                  "number": 2,
+                  "label": "repeated",
+                  "type": ".lq.ResFetchDailySignActivityData.DailySignActivityDay",
+                  "type_code": 11,
+                  "raw_type_ref": "RESFETCHDAILYSIGNACTIVITYDATA_DAILYSIGNACTIVITYDAY"
+                },
+                {
+                  "name": "type",
+                  "full_name": ".lq.ResFetchDailySignActivityData.DailySignActivityData.type",
+                  "number": 3,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            }
+          ]
+        },
+        {
           "name": "ResFetchFriendGiftActivityData",
           "full_name": ".lq.ResFetchFriendGiftActivityData",
           "fields": [
@@ -29153,6 +29284,15 @@
               "label": "optional",
               "type": "uint64",
               "type_code": 4,
+              "raw_type_ref": null
+            },
+            {
+              "name": "platform",
+              "full_name": ".lq.ReqRequestConnection.platform",
+              "number": 6,
+              "label": "optional",
+              "type": "string",
+              "type_code": 9,
               "raw_type_ref": null
             }
           ],
@@ -46546,6 +46686,15 @@
               "type": ".lq.NetworkEndpoint",
               "type_code": 11,
               "raw_type_ref": "NETWORKENDPOINT"
+            },
+            {
+              "name": "platform",
+              "full_name": ".lq.TransparentData.platform",
+              "number": 5,
+              "label": "optional",
+              "type": "string",
+              "type_code": 9,
+              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -48502,11 +48651,55 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "Sheet_Activity_AmuletUpgrade",
+          "full_name": ".lqc.Sheet_Activity_AmuletUpgrade",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lqc.Sheet_Activity_AmuletUpgrade.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
             },
             {
-              "name": "xiakeshang_mode",
-              "full_name": ".lqc.Sheet_Activity_ActivityRoom.xiakeshang_mode",
-              "number": 21,
+              "name": "level",
+              "full_name": ".lqc.Sheet_Activity_AmuletUpgrade.level",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "skill_point",
+              "full_name": ".lqc.Sheet_Activity_AmuletUpgrade.skill_point",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "buff_id",
+              "full_name": ".lqc.Sheet_Activity_AmuletUpgrade.buff_id",
+              "number": 4,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "display_value",
+              "full_name": ".lqc.Sheet_Activity_AmuletUpgrade.display_value",
+              "number": 5,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -48777,147 +48970,6 @@
               "label": "optional",
               "type": "string",
               "type_code": 9,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Activity_BingoCard",
-          "full_name": ".lqc.Sheet_Activity_BingoCard",
-          "fields": [
-            {
-              "name": "card_id",
-              "full_name": ".lqc.Sheet_Activity_BingoCard.card_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "type",
-              "full_name": ".lqc.Sheet_Activity_BingoCard.type",
-              "number": 2,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "base_task_id",
-              "full_name": ".lqc.Sheet_Activity_BingoCard.base_task_id",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "pos",
-              "full_name": ".lqc.Sheet_Activity_BingoCard.pos",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Activity_BingoInfo",
-          "full_name": ".lqc.Sheet_Activity_BingoInfo",
-          "fields": [
-            {
-              "name": "activity_id",
-              "full_name": ".lqc.Sheet_Activity_BingoInfo.activity_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "card_id",
-              "full_name": ".lqc.Sheet_Activity_BingoInfo.card_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "unlock_day",
-              "full_name": ".lqc.Sheet_Activity_BingoInfo.unlock_day",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Activity_BingoReward",
-          "full_name": ".lqc.Sheet_Activity_BingoReward",
-          "fields": [
-            {
-              "name": "card_id",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.card_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_id",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.reward_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.reward",
-              "number": 3,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "required_pos",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.required_pos",
-              "number": 4,
-              "label": "repeated",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_type",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.reward_type",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "node_mark",
-              "full_name": ".lqc.Sheet_Activity_BingoReward.node_mark",
-              "number": 6,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
               "raw_type_ref": null
             }
           ],
@@ -55096,41 +55148,6 @@
           "nested_messages": []
         },
         {
-          "name": "Sheet_Amulet_AmuletLargeNumber",
-          "full_name": ".lqc.Sheet_Amulet_AmuletLargeNumber",
-          "fields": [
-            {
-              "name": "number_id",
-              "full_name": ".lqc.Sheet_Amulet_AmuletLargeNumber.number_id",
-              "number": 1,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "number_unit_cn",
-              "full_name": ".lqc.Sheet_Amulet_AmuletLargeNumber.number_unit_cn",
-              "number": 2,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "number_unit_en",
-              "full_name": ".lqc.Sheet_Amulet_AmuletLargeNumber.number_unit_en",
-              "number": 3,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
           "name": "Sheet_Amulet_AmuletPool",
           "full_name": ".lqc.Sheet_Amulet_AmuletPool",
           "fields": [
@@ -55714,15 +55731,6 @@
               "name": "char_height",
               "full_name": ".lqc.Sheet_Character_Cutin.char_height",
               "number": 8,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "type",
-              "full_name": ".lqc.Sheet_Character_Cutin.type",
-              "number": 9,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -56975,18 +56983,9 @@
               "raw_type_ref": null
             },
             {
-              "name": "xiakeshang_mode",
-              "full_name": ".lqc.Sheet_Desktop_Matchmode.xiakeshang_mode",
-              "number": 22,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
               "name": "room",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room",
-              "number": 23,
+              "number": 22,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -56995,7 +56994,7 @@
             {
               "name": "mode",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.mode",
-              "number": 24,
+              "number": 23,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57004,7 +57003,7 @@
             {
               "name": "can_sumup",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.can_sumup",
-              "number": 25,
+              "number": 24,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57013,7 +57012,7 @@
             {
               "name": "room_name_chs",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room_name_chs",
-              "number": 26,
+              "number": 25,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57022,7 +57021,7 @@
             {
               "name": "room_name_chs_t",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room_name_chs_t",
-              "number": 27,
+              "number": 26,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57031,7 +57030,7 @@
             {
               "name": "room_name_jp",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room_name_jp",
-              "number": 28,
+              "number": 27,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57040,7 +57039,7 @@
             {
               "name": "room_name_en",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room_name_en",
-              "number": 29,
+              "number": 28,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57049,7 +57048,7 @@
             {
               "name": "room_name_kr",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.room_name_kr",
-              "number": 30,
+              "number": 29,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57058,7 +57057,7 @@
             {
               "name": "str_rule",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.str_rule",
-              "number": 31,
+              "number": 30,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57067,7 +57066,7 @@
             {
               "name": "interval_image",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.interval_image",
-              "number": 32,
+              "number": 31,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -57076,7 +57075,7 @@
             {
               "name": "rule_images",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.rule_images",
-              "number": 33,
+              "number": 32,
               "label": "repeated",
               "type": "string",
               "type_code": 9,
@@ -57085,7 +57084,7 @@
             {
               "name": "glimit_floor",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.glimit_floor",
-              "number": 34,
+              "number": 33,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57094,7 +57093,7 @@
             {
               "name": "glimit_ceil",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.glimit_ceil",
-              "number": 35,
+              "number": 34,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57103,7 +57102,7 @@
             {
               "name": "gcarry",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.gcarry",
-              "number": 36,
+              "number": 35,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57112,7 +57111,7 @@
             {
               "name": "exchange_rate",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.exchange_rate",
-              "number": 37,
+              "number": 36,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57121,7 +57120,7 @@
             {
               "name": "levelpoint1",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.levelpoint1",
-              "number": 38,
+              "number": 37,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57130,7 +57129,7 @@
             {
               "name": "levelpoint2",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.levelpoint2",
-              "number": 39,
+              "number": 38,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57139,7 +57138,7 @@
             {
               "name": "levelpoint3",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.levelpoint3",
-              "number": 40,
+              "number": 39,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57148,7 +57147,7 @@
             {
               "name": "levelpoint4",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.levelpoint4",
-              "number": 41,
+              "number": 40,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57157,7 +57156,7 @@
             {
               "name": "fish_point",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.fish_point",
-              "number": 42,
+              "number": 41,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57166,7 +57165,7 @@
             {
               "name": "init_point",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.init_point",
-              "number": 43,
+              "number": 42,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57175,7 +57174,7 @@
             {
               "name": "back_point",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.back_point",
-              "number": 44,
+              "number": 43,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57184,7 +57183,7 @@
             {
               "name": "count_point",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.count_point",
-              "number": 45,
+              "number": 44,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57193,7 +57192,7 @@
             {
               "name": "buchang",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.buchang",
-              "number": 46,
+              "number": 45,
               "label": "repeated",
               "type": "int32",
               "type_code": 5,
@@ -57202,7 +57201,7 @@
             {
               "name": "level_limit",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.level_limit",
-              "number": 47,
+              "number": 46,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57211,7 +57210,7 @@
             {
               "name": "level_limit_ceil",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.level_limit_ceil",
-              "number": 48,
+              "number": 47,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57220,7 +57219,7 @@
             {
               "name": "tip",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.tip",
-              "number": 49,
+              "number": 48,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57229,7 +57228,7 @@
             {
               "name": "friendship",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.friendship",
-              "number": 50,
+              "number": 49,
               "label": "optional",
               "type": "int32",
               "type_code": 5,
@@ -57238,7 +57237,7 @@
             {
               "name": "chest_id",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.chest_id",
-              "number": 51,
+              "number": 50,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57247,7 +57246,7 @@
             {
               "name": "chest_exp_add",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.chest_exp_add",
-              "number": 52,
+              "number": 51,
               "label": "repeated",
               "type": "uint32",
               "type_code": 13,
@@ -57256,7 +57255,7 @@
             {
               "name": "level_match",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.level_match",
-              "number": 53,
+              "number": 52,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57265,7 +57264,7 @@
             {
               "name": "level_match_range",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.level_match_range",
-              "number": 54,
+              "number": 53,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -57274,7 +57273,7 @@
             {
               "name": "level_match_max",
               "full_name": ".lqc.Sheet_Desktop_Matchmode.level_match_max",
-              "number": 55,
+              "number": 54,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -58436,8 +58435,8 @@
               "full_name": ".lqc.Sheet_Fan_Fan.show_range_1",
               "number": 15,
               "label": "optional",
-              "type": "string",
-              "type_code": 9,
+              "type": "uint32",
+              "type_code": 13,
               "raw_type_ref": null
             },
             {
@@ -59154,18 +59153,9 @@
               "raw_type_ref": null
             },
             {
-              "name": "sound_folder",
-              "full_name": ".lqc.Sheet_ItemDefinition_Character.sound_folder",
-              "number": 25,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
               "name": "sex",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.sex",
-              "number": 26,
+              "number": 25,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59174,7 +59164,7 @@
             {
               "name": "desc_stature_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_stature_chs",
-              "number": 27,
+              "number": 26,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59183,7 +59173,7 @@
             {
               "name": "desc_stature_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_stature_chs_t",
-              "number": 28,
+              "number": 27,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59192,7 +59182,7 @@
             {
               "name": "desc_stature_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_stature_jp",
-              "number": 29,
+              "number": 28,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59201,7 +59191,7 @@
             {
               "name": "desc_stature_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_stature_en",
-              "number": 30,
+              "number": 29,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59210,7 +59200,7 @@
             {
               "name": "desc_stature_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_stature_kr",
-              "number": 31,
+              "number": 30,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59219,7 +59209,7 @@
             {
               "name": "desc_birth_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_birth_chs",
-              "number": 32,
+              "number": 31,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59228,7 +59218,7 @@
             {
               "name": "desc_birth_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_birth_chs_t",
-              "number": 33,
+              "number": 32,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59237,7 +59227,7 @@
             {
               "name": "desc_birth_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_birth_jp",
-              "number": 34,
+              "number": 33,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59246,7 +59236,7 @@
             {
               "name": "desc_birth_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_birth_en",
-              "number": 35,
+              "number": 34,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59255,7 +59245,7 @@
             {
               "name": "desc_birth_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_birth_kr",
-              "number": 36,
+              "number": 35,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59264,7 +59254,7 @@
             {
               "name": "desc_age_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_age_chs",
-              "number": 37,
+              "number": 36,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59273,7 +59263,7 @@
             {
               "name": "desc_age_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_age_chs_t",
-              "number": 38,
+              "number": 37,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59282,7 +59272,7 @@
             {
               "name": "desc_age_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_age_jp",
-              "number": 39,
+              "number": 38,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59291,7 +59281,7 @@
             {
               "name": "desc_age_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_age_en",
-              "number": 40,
+              "number": 39,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59300,7 +59290,7 @@
             {
               "name": "desc_age_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_age_kr",
-              "number": 41,
+              "number": 40,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59309,7 +59299,7 @@
             {
               "name": "desc_bloodtype_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_bloodtype_chs",
-              "number": 42,
+              "number": 41,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59318,7 +59308,7 @@
             {
               "name": "desc_bloodtype_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_bloodtype_chs_t",
-              "number": 43,
+              "number": 42,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59327,7 +59317,7 @@
             {
               "name": "desc_bloodtype_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_bloodtype_jp",
-              "number": 44,
+              "number": 43,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59336,7 +59326,7 @@
             {
               "name": "desc_bloodtype_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_bloodtype_en",
-              "number": 45,
+              "number": 44,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59345,7 +59335,7 @@
             {
               "name": "desc_bloodtype_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_bloodtype_kr",
-              "number": 46,
+              "number": 45,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59354,7 +59344,7 @@
             {
               "name": "desc_cv_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_cv_chs",
-              "number": 47,
+              "number": 46,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59363,7 +59353,7 @@
             {
               "name": "desc_cv_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_cv_chs_t",
-              "number": 48,
+              "number": 47,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59372,7 +59362,7 @@
             {
               "name": "desc_cv_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_cv_jp",
-              "number": 49,
+              "number": 48,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59381,7 +59371,7 @@
             {
               "name": "desc_cv_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_cv_en",
-              "number": 50,
+              "number": 49,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59390,7 +59380,7 @@
             {
               "name": "desc_cv_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_cv_kr",
-              "number": 51,
+              "number": 50,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59399,7 +59389,7 @@
             {
               "name": "desc_hobby_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_hobby_chs",
-              "number": 52,
+              "number": 51,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59408,7 +59398,7 @@
             {
               "name": "desc_hobby_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_hobby_chs_t",
-              "number": 53,
+              "number": 52,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59417,7 +59407,7 @@
             {
               "name": "desc_hobby_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_hobby_jp",
-              "number": 54,
+              "number": 53,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59426,7 +59416,7 @@
             {
               "name": "desc_hobby_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_hobby_en",
-              "number": 55,
+              "number": 54,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59435,7 +59425,7 @@
             {
               "name": "desc_hobby_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_hobby_kr",
-              "number": 56,
+              "number": 55,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59444,7 +59434,7 @@
             {
               "name": "desc_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_chs",
-              "number": 57,
+              "number": 56,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59453,7 +59443,7 @@
             {
               "name": "desc_item_chs",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_item_chs",
-              "number": 58,
+              "number": 57,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59462,7 +59452,7 @@
             {
               "name": "desc_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_chs_t",
-              "number": 59,
+              "number": 58,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59471,7 +59461,7 @@
             {
               "name": "desc_item_chs_t",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_item_chs_t",
-              "number": 60,
+              "number": 59,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59480,7 +59470,7 @@
             {
               "name": "desc_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_jp",
-              "number": 61,
+              "number": 60,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59489,7 +59479,7 @@
             {
               "name": "desc_item_jp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_item_jp",
-              "number": 62,
+              "number": 61,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59498,7 +59488,7 @@
             {
               "name": "desc_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_en",
-              "number": 63,
+              "number": 62,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59507,7 +59497,7 @@
             {
               "name": "desc_item_en",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_item_en",
-              "number": 64,
+              "number": 63,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59516,7 +59506,7 @@
             {
               "name": "desc_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_kr",
-              "number": 65,
+              "number": 64,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59525,7 +59515,7 @@
             {
               "name": "desc_item_kr",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.desc_item_kr",
-              "number": 66,
+              "number": 65,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59534,7 +59524,7 @@
             {
               "name": "collaboration",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.collaboration",
-              "number": 67,
+              "number": 66,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59543,7 +59533,7 @@
             {
               "name": "region_limit",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.region_limit",
-              "number": 68,
+              "number": 67,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59552,7 +59542,7 @@
             {
               "name": "skin_lib",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.skin_lib",
-              "number": 69,
+              "number": 68,
               "label": "repeated",
               "type": "uint32",
               "type_code": 13,
@@ -59561,7 +59551,7 @@
             {
               "name": "ur",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.ur",
-              "number": 70,
+              "number": 69,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59570,7 +59560,7 @@
             {
               "name": "ur_ron",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.ur_ron",
-              "number": 71,
+              "number": 70,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59579,7 +59569,7 @@
             {
               "name": "ur_liqi",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.ur_liqi",
-              "number": 72,
+              "number": 71,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59588,7 +59578,7 @@
             {
               "name": "ur_cutin",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.ur_cutin",
-              "number": 73,
+              "number": 72,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -59597,7 +59587,7 @@
             {
               "name": "limited",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.limited",
-              "number": 74,
+              "number": 73,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59606,7 +59596,7 @@
             {
               "name": "treasure_sp",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.treasure_sp",
-              "number": 75,
+              "number": 74,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -59615,7 +59605,7 @@
             {
               "name": "blink",
               "full_name": ".lqc.Sheet_ItemDefinition_Character.blink",
-              "number": 76,
+              "number": 75,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -61283,18 +61273,9 @@
               "raw_type_ref": null
             },
             {
-              "name": "hand_version",
-              "full_name": ".lqc.Sheet_ItemDefinition_View.hand_version",
+              "name": "new_hand",
+              "full_name": ".lqc.Sheet_ItemDefinition_View.new_hand",
               "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "seat_related",
-              "full_name": ".lqc.Sheet_ItemDefinition_View.seat_related",
-              "number": 8,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -62872,15 +62853,6 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
-            },
-            {
-              "name": "hide_direction",
-              "full_name": ".lqc.Sheet_OutfitConfig_Liqi.hide_direction",
-              "number": 2,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -62983,407 +62955,6 @@
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_QuestCrew_QcCharacterPool",
-          "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool",
-          "fields": [
-            {
-              "name": "id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "character_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.character_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "sta",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.sta",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "str",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.str",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "spd",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.spd",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "luc",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.luc",
-              "number": 6,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "effect",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.effect",
-              "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "show_in_market",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.show_in_market",
-              "number": 8,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "hiring_price",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.hiring_price",
-              "number": 9,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "item_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.item_id",
-              "number": 10,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "name",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.name",
-              "number": 11,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "skill",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.skill",
-              "number": 12,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "npc_code",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.npc_code",
-              "number": 13,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "display_change",
-              "full_name": ".lqc.Sheet_QuestCrew_QcCharacterPool.display_change",
-              "number": 14,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_QuestCrew_QcEffect",
-          "full_name": ".lqc.Sheet_QuestCrew_QcEffect",
-          "fields": [
-            {
-              "name": "id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcEffect.id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "type",
-              "full_name": ".lqc.Sheet_QuestCrew_QcEffect.type",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "args",
-              "full_name": ".lqc.Sheet_QuestCrew_QcEffect.args",
-              "number": 3,
-              "label": "repeated",
-              "type": "int32",
-              "type_code": 5,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_QuestCrew_QcInfo",
-          "full_name": ".lqc.Sheet_QuestCrew_QcInfo",
-          "fields": [
-            {
-              "name": "id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "character_pool_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.character_pool_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "quest_pool_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.quest_pool_id",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "refresh_market_price",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.refresh_market_price",
-              "number": 4,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "market_count",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.market_count",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "character_charging_price",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.character_charging_price",
-              "number": 6,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "great_success_effect_ceo",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.great_success_effect_ceo",
-              "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "great_success_ceo",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.great_success_ceo",
-              "number": 8,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "init_character_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcInfo.init_character_id",
-              "number": 9,
-              "label": "repeated",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_QuestCrew_QcQuestPool",
-          "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool",
-          "fields": [
-            {
-              "name": "id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "quest_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.quest_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "sort",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.sort",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "type",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.type",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "str",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.str",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "spd",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.spd",
-              "number": 6,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "luc",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.luc",
-              "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "unlock_days",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.unlock_days",
-              "number": 8,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "consume",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.consume",
-              "number": 9,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "rewards",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.rewards",
-              "number": 10,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "client",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.client",
-              "number": 11,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "character_id",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.character_id",
-              "number": 12,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "client_name",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.client_name",
-              "number": 13,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "quest_desc",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.quest_desc",
-              "number": 14,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "npc_code",
-              "full_name": ".lqc.Sheet_QuestCrew_QcQuestPool.npc_code",
-              "number": 15,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
               "raw_type_ref": null
             }
           ],
@@ -63771,227 +63342,6 @@
           "nested_messages": []
         },
         {
-          "name": "Sheet_Shoot_ShootEnemy",
-          "full_name": ".lqc.Sheet_Shoot_ShootEnemy",
-          "fields": [
-            {
-              "name": "group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.group_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "enemy_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.enemy_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "hp",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.hp",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.reward_group_id",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "x",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.x",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "y",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.y",
-              "number": 6,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "width",
-              "full_name": ".lqc.Sheet_Shoot_ShootEnemy.width",
-              "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Shoot_ShootInfo",
-          "full_name": ".lqc.Sheet_Shoot_ShootInfo",
-          "fields": [
-            {
-              "name": "activity_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootInfo.activity_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "missions_group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootInfo.missions_group_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "level_count",
-              "full_name": ".lqc.Sheet_Shoot_ShootInfo.level_count",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "bullet_item_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootInfo.bullet_item_id",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Shoot_ShootMission",
-          "full_name": ".lqc.Sheet_Shoot_ShootMission",
-          "fields": [
-            {
-              "name": "group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootMission.group_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "level",
-              "full_name": ".lqc.Sheet_Shoot_ShootMission.level",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "enemy_group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootMission.enemy_group_id",
-              "number": 3,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Shoot_ShootReward",
-          "full_name": ".lqc.Sheet_Shoot_ShootReward",
-          "fields": [
-            {
-              "name": "group_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.group_id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.reward_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.reward",
-              "number": 3,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_level",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.reward_level",
-              "number": 4,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "star_num",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.star_num",
-              "number": 5,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "reward_merge",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.reward_merge",
-              "number": 6,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "activity_id",
-              "full_name": ".lqc.Sheet_Shoot_ShootReward.activity_id",
-              "number": 7,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
           "name": "Sheet_Shops_Goods",
           "full_name": ".lqc.Sheet_Shops_Goods",
           "fields": [
@@ -64338,41 +63688,6 @@
               "name": "item_info",
               "full_name": ".lqc.Sheet_Shops_ItemPackage.item_info",
               "number": 2,
-              "label": "optional",
-              "type": "string",
-              "type_code": 9,
-              "raw_type_ref": null
-            }
-          ],
-          "nested_enums": [],
-          "nested_messages": []
-        },
-        {
-          "name": "Sheet_Shops_SelectedPackage",
-          "full_name": ".lqc.Sheet_Shops_SelectedPackage",
-          "fields": [
-            {
-              "name": "id",
-              "full_name": ".lqc.Sheet_Shops_SelectedPackage.id",
-              "number": 1,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "goods_id",
-              "full_name": ".lqc.Sheet_Shops_SelectedPackage.goods_id",
-              "number": 2,
-              "label": "optional",
-              "type": "uint32",
-              "type_code": 13,
-              "raw_type_ref": null
-            },
-            {
-              "name": "price",
-              "full_name": ".lqc.Sheet_Shops_SelectedPackage.price",
-              "number": 3,
               "label": "optional",
               "type": "string",
               "type_code": 9,
@@ -75549,7 +74864,7 @@
     }
   ],
   "module_count": 11,
-  "message_count": 1592,
+  "message_count": 1585,
   "enum_count": 2,
-  "field_count": 6925
+  "field_count": 6855
 }

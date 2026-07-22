@@ -3061,33 +3061,33 @@
   },
   {
     "chest_id": 1004,
-    "item_id": 308011,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1004,
-    "item_id": 308012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1004,
-    "item_id": 308013,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1004,
-    "item_id": 308014,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1004,
-    "item_id": 308015,
+    "item_id": 305806,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1004,
@@ -3865,33 +3865,33 @@
   },
   {
     "chest_id": 1005,
-    "item_id": 308011,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1005,
-    "item_id": 308012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1005,
-    "item_id": 308013,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1005,
-    "item_id": 308014,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1005,
-    "item_id": 308015,
+    "item_id": 305806,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1005,
@@ -4549,33 +4549,33 @@
   },
   {
     "chest_id": 1006,
-    "item_id": 308011,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1006,
-    "item_id": 308012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1006,
-    "item_id": 308013,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1006,
-    "item_id": 308014,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1006,
-    "item_id": 308015,
+    "item_id": 305806,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1006,
@@ -5233,33 +5233,33 @@
   },
   {
     "chest_id": 1007,
-    "item_id": 308011,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1007,
-    "item_id": 308012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1007,
-    "item_id": 308013,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1007,
-    "item_id": 308014,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1007,
-    "item_id": 308015,
+    "item_id": 305806,
     "type": "skin",
-    "check_activity": 260611
+    "check_activity": 260711
   },
   {
     "chest_id": 1007,
@@ -6025,27 +6025,33 @@
   },
   {
     "chest_id": 1008,
-    "item_id": 30560008,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1008,
-    "item_id": 30580019,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1008,
-    "item_id": 30570010,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1008,
-    "item_id": 30610006,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1008,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1008,
@@ -6811,27 +6817,33 @@
   },
   {
     "chest_id": 1009,
-    "item_id": 30560008,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1009,
-    "item_id": 30580019,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1009,
-    "item_id": 30570010,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1009,
-    "item_id": 30610006,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1009,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1009,
@@ -7477,27 +7489,33 @@
   },
   {
     "chest_id": 1010,
-    "item_id": 30560008,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1010,
-    "item_id": 30580019,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1010,
-    "item_id": 30570010,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1010,
-    "item_id": 30610006,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1010,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1010,
@@ -8143,27 +8161,33 @@
   },
   {
     "chest_id": 1011,
-    "item_id": 30560008,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1011,
-    "item_id": 30580019,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1011,
-    "item_id": 30570010,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
   },
   {
     "chest_id": 1011,
-    "item_id": 30610006,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260541
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1011,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1011,
@@ -8929,27 +8953,33 @@
   },
   {
     "chest_id": 1012,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1012,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1012,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1012,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1012,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1012,
@@ -9715,27 +9745,33 @@
   },
   {
     "chest_id": 1013,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1013,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1013,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1013,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1013,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1013,
@@ -10381,27 +10417,33 @@
   },
   {
     "chest_id": 1014,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1014,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1014,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1014,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1014,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1014,
@@ -11047,27 +11089,33 @@
   },
   {
     "chest_id": 1015,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1015,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1015,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1015,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1015,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1015,
@@ -11833,27 +11881,33 @@
   },
   {
     "chest_id": 1016,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1016,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1016,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1016,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1016,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1016,
@@ -12619,27 +12673,33 @@
   },
   {
     "chest_id": 1017,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1017,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1017,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1017,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1017,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1017,
@@ -13285,27 +13345,33 @@
   },
   {
     "chest_id": 1018,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1018,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1018,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1018,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1018,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1018,
@@ -13951,27 +14017,33 @@
   },
   {
     "chest_id": 1019,
-    "item_id": 30520012,
+    "item_id": 305213,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1019,
-    "item_id": 30530012,
+    "item_id": 305313,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1019,
-    "item_id": 30580027,
+    "item_id": 305610,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
   },
   {
     "chest_id": 1019,
-    "item_id": 30570017,
+    "item_id": 305705,
     "type": "skin",
-    "check_activity": 260211
+    "check_activity": 260711
+  },
+  {
+    "chest_id": 1019,
+    "item_id": 305806,
+    "type": "skin",
+    "check_activity": 260711
   },
   {
     "chest_id": 1019,

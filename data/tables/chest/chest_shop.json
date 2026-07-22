@@ -8772,6 +8772,96 @@
     }
   },
   {
+    "id": 1516,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 305213,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌-疾月斩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1517,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 305313,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直-风华斩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1518,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 305610,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-喵切丸",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1519,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 305705,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "牌背-鬼煤球",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1520,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 305806,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "桌布-勇喵传说",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
     "id": 1999,
     "chest_id": 1000,
     "icon": "extendRes/items/wishstone.jpg",
@@ -17556,6 +17646,96 @@
     "sort": 1005,
     "name": {
       "chs": "牌背-双鹫纹章",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3516,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 305213,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌-疾月斩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3517,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 305313,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直-风华斩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3518,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 305610,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-喵切丸",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3519,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 305705,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "牌背-鬼煤球",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3520,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 305806,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260711,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "桌布-勇喵传说",
       "chs_t": "",
       "jp": "",
       "en": ""

@@ -814,6 +814,10 @@ message ReqFetchCustomizedContestOnlineInfo {
   uint32 unique_id = 1;
 }
 
+message ReqFetchDailySignActivityData {
+  repeated uint32 activity_id_list = 1;
+}
+
 message ReqFetchFriendGiftActivityData {
   uint32 activity_id = 1;
   repeated uint32 account_list = 2;
@@ -2821,6 +2825,28 @@ message ResFetchCustomizedContestList {
 message ResFetchCustomizedContestOnlineInfo {
   .lq.Error error = 1;
   uint32 online_player = 2;
+}
+
+message ResFetchDailySignActivityData {
+
+  message DailySignActivityReward {
+    uint32 id = 1;
+    uint32 count = 2;
+  }
+
+  message DailySignActivityDay {
+    uint32 day = 1;
+    repeated .lq.ResFetchDailySignActivityData.DailySignActivityReward rewards = 2;
+  }
+
+  message DailySignActivityData {
+    uint32 activity_id = 1;
+    repeated .lq.ResFetchDailySignActivityData.DailySignActivityDay days = 2;
+    uint32 type = 3;
+  }
+
+  .lq.Error error = 1;
+  repeated .lq.ResFetchDailySignActivityData.DailySignActivityData activity_list = 2;
 }
 
 message ResFetchFriendGiftActivityData {

@@ -1,0 +1,267 @@
+
+51:player
+588:Wings Untethered
+589:Host
+596:Doctor
+598:Reina Nanami
+610:Staff
+617:What do you mean?
+726:I'd love to.
+834:Oh...!
+897:Physical Therapist
+988:???
+1065:...
+1085:I'll be here for you, Reina. Always.
+1093:Here's some warm milk to help you relax and recharge.
+1102:Physical Therapist
+1106:Care for a dance, Miss Nanami?
+1111:Umm...
+1124:How did you come up with this?
+1145:Hope I didn't keep you too long!
+1146:Congratulations, Reina.
+1149:{var:player_nickname}, there's something... I'd like to ask.
+1150:Could you...
+1153:I'd be honored.
+1221:Thank god you're okay... you're... really okay...!
+1223:Sorry. I didn't mean to scare you like that.
+1233:She glances back at me, her face rosy, a smile touched with tears.
+1241:I was going to give her this painting when the competition ended.
+1349:What is it?
+1365:(Run after it)
+1367:Wait here!
+1376:...?!
+1377:Following {var:player_nickname}'s yelp, the muffled thud of someone falling comes from down the slope.
+1381:{var:player_nickname}?!
+1389:(If I could... stand up?)
+1391:(Would it change everything?)
+1394:Yes... I can do this...
+1395:I won't let it happen...
+1397:Not ever! I will NOT let anything happen to {var:player_nickname}!!
+1399:"Care for a dance, Miss Nanami?"
+1409:Ouch...
+1412:...{var:player_nickname}!
+1413:Wait, is that Reina?
+1414:Oh no, did something happen to Reina?!
+1415:(Rush back immediately)
+1416:I run back up the slope faster than I ever thought possible.
+1420:{var:player_nickname}!!
+1444:Do you want me to go get it?
+1456:Eh?
+1461:Ladies and gentlemen, this finalist is about to present a coffee crafted using a unique technique passed down from her parents –
+1462:The air tastes of new spring and fresh coffee.//nSitting in the audience, I keep my gaze fixed on the girl under the spotlight.
+1463:And there is Reina, gently polishing her gooseneck kettle.//nHer long lashes catch the light, casting tiny shadows. The noise of the crowd, the weight of this moment... none of it seems to reach her.
+1464:Nobody else knows what she went through – all the obstacles she overcame just to stand here today.
+1465:Two months ago.
+1466:With the truth of the accident finally laid bare, Reina made two decisions.//nThe first was to restart the physical therapy she'd once abandoned.
+1467:Miss Nanami, I have to say, you really surprised me. You came in on your own and asked for a full checkup. There's something different in your eyes. I'm so happy for you.
+1468:Umm... thank you, Doctor. Things have... really changed lately.
+1469:So, what I really came for... is to know the truth. The real truth.
+1470:My legs... Is it still possible for me to stand?//nWhatever you tell me, I'll be okay with it.
+1471:Relax. Just like all your previous checkups, your nerves and muscles are at normal levels.//nPhysically, there's no reason you can't stand. You just need to train and break through that mental barrier.
+1472:Mental barrier?
+1473:Yes. Subconsciously, you've grown reliant on the wheelchair. It's become your safety net. In my experience, what breaks that cycle is almost always a sudden, powerful emotional trigger.
+1474:In other words, you need a trigger so intense that your desire to stand overpowers your fear. And to be perfectly honest, experiencing a moment like that takes a bit of luck.
+1475:We can't just wait for that to happen, though.//nStarting now, consistent physical rehab is how you'll build up every bit of strength you can, so when that moment arrives, you'll be ready.
+1476:I understand.
+1477:Thank you, Doctor. I'll push through every bit of it, no matter how hard it gets.
+1478:And her second decision? To enter the City Brewers Cup.
+1479:Oh! Aren't you the manager of Éternité? You're competing in this too?!
+1480:Sorry, I got a bit excited! I'm a regular at your place, actually. Your coffee is incredible.
+1481:Oh, that's so kind of you!
+1482:However... compared to the other competitors, you might be at a bit of a disadvantage given your circumstances... Are you sure about this?
+1483:Umm... I suppose I really am at a disadvantage.
+1486:Does competing in a wheelchair make a difference?
+1487:Oh, because making pour-over coffee needs really steady hands when you're pouring.
+1488:Usually, when standing, you use your entire core to keep the water flow steady. But sitting down... you're relying entirely on arm strength, which makes it much harder to keep the kettle from shaking. If your pour isn't stable, the coffee suffers.
+1489:Exactly... the fact that you can make coffee that good while seated is already remarkable. But to go up against standing baristas...
+1490:I know.
+1491:But... if I let the odds stop me from even trying, then I haven't really changed at all, have I?
+1492:The harder it is, the more every little success will mean to me. That's exactly why I need to compete.
+1493:I'm sure about this. Sign me up!
+1494:They kept telling her she needed luck, that her chances were slim... but none of it ever seemed to faze her.
+1495:Instead, she threw herself into a grueling training routine.
+1496:Aren't you pushing yourself too hard with both the competition and rehab?
+1497:We don't have to rush this, you know.
+1498:Reina was focused on her pour-over. She paused for a tiny moment when she heard me, but kept going.
+1499:The stream held steady as it swirled into the dripper, filling the room with a deep, rich aroma. When the pour was complete, she finally set the gooseneck kettle down gently.
+1500:{var:player_nickname}, thanks for worrying about me.
+1501:The old me would have already run off to cry somewhere by now.
+1502:But I'm not her anymore.
+1503:Let me show you something.
+1504:From the very back of a drawer behind the counter, she pulled out an elegant card and handed it to me.
+1505:It was a greeting card with pretty handwriting that had faded a bit with time.
+1506:..."May you find eternal happiness, Reina."//nIs this... from your parents?
+1507:Yeah. It was the year Éternité opened. I was four years old, and they wrote this for me.
+1508:When you helped me find the truth... I could finally bring myself to open up their things. This card was waiting in a photo album.
+1509:"Éternité"... eternity.
+1510:All they wanted was for you to be happy.
+1511:Mm. Being at Éternité all these years... I think I finally understand the meaning behind the name.
+1512:My parents' wish was for me to always be happy. But {var:player_nickname}... you're the one who gave me the courage to love again, and to let myself be loved.
+1513:I won't let this wish for "eternity" go unanswered... and I won't let you down either. Not anymore.
+1514:I want to stand. I want to compete. And that's not just for them.
+1515:It's for me, too. I want a new start, one that doesn't have to carry the past.
+1516:As for whether doing both of these at the same time is too much...
+1517:Making coffee is what I love most, anyway! There's really no better way to shake off the stress of rehab.//nBesides, building up my core in physical therapy is only going to make my pours even steadier.
+1518:So yeah... it's going to take a lot more than this to keep me down!
+1519:She gave me a bright, shining smile, full of nothing but determination.
+1520:{var:player_nickname}, will you stay with me through all of this?
+1521:Of course. I'll be right here.
+1522:Thank you!
+1523:Then let's do this!
+1524:From that day forward, Éternité after closing hours became our secret training ground.
+1525:I can't believe how much you've improved in just a week. You're seriously talented.
+1526:Wait – {var:player_nickname}! When did you record that?! That's so embarrassing!
+1527:(softly) It's not talent. I just... don't want to let you down. Or my parents.
+1528:Well then, I think you've earned a reward –
+1529:I have a surprise gift I've been working on for you, Reina.
+1530:Hehe, thank you!
+1531:Wait, what gift?!
+1532:That's a secret for now. You'll find out when the competition's over.
+1533:How about we start with some warm milk to help you relax and recharge?
+1534:Ugh...! You always leave me hanging like that!
+1535:But... I promise I'll give it everything I've got.
+1536:50 Days to City Brewers Cup
+1537:Reina, if this is too much for your body, we can skip the standing exercises for today.
+1538:I'm... I'm fine... Just give me a second... to get ready...
+1539:It's okay. Just take my hand.
+1540:Wh-what? This doesn't count as dancing...!
+1541:Hehe, when there's someone you trust to lean on, your body relaxes on its own.
+1542:Blushing, Reina placed her hand in mine. I braced myself and gently pulled her up.
+1543:She was standing, yes. But she was leaning her full weight against me.
+1544:But... somehow, I feel twice as strong right now.
+1545:Can we... stay in this dance... just a little longer?
+1546:20 Days to City Brewers Cup
+1547:Okay... just a little more control...
+1548:Final touch... a sprinkle of golden turmeric powder...
+1549:Ta-da! It's done!
+1550:Wow, that's the one, isn't it?
+1551:You've trained hard today, Reina. Time for a break.
+1552:You'll have to be the judge of that, {var:player_nickname}!
+1553:I figured you would say that, {var:player_nickname}. Here, I made this for you!
+1554:She placed the beautifully crafted drink and a slice of cake in front of me.
+1555:Hehe, this one's a winter special I made just for you, {var:player_nickname}. No coffee involved!
+1556:You've kept me company this late. You must be hungry. Please, enjoy it with this chocolate cake!
+1557:(Try it)
+1558:It's really sweet. I can taste the care you put into this.
+1559:Oh... I... th-thank you...
+1560:...If you enjoy it, that's all that counts.
+1561:Hehe... it's you, {var:player_nickname}. To me... you just have this warm, brilliant energy. It's so comforting to be around you.
+1562:Through all those days together, winter melted into spring. And then, the competition was here.
+1563:In most cases, brewing from a seated position makes it incredibly hard to control the water flow because you lose the stability of your core. That usually risks an uneven extraction.
+1564:But just look at Reina Nanami! She's pushed past those limits. Her focus and muscle memory are absolutely incredible, and she is giving us a flawless performance. You do not reach this level of stability without endless, grueling practice!
+1565:For her coffee, she chose a high-altitude, sun-dried heirloom variety. These beans are packed with bold, untamed fruit and floral notes, and they are infamously difficult to work with.
+1566:However, her precise pulse pouring brought out the bright acidity and delicate florals right from the start. Then she eased off to build more sweetness and body... Beautiful. Absolutely beautiful!
+1567:Ladies and gentlemen, please give it up for the winner of our Rising Star Award... Miss Reina Nanami from Éternité! Such a phenomenal young talent, already displaying skill and taste well beyond her years. She is truly destined for greatness!
+1568:The audience bursts into applause.
+1569:She did it! It may not be the top prize, but this award means more to her than anything.
+1570:Me...?
+1571:That's right, yes, you! Don't look so surprised! Miss Nanami, would you like to say a few words?
+1572:Thank you, everyone... And thank you to all the judges.
+1573:Most of all, I want to thank my mom and dad. Even though they aren't here today, they have always been my guiding light...
+1574:And finally... there is someone very special to me...
+1575:You stayed by my side through my darkest days, and you showed me that as long as I never give up, there's always hope.
+1576:So this award is just as much yours as it is mine. Thank you, {var:player_nickname}.
+1577:Thank you for saying those things about me on stage.
+1578:To be honest... being able to say what I really feel out loud makes me even happier than winning the award.
+1579:...come with me to visit my parents?
+1580:I want to bring this award to them myself... and tell them everything that I've been holding in my heart all this time.
+1581:It's just up ahead.
+1582:Alright.
+1583:A muted early spring sky hangs overhead. The cemetery is cool and moist, with trees whispering in the wind.//nGently, I push Reina toward the spot where her parents lie at rest.
+1584:Wait... hold on.
+1585:{var:player_nickname}, I'm kind of nervous.//nH-how do I look right now? Do you think... they'd be happy seeing me like this?
+1586:You've never looked better, Reina.
+1587:They'd be so, so proud of you.
+1588:Mm...
+1589:She takes a deep breath and looks down, gently running her fingers over the award certificate in her hands.
+1590:...I was hoping that when I came to see them after the competition, I would be fully recovered.
+1591:I'm not quite there yet, but...
+1592:The doctor said I've already come so far... I'm going to keep going. I promise.
+1593:And I'll be right there with you.
+1594:Umm... I think it's going to rain...
+1595:Okay, I'm not nervous now. Let's go.
+1596:Ah!
+1597:A sudden gust of wind, damp with oncoming rain, rushes straight at us.
+1598:Nooo!
+1599:The certificate slips from her hands, flies down the slope beside the steps, and disappears from sight in an instant.
+1600:(Discuss with Reina)
+1601:Without a second thought, I sprint down the slope –
+1602:Before Reina can even react, {var:player_nickname} is already sprinting down the slope.
+1603:Soon, {var:player_nickname} vanishes completely from her sight.
+1604:{var:player_nickname}... be careful...!
+1605:The rain finally breaks, lashing the branches. Reina's heart hammers in her chest.//nThe wait is agonizing.
+1606:She grips her wheelchair until her knuckles turn white, eyes locked on the exact spot where {var:player_nickname} disappeared.
+1607:And then, suddenly –
+1608:Ah!
+1609:Though faint, the sound explodes in Reina's ears like a clap of thunder.
+1610:{var:player_nickname}? What happened?!
+1611:...
+1612:There is no answer. Just the wind and the rain hissing through the air.
+1613:Please, no...
+1614:This can't be happening...
+1615:The memories come flooding back.
+1616:The shadow of her past – the one she thought she'd escaped – swallows her whole again.
+1617:(It's my fault. It's happening again because of me.)
+1618:(If I hadn't come here today... If I could just... stand up and run after it on my own...)
+1619:(If I could... stand up... right now...)
+1620:That's right. Reina, you need to calm down. You're not that helpless little girl anymore.
+1621:You can't run from this. You have to protect... the ones you care about!
+1622:Not this time...
+1623:"It's okay. Just take my hand."
+1624:Words overflowing with love and encouragement surface from the depths of her memory.
+1625:The warmth of their time together breaks through the fear in her heart, like sunlight cutting through dark clouds.
+1626:A fierce, burning strength, unlike anything she'd ever felt, surges up from deep within.
+1627:With trembling hands, Reina tries to push herself up from the armrests.
+1628:She slams onto the cold, muddy ground.//nHer legs, still weak, buckle uselessly beneath her.
+1629:But she doesn't cry. She doesn't even feel the pain.
+1630:Fear, guilt, love, courage... it all comes together into one single thought –
+1631:"I have to get there."
+1632:"I have to bring {var:player_nickname} back!!"
+1633:(I rushed too fast, slipped like an idiot. At least nothing's broken.)
+1634:(But I got it, her certificate. It's okay now.)
+1635:What I see next is something I'll never forget for the rest of my life.
+1636:Reina's thin, frail body wavers as if she'd collapse any second, yet she keeps moving toward me, one stubborn step at a time.
+1637:She looks up and meets my eyes.
+1638:Reina!
+1639:Right before she collapses, I lunge forward and catch her, wrapping my arms around her as tightly as I can.
+1640:Oh, thank god.
+1641:Yeah, I'm okay. I'm right here.
+1642:I can feel her trembling in my arms, and beneath that tremor, her legs straining, trying to support just a little of her own weight.
+1643:Reina... look. You're standing right now.
+1644:Uhh... I-I'm standing...?
+1645:The rain stops without either of us noticing.
+1646:Sunlight breaks through the heavy clouds, bathing the world in a soft, golden glow as a rainbow arches across the sky.
+1647:After catching our breath, I steadily help Reina walk the rest of the way to her parents' grave.
+1648:With great care, she places the certificate – a little wet, but perfectly intact – in front of the headstone.
+1649:Dad... Mom... It's Reina. I got my first barista award! Pretty cool, right?
+1650:And... this is {var:player_nickname}.
+1651:I'm doing well now... and I'm really happy. So please, you don't have to worry about me anymore.
+1652:Seemingly out of nowhere, a beautiful butterfly lands softly on the headstone. It rests for a moment before fluttering up into the bright, clear sky.
+1653:She laughs, even as the tears still shine in her eyes.
+1654:...I hear you. Thank you for your blessing, Dad, Mom.
+1655:As we leave, her walking is much steadier with my support.//nShe still leans on me, but she's taking every step on her own.
+1656:Reina, remember that surprise I told you about?
+1657:I take the gift I'd prepared out of my bag.
+1658:It's the flower spirit painting, but remade. The things that had trapped the flower spirit are now gone, and the spirit is finally... smiling.
+1659:This is a new portrait for you. The real you.
+1660:Reina, you can fly anywhere you want now, on your own wings.
+1661:And I'll always be right there beside you.
+1662:Reina doesn't say anything. Looking deep into my eyes, she gives a warm smile and gently holds out her hand.
+1663:Together, you and me!
+1664:Reina, I think it went all the way down to the bottom of the slope. I can't see where it landed from here.
+1665:No, don't. Really, it's just... a piece of paper. Mom and Dad will still hear me without it.
+1666:I'd much rather you stay safe than get hurt over this...
+1667:Though she says that, I can clearly see the disappointment in Reina's face.
+1668:It's okay, I'll be careful.
+1669:It might take a while. Wait here for me.
+1670:I reassure her before finding a safer path down. A short search later, I finally spot the certificate.
+1671:...Thank you, {var:player_nickname}.
+1672:Her tight grip on the wheelchair finally relaxes.
+1673:I step back, giving her space for a quiet moment with her parents.
+1674:On the way home, she's quieter than usual, but her eyes are more determined than ever.
+1675:{var:player_nickname}, I've made up my mind. Starting tomorrow, I'm pushing myself twice as hard in rehab.
+1676:Not just so you won't have to take risks for me... it's for me, too.
+1677:I don't want to live with any more "what-ifs." I want to stand beside the people I care about, on my own two feet.
+1678:And when I do... you'll be the first to know!
+1679:I know you will. I'll be waiting.
+1680:Her legs have yet to heal, but her spirit has already taken flight toward tomorrow.

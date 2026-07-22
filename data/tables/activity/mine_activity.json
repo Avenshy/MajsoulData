@@ -47,5 +47,12 @@
     "cost_item": "309037-1",
     "map_size_x": 9,
     "map_size_y": 9
+  },
+  {
+    "activity_id": 260702,
+    "reward_group": 260702,
+    "cost_item": "309037-1",
+    "map_size_x": 9,
+    "map_size_y": 9
   }
 ]

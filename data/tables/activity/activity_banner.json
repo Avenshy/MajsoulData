@@ -548,5 +548,27 @@
     "banner_left_selected": null,
     "banner_left_icon": null,
     "time_remind": null
+  },
+  {
+    "id": 260701,
+    "sort": 143,
+    "banner_type": 2,
+    "enter_icon": null,
+    "banner_big": "ui/activity/lobby/banner_tab/pic/26huanxiang1_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/26huanxiang1.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
+  },
+  {
+    "id": 260702,
+    "sort": 142,
+    "banner_type": 2,
+    "enter_icon": null,
+    "banner_big": "ui/activity/lobby/banner_tab/pic/26huanxiang2_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/26huanxiang2.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
   }
 ]

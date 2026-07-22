@@ -700,6 +700,41 @@
     "type": null
   },
   {
+    "id": 205,
+    "path": "ui/spot/audio/qihailinai_01",
+    "time_length": null,
+    "str": "风铃",
+    "type": null
+  },
+  {
+    "id": 206,
+    "path": "ui/spot/audio/qihailinai_02",
+    "time_length": null,
+    "str": "风声",
+    "type": null
+  },
+  {
+    "id": 207,
+    "path": "ui/spot/audio/qihailinai_03",
+    "time_length": null,
+    "str": "机械卡顿",
+    "type": null
+  },
+  {
+    "id": 208,
+    "path": "ui/spot/audio/qihailinai_04",
+    "time_length": null,
+    "str": "急速",
+    "type": null
+  },
+  {
+    "id": 209,
+    "path": "ui/spot/audio/qihailinai_05",
+    "time_length": null,
+    "str": "摔倒",
+    "type": null
+  },
+  {
     "id": 1001,
     "path": "ui/spot/audio/yiliyase01",
     "time_length": null,
@@ -970,6 +1005,13 @@
     "path": "ui/spot/audio/sea_wave",
     "time_length": null,
     "str": "环境音-海浪声",
+    "type": 2
+  },
+  {
+    "id": 20006,
+    "path": "ui/spot/audio/cheer",
+    "time_length": null,
+    "str": "环境音-演唱会欢呼",
     "type": 2
   }
 ]

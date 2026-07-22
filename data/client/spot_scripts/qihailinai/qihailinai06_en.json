@@ -1,0 +1,1066 @@
+[
+  {
+    "line": 51,
+    "text": "player"
+  },
+  {
+    "line": 588,
+    "text": "Wings Untethered"
+  },
+  {
+    "line": 589,
+    "text": "Host"
+  },
+  {
+    "line": 596,
+    "text": "Doctor"
+  },
+  {
+    "line": 598,
+    "text": "Reina Nanami"
+  },
+  {
+    "line": 610,
+    "text": "Staff"
+  },
+  {
+    "line": 617,
+    "text": "What do you mean?"
+  },
+  {
+    "line": 726,
+    "text": "I'd love to."
+  },
+  {
+    "line": 834,
+    "text": "Oh...!"
+  },
+  {
+    "line": 897,
+    "text": "Physical Therapist"
+  },
+  {
+    "line": 988,
+    "text": "???"
+  },
+  {
+    "line": 1065,
+    "text": "..."
+  },
+  {
+    "line": 1085,
+    "text": "I'll be here for you, Reina. Always."
+  },
+  {
+    "line": 1093,
+    "text": "Here's some warm milk to help you relax and recharge."
+  },
+  {
+    "line": 1102,
+    "text": "Physical Therapist"
+  },
+  {
+    "line": 1106,
+    "text": "Care for a dance, Miss Nanami?"
+  },
+  {
+    "line": 1111,
+    "text": "Umm..."
+  },
+  {
+    "line": 1124,
+    "text": "How did you come up with this?"
+  },
+  {
+    "line": 1145,
+    "text": "Hope I didn't keep you too long!"
+  },
+  {
+    "line": 1146,
+    "text": "Congratulations, Reina."
+  },
+  {
+    "line": 1149,
+    "text": "{var:player_nickname}, there's something... I'd like to ask."
+  },
+  {
+    "line": 1150,
+    "text": "Could you..."
+  },
+  {
+    "line": 1153,
+    "text": "I'd be honored."
+  },
+  {
+    "line": 1221,
+    "text": "Thank god you're okay... you're... really okay...!"
+  },
+  {
+    "line": 1223,
+    "text": "Sorry. I didn't mean to scare you like that."
+  },
+  {
+    "line": 1233,
+    "text": "She glances back at me, her face rosy, a smile touched with tears."
+  },
+  {
+    "line": 1241,
+    "text": "I was going to give her this painting when the competition ended."
+  },
+  {
+    "line": 1349,
+    "text": "What is it?"
+  },
+  {
+    "line": 1365,
+    "text": "(Run after it)"
+  },
+  {
+    "line": 1367,
+    "text": "Wait here!"
+  },
+  {
+    "line": 1376,
+    "text": "...?!"
+  },
+  {
+    "line": 1377,
+    "text": "Following {var:player_nickname}'s yelp, the muffled thud of someone falling comes from down the slope."
+  },
+  {
+    "line": 1381,
+    "text": "{var:player_nickname}?!"
+  },
+  {
+    "line": 1389,
+    "text": "(If I could... stand up?)"
+  },
+  {
+    "line": 1391,
+    "text": "(Would it change everything?)"
+  },
+  {
+    "line": 1394,
+    "text": "Yes... I can do this..."
+  },
+  {
+    "line": 1395,
+    "text": "I won't let it happen..."
+  },
+  {
+    "line": 1397,
+    "text": "Not ever! I will NOT let anything happen to {var:player_nickname}!!"
+  },
+  {
+    "line": 1399,
+    "text": "\"Care for a dance, Miss Nanami?\""
+  },
+  {
+    "line": 1409,
+    "text": "Ouch..."
+  },
+  {
+    "line": 1412,
+    "text": "...{var:player_nickname}!"
+  },
+  {
+    "line": 1413,
+    "text": "Wait, is that Reina?"
+  },
+  {
+    "line": 1414,
+    "text": "Oh no, did something happen to Reina?!"
+  },
+  {
+    "line": 1415,
+    "text": "(Rush back immediately)"
+  },
+  {
+    "line": 1416,
+    "text": "I run back up the slope faster than I ever thought possible."
+  },
+  {
+    "line": 1420,
+    "text": "{var:player_nickname}!!"
+  },
+  {
+    "line": 1444,
+    "text": "Do you want me to go get it?"
+  },
+  {
+    "line": 1456,
+    "text": "Eh?"
+  },
+  {
+    "line": 1461,
+    "text": "Ladies and gentlemen, this finalist is about to present a coffee crafted using a unique technique passed down from her parents –"
+  },
+  {
+    "line": 1462,
+    "text": "The air tastes of new spring and fresh coffee.//nSitting in the audience, I keep my gaze fixed on the girl under the spotlight."
+  },
+  {
+    "line": 1463,
+    "text": "And there is Reina, gently polishing her gooseneck kettle.//nHer long lashes catch the light, casting tiny shadows. The noise of the crowd, the weight of this moment... none of it seems to reach her."
+  },
+  {
+    "line": 1464,
+    "text": "Nobody else knows what she went through – all the obstacles she overcame just to stand here today."
+  },
+  {
+    "line": 1465,
+    "text": "Two months ago."
+  },
+  {
+    "line": 1466,
+    "text": "With the truth of the accident finally laid bare, Reina made two decisions.//nThe first was to restart the physical therapy she'd once abandoned."
+  },
+  {
+    "line": 1467,
+    "text": "Miss Nanami, I have to say, you really surprised me. You came in on your own and asked for a full checkup. There's something different in your eyes. I'm so happy for you."
+  },
+  {
+    "line": 1468,
+    "text": "Umm... thank you, Doctor. Things have... really changed lately."
+  },
+  {
+    "line": 1469,
+    "text": "So, what I really came for... is to know the truth. The real truth."
+  },
+  {
+    "line": 1470,
+    "text": "My legs... Is it still possible for me to stand?//nWhatever you tell me, I'll be okay with it."
+  },
+  {
+    "line": 1471,
+    "text": "Relax. Just like all your previous checkups, your nerves and muscles are at normal levels.//nPhysically, there's no reason you can't stand. You just need to train and break through that mental barrier."
+  },
+  {
+    "line": 1472,
+    "text": "Mental barrier?"
+  },
+  {
+    "line": 1473,
+    "text": "Yes. Subconsciously, you've grown reliant on the wheelchair. It's become your safety net. In my experience, what breaks that cycle is almost always a sudden, powerful emotional trigger."
+  },
+  {
+    "line": 1474,
+    "text": "In other words, you need a trigger so intense that your desire to stand overpowers your fear. And to be perfectly honest, experiencing a moment like that takes a bit of luck."
+  },
+  {
+    "line": 1475,
+    "text": "We can't just wait for that to happen, though.//nStarting now, consistent physical rehab is how you'll build up every bit of strength you can, so when that moment arrives, you'll be ready."
+  },
+  {
+    "line": 1476,
+    "text": "I understand."
+  },
+  {
+    "line": 1477,
+    "text": "Thank you, Doctor. I'll push through every bit of it, no matter how hard it gets."
+  },
+  {
+    "line": 1478,
+    "text": "And her second decision? To enter the City Brewers Cup."
+  },
+  {
+    "line": 1479,
+    "text": "Oh! Aren't you the manager of Éternité? You're competing in this too?!"
+  },
+  {
+    "line": 1480,
+    "text": "Sorry, I got a bit excited! I'm a regular at your place, actually. Your coffee is incredible."
+  },
+  {
+    "line": 1481,
+    "text": "Oh, that's so kind of you!"
+  },
+  {
+    "line": 1482,
+    "text": "However... compared to the other competitors, you might be at a bit of a disadvantage given your circumstances... Are you sure about this?"
+  },
+  {
+    "line": 1483,
+    "text": "Umm... I suppose I really am at a disadvantage."
+  },
+  {
+    "line": 1486,
+    "text": "Does competing in a wheelchair make a difference?"
+  },
+  {
+    "line": 1487,
+    "text": "Oh, because making pour-over coffee needs really steady hands when you're pouring."
+  },
+  {
+    "line": 1488,
+    "text": "Usually, when standing, you use your entire core to keep the water flow steady. But sitting down... you're relying entirely on arm strength, which makes it much harder to keep the kettle from shaking. If your pour isn't stable, the coffee suffers."
+  },
+  {
+    "line": 1489,
+    "text": "Exactly... the fact that you can make coffee that good while seated is already remarkable. But to go up against standing baristas..."
+  },
+  {
+    "line": 1490,
+    "text": "I know."
+  },
+  {
+    "line": 1491,
+    "text": "But... if I let the odds stop me from even trying, then I haven't really changed at all, have I?"
+  },
+  {
+    "line": 1492,
+    "text": "The harder it is, the more every little success will mean to me. That's exactly why I need to compete."
+  },
+  {
+    "line": 1493,
+    "text": "I'm sure about this. Sign me up!"
+  },
+  {
+    "line": 1494,
+    "text": "They kept telling her she needed luck, that her chances were slim... but none of it ever seemed to faze her."
+  },
+  {
+    "line": 1495,
+    "text": "Instead, she threw herself into a grueling training routine."
+  },
+  {
+    "line": 1496,
+    "text": "Aren't you pushing yourself too hard with both the competition and rehab?"
+  },
+  {
+    "line": 1497,
+    "text": "We don't have to rush this, you know."
+  },
+  {
+    "line": 1498,
+    "text": "Reina was focused on her pour-over. She paused for a tiny moment when she heard me, but kept going."
+  },
+  {
+    "line": 1499,
+    "text": "The stream held steady as it swirled into the dripper, filling the room with a deep, rich aroma. When the pour was complete, she finally set the gooseneck kettle down gently."
+  },
+  {
+    "line": 1500,
+    "text": "{var:player_nickname}, thanks for worrying about me."
+  },
+  {
+    "line": 1501,
+    "text": "The old me would have already run off to cry somewhere by now."
+  },
+  {
+    "line": 1502,
+    "text": "But I'm not her anymore."
+  },
+  {
+    "line": 1503,
+    "text": "Let me show you something."
+  },
+  {
+    "line": 1504,
+    "text": "From the very back of a drawer behind the counter, she pulled out an elegant card and handed it to me."
+  },
+  {
+    "line": 1505,
+    "text": "It was a greeting card with pretty handwriting that had faded a bit with time."
+  },
+  {
+    "line": 1506,
+    "text": "...\"May you find eternal happiness, Reina.\"//nIs this... from your parents?"
+  },
+  {
+    "line": 1507,
+    "text": "Yeah. It was the year Éternité opened. I was four years old, and they wrote this for me."
+  },
+  {
+    "line": 1508,
+    "text": "When you helped me find the truth... I could finally bring myself to open up their things. This card was waiting in a photo album."
+  },
+  {
+    "line": 1509,
+    "text": "\"Éternité\"... eternity."
+  },
+  {
+    "line": 1510,
+    "text": "All they wanted was for you to be happy."
+  },
+  {
+    "line": 1511,
+    "text": "Mm. Being at Éternité all these years... I think I finally understand the meaning behind the name."
+  },
+  {
+    "line": 1512,
+    "text": "My parents' wish was for me to always be happy. But {var:player_nickname}... you're the one who gave me the courage to love again, and to let myself be loved."
+  },
+  {
+    "line": 1513,
+    "text": "I won't let this wish for \"eternity\" go unanswered... and I won't let you down either. Not anymore."
+  },
+  {
+    "line": 1514,
+    "text": "I want to stand. I want to compete. And that's not just for them."
+  },
+  {
+    "line": 1515,
+    "text": "It's for me, too. I want a new start, one that doesn't have to carry the past."
+  },
+  {
+    "line": 1516,
+    "text": "As for whether doing both of these at the same time is too much..."
+  },
+  {
+    "line": 1517,
+    "text": "Making coffee is what I love most, anyway! There's really no better way to shake off the stress of rehab.//nBesides, building up my core in physical therapy is only going to make my pours even steadier."
+  },
+  {
+    "line": 1518,
+    "text": "So yeah... it's going to take a lot more than this to keep me down!"
+  },
+  {
+    "line": 1519,
+    "text": "She gave me a bright, shining smile, full of nothing but determination."
+  },
+  {
+    "line": 1520,
+    "text": "{var:player_nickname}, will you stay with me through all of this?"
+  },
+  {
+    "line": 1521,
+    "text": "Of course. I'll be right here."
+  },
+  {
+    "line": 1522,
+    "text": "Thank you!"
+  },
+  {
+    "line": 1523,
+    "text": "Then let's do this!"
+  },
+  {
+    "line": 1524,
+    "text": "From that day forward, Éternité after closing hours became our secret training ground."
+  },
+  {
+    "line": 1525,
+    "text": "I can't believe how much you've improved in just a week. You're seriously talented."
+  },
+  {
+    "line": 1526,
+    "text": "Wait – {var:player_nickname}! When did you record that?! That's so embarrassing!"
+  },
+  {
+    "line": 1527,
+    "text": "(softly) It's not talent. I just... don't want to let you down. Or my parents."
+  },
+  {
+    "line": 1528,
+    "text": "Well then, I think you've earned a reward –"
+  },
+  {
+    "line": 1529,
+    "text": "I have a surprise gift I've been working on for you, Reina."
+  },
+  {
+    "line": 1530,
+    "text": "Hehe, thank you!"
+  },
+  {
+    "line": 1531,
+    "text": "Wait, what gift?!"
+  },
+  {
+    "line": 1532,
+    "text": "That's a secret for now. You'll find out when the competition's over."
+  },
+  {
+    "line": 1533,
+    "text": "How about we start with some warm milk to help you relax and recharge?"
+  },
+  {
+    "line": 1534,
+    "text": "Ugh...! You always leave me hanging like that!"
+  },
+  {
+    "line": 1535,
+    "text": "But... I promise I'll give it everything I've got."
+  },
+  {
+    "line": 1536,
+    "text": "50 Days to City Brewers Cup"
+  },
+  {
+    "line": 1537,
+    "text": "Reina, if this is too much for your body, we can skip the standing exercises for today."
+  },
+  {
+    "line": 1538,
+    "text": "I'm... I'm fine... Just give me a second... to get ready..."
+  },
+  {
+    "line": 1539,
+    "text": "It's okay. Just take my hand."
+  },
+  {
+    "line": 1540,
+    "text": "Wh-what? This doesn't count as dancing...!"
+  },
+  {
+    "line": 1541,
+    "text": "Hehe, when there's someone you trust to lean on, your body relaxes on its own."
+  },
+  {
+    "line": 1542,
+    "text": "Blushing, Reina placed her hand in mine. I braced myself and gently pulled her up."
+  },
+  {
+    "line": 1543,
+    "text": "She was standing, yes. But she was leaning her full weight against me."
+  },
+  {
+    "line": 1544,
+    "text": "But... somehow, I feel twice as strong right now."
+  },
+  {
+    "line": 1545,
+    "text": "Can we... stay in this dance... just a little longer?"
+  },
+  {
+    "line": 1546,
+    "text": "20 Days to City Brewers Cup"
+  },
+  {
+    "line": 1547,
+    "text": "Okay... just a little more control..."
+  },
+  {
+    "line": 1548,
+    "text": "Final touch... a sprinkle of golden turmeric powder..."
+  },
+  {
+    "line": 1549,
+    "text": "Ta-da! It's done!"
+  },
+  {
+    "line": 1550,
+    "text": "Wow, that's the one, isn't it?"
+  },
+  {
+    "line": 1551,
+    "text": "You've trained hard today, Reina. Time for a break."
+  },
+  {
+    "line": 1552,
+    "text": "You'll have to be the judge of that, {var:player_nickname}!"
+  },
+  {
+    "line": 1553,
+    "text": "I figured you would say that, {var:player_nickname}. Here, I made this for you!"
+  },
+  {
+    "line": 1554,
+    "text": "She placed the beautifully crafted drink and a slice of cake in front of me."
+  },
+  {
+    "line": 1555,
+    "text": "Hehe, this one's a winter special I made just for you, {var:player_nickname}. No coffee involved!"
+  },
+  {
+    "line": 1556,
+    "text": "You've kept me company this late. You must be hungry. Please, enjoy it with this chocolate cake!"
+  },
+  {
+    "line": 1557,
+    "text": "(Try it)"
+  },
+  {
+    "line": 1558,
+    "text": "It's really sweet. I can taste the care you put into this."
+  },
+  {
+    "line": 1559,
+    "text": "Oh... I... th-thank you..."
+  },
+  {
+    "line": 1560,
+    "text": "...If you enjoy it, that's all that counts."
+  },
+  {
+    "line": 1561,
+    "text": "Hehe... it's you, {var:player_nickname}. To me... you just have this warm, brilliant energy. It's so comforting to be around you."
+  },
+  {
+    "line": 1562,
+    "text": "Through all those days together, winter melted into spring. And then, the competition was here."
+  },
+  {
+    "line": 1563,
+    "text": "In most cases, brewing from a seated position makes it incredibly hard to control the water flow because you lose the stability of your core. That usually risks an uneven extraction."
+  },
+  {
+    "line": 1564,
+    "text": "But just look at Reina Nanami! She's pushed past those limits. Her focus and muscle memory are absolutely incredible, and she is giving us a flawless performance. You do not reach this level of stability without endless, grueling practice!"
+  },
+  {
+    "line": 1565,
+    "text": "For her coffee, she chose a high-altitude, sun-dried heirloom variety. These beans are packed with bold, untamed fruit and floral notes, and they are infamously difficult to work with."
+  },
+  {
+    "line": 1566,
+    "text": "However, her precise pulse pouring brought out the bright acidity and delicate florals right from the start. Then she eased off to build more sweetness and body... Beautiful. Absolutely beautiful!"
+  },
+  {
+    "line": 1567,
+    "text": "Ladies and gentlemen, please give it up for the winner of our Rising Star Award... Miss Reina Nanami from Éternité! Such a phenomenal young talent, already displaying skill and taste well beyond her years. She is truly destined for greatness!"
+  },
+  {
+    "line": 1568,
+    "text": "The audience bursts into applause."
+  },
+  {
+    "line": 1569,
+    "text": "She did it! It may not be the top prize, but this award means more to her than anything."
+  },
+  {
+    "line": 1570,
+    "text": "Me...?"
+  },
+  {
+    "line": 1571,
+    "text": "That's right, yes, you! Don't look so surprised! Miss Nanami, would you like to say a few words?"
+  },
+  {
+    "line": 1572,
+    "text": "Thank you, everyone... And thank you to all the judges."
+  },
+  {
+    "line": 1573,
+    "text": "Most of all, I want to thank my mom and dad. Even though they aren't here today, they have always been my guiding light..."
+  },
+  {
+    "line": 1574,
+    "text": "And finally... there is someone very special to me..."
+  },
+  {
+    "line": 1575,
+    "text": "You stayed by my side through my darkest days, and you showed me that as long as I never give up, there's always hope."
+  },
+  {
+    "line": 1576,
+    "text": "So this award is just as much yours as it is mine. Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 1577,
+    "text": "Thank you for saying those things about me on stage."
+  },
+  {
+    "line": 1578,
+    "text": "To be honest... being able to say what I really feel out loud makes me even happier than winning the award."
+  },
+  {
+    "line": 1579,
+    "text": "...come with me to visit my parents?"
+  },
+  {
+    "line": 1580,
+    "text": "I want to bring this award to them myself... and tell them everything that I've been holding in my heart all this time."
+  },
+  {
+    "line": 1581,
+    "text": "It's just up ahead."
+  },
+  {
+    "line": 1582,
+    "text": "Alright."
+  },
+  {
+    "line": 1583,
+    "text": "A muted early spring sky hangs overhead. The cemetery is cool and moist, with trees whispering in the wind.//nGently, I push Reina toward the spot where her parents lie at rest."
+  },
+  {
+    "line": 1584,
+    "text": "Wait... hold on."
+  },
+  {
+    "line": 1585,
+    "text": "{var:player_nickname}, I'm kind of nervous.//nH-how do I look right now? Do you think... they'd be happy seeing me like this?"
+  },
+  {
+    "line": 1586,
+    "text": "You've never looked better, Reina."
+  },
+  {
+    "line": 1587,
+    "text": "They'd be so, so proud of you."
+  },
+  {
+    "line": 1588,
+    "text": "Mm..."
+  },
+  {
+    "line": 1589,
+    "text": "She takes a deep breath and looks down, gently running her fingers over the award certificate in her hands."
+  },
+  {
+    "line": 1590,
+    "text": "...I was hoping that when I came to see them after the competition, I would be fully recovered."
+  },
+  {
+    "line": 1591,
+    "text": "I'm not quite there yet, but..."
+  },
+  {
+    "line": 1592,
+    "text": "The doctor said I've already come so far... I'm going to keep going. I promise."
+  },
+  {
+    "line": 1593,
+    "text": "And I'll be right there with you."
+  },
+  {
+    "line": 1594,
+    "text": "Umm... I think it's going to rain..."
+  },
+  {
+    "line": 1595,
+    "text": "Okay, I'm not nervous now. Let's go."
+  },
+  {
+    "line": 1596,
+    "text": "Ah!"
+  },
+  {
+    "line": 1597,
+    "text": "A sudden gust of wind, damp with oncoming rain, rushes straight at us."
+  },
+  {
+    "line": 1598,
+    "text": "Nooo!"
+  },
+  {
+    "line": 1599,
+    "text": "The certificate slips from her hands, flies down the slope beside the steps, and disappears from sight in an instant."
+  },
+  {
+    "line": 1600,
+    "text": "(Discuss with Reina)"
+  },
+  {
+    "line": 1601,
+    "text": "Without a second thought, I sprint down the slope –"
+  },
+  {
+    "line": 1602,
+    "text": "Before Reina can even react, {var:player_nickname} is already sprinting down the slope."
+  },
+  {
+    "line": 1603,
+    "text": "Soon, {var:player_nickname} vanishes completely from her sight."
+  },
+  {
+    "line": 1604,
+    "text": "{var:player_nickname}... be careful...!"
+  },
+  {
+    "line": 1605,
+    "text": "The rain finally breaks, lashing the branches. Reina's heart hammers in her chest.//nThe wait is agonizing."
+  },
+  {
+    "line": 1606,
+    "text": "She grips her wheelchair until her knuckles turn white, eyes locked on the exact spot where {var:player_nickname} disappeared."
+  },
+  {
+    "line": 1607,
+    "text": "And then, suddenly –"
+  },
+  {
+    "line": 1608,
+    "text": "Ah!"
+  },
+  {
+    "line": 1609,
+    "text": "Though faint, the sound explodes in Reina's ears like a clap of thunder."
+  },
+  {
+    "line": 1610,
+    "text": "{var:player_nickname}? What happened?!"
+  },
+  {
+    "line": 1611,
+    "text": "..."
+  },
+  {
+    "line": 1612,
+    "text": "There is no answer. Just the wind and the rain hissing through the air."
+  },
+  {
+    "line": 1613,
+    "text": "Please, no..."
+  },
+  {
+    "line": 1614,
+    "text": "This can't be happening..."
+  },
+  {
+    "line": 1615,
+    "text": "The memories come flooding back."
+  },
+  {
+    "line": 1616,
+    "text": "The shadow of her past – the one she thought she'd escaped – swallows her whole again."
+  },
+  {
+    "line": 1617,
+    "text": "(It's my fault. It's happening again because of me.)"
+  },
+  {
+    "line": 1618,
+    "text": "(If I hadn't come here today... If I could just... stand up and run after it on my own...)"
+  },
+  {
+    "line": 1619,
+    "text": "(If I could... stand up... right now...)"
+  },
+  {
+    "line": 1620,
+    "text": "That's right. Reina, you need to calm down. You're not that helpless little girl anymore."
+  },
+  {
+    "line": 1621,
+    "text": "You can't run from this. You have to protect... the ones you care about!"
+  },
+  {
+    "line": 1622,
+    "text": "Not this time..."
+  },
+  {
+    "line": 1623,
+    "text": "\"It's okay. Just take my hand.\""
+  },
+  {
+    "line": 1624,
+    "text": "Words overflowing with love and encouragement surface from the depths of her memory."
+  },
+  {
+    "line": 1625,
+    "text": "The warmth of their time together breaks through the fear in her heart, like sunlight cutting through dark clouds."
+  },
+  {
+    "line": 1626,
+    "text": "A fierce, burning strength, unlike anything she'd ever felt, surges up from deep within."
+  },
+  {
+    "line": 1627,
+    "text": "With trembling hands, Reina tries to push herself up from the armrests."
+  },
+  {
+    "line": 1628,
+    "text": "She slams onto the cold, muddy ground.//nHer legs, still weak, buckle uselessly beneath her."
+  },
+  {
+    "line": 1629,
+    "text": "But she doesn't cry. She doesn't even feel the pain."
+  },
+  {
+    "line": 1630,
+    "text": "Fear, guilt, love, courage... it all comes together into one single thought –"
+  },
+  {
+    "line": 1631,
+    "text": "\"I have to get there.\""
+  },
+  {
+    "line": 1632,
+    "text": "\"I have to bring {var:player_nickname} back!!\""
+  },
+  {
+    "line": 1633,
+    "text": "(I rushed too fast, slipped like an idiot. At least nothing's broken.)"
+  },
+  {
+    "line": 1634,
+    "text": "(But I got it, her certificate. It's okay now.)"
+  },
+  {
+    "line": 1635,
+    "text": "What I see next is something I'll never forget for the rest of my life."
+  },
+  {
+    "line": 1636,
+    "text": "Reina's thin, frail body wavers as if she'd collapse any second, yet she keeps moving toward me, one stubborn step at a time."
+  },
+  {
+    "line": 1637,
+    "text": "She looks up and meets my eyes."
+  },
+  {
+    "line": 1638,
+    "text": "Reina!"
+  },
+  {
+    "line": 1639,
+    "text": "Right before she collapses, I lunge forward and catch her, wrapping my arms around her as tightly as I can."
+  },
+  {
+    "line": 1640,
+    "text": "Oh, thank god."
+  },
+  {
+    "line": 1641,
+    "text": "Yeah, I'm okay. I'm right here."
+  },
+  {
+    "line": 1642,
+    "text": "I can feel her trembling in my arms, and beneath that tremor, her legs straining, trying to support just a little of her own weight."
+  },
+  {
+    "line": 1643,
+    "text": "Reina... look. You're standing right now."
+  },
+  {
+    "line": 1644,
+    "text": "Uhh... I-I'm standing...?"
+  },
+  {
+    "line": 1645,
+    "text": "The rain stops without either of us noticing."
+  },
+  {
+    "line": 1646,
+    "text": "Sunlight breaks through the heavy clouds, bathing the world in a soft, golden glow as a rainbow arches across the sky."
+  },
+  {
+    "line": 1647,
+    "text": "After catching our breath, I steadily help Reina walk the rest of the way to her parents' grave."
+  },
+  {
+    "line": 1648,
+    "text": "With great care, she places the certificate – a little wet, but perfectly intact – in front of the headstone."
+  },
+  {
+    "line": 1649,
+    "text": "Dad... Mom... It's Reina. I got my first barista award! Pretty cool, right?"
+  },
+  {
+    "line": 1650,
+    "text": "And... this is {var:player_nickname}."
+  },
+  {
+    "line": 1651,
+    "text": "I'm doing well now... and I'm really happy. So please, you don't have to worry about me anymore."
+  },
+  {
+    "line": 1652,
+    "text": "Seemingly out of nowhere, a beautiful butterfly lands softly on the headstone. It rests for a moment before fluttering up into the bright, clear sky."
+  },
+  {
+    "line": 1653,
+    "text": "She laughs, even as the tears still shine in her eyes."
+  },
+  {
+    "line": 1654,
+    "text": "...I hear you. Thank you for your blessing, Dad, Mom."
+  },
+  {
+    "line": 1655,
+    "text": "As we leave, her walking is much steadier with my support.//nShe still leans on me, but she's taking every step on her own."
+  },
+  {
+    "line": 1656,
+    "text": "Reina, remember that surprise I told you about?"
+  },
+  {
+    "line": 1657,
+    "text": "I take the gift I'd prepared out of my bag."
+  },
+  {
+    "line": 1658,
+    "text": "It's the flower spirit painting, but remade. The things that had trapped the flower spirit are now gone, and the spirit is finally... smiling."
+  },
+  {
+    "line": 1659,
+    "text": "This is a new portrait for you. The real you."
+  },
+  {
+    "line": 1660,
+    "text": "Reina, you can fly anywhere you want now, on your own wings."
+  },
+  {
+    "line": 1661,
+    "text": "And I'll always be right there beside you."
+  },
+  {
+    "line": 1662,
+    "text": "Reina doesn't say anything. Looking deep into my eyes, she gives a warm smile and gently holds out her hand."
+  },
+  {
+    "line": 1663,
+    "text": "Together, you and me!"
+  },
+  {
+    "line": 1664,
+    "text": "Reina, I think it went all the way down to the bottom of the slope. I can't see where it landed from here."
+  },
+  {
+    "line": 1665,
+    "text": "No, don't. Really, it's just... a piece of paper. Mom and Dad will still hear me without it."
+  },
+  {
+    "line": 1666,
+    "text": "I'd much rather you stay safe than get hurt over this..."
+  },
+  {
+    "line": 1667,
+    "text": "Though she says that, I can clearly see the disappointment in Reina's face."
+  },
+  {
+    "line": 1668,
+    "text": "It's okay, I'll be careful."
+  },
+  {
+    "line": 1669,
+    "text": "It might take a while. Wait here for me."
+  },
+  {
+    "line": 1670,
+    "text": "I reassure her before finding a safer path down. A short search later, I finally spot the certificate."
+  },
+  {
+    "line": 1671,
+    "text": "...Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 1672,
+    "text": "Her tight grip on the wheelchair finally relaxes."
+  },
+  {
+    "line": 1673,
+    "text": "I step back, giving her space for a quiet moment with her parents."
+  },
+  {
+    "line": 1674,
+    "text": "On the way home, she's quieter than usual, but her eyes are more determined than ever."
+  },
+  {
+    "line": 1675,
+    "text": "{var:player_nickname}, I've made up my mind. Starting tomorrow, I'm pushing myself twice as hard in rehab."
+  },
+  {
+    "line": 1676,
+    "text": "Not just so you won't have to take risks for me... it's for me, too."
+  },
+  {
+    "line": 1677,
+    "text": "I don't want to live with any more \"what-ifs.\" I want to stand beside the people I care about, on my own two feet."
+  },
+  {
+    "line": 1678,
+    "text": "And when I do... you'll be the first to know!"
+  },
+  {
+    "line": 1679,
+    "text": "I know you will. I'll be waiting."
+  },
+  {
+    "line": 1680,
+    "text": "Her legs have yet to heal, but her spirit has already taken flight toward tomorrow."
+  }
+]
