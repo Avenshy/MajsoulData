@@ -55,6 +55,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "二之宫花（滤镜）",
       "chs_t": "二之宫花（滤镜）",
@@ -126,6 +127,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白石奈奈",
       "chs_t": "白石奈奈",
@@ -197,6 +199,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "艾丽莎（滤镜）",
       "chs_t": "艾丽莎（滤镜）",
@@ -268,6 +271,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "姬川响",
       "chs_t": "姬川响",
@@ -339,6 +343,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "希里(无豹）",
       "chs_t": "希里(无豹）",
@@ -410,6 +415,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "阿苑",
       "chs_t": "阿苑",
@@ -481,6 +487,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "梅",
       "chs_t": "梅",
@@ -552,6 +559,7 @@
     "celebrate_idle": null,
     "illust_data": "guixiaotailang",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "桂小太郎（滤镜）",
       "chs_t": "桂小太郎（滤镜）",
@@ -623,6 +631,7 @@
     "celebrate_idle": null,
     "illust_data": "chilin",
     "blink": 2,
+    "skin_version": 1,
     "name": {
       "chs": "赤麟",
       "chs_t": "赤麟",
@@ -694,6 +703,7 @@
     "celebrate_idle": null,
     "illust_data": "mofei",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "墨菲",
       "chs_t": "墨菲",
@@ -765,6 +775,7 @@
     "celebrate_idle": null,
     "illust_data": "default_girl_2",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "默认女2",
       "chs_t": "默认女2",
@@ -836,6 +847,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "辉夜姬-假",
       "chs_t": "辉夜姬-假",
@@ -907,6 +919,7 @@
     "celebrate_idle": null,
     "illust_data": "guaiwu4",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "怪物-红巨魔",
       "chs_t": "怪物-红巨魔",
@@ -978,6 +991,7 @@
     "celebrate_idle": null,
     "illust_data": "guaiwu3",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "怪物-绿巨魔",
       "chs_t": "怪物-绿巨魔",
@@ -1049,6 +1063,7 @@
     "celebrate_idle": null,
     "illust_data": "guaiwu2",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "怪物-蓝狼",
       "chs_t": "怪物-蓝狼",
@@ -1120,6 +1135,7 @@
     "celebrate_idle": null,
     "illust_data": "guaiwu1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "怪物-灰狼",
       "chs_t": "怪物-灰狼",
@@ -1191,6 +1207,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "默认男",
       "chs_t": "默认男",
@@ -1262,6 +1279,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "默认女",
       "chs_t": "默认女",

@@ -56,6 +56,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "默认皮肤(女)",
       "chs_t": "",
@@ -121,6 +122,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "默认皮肤(男)",
       "chs_t": "",
@@ -186,6 +188,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "一姬",
       "chs_t": "一姬",
@@ -258,6 +261,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -337,6 +341,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "海滩派对",
       "chs_t": "海灘派對",
@@ -416,6 +421,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "新年初诣",
       "chs_t": "新春參拜",
@@ -495,6 +501,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji_zg",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "一姬当千",
       "chs_t": "一姬當千",
@@ -574,6 +581,7 @@
     "celebrate_idle": null,
     "illust_data": "yiji_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绮春歌",
       "chs_t": "綺春歌",
@@ -653,6 +661,7 @@
     "celebrate_idle": 5333,
     "illust_data": "yiji_kxj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "校园微风",
       "chs_t": "校園微風",
@@ -732,6 +741,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "二阶堂美树",
       "chs_t": "二階堂美樹",
@@ -804,6 +814,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -883,6 +894,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "化妆舞会",
       "chs_t": "化妝舞會",
@@ -962,6 +974,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "万象沐春",
       "chs_t": "萬象沐春",
@@ -1041,6 +1054,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "鸢尾花之夜",
       "chs_t": "鳶尾花之夜",
@@ -1120,6 +1134,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "玩转夏日",
       "chs_t": "玩轉夏日",
@@ -1199,6 +1214,7 @@
     "celebrate_idle": null,
     "illust_data": "tengtianjianai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "藤田佳奈",
       "chs_t": "藤田佳奈",
@@ -1271,6 +1287,7 @@
     "celebrate_idle": null,
     "illust_data": "tengtianjianai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -1350,6 +1367,7 @@
     "celebrate_idle": null,
     "illust_data": "tengtianjianai_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣诞嘉年华",
       "chs_t": "聖誕嘉年華",
@@ -1429,6 +1447,7 @@
     "celebrate_idle": null,
     "illust_data": "tengtianjianai_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "暗夜法则",
       "chs_t": "暗夜法則",
@@ -1508,6 +1527,7 @@
     "celebrate_idle": 8000,
     "illust_data": "tengtianjianai_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "假日之滨",
       "chs_t": "假日之濱",
@@ -1587,6 +1607,7 @@
     "celebrate_idle": 5333,
     "illust_data": "tengtianjianai_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "惊鸿岁",
       "chs_t": "驚鴻歲",
@@ -1666,6 +1687,7 @@
     "celebrate_idle": null,
     "illust_data": "tengtianjianai_ydh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "为你应援！",
       "chs_t": "為你應援！",
@@ -1745,6 +1767,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "三上千织",
       "chs_t": "三上千織",
@@ -1817,6 +1840,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -1896,6 +1920,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣诞嘉年华",
       "chs_t": "聖誕嘉年華",
@@ -1975,6 +2000,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "清凉夏日",
       "chs_t": "清涼夏日",
@@ -2054,6 +2080,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "甜蜜茶点",
       "chs_t": "甜蜜茶點",
@@ -2133,6 +2160,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "天黑请闭眼",
       "chs_t": "天黑請閉眼",
@@ -2212,6 +2240,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "惊鸿岁",
       "chs_t": "驚鴻歲",
@@ -2291,6 +2320,7 @@
     "celebrate_idle": null,
     "illust_data": "xiangyuanwu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "相原舞",
       "chs_t": "相原舞",
@@ -2363,6 +2393,7 @@
     "celebrate_idle": null,
     "illust_data": "xiangyuanwu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -2442,6 +2473,7 @@
     "celebrate_idle": null,
     "illust_data": "xiangyuanwu_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "海滩派对",
       "chs_t": "海灘派對",
@@ -2521,6 +2553,7 @@
     "celebrate_idle": null,
     "illust_data": "xiangyuanwu_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "昭华年",
       "chs_t": "昭華年",
@@ -2600,6 +2633,7 @@
     "celebrate_idle": 6666,
     "illust_data": "xiangyuanwu_ws",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "禁锢之地",
       "chs_t": "禁錮之地",
@@ -2679,6 +2713,7 @@
     "celebrate_idle": 8000,
     "illust_data": "xiangyuanwu_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "温存韶光",
       "chs_t": "溫存韶光",
@@ -2758,6 +2793,7 @@
     "celebrate_idle": null,
     "illust_data": "xiangyuanwu_slo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "异想烂漫",
       "chs_t": "異想爛漫",
@@ -2837,6 +2873,7 @@
     "celebrate_idle": 8000,
     "illust_data": "xiangyuanwu_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "雪间春信",
       "chs_t": "雪間春信",
@@ -2916,6 +2953,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "抚子",
       "chs_t": "撫子",
@@ -2988,6 +3026,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -3067,6 +3106,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "海滩派对",
       "chs_t": "海灘派對",
@@ -3146,6 +3186,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "细雪呈瑞",
       "chs_t": "細雪呈瑞",
@@ -3225,6 +3266,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四方雀者",
       "chs_t": "四方雀者",
@@ -3304,6 +3346,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "无拘乐趣",
       "chs_t": "無拘樂趣",
@@ -3383,6 +3426,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei",
     "blink": 1,
+    "skin_version": 1,
     "name": {
       "chs": "八木唯",
       "chs_t": "八木唯",
@@ -3455,6 +3499,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -3534,6 +3579,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣诞嘉年华",
       "chs_t": "聖誕嘉年華",
@@ -3613,6 +3659,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "魇魔之约",
       "chs_t": "魘魔之約",
@@ -3692,6 +3739,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "月夜华尔兹",
       "chs_t": "月夜華爾滋",
@@ -3771,6 +3819,7 @@
     "celebrate_idle": 8000,
     "illust_data": "bamuwei_xr",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "悸动之夏",
       "chs_t": "悸動之夏",
@@ -3850,6 +3899,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_ysj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四方雀者",
       "chs_t": "四方雀者",
@@ -3929,6 +3979,7 @@
     "celebrate_idle": null,
     "illust_data": "bamuwei_slo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "异想烂漫",
       "chs_t": "異想爛漫",
@@ -4008,6 +4059,7 @@
     "celebrate_idle": 6000,
     "illust_data": "bamuwei_gf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云踪侠影",
       "chs_t": "雲蹤俠影",
@@ -4087,6 +4139,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "九条璃雨",
       "chs_t": "九條璃雨",
@@ -4159,6 +4212,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -4238,6 +4292,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "海滩派对",
       "chs_t": "海灘派對",
@@ -4317,6 +4372,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "瑞雪迎新",
       "chs_t": "瑞雪迎新",
@@ -4396,6 +4452,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_ysj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "魂色幻想",
       "chs_t": "魂色幻想",
@@ -4475,6 +4532,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_sc",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "心跳时速",
       "chs_t": "心跳時速",
@@ -4554,6 +4612,7 @@
     "celebrate_idle": null,
     "illust_data": "jiutiaoliyu_kxj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "校园微风",
       "chs_t": "校園微風",
@@ -4633,6 +4692,7 @@
     "celebrate_idle": null,
     "illust_data": "zeniya",
     "blink": 1,
+    "skin_version": 1,
     "name": {
       "chs": "泽尼娅",
       "chs_t": "澤尼婭",
@@ -4705,6 +4765,7 @@
     "celebrate_idle": null,
     "illust_data": "zeniya_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -4784,6 +4845,7 @@
     "celebrate_idle": null,
     "illust_data": "zeniya_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "化妆舞会",
       "chs_t": "化妝舞會",
@@ -4863,6 +4925,7 @@
     "celebrate_idle": null,
     "illust_data": "zeniya_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "清凉夏日",
       "chs_t": "清涼夏日",
@@ -4942,6 +5005,7 @@
     "celebrate_idle": 8000,
     "illust_data": "zeniya_cj",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "绮春歌",
       "chs_t": "綺春歌",
@@ -5021,6 +5085,7 @@
     "celebrate_idle": null,
     "illust_data": "zeniya_slo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "异想烂漫",
       "chs_t": "異想爛漫",
@@ -5100,6 +5165,7 @@
     "celebrate_idle": 5333,
     "illust_data": "zeniya_kxj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "校园微风",
       "chs_t": "校園微風",
@@ -5179,6 +5245,7 @@
     "celebrate_idle": 5333,
     "illust_data": "zeniya_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "共沐夜色",
       "chs_t": "共沐夜色",
@@ -5258,6 +5325,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "卡维",
       "chs_t": "卡維",
@@ -5330,6 +5398,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -5409,6 +5478,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夏",
       "chs_t": "命運之夏",
@@ -5488,6 +5558,7 @@
     "celebrate_idle": 5333,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "拂晓的G大调",
       "chs_t": "拂曉的G大調",
@@ -5567,6 +5638,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongxiasheng",
     "blink": 1,
+    "skin_version": 1,
     "name": {
       "chs": "四宫夏生",
       "chs_t": "四宮夏生",
@@ -5639,6 +5711,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongxiasheng_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -5718,6 +5791,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "化妆舞会",
       "chs_t": "化妝舞會",
@@ -5797,6 +5871,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "细雪呈瑞",
       "chs_t": "細雪呈瑞",
@@ -5876,6 +5951,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "悸动之夏",
       "chs_t": "悸動之夏",
@@ -5955,6 +6031,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "汪次郎",
       "chs_t": "汪次郎",
@@ -6027,6 +6104,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -6106,6 +6184,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "化妆舞会",
       "chs_t": "化妝舞會",
@@ -6185,6 +6264,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "假日之滨",
       "chs_t": "假日之濱",
@@ -6264,6 +6344,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "冬日心愿簿",
       "chs_t": "冬日心願簿",
@@ -6343,6 +6424,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "一之濑空",
       "chs_t": "一之瀨空",
@@ -6415,6 +6497,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -6494,6 +6577,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣诞嘉年华",
       "chs_t": "聖誕嘉年華",
@@ -6573,6 +6657,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春日返校季",
       "chs_t": "春日返校季",
@@ -6652,6 +6737,7 @@
     "celebrate_idle": 10666,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "绮春歌",
       "chs_t": "綺春歌",
@@ -6731,6 +6817,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "不寐之绊",
       "chs_t": "不寐之絆",
@@ -6810,6 +6897,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "明智英树",
       "chs_t": "明智英樹",
@@ -6882,6 +6970,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -6961,6 +7050,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "魇魔之约",
       "chs_t": "魘魔之約",
@@ -7040,6 +7130,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夏",
       "chs_t": "命運之夏",
@@ -7119,6 +7210,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu_yy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "佳期不负",
       "chs_t": "佳期不負",
@@ -7198,6 +7290,7 @@
     "celebrate_idle": null,
     "illust_data": "mingzhiyingshu_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云泉意暖",
       "chs_t": "雲泉意暖",
@@ -7277,6 +7370,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "轻库娘",
       "chs_t": "輕庫娘",
@@ -7349,6 +7443,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -7428,6 +7523,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "清凉夏日",
       "chs_t": "清涼夏日",
@@ -7507,6 +7603,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "莎拉",
       "chs_t": "莎拉",
@@ -7579,6 +7676,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -7658,6 +7756,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "新年初诣",
       "chs_t": "新春參拜",
@@ -7737,6 +7836,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春日返校季",
       "chs_t": "春日返校季",
@@ -7816,6 +7916,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悸动之夏",
       "chs_t": "悸動之夏",
@@ -7895,6 +7996,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四方雀者",
       "chs_t": "四方雀者",
@@ -7974,6 +8076,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "惊鸿岁",
       "chs_t": "驚鴻歲",
@@ -8053,6 +8156,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "二之宫花",
       "chs_t": "二之宮花",
@@ -8125,6 +8229,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -8204,6 +8309,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "万象沐春",
       "chs_t": "萬象沐春",
@@ -8283,6 +8389,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夏",
       "chs_t": "命運之夏",
@@ -8362,6 +8469,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "馥郁满室",
       "chs_t": "馥郁滿室",
@@ -8441,6 +8549,7 @@
     "celebrate_idle": 3333,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "冬日心愿簿",
       "chs_t": "冬日心願簿",
@@ -8520,6 +8629,7 @@
     "celebrate_idle": null,
     "illust_data": "baishinainai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白石奈奈",
       "chs_t": "白石奈奈",
@@ -8592,6 +8702,7 @@
     "celebrate_idle": null,
     "illust_data": "baishinainai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -8671,6 +8782,7 @@
     "celebrate_idle": null,
     "illust_data": "baishinainai_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "清凉夏日",
       "chs_t": "清涼夏日",
@@ -8750,6 +8862,7 @@
     "celebrate_idle": null,
     "illust_data": "baishinainai_np",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "馥郁满室",
       "chs_t": "馥郁滿室",
@@ -8829,6 +8942,7 @@
     "celebrate_idle": null,
     "illust_data": "baishinainai_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "冬日心愿簿",
       "chs_t": "冬日心願簿",
@@ -8908,6 +9022,7 @@
     "celebrate_idle": 2666,
     "illust_data": "baishinainai_ydh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "为你应援！",
       "chs_t": "為你應援！",
@@ -8987,6 +9102,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoniaoyouchutian",
     "blink": 1,
+    "skin_version": 1,
     "name": {
       "chs": "小鸟游雏田",
       "chs_t": "小鳥遊雛田",
@@ -9059,6 +9175,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoniaoyouchutian_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -9138,6 +9255,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoniaoyouchutian_np",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "甜蜜茶点",
       "chs_t": "甜蜜茶點",
@@ -9217,6 +9335,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoniaoyouchutian_yy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "花火之约",
       "chs_t": "花火之約",
@@ -9296,6 +9415,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoniaoyouchutian_ysj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "魂色幻想",
       "chs_t": "魂色幻想",
@@ -9375,6 +9495,7 @@
     "celebrate_idle": 5333,
     "illust_data": "xiaoniaoyouchutian_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "无拘乐趣",
       "chs_t": "無拘樂趣",
@@ -9454,6 +9575,7 @@
     "celebrate_idle": 6666,
     "illust_data": "xiaoniaoyouchutian_xl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣谛遗章",
       "chs_t": "聖諦遺章",
@@ -9533,6 +9655,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "五十岚阳菜",
       "chs_t": "五十嵐陽菜",
@@ -9605,6 +9728,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -9684,6 +9808,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "清凉夏日",
       "chs_t": "清涼夏日",
@@ -9763,6 +9888,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春日返校季",
       "chs_t": "春日返校季",
@@ -9842,6 +9968,7 @@
     "celebrate_idle": 6000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "新岁添喜",
       "chs_t": "新歲添喜",
@@ -9921,6 +10048,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "无拘乐趣",
       "chs_t": "無拘樂趣",
@@ -10000,6 +10128,7 @@
     "celebrate_idle": null,
     "illust_data": "lianggongxingshu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凉宫杏树",
       "chs_t": "涼宮杏樹",
@@ -10072,6 +10201,7 @@
     "celebrate_idle": null,
     "illust_data": "lianggongxingshu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -10151,6 +10281,7 @@
     "celebrate_idle": null,
     "illust_data": "lianggongxingshu_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "睡前故事",
       "chs_t": "睡前故事",
@@ -10230,6 +10361,7 @@
     "celebrate_idle": 8000,
     "illust_data": "lianggongxingshu_yy",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "花火之约",
       "chs_t": "花火之約",
@@ -10309,6 +10441,7 @@
     "celebrate_idle": null,
     "illust_data": "lianggongxingshu_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "贺今朝",
       "chs_t": "賀今朝",
@@ -10388,6 +10521,7 @@
     "celebrate_idle": 5333,
     "illust_data": "lianggongxingshu_bl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "足尖独白",
       "chs_t": "足尖獨白",
@@ -10467,6 +10601,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "约瑟夫",
       "chs_t": "約瑟夫",
@@ -10539,6 +10674,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -10618,6 +10754,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "瑞雪迎新",
       "chs_t": "瑞雪迎新",
@@ -10697,6 +10834,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "斋藤治",
       "chs_t": "齋藤治",
@@ -10769,6 +10907,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -10848,6 +10987,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "花火之约",
       "chs_t": "花火之約",
@@ -10927,6 +11067,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "暖冬邂逅",
       "chs_t": "暖冬邂逅",
@@ -11006,6 +11147,7 @@
     "celebrate_idle": null,
     "illust_data": "beijianshahezi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "北见纱和子",
       "chs_t": "北見紗和子",
@@ -11078,6 +11220,7 @@
     "celebrate_idle": null,
     "illust_data": "beijianshahezi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -11157,6 +11300,7 @@
     "celebrate_idle": null,
     "illust_data": "beijianshahezi_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "雪夜絮语",
       "chs_t": "雪夜絮語",
@@ -11236,6 +11380,7 @@
     "celebrate_idle": null,
     "illust_data": "beijianshahezi_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "月夜华尔兹",
       "chs_t": "月夜華爾滋",
@@ -11315,6 +11460,7 @@
     "celebrate_idle": null,
     "illust_data": "beijianshahezi_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "枕边私语",
       "chs_t": "枕邊私語",
@@ -11394,6 +11540,7 @@
     "celebrate_idle": 13333,
     "illust_data": "beijianshahezi_sc",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "心跳时速",
       "chs_t": "心跳時速",
@@ -11473,6 +11620,7 @@
     "celebrate_idle": 5333,
     "illust_data": "beijianshahezi_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云泉意暖",
       "chs_t": "雲泉意暖",
@@ -11552,6 +11700,7 @@
     "celebrate_idle": null,
     "illust_data": "aiyin",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "艾因",
       "chs_t": "艾因",
@@ -11624,6 +11773,7 @@
     "celebrate_idle": null,
     "illust_data": "aiyin_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -11703,6 +11853,7 @@
     "celebrate_idle": null,
     "illust_data": "aiyin_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夏",
       "chs_t": "命運之夏",
@@ -11782,6 +11933,7 @@
     "celebrate_idle": null,
     "illust_data": "aiyin_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "天黑请闭眼",
       "chs_t": "天黑請閉眼",
@@ -11861,6 +12013,7 @@
     "celebrate_idle": null,
     "illust_data": "aiyin_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "雪间春信",
       "chs_t": "雪間春信",
@@ -11940,6 +12093,7 @@
     "celebrate_idle": null,
     "illust_data": "chutao",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "雏桃",
       "chs_t": "雛桃",
@@ -12012,6 +12166,7 @@
     "celebrate_idle": null,
     "illust_data": "chutao_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -12091,6 +12246,7 @@
     "celebrate_idle": null,
     "illust_data": "chutao_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "昭华年",
       "chs_t": "昭華年",
@@ -12170,6 +12326,7 @@
     "celebrate_idle": null,
     "illust_data": "chutao_np",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "醇香初夏",
       "chs_t": "醇香初夏",
@@ -12249,6 +12406,7 @@
     "celebrate_idle": null,
     "illust_data": "chutao_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "冬日心愿簿",
       "chs_t": "冬日心願簿",
@@ -12328,6 +12486,7 @@
     "celebrate_idle": 3333,
     "illust_data": "chutao_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏风吹拂",
       "chs_t": "夏風吹拂",
@@ -12407,6 +12566,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "月见山",
       "chs_t": "月見山",
@@ -12479,6 +12639,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -12558,6 +12719,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春日返校季",
       "chs_t": "春日返校季",
@@ -12637,6 +12799,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "禁锢之地",
       "chs_t": "禁錮之地",
@@ -12716,6 +12879,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "温存韶光",
       "chs_t": "溫存韶光",
@@ -12795,6 +12959,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "藤本绮罗",
       "chs_t": "藤本綺羅",
@@ -12867,6 +13032,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -12946,6 +13112,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "瑞雪迎新",
       "chs_t": "瑞雪迎新",
@@ -13025,6 +13192,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "满分假期",
       "chs_t": "滿分假期",
@@ -13104,6 +13272,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "温存韶光",
       "chs_t": "溫存韶光",
@@ -13183,6 +13352,7 @@
     "celebrate_idle": null,
     "illust_data": "tengbenqiluo_kxj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "校园微风",
       "chs_t": "校園微風",
@@ -13262,6 +13432,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "辉夜姬",
       "chs_t": "輝夜姬",
@@ -13334,6 +13505,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -13413,6 +13585,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "雪夜絮语",
       "chs_t": "雪夜絮語",
@@ -13492,6 +13665,7 @@
     "celebrate_idle": 4000,
     "illust_data": "huiyeji_cj",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "择芳意",
       "chs_t": "擇芳意",
@@ -13571,6 +13745,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "氤氲浮光",
       "chs_t": "氤氳浮光",
@@ -13650,6 +13825,7 @@
     "celebrate_idle": null,
     "illust_data": "huiyeji_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "罗裳曼影",
       "chs_t": "羅裳曼影",
@@ -13729,6 +13905,7 @@
     "celebrate_idle": 8000,
     "illust_data": "huiyeji_yh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "摇曳心情",
       "chs_t": "搖曳心情",
@@ -13808,6 +13985,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "如月莲",
       "chs_t": "如月蓮",
@@ -13880,6 +14058,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -13959,6 +14138,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "暗夜法则",
       "chs_t": "暗夜法則",
@@ -14038,6 +14218,7 @@
     "celebrate_idle": 6666,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "新岁景明",
       "chs_t": "新歲景明",
@@ -14117,6 +14298,7 @@
     "celebrate_idle": null,
     "illust_data": "shiyuanduihai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "石原碓海",
       "chs_t": "石原碓海",
@@ -14189,6 +14371,7 @@
     "celebrate_idle": null,
     "illust_data": "shiyuanduihai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -14268,6 +14451,7 @@
     "celebrate_idle": null,
     "illust_data": "shiyuanduihai_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白色礼赞",
       "chs_t": "白色禮贊",
@@ -14347,6 +14531,7 @@
     "celebrate_idle": null,
     "illust_data": "shiyuanduihai_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "假日之滨",
       "chs_t": "假日之濱",
@@ -14426,6 +14611,7 @@
     "celebrate_idle": null,
     "illust_data": "shiyuanduihai_hxsw",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "幻想诗篇",
       "chs_t": "幻想詩篇",
@@ -14505,6 +14691,7 @@
     "celebrate_idle": null,
     "illust_data": "ailisha",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "艾丽莎",
       "chs_t": "艾麗莎",
@@ -14577,6 +14764,7 @@
     "celebrate_idle": null,
     "illust_data": "ailisha_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -14656,6 +14844,7 @@
     "celebrate_idle": null,
     "illust_data": "ailisha_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "睡前故事",
       "chs_t": "睡前故事",
@@ -14735,6 +14924,7 @@
     "celebrate_idle": 6667,
     "illust_data": "ailisha_cj",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "择芳意",
       "chs_t": "擇芳意",
@@ -14814,6 +15004,7 @@
     "celebrate_idle": null,
     "illust_data": "ailisha_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "天黑请闭眼",
       "chs_t": "天黑請閉眼",
@@ -14893,6 +15084,7 @@
     "celebrate_idle": 8000,
     "illust_data": "ailisha_sc",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "心跳时速",
       "chs_t": "心跳時速",
@@ -14972,6 +15164,7 @@
     "celebrate_idle": null,
     "illust_data": "ailisha_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "纯白乐章",
       "chs_t": "純白樂章",
@@ -15051,6 +15244,7 @@
     "celebrate_idle": null,
     "illust_data": "siqiqiansuili",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "寺崎千穗理",
       "chs_t": "寺崎千穗理",
@@ -15123,6 +15317,7 @@
     "celebrate_idle": null,
     "illust_data": "siqiqiansuili_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -15202,6 +15397,7 @@
     "celebrate_idle": null,
     "illust_data": "siqiqiansuili_yy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "佳期不负",
       "chs_t": "佳期不負",
@@ -15281,6 +15477,7 @@
     "celebrate_idle": 13333,
     "illust_data": "siqiqiansuili_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "玩转夏日",
       "chs_t": "玩轉夏日",
@@ -15360,6 +15557,7 @@
     "celebrate_idle": null,
     "illust_data": "siqiqiansuili_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "共沐夜色",
       "chs_t": "共沐夜色",
@@ -15439,6 +15637,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "宫永咲",
       "chs_t": "宮永咲",
@@ -15511,6 +15710,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -15590,6 +15790,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凛然花开",
       "chs_t": "凜然花開",
@@ -15669,6 +15870,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -15748,6 +15950,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "原村和",
       "chs_t": "原村和",
@@ -15820,6 +16023,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -15899,6 +16103,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凛然花开",
       "chs_t": "凜然花開",
@@ -15978,6 +16183,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -16057,6 +16263,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "天江衣",
       "chs_t": "天江衣",
@@ -16129,6 +16336,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -16208,6 +16416,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凛然花开",
       "chs_t": "凜然花開",
@@ -16287,6 +16496,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -16366,6 +16576,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "宫永照",
       "chs_t": "宮永照",
@@ -16438,6 +16649,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -16517,6 +16729,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凛然花开",
       "chs_t": "凜然花開",
@@ -16596,6 +16809,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -16675,6 +16889,7 @@
     "celebrate_idle": null,
     "illust_data": "fuji",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "福姬",
       "chs_t": "福姬",
@@ -16747,6 +16962,7 @@
     "celebrate_idle": null,
     "illust_data": "fuji_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -16826,6 +17042,7 @@
     "celebrate_idle": null,
     "illust_data": "fuji_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春池小憩",
       "chs_t": "春池小憩",
@@ -16905,6 +17122,7 @@
     "celebrate_idle": null,
     "illust_data": "fuji_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "甜蜜魔法",
       "chs_t": "甜蜜魔法",
@@ -16984,6 +17202,7 @@
     "celebrate_idle": 7333,
     "illust_data": "fuji_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "假日之滨",
       "chs_t": "假日之濱",
@@ -17063,6 +17282,7 @@
     "celebrate_idle": null,
     "illust_data": "fuji_slo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "异想烂漫",
       "chs_t": "異想爛漫",
@@ -17142,6 +17362,7 @@
     "celebrate_idle": 3000,
     "illust_data": "fuji_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "缘结祈岁",
       "chs_t": "緣結祈歲",
@@ -17221,6 +17442,7 @@
     "celebrate_idle": null,
     "illust_data": "qixi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "七夕",
       "chs_t": "七夕",
@@ -17293,6 +17515,7 @@
     "celebrate_idle": null,
     "illust_data": "qixi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -17372,6 +17595,7 @@
     "celebrate_idle": null,
     "illust_data": "qixi_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悸动之夏",
       "chs_t": "悸動之夏",
@@ -17451,6 +17675,7 @@
     "celebrate_idle": null,
     "illust_data": "qixi_ysj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四方雀者",
       "chs_t": "四方雀者",
@@ -17530,6 +17755,7 @@
     "celebrate_idle": null,
     "illust_data": "qixi_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "纯白乐章",
       "chs_t": "純白樂章",
@@ -17609,6 +17835,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "蛇喰梦子",
       "chs_t": "蛇喰夢子",
@@ -17681,6 +17908,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -17760,6 +17988,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "百花缭乱",
       "chs_t": "百花繚亂",
@@ -17839,6 +18068,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "早乙女芽亚里",
       "chs_t": "早乙女芽亞里",
@@ -17911,6 +18141,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -17990,6 +18221,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "百花缭乱",
       "chs_t": "百花繚亂",
@@ -18069,6 +18301,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "生志摩妄",
       "chs_t": "生志摩妄",
@@ -18141,6 +18374,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -18220,6 +18454,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "百花缭乱",
       "chs_t": "百花繚亂",
@@ -18299,6 +18534,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "桃喰绮罗莉",
       "chs_t": "桃喰綺羅莉",
@@ -18371,6 +18607,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -18450,6 +18687,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "百花缭乱",
       "chs_t": "百花繚亂",
@@ -18529,6 +18767,7 @@
     "celebrate_idle": null,
     "illust_data": "qihailinai",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "七海礼奈",
       "chs_t": "七海禮奈",
@@ -18599,8 +18838,9 @@
     "greeting_init": null,
     "click2": null,
     "celebrate_idle": null,
-    "illust_data": "qihailinai_0",
+    "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -18678,8 +18918,9 @@
     "greeting_init": null,
     "click2": null,
     "celebrate_idle": null,
-    "illust_data": "qihailinai_sd",
+    "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白色礼赞",
       "chs_t": "白色禮贊",
@@ -18757,8 +18998,9 @@
     "greeting_init": null,
     "click2": null,
     "celebrate_idle": null,
-    "illust_data": "qihailinai_sy",
+    "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "枕边私语",
       "chs_t": "枕邊私語",
@@ -18836,8 +19078,9 @@
     "greeting_init": null,
     "click2": null,
     "celebrate_idle": null,
-    "illust_data": "qihailinai_yd",
+    "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云窗春几枝",
       "chs_t": "雲窗春幾枝",
@@ -18917,6 +19160,7 @@
     "celebrate_idle": null,
     "illust_data": "qihailinai_hxsw",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "幻想诗篇",
       "chs_t": "幻想詩篇",
@@ -18996,6 +19240,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "A-37",
       "chs_t": "A-37",
@@ -19068,6 +19313,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -19147,6 +19393,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "花火之约",
       "chs_t": "花火之約",
@@ -19226,6 +19473,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "醇香初夏",
       "chs_t": "醇香初夏",
@@ -19305,6 +19553,7 @@
     "celebrate_idle": 5333,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "不寐之绊",
       "chs_t": "不寐之絆",
@@ -19384,6 +19633,7 @@
     "celebrate_idle": null,
     "illust_data": "jichuanxiang",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "姬川响",
       "chs_t": "姬川響",
@@ -19456,6 +19706,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -19535,6 +19786,7 @@
     "celebrate_idle": 6666,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "新岁添喜",
       "chs_t": "新歲添喜",
@@ -19614,6 +19866,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "奇遇星光",
       "chs_t": "奇遇星光",
@@ -19693,6 +19946,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "莱恩",
       "chs_t": "萊恩",
@@ -19765,6 +20019,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -19844,6 +20099,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "甜蜜魔法",
       "chs_t": "甜蜜魔法",
@@ -19923,6 +20179,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "天黑请闭眼",
       "chs_t": "天黑請閉眼",
@@ -20002,6 +20259,7 @@
     "celebrate_idle": null,
     "illust_data": "senchuanlingzi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "森川绫子",
       "chs_t": "森川綾子",
@@ -20074,6 +20332,7 @@
     "celebrate_idle": null,
     "illust_data": "senchuanlingzi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -20153,6 +20412,7 @@
     "celebrate_idle": 8000,
     "illust_data": "senchuanlingzi_sy",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "满分假期",
       "chs_t": "滿分假期",
@@ -20232,6 +20492,7 @@
     "celebrate_idle": null,
     "illust_data": "senchuanlingzi_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "拂晓的G大调",
       "chs_t": "拂曉的G大調",
@@ -20311,6 +20572,7 @@
     "celebrate_idle": 8000,
     "illust_data": "senchuanlingzi_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "不寐之绊",
       "chs_t": "不寐之絆",
@@ -20390,6 +20652,7 @@
     "celebrate_idle": 5333,
     "illust_data": "senchuanlingzi_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "纯白乐章",
       "chs_t": "純白樂章",
@@ -20469,6 +20732,7 @@
     "celebrate_idle": null,
     "illust_data": "longchuanxiayan",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "泷川夏彦",
       "chs_t": "瀧川夏彥",
@@ -20541,6 +20805,7 @@
     "celebrate_idle": null,
     "illust_data": "longchuanxiayan_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -20620,6 +20885,7 @@
     "celebrate_idle": null,
     "illust_data": "longchuanxiayan_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "氤氲浮光",
       "chs_t": "氤氳浮光",
@@ -20699,6 +20965,7 @@
     "celebrate_idle": null,
     "illust_data": "longchuanxiayan_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "贺今朝",
       "chs_t": "賀今朝",
@@ -20778,6 +21045,7 @@
     "celebrate_idle": null,
     "illust_data": "longchuanxiayan_yh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "摇曳心情",
       "chs_t": "搖曳心情",
@@ -20857,6 +21125,7 @@
     "celebrate_idle": null,
     "illust_data": "chimumao",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "赤木茂",
       "chs_t": "赤木茂",
@@ -20929,6 +21198,7 @@
     "celebrate_idle": null,
     "illust_data": "chimumao_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -21008,6 +21278,7 @@
     "celebrate_idle": null,
     "illust_data": "chimumao_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "光暗对决",
       "chs_t": "光暗對決",
@@ -21087,6 +21358,7 @@
     "celebrate_idle": 8000,
     "illust_data": "chimumao_2",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "死神的咒缚",
       "chs_t": "死神的咒縛",
@@ -21166,6 +21438,7 @@
     "celebrate_idle": null,
     "illust_data": "jiuchaoyan",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "鹫巢岩",
       "chs_t": "鷲巢巖",
@@ -21238,6 +21511,7 @@
     "celebrate_idle": null,
     "illust_data": "jiuchaoyan_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -21317,6 +21591,7 @@
     "celebrate_idle": null,
     "illust_data": "jiuchaoyan_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "光暗对决",
       "chs_t": "光暗對決",
@@ -21396,6 +21671,7 @@
     "celebrate_idle": 8000,
     "illust_data": "jiuchaoyan_2",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "死神的咒缚",
       "chs_t": "死神的咒縛",
@@ -21475,6 +21751,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "西园寺一羽",
       "chs_t": "西園寺一羽",
@@ -21547,6 +21824,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -21626,6 +21904,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoyesiqiyu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "小野寺七羽",
       "chs_t": "小野寺七羽",
@@ -21698,6 +21977,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoyesiqiyu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -21777,6 +22057,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoyesiqiyu_yy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏日风物诗",
       "chs_t": "夏日風物詩",
@@ -21856,6 +22137,7 @@
     "celebrate_idle": null,
     "illust_data": "xiaoyesiqiyu_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏风吹拂",
       "chs_t": "夏風吹拂",
@@ -21935,6 +22217,7 @@
     "celebrate_idle": null,
     "illust_data": "xiamier",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏弥尔",
       "chs_t": "夏彌爾",
@@ -22007,6 +22290,7 @@
     "celebrate_idle": null,
     "illust_data": "xiamier_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -22086,6 +22370,7 @@
     "celebrate_idle": null,
     "illust_data": "xiamier_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "春池小憩",
       "chs_t": "春池小憩",
@@ -22165,6 +22450,7 @@
     "celebrate_idle": null,
     "illust_data": "xiamier_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "迷人礼颂",
       "chs_t": "迷人禮頌",
@@ -22244,6 +22530,7 @@
     "celebrate_idle": null,
     "illust_data": "xiamier_xl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣谛遗章",
       "chs_t": "聖諦遺章",
@@ -22323,6 +22610,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四宫辉夜",
       "chs_t": "四宮輝夜",
@@ -22395,6 +22683,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -22474,6 +22763,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "偷心怪盗",
       "chs_t": "偷心怪盜",
@@ -22553,6 +22843,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白银御行",
       "chs_t": "白銀御行",
@@ -22625,6 +22916,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -22704,6 +22996,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "偷心怪盗",
       "chs_t": "偷心怪盜",
@@ -22783,6 +23076,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "早坂爱",
       "chs_t": "早坂愛",
@@ -22855,6 +23149,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -22934,6 +23229,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "偷心怪盗",
       "chs_t": "偷心怪盜",
@@ -23013,6 +23309,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "白银圭",
       "chs_t": "白銀圭",
@@ -23085,6 +23382,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -23164,6 +23462,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "偷心怪盗",
       "chs_t": "偷心怪盜",
@@ -23243,6 +23542,7 @@
     "celebrate_idle": null,
     "illust_data": "you",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "柚",
       "chs_t": "柚",
@@ -23315,6 +23615,7 @@
     "celebrate_idle": null,
     "illust_data": "you_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -23394,6 +23695,7 @@
     "celebrate_idle": null,
     "illust_data": "you_sy",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "枕边私语",
       "chs_t": "枕邊私語",
@@ -23473,6 +23775,7 @@
     "celebrate_idle": null,
     "illust_data": "you_yd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "新岁景明",
       "chs_t": "新歲景明",
@@ -23552,6 +23855,7 @@
     "celebrate_idle": 2666,
     "illust_data": "you_yz",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "玩转夏日",
       "chs_t": "玩轉夏日",
@@ -23631,6 +23935,7 @@
     "celebrate_idle": 2666,
     "illust_data": "you_bl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "足尖独白",
       "chs_t": "足尖獨白",
@@ -23710,6 +24015,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "泽克斯",
       "chs_t": "澤克斯",
@@ -23782,6 +24088,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -23861,6 +24168,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏日风物诗",
       "chs_t": "夏日風物詩",
@@ -23940,6 +24248,7 @@
     "celebrate_idle": 10666,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "惊鸿岁",
       "chs_t": "驚鴻歲",
@@ -24019,6 +24328,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "北原莉莉",
       "chs_t": "北原莉莉",
@@ -24091,6 +24401,7 @@
     "celebrate_idle": 16000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -24170,6 +24481,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "竹井久",
       "chs_t": "竹井久",
@@ -24242,6 +24554,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -24321,6 +24634,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -24400,6 +24714,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "福路美穗子",
       "chs_t": "福路美穗子",
@@ -24472,6 +24787,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -24551,6 +24867,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -24630,6 +24947,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "新子憧",
       "chs_t": "新子憧",
@@ -24702,6 +25020,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -24781,6 +25100,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -24860,6 +25180,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "园城寺怜",
       "chs_t": "園城寺怜",
@@ -24932,6 +25253,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -25011,6 +25333,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "兔耳派对",
       "chs_t": "兔耳派對",
@@ -25090,6 +25413,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "四宫冬实",
       "chs_t": "四宮冬實",
@@ -25162,6 +25486,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -25241,6 +25566,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi_np",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "馥郁满室",
       "chs_t": "馥郁滿室",
@@ -25320,6 +25646,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "暖冬邂逅",
       "chs_t": "暖冬邂逅",
@@ -25399,6 +25726,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi_ox",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "奇遇星光",
       "chs_t": "奇遇星光",
@@ -25478,6 +25806,7 @@
     "celebrate_idle": null,
     "illust_data": "sigongdongshi_ydh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "为你应援！",
       "chs_t": "為你應援！",
@@ -25557,6 +25886,7 @@
     "celebrate_idle": null,
     "illust_data": "qingluan",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "青鸾",
       "chs_t": "青鸞",
@@ -25629,6 +25959,7 @@
     "celebrate_idle": null,
     "illust_data": "qingluan_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -25708,6 +26039,7 @@
     "celebrate_idle": 8000,
     "illust_data": "qingluan_cj",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "贺今朝",
       "chs_t": "賀今朝",
@@ -25787,6 +26119,7 @@
     "celebrate_idle": 8000,
     "illust_data": "qingluan_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏风吹拂",
       "chs_t": "夏風吹拂",
@@ -25866,6 +26199,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "如月彩音",
       "chs_t": "如月彩音",
@@ -25938,6 +26272,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -26017,6 +26352,7 @@
     "celebrate_idle": 3333,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "暖冬邂逅",
       "chs_t": "暖冬邂逅",
@@ -26096,6 +26432,7 @@
     "celebrate_idle": 5333,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云窗春几枝",
       "chs_t": "雲窗春幾枝",
@@ -26175,6 +26512,7 @@
     "celebrate_idle": null,
     "illust_data": "weilai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "未来",
       "chs_t": "未來",
@@ -26247,6 +26585,7 @@
     "celebrate_idle": null,
     "illust_data": "weilai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -26326,6 +26665,7 @@
     "celebrate_idle": null,
     "illust_data": "weilai_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "迷人礼颂",
       "chs_t": "迷人禮頌",
@@ -26405,6 +26745,7 @@
     "celebrate_idle": null,
     "illust_data": "weilai_bl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "足尖独白",
       "chs_t": "足尖獨白",
@@ -26484,6 +26825,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "鲁鲁修·兰佩洛基",
       "chs_t": "魯路修·蘭佩洛基",
@@ -26556,6 +26898,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -26635,6 +26978,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "棋盘晚宴",
       "chs_t": "棋盤晚宴",
@@ -26714,6 +27058,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "C.C.",
       "chs_t": "C.C.",
@@ -26786,6 +27131,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -26865,6 +27211,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "棋盘晚宴",
       "chs_t": "棋盤晚宴",
@@ -26944,6 +27291,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "枢木朱雀",
       "chs_t": "樞木朱雀",
@@ -27016,6 +27364,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -27095,6 +27444,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "棋盘晚宴",
       "chs_t": "棋盤晚宴",
@@ -27174,6 +27524,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "红月卡莲",
       "chs_t": "紅月卡蓮",
@@ -27246,6 +27597,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -27325,6 +27677,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "棋盘晚宴",
       "chs_t": "棋盤晚宴",
@@ -27404,6 +27757,7 @@
     "celebrate_idle": null,
     "illust_data": "lanxing",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "岚星",
       "chs_t": "嵐星",
@@ -27476,6 +27830,7 @@
     "celebrate_idle": null,
     "illust_data": "lanxing_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -27555,6 +27910,7 @@
     "celebrate_idle": null,
     "illust_data": "lanxing_ws",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "不寐之绊",
       "chs_t": "不寐之絆",
@@ -27634,6 +27990,7 @@
     "celebrate_idle": 2666,
     "illust_data": "lanxing_yh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "摇曳心情",
       "chs_t": "搖曳心情",
@@ -27713,6 +28070,7 @@
     "celebrate_idle": null,
     "illust_data": "ling",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "凌",
       "chs_t": "凌",
@@ -27785,6 +28143,7 @@
     "celebrate_idle": null,
     "illust_data": "ling_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -27864,6 +28223,7 @@
     "celebrate_idle": null,
     "illust_data": "ling_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "玩转夏日",
       "chs_t": "玩轉夏日",
@@ -27943,6 +28303,7 @@
     "celebrate_idle": null,
     "illust_data": "ling_gf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云踪侠影",
       "chs_t": "雲蹤俠影",
@@ -28022,6 +28383,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "东城玄音",
       "chs_t": "東城玄音",
@@ -28094,6 +28456,7 @@
     "celebrate_idle": 6666,
     "illust_data": null,
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -28173,6 +28536,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "汉娜",
       "chs_t": "漢娜",
@@ -28245,6 +28609,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -28324,6 +28689,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "迷人礼颂",
       "chs_t": "迷人禮頌",
@@ -28403,6 +28769,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "穆萨",
       "chs_t": "穆薩",
@@ -28475,6 +28842,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -28554,6 +28922,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "伊莉雅",
       "chs_t": "伊莉雅",
@@ -28626,6 +28995,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -28705,6 +29075,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Prism Live",
       "chs_t": "Prism Live",
@@ -28784,6 +29155,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "美游",
       "chs_t": "美遊",
@@ -28856,6 +29228,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -28935,6 +29308,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Prism Live",
       "chs_t": "Prism Live",
@@ -29014,6 +29388,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "小黑",
       "chs_t": "小黑",
@@ -29086,6 +29461,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -29165,6 +29541,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Prism Live",
       "chs_t": "Prism Live",
@@ -29244,6 +29621,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "吉尔",
       "chs_t": "吉爾",
@@ -29316,6 +29694,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -29395,6 +29774,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Prism Live",
       "chs_t": "Prism Live",
@@ -29474,6 +29854,7 @@
     "celebrate_idle": null,
     "illust_data": "yifu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "伊芙·克里斯特",
       "chs_t": "伊芙·克里斯特",
@@ -29546,6 +29927,7 @@
     "celebrate_idle": null,
     "illust_data": "yifu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -29625,6 +30007,7 @@
     "celebrate_idle": null,
     "illust_data": "yifu_xl",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "圣谛遗章",
       "chs_t": "聖諦遺章",
@@ -29704,6 +30087,7 @@
     "celebrate_idle": 3000,
     "illust_data": "yifu_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "缘结祈岁",
       "chs_t": "緣結祈歲",
@@ -29783,6 +30167,7 @@
     "celebrate_idle": null,
     "illust_data": "linlang",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "琳琅",
       "chs_t": "琳琅",
@@ -29855,6 +30240,7 @@
     "celebrate_idle": null,
     "illust_data": "linlang_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -29934,6 +30320,7 @@
     "celebrate_idle": null,
     "illust_data": "linlang_ox",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "奇遇星光",
       "chs_t": "奇遇星光",
@@ -30013,6 +30400,7 @@
     "celebrate_idle": 5333,
     "illust_data": "linlang_sd",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "纯白乐章",
       "chs_t": "純白樂章",
@@ -30092,6 +30480,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanfeng",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "袁枫",
       "chs_t": "袁楓",
@@ -30164,6 +30553,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanfeng_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -30243,6 +30633,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanfeng_gf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云踪侠影",
       "chs_t": "雲蹤俠影",
@@ -30322,6 +30713,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "砂狼白子",
       "chs_t": "砂狼白子",
@@ -30394,6 +30786,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -30473,6 +30866,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "华芳雅韵",
       "chs_t": "華芳雅韻",
@@ -30552,6 +30946,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "小鸟游星野",
       "chs_t": "小鳥遊星野",
@@ -30624,6 +31019,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -30703,6 +31099,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "华芳雅韵",
       "chs_t": "華芳雅韻",
@@ -30782,6 +31179,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "陆八魔爱露",
       "chs_t": "陸八魔亞瑠",
@@ -30854,6 +31252,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -30933,6 +31332,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "华芳雅韵",
       "chs_t": "華芳雅韻",
@@ -31012,6 +31412,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "浅黄睦月",
       "chs_t": "淺黃無月",
@@ -31084,6 +31485,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -31163,6 +31565,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "华芳雅韵",
       "chs_t": "華芳雅韻",
@@ -31242,6 +31645,7 @@
     "celebrate_idle": null,
     "illust_data": "jiushi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "玖辻",
       "chs_t": "玖辻",
@@ -31314,6 +31718,7 @@
     "celebrate_idle": null,
     "illust_data": "jiushi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -31393,6 +31798,7 @@
     "celebrate_idle": 5333,
     "illust_data": "jiushi_xr",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "夏风吹拂",
       "chs_t": "夏風吹拂",
@@ -31472,6 +31878,7 @@
     "celebrate_idle": null,
     "illust_data": "xili",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "希里",
       "chs_t": "希里",
@@ -31544,6 +31951,7 @@
     "celebrate_idle": null,
     "illust_data": "xili_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -31623,6 +32031,7 @@
     "celebrate_idle": null,
     "illust_data": "xili_yh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "摇曳心情",
       "chs_t": "搖曳心情",
@@ -31702,6 +32111,7 @@
     "celebrate_idle": null,
     "illust_data": "ju",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "局",
       "chs_t": "局",
@@ -31774,6 +32184,7 @@
     "celebrate_idle": null,
     "illust_data": "ju_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -31853,6 +32264,7 @@
     "celebrate_idle": 2666,
     "illust_data": "ju_cj",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "缘结祈岁",
       "chs_t": "緣結祈歲",
@@ -31932,6 +32344,7 @@
     "celebrate_idle": null,
     "illust_data": "laiya",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "莱娅",
       "chs_t": "萊婭",
@@ -32004,6 +32417,7 @@
     "celebrate_idle": null,
     "illust_data": "laiya_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -32083,6 +32497,7 @@
     "celebrate_idle": null,
     "illust_data": "laiya_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "罗裳曼影",
       "chs_t": "羅裳曼影",
@@ -32162,6 +32577,7 @@
     "celebrate_idle": null,
     "illust_data": "xinxiya",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "辛西娅",
       "chs_t": "辛西婭",
@@ -32234,6 +32650,7 @@
     "celebrate_idle": null,
     "illust_data": "xinxiya_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -32313,6 +32730,7 @@
     "celebrate_idle": null,
     "illust_data": "xinxiya_wq",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云泉意暖",
       "chs_t": "雲泉意暖",
@@ -32392,6 +32810,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "南枫花",
       "chs_t": "南楓花",
@@ -32464,6 +32883,7 @@
     "celebrate_idle": 8000,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -32543,6 +32963,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "非名",
       "chs_t": "非名",
@@ -32615,6 +33036,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -32694,6 +33116,7 @@
     "celebrate_idle": null,
     "illust_data": "sataen",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "萨塔恩",
       "chs_t": "薩塔恩",
@@ -32766,6 +33189,7 @@
     "celebrate_idle": null,
     "illust_data": "sataen_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -32845,6 +33269,7 @@
     "celebrate_idle": null,
     "illust_data": "sataen_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "流连深蓝",
       "chs_t": "流連深藍",
@@ -32924,6 +33349,7 @@
     "celebrate_idle": null,
     "illust_data": "huayuqing",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "花语青",
       "chs_t": "花語青",
@@ -32996,6 +33422,7 @@
     "celebrate_idle": null,
     "illust_data": "huayuqing_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -33075,6 +33502,7 @@
     "celebrate_idle": 3000,
     "illust_data": "huayuqing_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "流连深蓝",
       "chs_t": "流連深藍",
@@ -33154,6 +33582,7 @@
     "celebrate_idle": null,
     "illust_data": "huayubai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "花语白",
       "chs_t": "花語白",
@@ -33226,6 +33655,7 @@
     "celebrate_idle": null,
     "illust_data": "huayubai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -33305,6 +33735,7 @@
     "celebrate_idle": 2666,
     "illust_data": "huayubai_lf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "流连深蓝",
       "chs_t": "流連深藍",
@@ -33384,6 +33815,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "浅仓透",
       "chs_t": "浅倉透",
@@ -33456,6 +33888,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -33535,6 +33968,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悠然格调",
       "chs_t": "悠然格調",
@@ -33614,6 +34048,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "樋口圆香",
       "chs_t": "樋口圓香",
@@ -33686,6 +34121,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -33765,6 +34201,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悠然格调",
       "chs_t": "悠然格調",
@@ -33844,6 +34281,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "福丸小糸",
       "chs_t": "福丸小糸",
@@ -33916,6 +34354,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -33995,6 +34434,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悠然格调",
       "chs_t": "悠然格調",
@@ -34074,6 +34514,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "市川雏菜",
       "chs_t": "市川雛菜",
@@ -34146,6 +34587,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -34225,6 +34667,7 @@
     "celebrate_idle": null,
     "illust_data": null,
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "悠然格调",
       "chs_t": "悠然格調",
@@ -34304,6 +34747,7 @@
     "celebrate_idle": null,
     "illust_data": "jian",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "简",
       "chs_t": "簡",
@@ -34376,6 +34820,7 @@
     "celebrate_idle": null,
     "illust_data": "jian_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -34455,6 +34900,7 @@
     "celebrate_idle": null,
     "illust_data": "jian_ydh",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "为你应援！",
       "chs_t": "為你應援！",
@@ -34534,6 +34980,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanxiao",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "元宵",
       "chs_t": "元宵",
@@ -34606,6 +35053,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanxiao_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -34685,6 +35133,7 @@
     "celebrate_idle": 5333,
     "illust_data": "yuanxiao_gf",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "云踪侠影",
       "chs_t": "雲蹤俠影",
@@ -34764,6 +35213,7 @@
     "celebrate_idle": null,
     "illust_data": "jiantongying",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "间桐樱",
       "chs_t": "間桐櫻",
@@ -34836,6 +35286,7 @@
     "celebrate_idle": null,
     "illust_data": "jiantongying_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -34915,6 +35366,7 @@
     "celebrate_idle": 8000,
     "illust_data": "jiantongying_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夜",
       "chs_t": "命運之夜",
@@ -34994,6 +35446,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanbanlin",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "远坂凛",
       "chs_t": "遠坂凜",
@@ -35066,6 +35519,7 @@
     "celebrate_idle": null,
     "illust_data": "yuanbanlin_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -35145,6 +35599,7 @@
     "celebrate_idle": 5333,
     "illust_data": "yuanbanlin_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夜",
       "chs_t": "命運之夜",
@@ -35224,6 +35679,7 @@
     "celebrate_idle": null,
     "illust_data": "aertuoliya",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Saber",
       "chs_t": "Saber",
@@ -35296,6 +35752,7 @@
     "celebrate_idle": null,
     "illust_data": "aertuoliya_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -35375,6 +35832,7 @@
     "celebrate_idle": 2666,
     "illust_data": "aertuoliya_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夜",
       "chs_t": "命運之夜",
@@ -35454,6 +35912,7 @@
     "celebrate_idle": null,
     "illust_data": "yinglingweigong",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "Archer",
       "chs_t": "Archer",
@@ -35526,6 +35985,7 @@
     "celebrate_idle": null,
     "illust_data": "yinglingweigong_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -35605,6 +36065,7 @@
     "celebrate_idle": 16000,
     "illust_data": "yinglingweigong_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "命运之夜",
       "chs_t": "命運之夜",
@@ -35684,6 +36145,7 @@
     "celebrate_idle": null,
     "illust_data": "liyang",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "璃央",
       "chs_t": "璃央",
@@ -35756,6 +36218,7 @@
     "celebrate_idle": null,
     "illust_data": "liyang_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -35835,6 +36298,7 @@
     "celebrate_idle": 8000,
     "illust_data": "liyang_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绛夜缠仪",
       "chs_t": "絳夜纏儀",
@@ -35914,6 +36378,7 @@
     "celebrate_idle": null,
     "illust_data": "bantianyinshi",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "坂田银时",
       "chs_t": "坂田銀時",
@@ -35986,6 +36451,7 @@
     "celebrate_idle": null,
     "illust_data": "bantianyinshi_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -36065,6 +36531,7 @@
     "celebrate_idle": null,
     "illust_data": "bantianyinshi_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "麻将桌即人生",
       "chs_t": "麻將桌即人生",
@@ -36144,6 +36611,7 @@
     "celebrate_idle": null,
     "illust_data": "guixiaotailang",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "桂小太郎",
       "chs_t": "桂小太郎",
@@ -36216,6 +36684,7 @@
     "celebrate_idle": null,
     "illust_data": "guixiaotailang_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -36295,6 +36764,7 @@
     "celebrate_idle": null,
     "illust_data": "guixiaotailang_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "麻将桌即人生",
       "chs_t": "麻將桌即人生",
@@ -36374,6 +36844,7 @@
     "celebrate_idle": null,
     "illust_data": "gaoshanjinzhu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "高杉晋助",
       "chs_t": "高杉晉助",
@@ -36446,6 +36917,7 @@
     "celebrate_idle": null,
     "illust_data": "gaoshanjinzhu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -36525,6 +36997,7 @@
     "celebrate_idle": null,
     "illust_data": "gaoshanjinzhu_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "麻将桌即人生",
       "chs_t": "麻將桌即人生",
@@ -36604,6 +37077,7 @@
     "celebrate_idle": null,
     "illust_data": "banbenchenma",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "坂本辰马",
       "chs_t": "坂本辰馬",
@@ -36676,6 +37150,7 @@
     "celebrate_idle": null,
     "illust_data": "banbenchenma_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -36755,6 +37230,7 @@
     "celebrate_idle": null,
     "illust_data": "banbenchenma_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "麻将桌即人生",
       "chs_t": "麻將桌即人生",
@@ -36834,6 +37310,7 @@
     "celebrate_idle": null,
     "illust_data": "mila",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "弥拉",
       "chs_t": "彌拉",
@@ -36906,6 +37383,7 @@
     "celebrate_idle": null,
     "illust_data": "mila_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -36985,6 +37463,7 @@
     "celebrate_idle": 5333,
     "illust_data": "mila_hxsw",
     "blink": null,
+    "skin_version": 0,
     "name": {
       "chs": "幻想诗篇",
       "chs_t": "幻想詩篇",
@@ -37064,6 +37543,7 @@
     "celebrate_idle": null,
     "illust_data": "beiluo",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "北落",
       "chs_t": "北落",
@@ -37136,6 +37616,7 @@
     "celebrate_idle": null,
     "illust_data": "beiluo_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -37215,6 +37696,7 @@
     "celebrate_idle": null,
     "illust_data": "miya",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "筱原米亚",
       "chs_t": "筱原米亞",
@@ -37287,6 +37769,7 @@
     "celebrate_idle": null,
     "illust_data": "miya_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -37366,6 +37849,7 @@
     "celebrate_idle": null,
     "illust_data": "jinwu",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "金乌",
       "chs_t": "金烏",
@@ -37438,6 +37922,7 @@
     "celebrate_idle": null,
     "illust_data": "jinwu_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -37517,6 +38002,7 @@
     "celebrate_idle": null,
     "illust_data": "tongren",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "桐人",
       "chs_t": "桐人",
@@ -37589,6 +38075,7 @@
     "celebrate_idle": null,
     "illust_data": "tongren_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -37668,6 +38155,7 @@
     "celebrate_idle": 1666,
     "illust_data": "tongren_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绀碧之界",
       "chs_t": "紺碧之界",
@@ -37747,6 +38235,7 @@
     "celebrate_idle": null,
     "illust_data": "yasina",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "亚丝娜",
       "chs_t": "亞絲娜",
@@ -37819,6 +38308,7 @@
     "celebrate_idle": null,
     "illust_data": "yasina_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -37898,6 +38388,7 @@
     "celebrate_idle": 8000,
     "illust_data": "yasina_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绀碧之界",
       "chs_t": "紺碧之界",
@@ -37977,6 +38468,7 @@
     "celebrate_idle": null,
     "illust_data": "lifa",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "莉法",
       "chs_t": "莉法",
@@ -38049,6 +38541,7 @@
     "celebrate_idle": null,
     "illust_data": "lifa_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -38128,6 +38621,7 @@
     "celebrate_idle": 2666,
     "illust_data": "lifa_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绀碧之界",
       "chs_t": "紺碧之界",
@@ -38207,6 +38701,7 @@
     "celebrate_idle": null,
     "illust_data": "shinai",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "诗乃",
       "chs_t": "詩乃",
@@ -38279,6 +38774,7 @@
     "celebrate_idle": null,
     "illust_data": "shinai_0",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "契约",
       "chs_t": "契約",
@@ -38358,6 +38854,7 @@
     "celebrate_idle": 8000,
     "illust_data": "shinai_1",
     "blink": null,
+    "skin_version": 1,
     "name": {
       "chs": "绀碧之界",
       "chs_t": "紺碧之界",
