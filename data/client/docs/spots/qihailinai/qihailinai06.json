@@ -209,7 +209,7 @@
               "skin_id": "404401",
               "story": "",
               "emo_id": 8,
-              "anim_first": 0,
+              "anim_first": 5,
               "anim_last": 0,
               "anim_chat": 0,
               "bubble": {
@@ -239,7 +239,7 @@
             "chatid": 0,
             "chatType": 3,
             "charid": 0,
-            "skinid": 0,
+            "skinid": 40012601,
             "content_id": 1462,
             "charname_id": 0,
             "speed": 10,
@@ -7977,7 +7977,7 @@
             "chatType": 2,
             "charid": 0,
             "skinid": 404401,
-            "content_id": 1525,
+            "content_id": 1683,
             "charname_id": 51,
             "speed": 10,
             "npc_pic": "",
@@ -8685,7 +8685,7 @@
               "skin_id": "404401",
               "story": "",
               "emo_id": 2,
-              "anim_first": 0,
+              "anim_first": 5,
               "anim_last": 0,
               "anim_chat": 0,
               "bubble": {
@@ -8715,7 +8715,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 404401,
+            "skinid": 40012601,
             "content_id": 1531,
             "charname_id": 598,
             "speed": 10,
@@ -11539,7 +11539,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 40999901,
+            "skinid": 40012601,
             "content_id": 1555,
             "charname_id": 598,
             "speed": 10,
@@ -12004,7 +12004,7 @@
               "skin_id": "404401",
               "story": "",
               "emo_id": 9,
-              "anim_first": 5,
+              "anim_first": 0,
               "anim_last": 0,
               "anim_chat": 0,
               "bubble": {
@@ -12155,7 +12155,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 404401,
+            "skinid": 40012601,
             "content_id": 1560,
             "charname_id": 598,
             "speed": 10,
@@ -12166,7 +12166,7 @@
               "align": "",
               "style": 0
             },
-            "fadeIn": true,
+            "fadeIn": false,
             "fadeOut": false
           },
           "subtitle": {
@@ -15635,7 +15635,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 404401,
+            "skinid": 40012601,
             "content_id": 1584,
             "charname_id": 598,
             "speed": 10,
@@ -15646,7 +15646,7 @@
               "align": "",
               "style": 0
             },
-            "fadeIn": true,
+            "fadeIn": false,
             "fadeOut": false
           },
           "subtitle": {
@@ -20894,7 +20894,7 @@
               "style": 0
             },
             "fadeIn": false,
-            "fadeOut": true
+            "fadeOut": false
           },
           "subtitle": {
             "content_id": 0,
@@ -21009,7 +21009,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 404401,
+            "skinid": 40012601,
             "content_id": 1621,
             "charname_id": 598,
             "speed": 10,
@@ -21021,7 +21021,7 @@
               "style": 0
             },
             "fadeIn": false,
-            "fadeOut": true
+            "fadeOut": false
           },
           "subtitle": {
             "content_id": 0,
@@ -21136,7 +21136,7 @@
             "chatid": 0,
             "chatType": 2,
             "charid": 200044,
-            "skinid": 404401,
+            "skinid": 40012601,
             "content_id": 1394,
             "charname_id": 598,
             "speed": 10,
@@ -21147,7 +21147,7 @@
               "align": "",
               "style": 0
             },
-            "fadeIn": true,
+            "fadeIn": false,
             "fadeOut": false
           },
           "subtitle": {

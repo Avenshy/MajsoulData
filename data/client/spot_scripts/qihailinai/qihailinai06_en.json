@@ -440,10 +440,6 @@
     "text": "From that day forward, Éternité after closing hours became our secret training ground."
   },
   {
-    "line": 1525,
-    "text": "I can't believe how much you've improved in just a week. You're seriously talented."
-  },
-  {
     "line": 1526,
     "text": "Wait – {var:player_nickname}! When did you record that?! That's so embarrassing!"
   },
@@ -1062,5 +1058,9 @@
   {
     "line": 1680,
     "text": "Her legs have yet to heal, but her spirit has already taken flight toward tomorrow."
+  },
+  {
+    "line": 1683,
+    "text": "I can't believe how much you've improved in just a week. You're seriously talented."
   }
 ]
