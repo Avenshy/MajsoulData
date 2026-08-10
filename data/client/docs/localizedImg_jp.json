@@ -13201,10 +13201,6 @@
       "fileType": 1
     },
     {
-      "filepath": "extendRes\\skin_shop\\a37WS_shop.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\skin_shop\\beijing_fenwoshi.jpg",
       "fileType": 0
     },
@@ -13241,63 +13237,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\huiyejiWQ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\jiutiaoliyuJK_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\laienWS_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\mila_hxsw_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\qihailinai_hxsw_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\qingluanCJ_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\selected_package1_shop.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\skin_shop\\shamo.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\shiyuanduihai_hxsw_shop.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\skin_shop\\tangquan.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\tengbenqiluoJK_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\wangcilangSD_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yijiJK_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yijiSP_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\zeniyaJK_shop.jpg",
       "fileType": 0
     },
     {
@@ -31069,19 +31013,11 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang1.png",
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\2607fanpai.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang1_b.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang2.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26huanxiang2_b.jpg",
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\2607fanpai_b.jpg",
       "fileType": 1
     },
     {

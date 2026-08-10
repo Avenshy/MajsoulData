@@ -3888,6 +3888,330 @@
     "is_reward": 1
   },
   {
+    "id": 26079001,
+    "activity_id": 260790,
+    "base_task_id": 22499,
+    "reward": "302007-1",
+    "matrix_x": null,
+    "matrix_y": null,
+    "is_reward": null
+  },
+  {
+    "id": 26079002,
+    "activity_id": 260790,
+    "base_task_id": 22503,
+    "reward": "100002-2888",
+    "matrix_x": 1,
+    "matrix_y": null,
+    "is_reward": null
+  },
+  {
+    "id": 26079003,
+    "activity_id": 260790,
+    "base_task_id": 22500,
+    "reward": "100002-3888",
+    "matrix_x": 2,
+    "matrix_y": null,
+    "is_reward": null
+  },
+  {
+    "id": 26079004,
+    "activity_id": 260790,
+    "base_task_id": 22497,
+    "reward": "100002-2888",
+    "matrix_x": 3,
+    "matrix_y": null,
+    "is_reward": null
+  },
+  {
+    "id": 26079005,
+    "activity_id": 260790,
+    "base_task_id": 22501,
+    "reward": "302008-1",
+    "matrix_x": 4,
+    "matrix_y": null,
+    "is_reward": null
+  },
+  {
+    "id": 26079006,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-2888",
+    "matrix_x": 5,
+    "matrix_y": null,
+    "is_reward": 1
+  },
+  {
+    "id": 26079007,
+    "activity_id": 260790,
+    "base_task_id": 22497,
+    "reward": "100002-2888",
+    "matrix_x": null,
+    "matrix_y": 1,
+    "is_reward": null
+  },
+  {
+    "id": 26079008,
+    "activity_id": 260790,
+    "base_task_id": 22499,
+    "reward": "100002-3888",
+    "matrix_x": 1,
+    "matrix_y": 1,
+    "is_reward": null
+  },
+  {
+    "id": 26079009,
+    "activity_id": 260790,
+    "base_task_id": 22502,
+    "reward": "100002-3888",
+    "matrix_x": 2,
+    "matrix_y": 1,
+    "is_reward": null
+  },
+  {
+    "id": 26079010,
+    "activity_id": 260790,
+    "base_task_id": 22500,
+    "reward": "100002-3888",
+    "matrix_x": 3,
+    "matrix_y": 1,
+    "is_reward": null
+  },
+  {
+    "id": 26079011,
+    "activity_id": 260790,
+    "base_task_id": 22502,
+    "reward": "100002-2888",
+    "matrix_x": 4,
+    "matrix_y": 1,
+    "is_reward": null
+  },
+  {
+    "id": 26079012,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-1888",
+    "matrix_x": 5,
+    "matrix_y": 1,
+    "is_reward": 1
+  },
+  {
+    "id": 26079013,
+    "activity_id": 260790,
+    "base_task_id": 22495,
+    "reward": "100002-3888",
+    "matrix_x": null,
+    "matrix_y": 2,
+    "is_reward": null
+  },
+  {
+    "id": 26079014,
+    "activity_id": 260790,
+    "base_task_id": 22502,
+    "reward": "100002-3888",
+    "matrix_x": 1,
+    "matrix_y": 2,
+    "is_reward": null
+  },
+  {
+    "id": 26079015,
+    "activity_id": 260790,
+    "base_task_id": 22496,
+    "reward": "304008-1",
+    "matrix_x": 2,
+    "matrix_y": 2,
+    "is_reward": null
+  },
+  {
+    "id": 26079016,
+    "activity_id": 260790,
+    "base_task_id": 22497,
+    "reward": "100002-3888",
+    "matrix_x": 3,
+    "matrix_y": 2,
+    "is_reward": null
+  },
+  {
+    "id": 26079017,
+    "activity_id": 260790,
+    "base_task_id": 22498,
+    "reward": "100002-3888",
+    "matrix_x": 4,
+    "matrix_y": 2,
+    "is_reward": null
+  },
+  {
+    "id": 26079018,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "304008-1",
+    "matrix_x": 5,
+    "matrix_y": 2,
+    "is_reward": 1
+  },
+  {
+    "id": 26079019,
+    "activity_id": 260790,
+    "base_task_id": 22498,
+    "reward": "100002-2888",
+    "matrix_x": null,
+    "matrix_y": 3,
+    "is_reward": null
+  },
+  {
+    "id": 26079020,
+    "activity_id": 260790,
+    "base_task_id": 22499,
+    "reward": "100002-3888",
+    "matrix_x": 1,
+    "matrix_y": 3,
+    "is_reward": null
+  },
+  {
+    "id": 26079021,
+    "activity_id": 260790,
+    "base_task_id": 22501,
+    "reward": "100002-3888",
+    "matrix_x": 2,
+    "matrix_y": 3,
+    "is_reward": null
+  },
+  {
+    "id": 26079022,
+    "activity_id": 260790,
+    "base_task_id": 22503,
+    "reward": "100002-3888",
+    "matrix_x": 3,
+    "matrix_y": 3,
+    "is_reward": null
+  },
+  {
+    "id": 26079023,
+    "activity_id": 260790,
+    "base_task_id": 22495,
+    "reward": "100002-2888",
+    "matrix_x": 4,
+    "matrix_y": 3,
+    "is_reward": null
+  },
+  {
+    "id": 26079024,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-1888",
+    "matrix_x": 5,
+    "matrix_y": 3,
+    "is_reward": 1
+  },
+  {
+    "id": 26079025,
+    "activity_id": 260790,
+    "base_task_id": 22497,
+    "reward": "302010-1",
+    "matrix_x": null,
+    "matrix_y": 4,
+    "is_reward": null
+  },
+  {
+    "id": 26079026,
+    "activity_id": 260790,
+    "base_task_id": 22501,
+    "reward": "100002-2888",
+    "matrix_x": 1,
+    "matrix_y": 4,
+    "is_reward": null
+  },
+  {
+    "id": 26079027,
+    "activity_id": 260790,
+    "base_task_id": 22498,
+    "reward": "100002-3888",
+    "matrix_x": 2,
+    "matrix_y": 4,
+    "is_reward": null
+  },
+  {
+    "id": 26079028,
+    "activity_id": 260790,
+    "base_task_id": 22500,
+    "reward": "100002-2888",
+    "matrix_x": 3,
+    "matrix_y": 4,
+    "is_reward": null
+  },
+  {
+    "id": 26079029,
+    "activity_id": 260790,
+    "base_task_id": 22495,
+    "reward": "302009-1",
+    "matrix_x": 4,
+    "matrix_y": 4,
+    "is_reward": null
+  },
+  {
+    "id": 26079030,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-2888",
+    "matrix_x": 5,
+    "matrix_y": 4,
+    "is_reward": 1
+  },
+  {
+    "id": 26079031,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-2888",
+    "matrix_x": null,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
+    "id": 26079032,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-1888",
+    "matrix_x": 1,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
+    "id": 26079033,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "304008-1",
+    "matrix_x": 2,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
+    "id": 26079034,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-1888",
+    "matrix_x": 3,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
+    "id": 26079035,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "100002-2888",
+    "matrix_x": 4,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
+    "id": 26079036,
+    "activity_id": 260790,
+    "base_task_id": null,
+    "reward": "304009-1",
+    "matrix_x": 5,
+    "matrix_y": 5,
+    "is_reward": 1
+  },
+  {
     "id": 220501001,
     "activity_id": 220501,
     "base_task_id": 20135,

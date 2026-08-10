@@ -1,13 +1,13 @@
 {
   "client_url": "https://game.maj-soul.com/1/",
   "issuer": "chs_t",
-  "product_version": "4.0.45",
-  "loader": "chs_t-WebGL-release-4.0.45(45).loader.js",
+  "product_version": "4.0.46",
+  "loader": "chs_t-WebGL-release-4.0.46(46).loader.js",
   "bundle_profile": "ASTC",
-  "bundle_hash": "8c834d354c0fd971df877933e6bfc8571e832f4d",
+  "bundle_hash": "5bf57b1e0f2b0cb3ef97c3d033a528a750b6b699",
   "raw_dir": "raw",
   "tables": 263,
-  "rows": 67206,
+  "rows": 67247,
   "locale_sources": 461,
   "skipped_modules": 0,
   "protocol": {

@@ -6510,5 +6510,17 @@
     "id": 260735,
     "type": "chest_replace_up",
     "need_popout": null
+  },
+  {
+    "id": 260790,
+    "type": "flip_task",
+    "need_popout": 1,
+    "name": {
+      "chs": "流火掣风",
+      "chs_t": "流火掣風",
+      "jp": "流火御風",
+      "en": "Windborne Flames",
+      "kr": "바람을 가르는 불꽃"
+    }
   }
 ]

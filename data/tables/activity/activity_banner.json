@@ -570,5 +570,16 @@
     "banner_left_selected": null,
     "banner_left_icon": null,
     "time_remind": null
+  },
+  {
+    "id": 260790,
+    "sort": 144,
+    "banner_type": 2,
+    "enter_icon": null,
+    "banner_big": "ui/activity/lobby/banner_tab/pic/2607fanpai_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/2607fanpai.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
   }
 ]
