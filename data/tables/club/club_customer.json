@@ -1,0 +1,582 @@
+[
+  {
+    "id": 3501,
+    "name": 26083501,
+    "icon": [
+      "avatar_character_guest_01"
+    ],
+    "image": [
+      "role_character_guest_01"
+    ],
+    "patience": [
+      40,
+      60
+    ],
+    "power": [
+      30,
+      60
+    ],
+    "tags": [
+      1
+    ],
+    "moodmin": 2,
+    "moodmax": 4,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083601,
+    "power_desc": 26085103,
+    "payment_rate": 100,
+    "bind_count": 1,
+    "tip": 1
+  },
+  {
+    "id": 3502,
+    "name": 26083502,
+    "icon": [
+      "avatar_character_guest_02"
+    ],
+    "image": [
+      "role_character_guest_02"
+    ],
+    "patience": [
+      40,
+      90
+    ],
+    "power": [
+      50,
+      75
+    ],
+    "tags": [
+      2
+    ],
+    "moodmin": 3,
+    "moodmax": 6,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083601,
+    "power_desc": 26085102,
+    "payment_rate": 75,
+    "bind_count": 1,
+    "tip": 2
+  },
+  {
+    "id": 3503,
+    "name": 26083503,
+    "icon": [
+      "avatar_character_guest_03"
+    ],
+    "image": [
+      "role_character_guest_03"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      40,
+      70
+    ],
+    "tags": [
+      7
+    ],
+    "moodmin": null,
+    "moodmax": 3,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083601,
+    "power_desc": 26085103,
+    "payment_rate": 125,
+    "bind_count": 1,
+    "tip": 3
+  },
+  {
+    "id": 3504,
+    "name": 26083504,
+    "icon": [
+      "avatar_character_guest_04"
+    ],
+    "image": [
+      "role_character_guest_04"
+    ],
+    "patience": [
+      40,
+      100
+    ],
+    "power": [
+      10,
+      85
+    ],
+    "tags": [
+      6
+    ],
+    "moodmin": null,
+    "moodmax": 3,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083601,
+    "power_desc": 26085106,
+    "payment_rate": 50,
+    "bind_count": 1,
+    "tip": 0
+  },
+  {
+    "id": 3505,
+    "name": 26083505,
+    "icon": [
+      "avatar_character_guest_05"
+    ],
+    "image": [
+      "role_character_guest_05"
+    ],
+    "patience": [
+      40,
+      55
+    ],
+    "power": [
+      30,
+      65
+    ],
+    "tags": [
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 3,
+    "room_type": 1,
+    "skills": [
+      35051
+    ],
+    "skills_desc": 26083602,
+    "power_desc": 26085104,
+    "payment_rate": 100,
+    "bind_count": 1,
+    "tip": 3
+  },
+  {
+    "id": 3506,
+    "name": 26083506,
+    "icon": [
+      "avatar_character_guest_06",
+      "avatar_character_guest_07"
+    ],
+    "image": [
+      "role_character_guest_06",
+      "role_character_guest_07"
+    ],
+    "patience": [
+      40,
+      60
+    ],
+    "power": [
+      10,
+      40
+    ],
+    "tags": [
+      6
+    ],
+    "moodmin": 1,
+    "moodmax": 3,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083603,
+    "power_desc": 26085105,
+    "payment_rate": 100,
+    "bind_count": 2,
+    "tip": 3
+  },
+  {
+    "id": 3507,
+    "name": 26083507,
+    "icon": [
+      "avatar_character_guest_08"
+    ],
+    "image": [
+      "role_character_guest_08"
+    ],
+    "patience": [
+      40,
+      65
+    ],
+    "power": [
+      60,
+      95
+    ],
+    "tags": [
+      7
+    ],
+    "moodmin": 2,
+    "moodmax": 4,
+    "room_type": 1,
+    "skills": [],
+    "skills_desc": 26083604,
+    "power_desc": 26085102,
+    "payment_rate": 100,
+    "bind_count": 4,
+    "tip": 2
+  },
+  {
+    "id": 3508,
+    "name": 26083508,
+    "icon": [
+      "avatar_character_guest_09"
+    ],
+    "image": [
+      "role_character_guest_09"
+    ],
+    "patience": [
+      40,
+      100
+    ],
+    "power": [
+      70,
+      90
+    ],
+    "tags": [
+      2,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 5,
+    "room_type": 2,
+    "skills": [
+      35081
+    ],
+    "skills_desc": 26083605,
+    "power_desc": 26085101,
+    "payment_rate": 100,
+    "bind_count": 1,
+    "tip": 5
+  },
+  {
+    "id": 3509,
+    "name": 26083509,
+    "icon": [
+      "avatar_character_guest_10"
+    ],
+    "image": [
+      "role_character_guest_10"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      20,
+      60
+    ],
+    "tags": [
+      1,
+      6
+    ],
+    "moodmin": null,
+    "moodmax": 5,
+    "room_type": 2,
+    "skills": [
+      35091
+    ],
+    "skills_desc": 26083606,
+    "power_desc": 26085104,
+    "payment_rate": 125,
+    "bind_count": 1,
+    "tip": 8
+  },
+  {
+    "id": 3510,
+    "name": 26083510,
+    "icon": [
+      "avatar_character_guest_11"
+    ],
+    "image": [
+      "role_character_guest_11"
+    ],
+    "patience": [
+      40,
+      60
+    ],
+    "power": [
+      40,
+      70
+    ],
+    "tags": [
+      1,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 4,
+    "room_type": 2,
+    "skills": [
+      35101
+    ],
+    "skills_desc": 26083607,
+    "power_desc": 26085101,
+    "payment_rate": 75,
+    "bind_count": 1,
+    "tip": 6
+  },
+  {
+    "id": 3511,
+    "name": 26083511,
+    "icon": [
+      "avatar_character_guest_12"
+    ],
+    "image": [
+      "role_character_guest_12"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      50,
+      80
+    ],
+    "tags": [
+      6,
+      8
+    ],
+    "moodmin": 2,
+    "moodmax": 4,
+    "room_type": 2,
+    "skills": [
+      35111
+    ],
+    "skills_desc": 26083608,
+    "power_desc": 26085102,
+    "payment_rate": 125,
+    "bind_count": 1,
+    "tip": 4
+  },
+  {
+    "id": 3512,
+    "name": 26083512,
+    "icon": [
+      "avatar_character_guest_13"
+    ],
+    "image": [
+      "role_character_guest_13"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      80,
+      90
+    ],
+    "tags": [
+      2
+    ],
+    "moodmin": null,
+    "moodmax": 4,
+    "room_type": 1,
+    "skills": [
+      35121
+    ],
+    "skills_desc": 26083609,
+    "power_desc": 26085101,
+    "payment_rate": 75,
+    "bind_count": 1,
+    "tip": 0
+  },
+  {
+    "id": 3513,
+    "name": 26083513,
+    "icon": [
+      "avatar_character_guest_14"
+    ],
+    "image": [
+      "role_character_guest_14"
+    ],
+    "patience": [
+      40,
+      80
+    ],
+    "power": [
+      90,
+      100
+    ],
+    "tags": [
+      2,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 4,
+    "room_type": 2,
+    "skills": [
+      35131,
+      35132
+    ],
+    "skills_desc": 26083610,
+    "power_desc": 26085101,
+    "payment_rate": 150,
+    "bind_count": 1,
+    "tip": 8
+  },
+  {
+    "id": 3514,
+    "name": 26083514,
+    "icon": [
+      "avatar_character_guest_15"
+    ],
+    "image": [
+      "role_character_guest_15"
+    ],
+    "patience": [
+      40,
+      100
+    ],
+    "power": [
+      10,
+      20
+    ],
+    "tags": [
+      7
+    ],
+    "moodmin": null,
+    "moodmax": 4,
+    "room_type": 1,
+    "skills": [
+      35141
+    ],
+    "skills_desc": 26083611,
+    "power_desc": 26085105,
+    "payment_rate": 150,
+    "bind_count": 1,
+    "tip": 3
+  },
+  {
+    "id": 3515,
+    "name": 26083515,
+    "icon": [
+      "avatar_character_guest_16"
+    ],
+    "image": [
+      "role_character_guest_16"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      50,
+      50
+    ],
+    "tags": [
+      1,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 1,
+    "room_type": 2,
+    "skills": [
+      35151
+    ],
+    "skills_desc": 26083612,
+    "power_desc": 26085103,
+    "payment_rate": 200,
+    "bind_count": 1,
+    "tip": 0
+  },
+  {
+    "id": 3516,
+    "name": 26083516,
+    "icon": [
+      "avatar_character_guest_17"
+    ],
+    "image": [
+      "role_character_guest_17"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      60,
+      85
+    ],
+    "tags": [
+      1,
+      7,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 4,
+    "room_type": 3,
+    "skills": [
+      35161
+    ],
+    "skills_desc": 26083613,
+    "power_desc": 26085102,
+    "payment_rate": 125,
+    "bind_count": 1,
+    "tip": 8
+  },
+  {
+    "id": 3517,
+    "name": 26083517,
+    "icon": [
+      "avatar_character_guest_18"
+    ],
+    "image": [
+      "role_character_guest_18"
+    ],
+    "patience": [
+      40,
+      60
+    ],
+    "power": [
+      85,
+      95
+    ],
+    "tags": [
+      2,
+      7,
+      8
+    ],
+    "moodmin": null,
+    "moodmax": 1,
+    "room_type": 3,
+    "skills": [
+      35171,
+      35172
+    ],
+    "skills_desc": 26083614,
+    "power_desc": 26085101,
+    "payment_rate": 200,
+    "bind_count": 1,
+    "tip": 12
+  },
+  {
+    "id": 3518,
+    "name": 26083518,
+    "icon": [
+      "avatar_character_guest_19"
+    ],
+    "image": [
+      "role_character_guest_19"
+    ],
+    "patience": [
+      40,
+      50
+    ],
+    "power": [
+      50,
+      75
+    ],
+    "tags": [
+      1,
+      6,
+      7
+    ],
+    "moodmin": 2,
+    "moodmax": 4,
+    "room_type": 3,
+    "skills": [
+      35181
+    ],
+    "skills_desc": 26083615,
+    "power_desc": 26085103,
+    "payment_rate": 150,
+    "bind_count": 1,
+    "tip": 8
+  }
+]

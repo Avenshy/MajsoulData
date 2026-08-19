@@ -664,6 +664,78 @@
     "SheetName": "replace_pool"
   },
   {
+    "TableName": "club",
+    "SheetName": "club_info"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_wait_zone_upgrade"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_character"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_character_skill"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_level"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_level_schedule"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_customer"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_customer_skill"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_customer_pool"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_event"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_event_effect"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_event_fan"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_emoji"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_tag"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_tip"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_room"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_desktop_fee_upgrade"
+  },
+  {
+    "TableName": "club",
+    "SheetName": "club_desktop_count_upgrade"
+  },
+  {
     "TableName": "compose",
     "SheetName": "characompose"
   },

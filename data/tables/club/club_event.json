@@ -1,0 +1,531 @@
+[
+  {
+    "id": 4001,
+    "type": 1,
+    "weight": 30,
+    "custom_limit": "3501,3509,3510,3515,3516",
+    "title": 26084001,
+    "desc": 26084101,
+    "selection_desc": [
+      26084201,
+      26084301,
+      26084401
+    ],
+    "result_desc": [
+      26084501,
+      26084601,
+      26084701
+    ],
+    "result_effect_id": [
+      4503,
+      4501,
+      4506
+    ]
+  },
+  {
+    "id": 4002,
+    "type": 2,
+    "weight": 50,
+    "custom_limit": "3501,3509,3510,3515,3516",
+    "title": 26084002,
+    "desc": 26084102,
+    "selection_desc": [
+      26084202,
+      26084302,
+      26084402
+    ],
+    "result_desc": [
+      26084502,
+      26084602,
+      26084702
+    ],
+    "result_effect_id": [
+      4503,
+      4501,
+      4506
+    ]
+  },
+  {
+    "id": 4003,
+    "type": 3,
+    "weight": 80,
+    "custom_limit": "3501,3509,3510,3515,3516",
+    "title": 26084003,
+    "desc": 26084103,
+    "selection_desc": [
+      26084203,
+      26084303,
+      26084403
+    ],
+    "result_desc": [
+      26084503,
+      26084603,
+      26084703
+    ],
+    "result_effect_id": [
+      4503,
+      4506,
+      4501
+    ]
+  },
+  {
+    "id": 4004,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084004,
+    "desc": 26084104,
+    "selection_desc": [
+      26084204,
+      26084304,
+      26084404
+    ],
+    "result_desc": [
+      26084504,
+      26084604,
+      26084704
+    ],
+    "result_effect_id": [
+      4508,
+      4503,
+      4506
+    ]
+  },
+  {
+    "id": 4005,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084005,
+    "desc": 26084105,
+    "selection_desc": [
+      26084205,
+      26084305,
+      26084405
+    ],
+    "result_desc": [
+      26084505,
+      26084605,
+      26084705
+    ],
+    "result_effect_id": [
+      4508,
+      4508,
+      4501
+    ]
+  },
+  {
+    "id": 4006,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084006,
+    "desc": 26084106,
+    "selection_desc": [
+      26084206,
+      26084306,
+      26084406
+    ],
+    "result_desc": [
+      26084506,
+      26084606,
+      26084706
+    ],
+    "result_effect_id": [
+      4503,
+      4508,
+      4510
+    ]
+  },
+  {
+    "id": 4007,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084007,
+    "desc": 26084107,
+    "selection_desc": [
+      26084207,
+      26084307,
+      26084407
+    ],
+    "result_desc": [
+      26084507,
+      26084607,
+      26084707
+    ],
+    "result_effect_id": [
+      4503,
+      4508,
+      4503
+    ]
+  },
+  {
+    "id": 4008,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084008,
+    "desc": 26084108,
+    "selection_desc": [
+      26084208,
+      26084308,
+      26084408
+    ],
+    "result_desc": [
+      26084508,
+      26084608,
+      26084708
+    ],
+    "result_effect_id": [
+      4503,
+      4508,
+      4506
+    ]
+  },
+  {
+    "id": 4009,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084009,
+    "desc": 26084109,
+    "selection_desc": [
+      26084209,
+      26084309,
+      26084409
+    ],
+    "result_desc": [
+      26084509,
+      26084609,
+      26084709
+    ],
+    "result_effect_id": [
+      4503,
+      4501,
+      4508
+    ]
+  },
+  {
+    "id": 4010,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084010,
+    "desc": 26084110,
+    "selection_desc": [
+      26084210,
+      26084310,
+      26084410
+    ],
+    "result_desc": [
+      26084510,
+      26084610,
+      26084710
+    ],
+    "result_effect_id": [
+      4506,
+      4503,
+      4508
+    ]
+  },
+  {
+    "id": 4011,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084011,
+    "desc": 26084111,
+    "selection_desc": [
+      26084211,
+      26084311,
+      26084411
+    ],
+    "result_desc": [
+      26084511,
+      26084611,
+      26084711
+    ],
+    "result_effect_id": [
+      4508,
+      4506,
+      4510
+    ]
+  },
+  {
+    "id": 4012,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084012,
+    "desc": 26084112,
+    "selection_desc": [
+      26084212,
+      26084312,
+      26084412
+    ],
+    "result_desc": [
+      26084512,
+      26084612,
+      26084712
+    ],
+    "result_effect_id": [
+      4503,
+      4502,
+      4508
+    ]
+  },
+  {
+    "id": 4013,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084013,
+    "desc": 26084113,
+    "selection_desc": [
+      26084213,
+      26084313,
+      26084413
+    ],
+    "result_desc": [
+      26084513,
+      26084613,
+      26084713
+    ],
+    "result_effect_id": [
+      4503,
+      4501,
+      4508
+    ]
+  },
+  {
+    "id": 4014,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084014,
+    "desc": 26084114,
+    "selection_desc": [
+      26084214,
+      26084314,
+      26084414
+    ],
+    "result_desc": [
+      26084514,
+      26084614,
+      26084714
+    ],
+    "result_effect_id": [
+      4508,
+      4506,
+      4503
+    ]
+  },
+  {
+    "id": 4015,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084015,
+    "desc": 26084115,
+    "selection_desc": [
+      26084215,
+      26084315,
+      26084415
+    ],
+    "result_desc": [
+      26084515,
+      26084615,
+      26084715
+    ],
+    "result_effect_id": [
+      4508,
+      4503,
+      4502
+    ]
+  },
+  {
+    "id": 4016,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084016,
+    "desc": 26084116,
+    "selection_desc": [
+      26084216,
+      26084316,
+      26084416
+    ],
+    "result_desc": [
+      26084516,
+      26084616,
+      26084716
+    ],
+    "result_effect_id": [
+      4508,
+      4501,
+      4503
+    ]
+  },
+  {
+    "id": 4017,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084017,
+    "desc": 26084117,
+    "selection_desc": [
+      26084217,
+      26084317,
+      26084417
+    ],
+    "result_desc": [
+      26084517,
+      26084617,
+      26084717
+    ],
+    "result_effect_id": [
+      4508,
+      4502,
+      4503
+    ]
+  },
+  {
+    "id": 4018,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084018,
+    "desc": 26084118,
+    "selection_desc": [
+      26084218,
+      26084318,
+      26084418
+    ],
+    "result_desc": [
+      26084518,
+      26084618,
+      26084718
+    ],
+    "result_effect_id": [
+      4503,
+      4503,
+      4510
+    ]
+  },
+  {
+    "id": 4019,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084019,
+    "desc": 26084119,
+    "selection_desc": [
+      26084219,
+      26084319,
+      26084419
+    ],
+    "result_desc": [
+      26084519,
+      26084619,
+      26084719
+    ],
+    "result_effect_id": [
+      4503,
+      4510,
+      4503
+    ]
+  },
+  {
+    "id": 4020,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084020,
+    "desc": 26084120,
+    "selection_desc": [
+      26084220,
+      26084320,
+      26084420
+    ],
+    "result_desc": [
+      26084520,
+      26084620,
+      26084720
+    ],
+    "result_effect_id": [
+      4503,
+      4502,
+      4501
+    ]
+  },
+  {
+    "id": 4021,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084021,
+    "desc": 26084121,
+    "selection_desc": [
+      26084221,
+      26084321,
+      26084421
+    ],
+    "result_desc": [
+      26084521,
+      26084621,
+      26084721
+    ],
+    "result_effect_id": [
+      4510,
+      4502,
+      4503
+    ]
+  },
+  {
+    "id": 4022,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084022,
+    "desc": 26084122,
+    "selection_desc": [
+      26084222,
+      26084322,
+      26084422
+    ],
+    "result_desc": [
+      26084522,
+      26084622,
+      26084722
+    ],
+    "result_effect_id": [
+      4501,
+      4510,
+      4503
+    ]
+  },
+  {
+    "id": 4023,
+    "type": 4,
+    "weight": 3,
+    "custom_limit": null,
+    "title": 26084023,
+    "desc": 26084123,
+    "selection_desc": [
+      26084223,
+      26084323,
+      26084423
+    ],
+    "result_desc": [
+      26084523,
+      26084623,
+      26084723
+    ],
+    "result_effect_id": [
+      4508,
+      4510,
+      4501
+    ]
+  }
+]

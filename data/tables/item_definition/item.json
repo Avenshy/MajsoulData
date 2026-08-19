@@ -20791,6 +20791,114 @@
     }
   },
   {
+    "id": 307293,
+    "sort": 15093,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260801/thumb/260801_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260801
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-09-09 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "上升音符-2026",
+      "chs_t": "上升音符-2026",
+      "jp": "アガるミュージック-2026",
+      "en": "Rising Notes (2026)",
+      "kr": "상승음표-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "心中的期待像碳酸气泡一样悄悄升腾，这个夜晚，正等着我们一起拉开序幕。",
+      "chs_t": "心中的期待像碳酸氣泡一樣悄悄升騰，這個夜晚，正等着我們一起拉開序幕。",
+      "jp": "はじける炭酸の泡のように、胸に期待が湧き上がる。夜は、私たちが幕を開けるのを待っている。",
+      "en": "Anticipation bubbles up like sparkling soda. Tonight, we take the stage together.",
+      "kr": "마음속 기대감이 탄산기포처럼 보글보글 피어오른다. 이 밤, 우리가 써 내려갈 이야기가 서서히 막이 오르고 있다."
+    },
+    "expire_desc": {
+      "chs": "2026-09-09 05:00:00",
+      "chs_t": "2026-09-09 05:00:00",
+      "jp": "2026/09/09 5:59 まで",
+      "en": "2026-09-08 14:00:00 (UTC-7)",
+      "kr": "2026.09.09 06:00(GMT+9)"
+    }
+  },
+  {
+    "id": 307294,
+    "sort": 15094,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260802/thumb/260802_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260802
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-09-09 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "激战夏日！-2026",
+      "chs_t": "激戰夏日！-2026",
+      "jp": "夏の激戦！-2026",
+      "en": "Summer Showdown (2026)",
+      "kr": "하얗게 불태운 여름-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "有人还在进行战前准备，有人已经跃跃欲试——准备好迎接这场专属于你的夏日攻势了吗？",
+      "chs_t": "有人還在進行戰前準備，有人已經躍躍欲試——準備好迎接這場專屬於你的夏日攻勢了嗎？",
+      "jp": "いまから戦う準備？ もう遅い！ この夏、みんなのターゲットは……そう、あなた！",
+      "en": "Some are still gearing up, while others are already diving in. Ready to make some waves this summer?",
+      "kr": "이제 막 승부를 준비하는 사람도 보이지만, 벌써부터 뜨겁게 즐기는 사람도 있네요. 올여름, 당신만의 승부를 펼칠 준비가 되셨나요?"
+    },
+    "expire_desc": {
+      "chs": "2026-09-09 05:00:00",
+      "chs_t": "2026-09-09 05:00:00",
+      "jp": "2026/09/09 5:59 まで",
+      "en": "2026-09-08 14:00:00 (UTC-7)",
+      "kr": "2026.09.09 06:00(GMT+9)"
+    }
+  },
+  {
     "id": 307401,
     "sort": 16201,
     "name_chs_t2": null,
@@ -25112,6 +25220,100 @@
       "jp": "やわらかな日差しにそよ風、そして花の香り。ここは妖精さんたちの憩いの場所。",
       "en": "Fluttering butterflies weave the sunlight and breeze into the meadow's sweet scent. Here, little fairies come to nap.",
       "kr": "나비의 날개가 너울너울 춤추는 사이, 햇살과 산들바람이 들판의 꽃향기에 스며들고, 요정들도 이곳에서 잠시 머무른다."
+    }
+  },
+  {
+    "id": 307493,
+    "sort": 15093,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260801/thumb/260801_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260801
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "上升音符-2026",
+      "chs_t": "上升音符-2026",
+      "jp": "アガるミュージック-2026",
+      "en": "Rising Notes (2026)",
+      "kr": "상승음표-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "心中的期待像碳酸气泡一样悄悄升腾，这个夜晚，正等着我们一起拉开序幕。",
+      "chs_t": "心中的期待像碳酸氣泡一樣悄悄升騰，這個夜晚，正等着我們一起拉開序幕。",
+      "jp": "はじける炭酸の泡のように、胸に期待が湧き上がる。夜は、私たちが幕を開けるのを待っている。",
+      "en": "Anticipation bubbles up like sparkling soda. Tonight, we take the stage together.",
+      "kr": "마음속 기대감이 탄산기포처럼 보글보글 피어오른다. 이 밤, 우리가 써 내려갈 이야기가 서서히 막이 오르고 있다."
+    }
+  },
+  {
+    "id": 307494,
+    "sort": 15094,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260802/thumb/260802_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260802
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "激战夏日！-2026",
+      "chs_t": "激戰夏日！-2026",
+      "jp": "夏の激戦！-2026",
+      "en": "Summer Showdown (2026)",
+      "kr": "하얗게 불태운 여름-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "有人还在进行战前准备，有人已经跃跃欲试——准备好迎接这场专属于你的夏日攻势了吗？",
+      "chs_t": "有人還在進行戰前準備，有人已經躍躍欲試——準備好迎接這場專屬於你的夏日攻勢了嗎？",
+      "jp": "いまから戦う準備？ もう遅い！ この夏、みんなのターゲットは……そう、あなた！",
+      "en": "Some are still gearing up, while others are already diving in. Ready to make some waves this summer?",
+      "kr": "이제 막 승부를 준비하는 사람도 보이지만, 벌써부터 뜨겁게 즐기는 사람도 있네요. 올여름, 당신만의 승부를 펼칠 준비가 되셨나요?"
     }
   },
   {
@@ -35123,6 +35325,99 @@
     }
   },
   {
+    "id": 30520013,
+    "sort": 3040,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_hupai/ron_chilin/pic/ron_chilin.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 1,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "和牌-神火坠霄",
+      "chs_t": "和牌-神火墜霄",
+      "jp": "和了演出：蒼天から降りる神火",
+      "en": "Winning - Godfire Descending",
+      "kr": "화료 연출: 신화강림"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、和了時の演出を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "以吾之火，应允此愿。",
+      "chs_t": "以吾之火，應允此願。",
+      "jp": "我が火を以て、汝の願いに応えん。",
+      "en": "Where my flames fall, your wish will be made real.",
+      "kr": "이 몸의 불이 떨어지는 곳에, 소원이 실현될 것이다."
+    }
+  },
+  {
+    "id": 30520014,
+    "sort": 3041,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_hupai/ron_26summer/pic/ron_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 1,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "和牌-天罚！",
+      "chs_t": "和牌-天罰！",
+      "jp": "和了演出：漆黒の天罰",
+      "en": "Winning - Heaven's Wrath!",
+      "kr": "화료 연출: 천벌"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、和了時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "激电飞光，驰掠牌河。(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "激電飛光，馳掠牌河。(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "天地を揺るがす激しい雷光を放ち、相手の点数を奪い取れ！",
+      "en": "A searing bolt streaks across the table, leaving only victory in its wake.",
+      "kr": "벼락같은 기세가 작탁을 뒤흔들고, 그 자리엔 승리만이 남아있다."
+    }
+  },
+  {
     "id": 30530001,
     "sort": 4028,
     "name_chs_t2": null,
@@ -35690,6 +35985,102 @@
       "jp": "はちす揺れ 波と戯る 錦鯉 登り行けるは 勝利の兆し",
       "en": "As twin koi play in a clear lotus pond, victory draws near.(Event limited, will be unobtainable after the end of event)",
       "kr": "연꽃 사이로 비단잉어 한 쌍이 장난스럽게 유영하고, 국의 형세는 이미 청명하다."
+    }
+  },
+  {
+    "id": 30530013,
+    "sort": 4040,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_lizhi/effect_liqi_chilin/pic/effect_liqi_chilin.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 2,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "立直-破阵神骥",
+      "chs_t": "立直-破陣神驥",
+      "jp": "立直演出：破陣の神驥",
+      "en": "Riichi - Blazeborn Charger",
+      "kr": "리치 연출: 불길 속의 신마"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、立直時の演出を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "万马乘风传敕令，炽焰骤起转乾坤。",
+      "chs_t": "萬馬乘風傳敕令，熾焰驟起轉乾坤。",
+      "jp": "万馬奔騰の勢いで、勝敗を決める熱き一手を打つ。",
+      "en": "Hooves thunder through the gale as sacred fire blazes a path to victory.",
+      "kr": "거센 바람을 뚫으며 신마의 발굽 소리가 울려 퍼지고, 성스러운 불꽃이 천지를 뒤흔든다."
+    }
+  },
+  {
+    "id": 30530014,
+    "sort": 4041,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_lizhi/effect_liqi_26summer/pic/effect_liqi_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 2,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "立直-天裁！",
+      "chs_t": "立直-天裁！",
+      "jp": "立直演出：ジャッジメントオブサンダー",
+      "en": "Riichi - Heaven's Verdict!",
+      "kr": "리치 연출: 천재"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、立直時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "我的立直，迅捷如电！(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "我的立直，迅捷如電！(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "電光石火の立直で決めろ！",
+      "en": "My Riichi strikes like a thunderbolt!",
+      "kr": "나의 리치, 번개처럼 빠르다!"
     }
   },
   {
@@ -37861,6 +38252,53 @@
     }
   },
   {
+    "id": 30550042,
+    "sort": 5088,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_chilin/pic/headframe_chilin.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": 1,
+    "database_cache": null,
+    "name": {
+      "chs": "头像框-炽焰之御",
+      "chs_t": "头像框-熾焰之禦",
+      "jp": "熾焔の駿馬のフレーム",
+      "en": "Portrait Frame - Everflame Guard",
+      "kr": "프로필 테두리 - 화염의 수호"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、アイコンフレームを変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능."
+    },
+    "desc": {
+      "chs": "长守丹心驱百祟，不使人间染一尘。",
+      "chs_t": "長守丹心驅百祟，不使人間染一塵。",
+      "jp": "人の世に蔓延る邪悪を祓い続けた、仁義に厚い馬神の証。",
+      "en": "Its unfailing fire banishes all evil, keeping the mortal realm untainted.",
+      "kr": "변치 않는 붉은 마음이 모든 사악함을 몰아내고, 인간 세상에 티끌 하나 허락하지 않는다."
+    }
+  },
+  {
     "id": 30550043,
     "sort": 5089,
     "name_chs_t2": null,
@@ -38128,6 +38566,60 @@
       "jp": "2027年8月1日まで",
       "en": "2027年8月1日まで",
       "kr": "2027年8月1日まで"
+    }
+  },
+  {
+    "id": 30550048,
+    "sort": 5094,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/head_frame/headframe_ssz/pic/headframe_ssz.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 5,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-09-01 00:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "双聖の眷属たち",
+      "chs_t": "双聖の眷属たち",
+      "jp": "双聖の眷属たち",
+      "en": "双聖の眷属たち",
+      "kr": "프로필 테두리 - 쌍상전"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年9月1日00：00まで）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 프로필 테두리 변경 가능.(유효기간 2026년 9월 1일 00:00까지)"
+    },
+    "desc": {
+      "chs": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年9月1日00：00まで）",
+      "chs_t": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年9月1日00：00まで）",
+      "jp": "",
+      "en": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年9月1日00：00まで）",
+      "kr": "年に二回行われる双聖戦の上位入賞者たちが使用できるアイコンフレーム（有効期限：2027年9月1日00：00まで）"
+    },
+    "expire_desc": {
+      "chs": "2027年9月1日00：00まで",
+      "chs_t": "2027年9月1日00：00まで",
+      "jp": "2027年9月1日00：00まで",
+      "en": "2027年9月1日00：00まで",
+      "kr": "2027年9月1日00：00まで"
     }
   },
   {
@@ -41146,6 +41638,141 @@
     }
   },
   {
+    "id": 30557070,
+    "sort": 6092,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/24sszy/pic/24sszy_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-09-01 00:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "双聖戦優勝",
+      "chs_t": "双聖戦優勝",
+      "jp": "双聖戦優勝",
+      "en": "双聖戦優勝",
+      "kr": "双聖戦優勝"
+    },
+    "desc_func": {
+      "chs": "双聖戦優勝記念称号",
+      "chs_t": "双聖戦優勝記念称号",
+      "jp": "双聖戦優勝記念称号",
+      "en": "双聖戦優勝記念称号",
+      "kr": "双聖戦優勝記念称号"
+    },
+    "expire_desc": {
+      "chs": "2027年9月1日00：00まで",
+      "chs_t": "2027年9月1日00：00まで",
+      "jp": "2027年9月1日00：00まで",
+      "en": "2027年9月1日00：00まで",
+      "kr": "2027年9月1日00：00まで"
+    }
+  },
+  {
+    "id": 30557071,
+    "sort": 6093,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/douyuguishen4/pic/douyuguishen4_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-10-01 00:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "斗鱼鬼神杯S4",
+      "chs_t": "斗鱼鬼神杯S4",
+      "jp": "斗鱼鬼神杯S4",
+      "en": "斗鱼鬼神杯S4",
+      "kr": "斗鱼鬼神杯S4"
+    },
+    "desc_func": {
+      "chs": "斗鱼鬼神杯纪念称号",
+      "chs_t": "斗鱼鬼神杯纪念称号",
+      "jp": "斗鱼鬼神杯纪念称号",
+      "en": "斗鱼鬼神杯纪念称号",
+      "kr": "斗鱼鬼神杯纪念称号"
+    },
+    "expire_desc": {
+      "chs": "2027-10-01 00:00:00",
+      "chs_t": "2027-10-01 00:00:00",
+      "jp": "2027-10-01 00:00:00",
+      "en": "2027-10-01 00:00:00",
+      "kr": "2027-10-01 00:00:00"
+    }
+  },
+  {
+    "id": 30557072,
+    "sort": 6094,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/xsqhb2/pic/xsqhb2_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-31 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "学生雀魂杯　南場",
+      "chs_t": "学生雀魂杯　南場",
+      "jp": "学生雀魂杯　南場",
+      "en": "学生雀魂杯　南場",
+      "kr": "学生雀魂杯　南場"
+    },
+    "desc_func": {
+      "chs": "「学生雀魂杯」優勝記念称号",
+      "chs_t": "「学生雀魂杯」優勝記念称号",
+      "jp": "「学生雀魂杯」優勝記念称号",
+      "en": "「学生雀魂杯」優勝記念称号",
+      "kr": "「学生雀魂杯」優勝記念称号"
+    },
+    "expire_desc": {
+      "chs": "2027年8月31日まで",
+      "chs_t": "2027年8月31日まで",
+      "jp": "2027年8月31日まで",
+      "en": "2027年8月31日まで",
+      "kr": "2027年8月31日まで"
+    }
+  },
+  {
     "id": 30560001,
     "sort": 7028,
     "name_chs_t2": null,
@@ -41617,6 +42244,54 @@
       "jp": "猫缶を一缶失う代わりに、猫ちゃんより授かった破魔矢。猫ちゃんの加護あれ～！",
       "en": "An arrow bestowed with a feline blessing. To invoke its favor, one need only offer a humble can of treats.(Event limited, will be unobtainable after the end of event)",
       "kr": "고양이의 축복을 받은 화살. 소원의 대가는 통조림 1개다."
+    }
+  },
+  {
+    "id": 30560011,
+    "sort": 7038,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/lizhibang/liqi_26summer/pic/liqi_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": null,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "立直棒-优胜猫猫奖杯",
+      "chs_t": "立直棒-優勝貓貓獎盃",
+      "jp": "ねこトロフィーの立直棒",
+      "en": "Riichi Bet - Top Cat Trophy",
+      "kr": "냥냥 트로피 리치봉"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、立直棒を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 리치봉을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "据说冠军都会收到奖杯，那提前准备一个，好像也没什么问题？(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "據說冠軍都會收到獎盃，那提前準備一個，好像也沒什麼問題？(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "優勝者にはトロフィーを、一位には段位PTを！",
+      "en": "Every champion needs a trophy. No harm in getting one early, right?",
+      "kr": "승자에겐 트로피가 있어야 하는 법이지. 미리 하나 준비해 놓는다고 나쁠 건 없잖아?"
     }
   },
   {
@@ -42409,6 +43084,54 @@
       "jp": "「春風に 紅匂う 桃の花 幾度と巡り また君と逢う」\n「幾度春」新作の季節のお菓子と共に、新年の対局はいかが？",
       "en": "\"With every bloom comes renewal, and with the spring comes our reunion.\" A new seasonal pastry from Countless Springs – a delicious invitation to her mahjong table. (Event limited, will be unobtainable after the end of event)",
       "kr": "\"꽃이 한 번 피어나면 다시 또 새로워지니, 복숭아꽃 붉은 계절에 다시 그대를 만나네.\" '기도춘'에서 개발한 신상 디저트가 당신을 새해 마작 모임으로 초대합니다."
+    }
+  },
+  {
+    "id": 30570018,
+    "sort": 8043,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/mjpai/mjp_26summer/pic/mjp_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 7,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "牌背-雷魔石",
+      "chs_t": "牌背-雷魔石",
+      "jp": "雷の魔法石の麻雀牌",
+      "en": "Tile Back - Stormstone",
+      "kr": "마작패: 뇌마석"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、麻雀牌を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 마작패를 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "警告：内含的魔力可能导致误触的猫科动物炸毛。(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "警告：內含的魔力可能導致誤觸的貓科動物炸毛。(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "ネコ科の動物はこの牌に触れると、内包された魔力の影響で毛が逆立つ恐れがあるため、使用時は留意されたし。",
+      "en": "Warning: May make a curious cat's fur stand on end.",
+      "kr": "경고: 실수로 건드리면 고양이가 깜짝 놀라 털을 곤두세울 수 있습니다."
     }
   },
   {
@@ -43664,6 +44387,54 @@
     }
   },
   {
+    "id": 30580029,
+    "sort": 10047,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/tablecloth/tablecloth_26summer/pic/tablecloth_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 6,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "桌布-噼啪充电站",
+      "chs_t": "桌布-噼啪充電站",
+      "jp": "魔力チャージの雀卓",
+      "en": "Tablecloth - Thunderclap Altar",
+      "kr": "작탁: 치지직 충전소"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、雀卓を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 작탁을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "你可曾听说过一道从天而降的法术？(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "你可曾聽說過一道從天而降的法術？(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "天から降り注ぐ雷光で、魔力を一気にチャージ！",
+      "en": "Ever heard of a spell that strikes from the heavens?",
+      "kr": "하늘에서 떨어진 마법을 들어본 적 있나요?"
+    }
+  },
+  {
     "id": 30590001,
     "sort": 11003,
     "name_chs_t2": null,
@@ -43689,7 +44460,7 @@
     "name": {
       "chs": "鸣牌指示-众星捧月",
       "chs_t": "鳴牌指示-眾星捧月",
-      "jp": "鳴き指示：星空の月明かり",
+      "jp": "鳴き演出：星空の月明かり",
       "en": "Tile Call Indicator - Moon Surrounded by Stars",
       "kr": "후로 연출: 달을 감싼 별들"
     },
@@ -43706,6 +44477,51 @@
       "jp": "月よりも輝くこの牌、誰であろうと鳴かずにはいられない。",
       "en": "When a tile is shinier than even the moon, who can hold back calling for it?",
       "kr": "패 한 장이 달보다 밝게 빛나는데 치퐁깡을 어떻게 참아?"
+    }
+  },
+  {
+    "id": 30590002,
+    "sort": 11004,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_mingpaizhishi/mpzs_26summer/pic/mpzs_26summer.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 10,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "鸣牌指示-森之眷顾",
+      "chs_t": "鸣牌指示-森之眷顧",
+      "jp": "鳴き演出：森の加護",
+      "en": "Tile Call Indicator - Forest's Blessing",
+      "kr": "후로 연출: 숲의 치유"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、鳴き時の演出を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 후로 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "把这份溢出的魔力当做补给毫不客气地取走吧！",
+      "chs_t": "把這份溢出的魔力當作補給毫不客氣地取走吧！",
+      "jp": "充実した森の魔力は、麻雀牌さえも癒してしまう！",
+      "en": "Don't be shy – help yourself to this abundance of magic!",
+      "kr": "넘쳐나는 마력을 보급품이라 생각하고 마음껏 가져가세요!"
     }
   },
   {
@@ -44480,6 +45296,51 @@
       "jp": "アカギ×雀魂コラボ記念背景",
       "en": "AKAGI × Mahjong Soul Collab Commemoration",
       "kr": "[작혼 X 아카기] 콜라보 기념 배경"
+    }
+  },
+  {
+    "id": 30700009,
+    "sort": 14020,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/lobby_background/beijing_yanxiapubu/pic/beijing_yanxiapubu.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 8,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "烟霞瀑布",
+      "chs_t": "煙霞瀑布",
+      "jp": "霞光の滝",
+      "en": "Radiance Falls",
+      "kr": "연하폭포"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、背景を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 배경을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "落日熔金，暮色在此屏息。万山沉雄，瀑声喧响低回。",
+      "chs_t": "落日熔金，暮色在此屏息。萬山沉雄，瀑聲喧響低迴。",
+      "jp": "金に輝く水しぶきの奥から、岩肌を削る滝の轟く音が聞こえる。",
+      "en": "The sky burns gold, and evening stills in awe as silent peaks stand guard above the thunder of the falls.",
+      "kr": "황금빛 석양이 단애의 한 자락을 찬란하게 비춘다. 만산은 묵묵히 기세를 보여주고, 폭포는 세차게 포효하다 이내 숨을 죽인다."
     }
   },
   {
@@ -49799,6 +50660,96 @@
     }
   },
   {
+    "id": 30900105,
+    "sort": 20177,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "ui/activity/extend/26summer/main/pic_scattered/26summer1.jpg",
+    "icon_transparent": "ui/activity/extend/26summer/main/pic_scattered/26summer1_0.png",
+    "category": 6,
+    "type": null,
+    "is_unique": 0,
+    "max_stack": 999999,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "活力火花",
+      "chs_t": "活力火花",
+      "jp": "情熱の火花",
+      "en": "Vibrant Spark",
+      "kr": "활력의 불꽃"
+    },
+    "desc_func": {
+      "chs": "活动限定道具",
+      "chs_t": "活動限定道具",
+      "jp": "イベント「海辺の麻雀小屋」のイベントアイテム。",
+      "en": "Event-limited item.",
+      "kr": "기간 한정 아이템."
+    },
+    "desc": {
+      "chs": "海滨快闪店活动限定道具，通过活动任务获得。可用于升级店铺。",
+      "chs_t": "海濱快閃店活動限定道具，通過活動任務獲得。可用於升級店鋪。",
+      "jp": "イベントクエスト達成で獲得できる。小屋管理のアップグレードで使用できる。",
+      "en": "Beachside Cabana event item, earned by completing event missions and used to train staff or upgrade your shop.",
+      "kr": "해변 팝업스토어 이벤트의 한정 아이템. 이벤트 임무를 완료하면 획득할 수 있고, 스토어 업그레이드 및 직원 훈련에 사용된다."
+    }
+  },
+  {
+    "id": 30900106,
+    "sort": 20178,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "ui/activity/extend/26summer/main/pic_scattered/26summer2.jpg",
+    "icon_transparent": "ui/activity/extend/26summer/main/pic_scattered/26summer2_0.png",
+    "category": 6,
+    "type": null,
+    "is_unique": 0,
+    "max_stack": 999999,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "好评贝壳",
+      "chs_t": "好評貝殼",
+      "jp": "好評の印",
+      "en": "Kudos Shell",
+      "kr": "따봉 조개"
+    },
+    "desc_func": {
+      "chs": "活动限定道具",
+      "chs_t": "活動限定道具",
+      "jp": "イベント「海辺の麻雀小屋」のイベントアイテム。",
+      "en": "Event-limited item.",
+      "kr": "기간 한정 아이템."
+    },
+    "desc": {
+      "chs": "海滨快闪店活动限定道具，通过活动任务获得。可用于升级店铺。",
+      "chs_t": "海濱快閃店活動限定道具，通過活動任務獲得。可用於升級店鋪。",
+      "jp": "イベントクエスト達成で獲得できる。小屋管理のアップグレードで使用できる。",
+      "en": "Beachside Cabana event item, earned by completing event missions and used to upgrade your shop.",
+      "kr": "해변 팝업스토어 이벤트의 한정 아이템. 이벤트 임무를 완료하면 획득할 수 있고, 스토어 업그레이드에 사용된다."
+    }
+  },
+  {
     "id": 30910001,
     "sort": 90060,
     "name_chs_t2": null,
@@ -51078,6 +52029,68 @@
     "name": {
       "chs": "手-dj联动-诗乃(已过期)",
       "chs_t": "手-dj联动-诗乃(已过期)",
+      "jp": "",
+      "en": "",
+      "kr": ""
+    }
+  },
+  {
+    "id": 30990015,
+    "sort": 17025,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": null,
+    "icon_transparent": null,
+    "category": 5,
+    "type": 3,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "手-璃央(已过期)",
+      "chs_t": "手-璃央(已过期)",
+      "jp": "",
+      "en": "",
+      "kr": ""
+    }
+  },
+  {
+    "id": 30990016,
+    "sort": 17026,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": null,
+    "icon_transparent": null,
+    "category": 5,
+    "type": 3,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "手-赤麟(已过期)",
+      "chs_t": "手-赤麟(已过期)",
       "jp": "",
       "en": "",
       "kr": ""

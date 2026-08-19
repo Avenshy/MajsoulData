@@ -1,0 +1,99 @@
+[
+  {
+    "id": 4501,
+    "type": 1,
+    "positivity": 3,
+    "result_desc": 26084801,
+    "args": []
+  },
+  {
+    "id": 4502,
+    "type": 2,
+    "positivity": 1,
+    "result_desc": 26084802,
+    "args": [
+      30
+    ]
+  },
+  {
+    "id": 4503,
+    "type": 2,
+    "positivity": 1,
+    "result_desc": 26084802,
+    "args": [
+      60
+    ]
+  },
+  {
+    "id": 4504,
+    "type": 2,
+    "positivity": 1,
+    "result_desc": 26084802,
+    "args": [
+      100
+    ]
+  },
+  {
+    "id": 4505,
+    "type": 3,
+    "positivity": 2,
+    "result_desc": 26084803,
+    "args": [
+      30
+    ]
+  },
+  {
+    "id": 4506,
+    "type": 3,
+    "positivity": 2,
+    "result_desc": 26084803,
+    "args": [
+      60
+    ]
+  },
+  {
+    "id": 4507,
+    "type": 3,
+    "positivity": 2,
+    "result_desc": 26084803,
+    "args": [
+      2000
+    ]
+  },
+  {
+    "id": 4508,
+    "type": 4,
+    "positivity": 1,
+    "result_desc": 26084804,
+    "args": [
+      10
+    ]
+  },
+  {
+    "id": 4509,
+    "type": 4,
+    "positivity": 1,
+    "result_desc": 26084805,
+    "args": [
+      20
+    ]
+  },
+  {
+    "id": 4510,
+    "type": 5,
+    "positivity": 2,
+    "result_desc": 26084806,
+    "args": [
+      10
+    ]
+  },
+  {
+    "id": 4511,
+    "type": 5,
+    "positivity": 2,
+    "result_desc": 26084807,
+    "args": [
+      20
+    ]
+  }
+]

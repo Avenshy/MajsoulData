@@ -137,11 +137,19 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\effect_hupai\\ron_26summer\\pic\\ron_26summer.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\effect_hupai\\ron_akagi\\pic\\ron_akagi.jpg",
       "fileType": 0
     },
     {
       "filepath": "deco\\effect_hupai\\ron_beiyuan\\pic\\ron_beiyuan.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\effect_hupai\\ron_chilin\\pic\\ron_chilin.jpg",
       "fileType": 0
     },
     {
@@ -381,6 +389,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\effect_lizhi\\effect_liqi_26summer\\pic\\effect_liqi_26summer.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\effect_lizhi\\effect_liqi_akagi\\pic\\effect_liqi_akagi.jpg",
       "fileType": 0
     },
@@ -398,6 +410,10 @@
     },
     {
       "filepath": "deco\\effect_lizhi\\effect_liqi_canying\\pic\\effect_liqi_canying.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\effect_lizhi\\effect_liqi_chilin\\pic\\effect_liqi_chilin.jpg",
       "fileType": 0
     },
     {
@@ -498,6 +514,10 @@
     },
     {
       "filepath": "deco\\effect_mingpaizhishi\\mpzs_23winter\\pic\\mpzs_23winter.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\effect_mingpaizhishi\\mpzs_26summer\\pic\\mpzs_26summer.jpg",
       "fileType": 0
     },
     {
@@ -982,6 +1002,10 @@
     },
     {
       "filepath": "deco\\emo\\e20000107\\888.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000107\\924.png",
       "fileType": 0
     },
     {
@@ -1706,6 +1730,58 @@
     },
     {
       "filepath": "deco\\emo\\e20000120\\888.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000121\\924.png",
       "fileType": 0
     },
     {
@@ -3677,6 +3753,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200021\\924.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200021\\939.png",
       "fileType": 0
     },
@@ -5390,6 +5470,10 @@
     },
     {
       "filepath": "deco\\emo\\e200047\\888.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200047\\924.png",
       "fileType": 0
     },
     {
@@ -8149,6 +8233,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200093\\924.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200093\\942.png",
       "fileType": 0
     },
@@ -8645,6 +8733,18 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\head_frame\\headframe_chilin\\icon\\headframe_chilin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\head_frame\\headframe_chilin\\pic\\headframe_chilin.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\head_frame\\headframe_chilin\\pic\\headframe_chilin.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\head_frame\\headframe_default\\icon\\headframe_default.png",
       "fileType": 0
     },
@@ -8966,6 +9066,10 @@
     },
     {
       "filepath": "deco\\lizhibang\\liqi_26dj\\pic\\liqi_26dj.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\lizhibang\\liqi_26summer\\pic\\liqi_26summer.jpg",
       "fileType": 0
     },
     {
@@ -9821,6 +9925,22 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\loading_cg\\260801\\main\\260801.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\260801\\thumb\\260801_thumb.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\260802\\main\\260802.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\260802\\thumb\\260802_thumb.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\loading_cg\\CG200001\\main\\CG200001.jpg",
       "fileType": 0
     },
@@ -10146,6 +10266,14 @@
     },
     {
       "filepath": "deco\\lobby_background\\beijing_xiaripaidui\\preview\\beijing_xiaripaidui.jpg",
+      "fileType": 1
+    },
+    {
+      "filepath": "deco\\lobby_background\\beijing_yanxiapubu\\pic\\beijing_yanxiapubu.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\lobby_background\\beijing_yanxiapubu\\preview\\beijing_yanxiapubu.jpg",
       "fileType": 1
     },
     {
@@ -10514,6 +10642,14 @@
     },
     {
       "filepath": "deco\\mjpai\\mjp_26dj\\preview\\preview.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\mjpai\\mjp_26summer\\pic\\mjp_26summer.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\mjpai\\mjp_26summer\\preview\\preview.png",
       "fileType": 0
     },
     {
@@ -11041,6 +11177,14 @@
       "fileType": 1
     },
     {
+      "filepath": "deco\\tablecloth\\tablecloth_26summer\\pic\\tablecloth_26summer.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\tablecloth\\tablecloth_26summer\\preview\\preview.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\tablecloth\\tablecloth_akagi\\pic\\tablecloth_akagi.jpg",
       "fileType": 0
     },
@@ -11274,6 +11418,14 @@
     },
     {
       "filepath": "deco\\title\\26mkc\\pic\\26mkc_item.jpg",
+      "fileType": 1
+    },
+    {
+      "filepath": "deco\\title\\26summer\\pic\\26summer.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "deco\\title\\26summer\\pic\\26summer_item.jpg",
       "fileType": 1
     },
     {
@@ -12673,6 +12825,10 @@
       "fileType": 0
     },
     {
+      "filepath": "extendRes\\loading\\left_18.png",
+      "fileType": 0
+    },
+    {
       "filepath": "extendRes\\loading\\left_2.png",
       "fileType": 0
     },
@@ -12989,6 +13145,10 @@
       "fileType": 0
     },
     {
+      "filepath": "extendRes\\skin_shop\\beijing_yanxiapubu.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "extendRes\\skin_shop\\beijing_yinghuo.jpg",
       "fileType": 0
     },
@@ -12997,11 +13157,47 @@
       "fileType": 0
     },
     {
+      "filepath": "extendRes\\skin_shop\\chilin_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\chutaoYZ_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\jiushiYZ_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\laienxr_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\laiyaxr_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\lianggongxingshuxr_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\qingluanYZ_shop.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "extendRes\\skin_shop\\shamo.jpg",
       "fileType": 0
     },
     {
       "filepath": "extendRes\\skin_shop\\tangquan.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\xiaoyesiqiyuYZ_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\yuanxiaoxr_shop.jpg",
       "fileType": 0
     },
     {
@@ -13014,6 +13210,10 @@
     },
     {
       "filepath": "extendRes\\treasurehead\\yh_c.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "extendRes\\treasurehead\\yh_cl.png",
       "fileType": 1
     },
     {
@@ -22537,6 +22737,2058 @@
       "fileType": 0
     },
     {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\emoji\\pic\\guest_emoji_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\emoji\\pic\\guest_emoji_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\emoji\\pic\\guest_emoji_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\emoji\\pic\\guest_emoji_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_9.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_h_add.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_9.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_add.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_l_subtract.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_9.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\jinbi_m_add.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_9.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\stage_number_infinite.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_9.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\number\\pic\\upgrade_number_infinite.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_13.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_14.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_15.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_assistant_16.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_13.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_14.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_15.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_16.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_17.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_18.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\avatar_character_guest_19.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\character_tag_11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_00_add.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_00_lock.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_00_unknown.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_13.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_14.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_15.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_assistant_16.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_00_unknown.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_13.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_14.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_15.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_16.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_17.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_18.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\role\\pic\\role_character_guest_19.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_sea07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\bg_wave.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\cao06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\seastar.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shu01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shu02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye015.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye016.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye017.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye018.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye019.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye08.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye09.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye13.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\extend\\UI_MajClub_Game\\pic\\shuye14.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\arrange_add_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\arrange_insert_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\arrange_lock_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\avatar_character_guest_tips_jin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\avatar_character_guest_tips_tong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\avatar_character_guest_tips_yin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\avatar_character_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\avatar_character_unknown.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_play_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_play_flower01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_play_leaf01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_play_leaf02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_play_mask.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_reward.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_reward_gift.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_reward_text.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_task_list.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\btn_task_text.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\character_tag_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\character_tag_lock.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\character_tag_lock_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\character_tag_lock_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\collection_title.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\collection_title_flower.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\collection_title_leaf01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\collection_title_leaf02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\collection_title_text.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_back_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn1_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn2_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn2_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_btn2_dis_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_close_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_currency_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_help_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_popup_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_sound_btn_close.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_sound_btn_open.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_title_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\common_title_base_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_btn1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_btn2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_divider.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_maohao.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_correct_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_correct_emoji1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_correct_emoji2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_correct_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_error_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_error_emoji.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_error_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_skip_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_skip_emoji.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\event_result_skip_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_emoji_down.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_emoji_up.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_patience_lock_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_patience_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_patience_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\guest_patience_progress_l.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_30900105.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_30900106.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_coin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_jin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_jin_open.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_tong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_tong_open.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_yin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_door_yin_open.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_emojii_70.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_jinbi_h.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_jinbi_l.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_jinbi_m.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\icon_number_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_chair_jin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_chair_tong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_chair_yin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_mahjong_jin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_mahjong_tong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_mahjong_yin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_jin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_lock_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_shadow.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_tong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\item_table_yin.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_bg_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_manage_btn.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_manual_btn.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_red_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_stage_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_stage_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_stage_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_stage_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_startplay.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_0_mask.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_1.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_5.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_6.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\main_title_9.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_add_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_btn_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_btn_dis2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_divider.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_icon_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_assistant_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg2_supplement.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_bg3_supplement.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_buy_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_buy_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base1_supplement.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base2_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_base4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_icon2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_customer_tips_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_jin_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_jin_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_jin_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_shop_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_shop_icon_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tabs_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tabs_btn_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tips_max.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tips_up.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tong_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tong_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tong_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_tong_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_up_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_yin_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_yin_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_yin_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_yin_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manage_yin_lock_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manua_assistant_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manual_assistant_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\manual_help_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\menu_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\menu_sound_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\menu_sound_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\menu_sound_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\mian_notice_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\mian_notice_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\mian_notice_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\mian_notice_icon_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new01_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new02_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new03_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\new04_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_assistant_unlock_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_entry_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_entry_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_event_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_event_decrease_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_income_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_income_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_income_progress_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_income_progress_tips_achieve.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_meet_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_popup_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_popup_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_popup_failure1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_popup_failure2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_popup_success1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_praise_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_praise_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_stage_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\payment_total_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_pointer.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_pointer_pause.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_progress_end.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_clock_progress_pause.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_collect_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_currency_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_currency_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_currency_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_emoji_change_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_end_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_event_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_jin_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_menu_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_next_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_quezhuangjinbi_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_cd.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_cd_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_cd_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_guest_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_guest_tips1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_guest_tips2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_skill_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_table_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_table_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_tong_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_box_angry.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_forbid_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_forbid_tips_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_tips_angry.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_wait_tips_leave.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\play_yin_cost_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\popup_common_cover2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\popup_common_cover3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_assistant_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_assistant_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_assistant_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_assistant_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_btn1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_btn1_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_btn2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_change_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_base1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_btn_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_divider.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_effect_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_list_assistant_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_list_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_list_close_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_list_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_notice_character_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_notice_title_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_remove_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_tag_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_tips_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\prepare_yin_lock_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_data_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_entry_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_entry_base_special.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_fixed_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_tabs_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_tabs_btn_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_title_gold.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_title_star.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\reward_title_text.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\settlement_bottom.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\settlement_cash.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\settlement_cat.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_bg07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_btn1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_complete_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_entry_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_entry_base_special.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_entry_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_icon_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_icon_box_special.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_slider_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_slider_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_tabs.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_tabs_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_tabs_btn_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_tabs_btn_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_tabs_mask.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_title_cat01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_title_cat02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_title_cat03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\task_title_text.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\tip_upgrade_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\tips_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\tips_new.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_009.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_010.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_011.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_012.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_complete_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_popup_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_progress_rise.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic\\upgrade_round.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\btn_play_wave01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\btn_play_wave02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\collection_title_wave.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\common_title_base_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\main_bg.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\main_stage_wave.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\manage_bg1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\mian_notice_divider.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\payment_popup_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\payment_popup_base4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\play_end_cover_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\play_pause_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\popup_common_cover1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\reward_entry_base_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\reward_entry_base_special_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\reward_fixed_box_6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\settlement_unlock_wave.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2608mjh\\main\\pic_scattered\\task_btn_wave.png",
+      "fileType": 0
+    },
+    {
       "filepath": "ui\\activity\\extend\\26chunjie\\main\\pic_scattered\\26chunjie1.jpg",
       "fileType": 0
     },
@@ -23514,6 +25766,22 @@
     },
     {
       "filepath": "ui\\activity\\extend\\26dp\\main\\pic_scattered\\26dp_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26summer\\main\\pic_scattered\\26summer1.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26summer\\main\\pic_scattered\\26summer1_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26summer\\main\\pic_scattered\\26summer2.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26summer\\main\\pic_scattered\\26summer2_0.png",
       "fileType": 0
     },
     {
@@ -27837,115 +30105,95 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\2512001.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\2608001.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\2512002.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\2608002.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251201.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260801.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251202.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260802.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251203.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260803.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251204.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260804.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251206.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260805.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251207.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260806.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251208.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260807.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251209.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260808.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251211.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260809.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251212.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260810.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251213.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260811.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251214.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260812.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251215.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260813.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251216.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260814.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251217.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260815.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251218.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260816.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251219.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260817.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251220.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260818.jpg",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251221.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260819.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251222.jpg",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260820.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251223.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251224.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251225.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251226.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251227.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\251228.png",
+      "filepath": "ui\\activity\\extend\\catchat\\main\\pic_scattered\\260821.jpg",
       "fileType": 0
     },
     {
@@ -28981,10 +31229,6 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\guide\\main\\pic\\arrow.png",
-      "fileType": 0
-    },
-    {
       "filepath": "ui\\activity\\extend\\guide\\main\\pic\\bgStretchable.png",
       "fileType": 0
     },
@@ -28994,10 +31238,6 @@
     },
     {
       "filepath": "ui\\activity\\extend\\guide\\main\\pic\\close.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\guide\\main\\pic\\help_bg.png",
       "fileType": 0
     },
     {
@@ -29025,14 +31265,6 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\guide\\main\\pic\\popup_mask1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\guide\\main\\pic\\popup_mask2.png",
-      "fileType": 0
-    },
-    {
       "filepath": "ui\\activity\\extend\\guide\\main\\pic\\teaching_page1.png",
       "fileType": 1
     },
@@ -29042,6 +31274,10 @@
     },
     {
       "filepath": "ui\\activity\\extend\\guide\\main\\pic\\teaching_page3.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\guide\\main\\pic\\teaching_page4.png",
       "fileType": 1
     },
     {
@@ -30657,30 +32893,6 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\copyright.png",
-      "fileType": 1
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\copyright2.png",
-      "fileType": 1
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\icon.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\item1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\item2.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner\\pic\\limit.png",
-      "fileType": 1
-    },
-    {
       "filepath": "ui\\activity\\lobby\\banner_entrance\\pic\\bg_default.jpg",
       "fileType": 1
     },
@@ -30694,6 +32906,10 @@
     },
     {
       "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26qingyun_0.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26summer_0.png",
       "fileType": 1
     },
     {
@@ -30765,19 +32981,19 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\2607fanpai.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\2607fanpai_b.jpg",
-      "fileType": 1
-    },
-    {
       "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26qingyun.png",
       "fileType": 0
     },
     {
       "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26qingyun_b.jpg",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26summer.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26summer_b.jpg",
       "fileType": 1
     },
     {
@@ -35497,20 +37713,8 @@
       "fileType": 0
     },
     {
-      "filepath": "ui\\lobby\\extend\\treasure\\extend\\sp\\pic\\button_1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\lobby\\extend\\treasure\\extend\\sp\\pic\\illust.png",
-      "fileType": 0
-    },
-    {
       "filepath": "ui\\lobby\\extend\\treasure\\extend\\sp\\pic\\up_title.png",
       "fileType": 1
-    },
-    {
-      "filepath": "ui\\lobby\\extend\\treasure\\extend\\sp\\pic_scattered\\chest_0_ly_mask.png",
-      "fileType": 0
     },
     {
       "filepath": "ui\\lobby\\extend\\treasure\\extend\\sp\\pic_scattered\\chest_0_mask.png",

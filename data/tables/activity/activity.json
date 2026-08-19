@@ -6522,5 +6522,102 @@
       "en": "Windborne Flames",
       "kr": "바람을 가르는 불꽃"
     }
+  },
+  {
+    "id": 260801,
+    "type": "maj_club",
+    "need_popout": null,
+    "name": {
+      "chs": "海滨快闪店",
+      "chs_t": "海濱快閃店",
+      "jp": "海辺の麻雀小屋",
+      "en": "Beachside Cabana",
+      "kr": "해변 팝업스토어"
+    }
+  },
+  {
+    "id": 260802,
+    "type": "period_task",
+    "need_popout": 1
+  },
+  {
+    "id": 260803,
+    "type": "period_task",
+    "need_popout": 1
+  },
+  {
+    "id": 260804,
+    "type": "period_task",
+    "need_popout": 1
+  },
+  {
+    "id": 260810,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 260811,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 260812,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 260820,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260821,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260822,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260823,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260824,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260830,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260831,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260832,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260833,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260834,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260860,
+    "type": "sns_activity",
+    "need_popout": null
   }
 ]

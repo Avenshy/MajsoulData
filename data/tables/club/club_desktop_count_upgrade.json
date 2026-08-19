@@ -1,0 +1,50 @@
+[
+  {
+    "upgrade_id": 1021,
+    "level": 1,
+    "additional_desktop_count": 1,
+    "price": "30900106-300"
+  },
+  {
+    "upgrade_id": 1021,
+    "level": 2,
+    "additional_desktop_count": 2,
+    "price": "30900106-600"
+  },
+  {
+    "upgrade_id": 1021,
+    "level": 3,
+    "additional_desktop_count": 3,
+    "price": "30900106-1000"
+  },
+  {
+    "upgrade_id": 1022,
+    "level": 1,
+    "additional_desktop_count": 1,
+    "price": "30900106-600"
+  },
+  {
+    "upgrade_id": 1022,
+    "level": 2,
+    "additional_desktop_count": 2,
+    "price": "30900106-1000"
+  },
+  {
+    "upgrade_id": 1022,
+    "level": 3,
+    "additional_desktop_count": 3,
+    "price": "30900106-1500"
+  },
+  {
+    "upgrade_id": 1023,
+    "level": 1,
+    "additional_desktop_count": 1,
+    "price": "30900106-1000"
+  },
+  {
+    "upgrade_id": 1023,
+    "level": 2,
+    "additional_desktop_count": 2,
+    "price": "30900106-2000"
+  }
+]

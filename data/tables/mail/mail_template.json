@@ -800,6 +800,26 @@
     "attachments": []
   },
   {
+    "id": 144,
+    "title": {
+      "chs": "海滨快闪店活动奖励",
+      "chs_t": "海濱快閃店活動獎勵",
+      "jp": "「海辺の麻雀小屋」報酬",
+      "en": "Beachside Cabana Event Rewards",
+      "kr": "해변 팝업스토어 이벤트 보상"
+    },
+    "content_template": {
+      "chs": "感谢参与海滨快闪店活动，请查收您的奖励。\n邮件有效期为30天，请注意及时领取。",
+      "chs_t": "感謝參與海濱快閃店活動，請查收您的獎勵。\n郵件有效期為30天，請注意及時領取。",
+      "jp": "いつも「雀魂-じゃんたま-」をお楽しみいただき、誠にありがとうございます。\n\nイベント「海辺の麻雀小屋」の報酬をお送りいたしました。\n\nこれからも「雀魂-じゃんたま-」をどうぞよろしくお願いします。\n\n※本メールは受信後、30日で削除されますのでご注意ください。",
+      "en": "Thank you for participating in the Beachside Cabana event. Please claim your rewards.\n*Upon receiving the mail, it will expire in 30 days. Please claim it in time.",
+      "kr": "해변 팝업스토어 이벤트에 참가해주신 작사님께 감사의 마음을 담아 아래 보상을 드립니다.\n*해당 우편의 유효기간은 30일이며, 기간 내 수령을 부탁드립니다."
+    },
+    "expire_type": 1,
+    "expire_param": "30d",
+    "attachments": []
+  },
+  {
     "id": 145,
     "title": {
       "chs": "流火掣风活动奖励",
@@ -934,6 +954,86 @@
       "jp": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
       "en": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
       "kr": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time."
+    },
+    "expire_type": 1,
+    "expire_param": "7d",
+    "attachments": []
+  },
+  {
+    "id": 10007,
+    "title": {
+      "chs": "Twitch Drop Reward 1",
+      "chs_t": "Twitch Drop Reward 1",
+      "jp": "Twitch Drop Reward 1",
+      "en": "Twitch Drop Reward 1",
+      "kr": "Twitch Drop Reward 1"
+    },
+    "content_template": {
+      "chs": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 15 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "chs_t": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 15 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "jp": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 15 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "en": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 15 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "kr": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 15 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time."
+    },
+    "expire_type": 1,
+    "expire_param": "7d",
+    "attachments": []
+  },
+  {
+    "id": 10008,
+    "title": {
+      "chs": "Twitch Drop Reward 2",
+      "chs_t": "Twitch Drop Reward 2",
+      "jp": "Twitch Drop Reward 2",
+      "en": "Twitch Drop Reward 2",
+      "kr": "Twitch Drop Reward 2"
+    },
+    "content_template": {
+      "chs": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 30 minutes. You are eligible to receive the corresponding Twitch Drop rewards. Here are your rewards. Please claim them on time.",
+      "chs_t": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 30 minutes. You are eligible to receive the corresponding Twitch Drop rewards. Here are your rewards. Please claim them on time.",
+      "jp": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 30 minutes. You are eligible to receive the corresponding Twitch Drop rewards. Here are your rewards. Please claim them on time.",
+      "en": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 30 minutes. You are eligible to receive the corresponding Twitch Drop rewards. Here are your rewards. Please claim them on time.",
+      "kr": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 30 minutes. You are eligible to receive the corresponding Twitch Drop rewards. Here are your rewards. Please claim them on time."
+    },
+    "expire_type": 1,
+    "expire_param": "7d",
+    "attachments": []
+  },
+  {
+    "id": 10009,
+    "title": {
+      "chs": "Twitch Drop Reward 3",
+      "chs_t": "Twitch Drop Reward 3",
+      "jp": "Twitch Drop Reward 3",
+      "en": "Twitch Drop Reward 3",
+      "kr": "Twitch Drop Reward 3"
+    },
+    "content_template": {
+      "chs": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 60 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "chs_t": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 60 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "jp": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 60 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "en": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 60 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time.",
+      "kr": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 60 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it on time."
+    },
+    "expire_type": 1,
+    "expire_param": "7d",
+    "attachments": []
+  },
+  {
+    "id": 10010,
+    "title": {
+      "chs": "Twitch Drop Reward 4",
+      "chs_t": "Twitch Drop Reward 4",
+      "jp": "Twitch Drop Reward 4",
+      "en": "Twitch Drop Reward 4",
+      "kr": "Twitch Drop Reward 4"
+    },
+    "content_template": {
+      "chs": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it \non time.",
+      "chs_t": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it \non time.",
+      "jp": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it \non time.",
+      "en": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it \non time.",
+      "kr": "Dear Jyanshi Sama\nThanks for watching Mahjong Soul on Twitch for 120 minutes. You are eligible to receive the corresponding Twitch Drop reward. Here is your reward. Please claim it \non time."
     },
     "expire_type": 1,
     "expire_param": "7d",

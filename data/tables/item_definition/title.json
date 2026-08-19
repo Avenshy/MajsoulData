@@ -3663,6 +3663,29 @@
     }
   },
   {
+    "id": 600161,
+    "icon": "deco/title/26summer/pic/26summer.png",
+    "icon_item": "deco/title/26summer/pic/26summer_item.jpg",
+    "priority": 30006,
+    "unlock_type": 0,
+    "unlock_param": [],
+    "cross_view": null,
+    "name": {
+      "chs": "生财有喵",
+      "chs_t": "生財有喵",
+      "jp": "にゃん富豪",
+      "en": "Fortune Paws",
+      "kr": "냥다스의 손"
+    },
+    "desc": {
+      "chs": "海滨快闪店活动纪念限定称号",
+      "chs_t": "海濱快閃店活動紀念限定稱號",
+      "jp": "イベント「海辺の麻雀小屋」を記念した限定称号",
+      "en": "Limited Title for the Beachside Cabana event.",
+      "kr": "해변 팝업스토어 이벤트 기념 칭호"
+    }
+  },
+  {
     "id": 600162,
     "icon": "deco/title/xsqhb/pic/xsqhb.png",
     "icon_item": "deco/title/xsqhb/pic/xsqhb_item.jpg",
@@ -3785,6 +3808,81 @@
       "jp": "四象戦夏の陣優勝称号",
       "en": "贈予四象戰冠軍",
       "kr": "贈予四象戰冠軍"
+    }
+  },
+  {
+    "id": 600167,
+    "icon": "deco/title/24sszy/pic/24sszy.png",
+    "icon_item": "deco/title/24sszy/pic/24sszy_item.jpg",
+    "priority": 40109,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557070
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "双聖戦優勝",
+      "chs_t": "双聖戦優勝",
+      "jp": "双聖戦優勝",
+      "en": "双聖戦優勝",
+      "kr": "双聖戦優勝"
+    },
+    "desc": {
+      "chs": "双聖戦優勝記念称号",
+      "chs_t": "双聖戦優勝記念称号",
+      "jp": "双聖戦優勝記念称号",
+      "en": "双聖戦優勝記念称号",
+      "kr": "双聖戦優勝記念称号"
+    }
+  },
+  {
+    "id": 600168,
+    "icon": "deco/title/douyuguishen4/pic/douyuguishen4.png",
+    "icon_item": "deco/title/douyuguishen4/pic/douyuguishen4_item.jpg",
+    "priority": 40110,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557071
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "斗鱼鬼神杯S4",
+      "chs_t": "斗鱼鬼神杯S4",
+      "jp": "斗鱼鬼神杯S4",
+      "en": "斗鱼鬼神杯S4",
+      "kr": "斗鱼鬼神杯S4"
+    },
+    "desc": {
+      "chs": "斗鱼鬼神杯纪念称号",
+      "chs_t": "斗鱼鬼神杯纪念称号",
+      "jp": "斗鱼鬼神杯纪念称号",
+      "en": "斗鱼鬼神杯纪念称号",
+      "kr": "斗鱼鬼神杯纪念称号"
+    }
+  },
+  {
+    "id": 600169,
+    "icon": "deco/title/xsqhb2/pic/xsqhb2.png",
+    "icon_item": "deco/title/xsqhb2/pic/xsqhb2_item.jpg",
+    "priority": 40111,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557072
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "学生雀魂杯　南場",
+      "chs_t": "学生雀魂杯　南場",
+      "jp": "学生雀魂杯　南場",
+      "en": "学生雀魂杯　南場",
+      "kr": "学生雀魂杯　南場"
+    },
+    "desc": {
+      "chs": "「学生雀魂杯」優勝記念称号",
+      "chs_t": "「学生雀魂杯」優勝記念称号",
+      "jp": "「学生雀魂杯」優勝記念称号",
+      "en": "「学生雀魂杯」優勝記念称号",
+      "kr": "「学生雀魂杯」優勝記念称号"
     }
   }
 ]

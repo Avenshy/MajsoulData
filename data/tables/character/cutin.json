@@ -119,5 +119,38 @@
     "char_width": null,
     "char_height": null,
     "type": 1
+  },
+  {
+    "skinid": 40012101,
+    "cutin_name": "cutin_chilin",
+    "effect": "cutin_chilin",
+    "atlas": "chilin",
+    "char_x": null,
+    "char_y": null,
+    "char_width": null,
+    "char_height": null,
+    "type": 1
+  },
+  {
+    "skinid": 40012102,
+    "cutin_name": "cutin_chilin",
+    "effect": "cutin_chilin_0",
+    "atlas": "chilin",
+    "char_x": null,
+    "char_y": null,
+    "char_width": null,
+    "char_height": null,
+    "type": 1
+  },
+  {
+    "skinid": 40012103,
+    "cutin_name": "cutin_chilin",
+    "effect": "cutin_chilin_1",
+    "atlas": "chilin",
+    "char_x": null,
+    "char_y": null,
+    "char_width": null,
+    "char_height": null,
+    "type": 1
   }
 ]

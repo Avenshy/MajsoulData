@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "count": [
+      100,
+      99999999
+    ],
+    "image": "icon_jinbi_h",
+    "image_number": "jinbi_h_{0}"
+  },
+  {
+    "id": 2,
+    "count": [
+      25,
+      100
+    ],
+    "image": "icon_jinbi_m",
+    "image_number": "jinbi_m_{0}"
+  },
+  {
+    "id": 3,
+    "count": [
+      0,
+      25
+    ],
+    "image": "icon_jinbi_l",
+    "image_number": "jinbi_l_{0}"
+  }
+]

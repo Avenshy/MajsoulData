@@ -6419,6 +6419,24 @@
     }
   },
   {
+    "charid": 200021,
+    "sub_id": 924,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      402107
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    }
+  },
+  {
     "charid": 200022,
     "sub_id": 10,
     "type": 1,
@@ -10525,6 +10543,24 @@
       "jp": "ダークナイトレイド！",
       "en": "Close Your Eyes",
       "kr": "다크나이트 레이드"
+    }
+  },
+  {
+    "charid": 200047,
+    "sub_id": 924,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      404705
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
     }
   },
   {
@@ -16115,6 +16151,24 @@
     }
   },
   {
+    "charid": 200093,
+    "sub_id": 924,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      409304
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    }
+  },
+  {
     "charid": 200094,
     "sub_id": 10,
     "type": 1,
@@ -17434,6 +17488,24 @@
     }
   },
   {
+    "charid": 20000107,
+    "sub_id": 924,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      40010704
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    }
+  },
+  {
     "charid": 20000108,
     "sub_id": 10,
     "type": 1,
@@ -18648,6 +18720,72 @@
       "jp": "3月11日まで使用可能",
       "en": "Until 2026/3/10 (UTC-7)",
       "kr": "2026/3/11 만료"
+    }
+  },
+  {
+    "charid": 20000121,
+    "sub_id": 10,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 1,
+    "unlock_param": [],
+    "unlock_desc": {
+      "chs": "缔结契约",
+      "chs_t": "締結契約",
+      "jp": "契約を結ぶ",
+      "en": "Bond",
+      "kr": "계약"
+    }
+  },
+  {
+    "charid": 20000121,
+    "sub_id": 11,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 1,
+    "unlock_param": [],
+    "unlock_desc": {
+      "chs": "缔结契约",
+      "chs_t": "締結契約",
+      "jp": "契約を結ぶ",
+      "en": "Bond",
+      "kr": "계약"
+    }
+  },
+  {
+    "charid": 20000121,
+    "sub_id": 12,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 1,
+    "unlock_param": [],
+    "unlock_desc": {
+      "chs": "缔结契约",
+      "chs_t": "締結契約",
+      "jp": "契約を結ぶ",
+      "en": "Bond",
+      "kr": "계약"
+    }
+  },
+  {
+    "charid": 20000121,
+    "sub_id": 924,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      40012103
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
     }
   },
   {

@@ -230,6 +230,7 @@ service Lobby {
   rpc fetchRankPointLeaderboard (.lq.ReqFetchRankPointLeaderboard) returns (.lq.ResFetchRankPointLeaderboard);
   rpc fetchReadyPlayerList (.lq.ReqFetchReadyPlayerList) returns (.lq.ResFetchReadyPlayerList);
   rpc fetchRecentFriend (.lq.ReqCommon) returns (.lq.ResFetchrecentFriend);
+  rpc fetchRechargeInfo (.lq.ReqCommon) returns (.lq.ResFetchRechargeInfo);
   rpc fetchRefundOrder (.lq.ReqCommon) returns (.lq.ResFetchRefundOrder);
   rpc fetchReviveCoinInfo (.lq.ReqCommon) returns (.lq.ResReviveCoinInfo);
   rpc fetchRollingNotice (.lq.ReqFetchRollingNotice) returns (.lq.ResFetchRollingNotice);
@@ -281,6 +282,16 @@ service Lobby {
   rpc loginBeat (.lq.ReqLoginBeat) returns (.lq.ResCommon);
   rpc loginSuccess (.lq.ReqCommon) returns (.lq.ResCommon);
   rpc logout (.lq.ReqLogout) returns (.lq.ResLogout);
+  rpc majClubActivityFetchData (.lq.ReqMajClubActivityFetchData) returns (.lq.ResMajClubActivityFetchData);
+  rpc majClubActivityFinishDay (.lq.ReqMajClubActivityFinishDay) returns (.lq.ResMajClubActivityFinishDay);
+  rpc majClubActivitySaveRoomData (.lq.ReqMajClubActivitySaveRoomData) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityStartDay (.lq.ReqMajClubActivityStartDay) returns (.lq.ResMajClubActivityStartDay);
+  rpc majClubActivityUnlockDesktop (.lq.ReqMajClubActivityUnlockDesktop) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityUnlockRoom (.lq.ReqMajClubActivityUnlockRoom) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityUpgradeCharacterPower (.lq.ReqMajClubActivityUpgradeCharacterPower) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityUpgradeCharacterTag (.lq.ReqMajClubActivityUpgradeCharacterTag) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityUpgradeRoomFee (.lq.ReqMajClubActivityUpgradeRoomFee) returns (.lq.ResMajClubActivityCommon);
+  rpc majClubActivityUpgradeWaiting (.lq.ReqMajClubActivityUpgradeWaiting) returns (.lq.ResMajClubActivityCommon);
   rpc marathonActivityFinishRace (.lq.ReqMarathonActivityFinishRace) returns (.lq.ResMarathonActivityFinishRace);
   rpc marathonActivityStartRace (.lq.ReqMarathonActivityStartRace) returns (.lq.ResMarathonActivityStartRace);
   rpc matchGame (.lq.ReqJoinMatchQueue) returns (.lq.ResCommon);

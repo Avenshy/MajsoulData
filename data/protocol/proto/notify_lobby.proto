@@ -29,6 +29,10 @@ message NotifyActivityChange {
   repeated uint32 end_activities = 2;
 }
 
+message NotifyActivityChanges {
+  .lq.ActivityMajClubChanges club = 1;
+}
+
 message NotifyActivityPeriodTaskUpdate {
   repeated .lq.TaskProgress progresses = 1;
 }

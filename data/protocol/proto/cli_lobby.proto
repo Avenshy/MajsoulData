@@ -1115,6 +1115,63 @@ message ReqLogReport {
   uint32 failed = 2;
 }
 
+message ReqMajClubActivityFetchData {
+  uint32 activity_id = 1;
+}
+
+message ReqMajClubActivityFinishDay {
+
+  message CustomerData {
+    uint32 id = 1;
+    uint32 emo = 2;
+    uint32 result = 3;
+    uint32 payment_amount = 4;
+  }
+
+  uint32 activity_id = 1;
+  repeated .lq.ReqMajClubActivityFinishDay.CustomerData customer_list = 2;
+  uint32 income = 3;
+}
+
+message ReqMajClubActivitySaveRoomData {
+  uint32 activity_id = 1;
+  repeated .lq.ActivityMajClubCharacterRoomData character_room_data = 2;
+}
+
+message ReqMajClubActivityStartDay {
+  uint32 activity_id = 1;
+  repeated .lq.ActivityMajClubCharacterRoomData character_room_data = 2;
+}
+
+message ReqMajClubActivityUnlockDesktop {
+  uint32 activity_id = 1;
+  uint32 room_id = 2;
+}
+
+message ReqMajClubActivityUnlockRoom {
+  uint32 activity_id = 1;
+  uint32 room_id = 2;
+}
+
+message ReqMajClubActivityUpgradeCharacterPower {
+  uint32 activity_id = 1;
+  uint32 character_id = 2;
+}
+
+message ReqMajClubActivityUpgradeCharacterTag {
+  uint32 activity_id = 1;
+  uint32 character_id = 2;
+}
+
+message ReqMajClubActivityUpgradeRoomFee {
+  uint32 activity_id = 1;
+  uint32 room_id = 2;
+}
+
+message ReqMajClubActivityUpgradeWaiting {
+  uint32 activity_id = 1;
+}
+
 message ReqMarathonActivityFinishRace {
   uint32 activity_id = 1;
   repeated .lq.ActivityMarathonCheckData race_data = 2;
@@ -2905,6 +2962,7 @@ message ResFetchInfo {
   .lq.ResFetchServerMaintenanceInfo maintenance_info = 32;
   .lq.ResFetchSeerInfo seer_info = 33;
   .lq.ResFetchAnnualReportInfo annual_report_info = 34;
+  .lq.ResFetchRechargeInfo recharge_info = 35;
 }
 
 message ResFetchJPCommonCreditCardOrder {
@@ -3026,6 +3084,13 @@ message ResFetchReadyPlayerList {
 message ResFetchrecentFriend {
   .lq.Error error = 1;
   repeated uint32 account_list = 2;
+}
+
+message ResFetchRechargeInfo {
+  .lq.Error error = 1;
+  repeated uint32 time_range = 2;
+  repeated uint32 recharged_list = 3;
+  uint32 now = 4;
 }
 
 message ResFetchRefundOrder {
@@ -3342,6 +3407,28 @@ message ResLogout {
 message ResMailInfo {
   .lq.Error error = 1;
   repeated .lq.Mail mails = 2;
+}
+
+message ResMajClubActivityCommon {
+  .lq.Error error = 1;
+  .lq.ActivityMajClubChanges changes = 2;
+}
+
+message ResMajClubActivityFetchData {
+  .lq.Error error = 1;
+  .lq.ActivityMajClubData data = 2;
+}
+
+message ResMajClubActivityFinishDay {
+  .lq.Error error = 1;
+  .lq.ActivityMajClubChanges changes = 2;
+  uint32 result = 3;
+}
+
+message ResMajClubActivityStartDay {
+  .lq.Error error = 1;
+  .lq.ActivityMajClubChanges changes = 2;
+  repeated .lq.ActivityMajClubCustomerData customers = 3;
 }
 
 message ResMarathonActivityFinishRace {

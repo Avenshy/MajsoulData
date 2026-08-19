@@ -1,0 +1,56 @@
+[
+  {
+    "upgrade_id": 1011,
+    "level": 1,
+    "additional_desktop_fee": 10,
+    "price": "30900105-8"
+  },
+  {
+    "upgrade_id": 1011,
+    "level": 2,
+    "additional_desktop_fee": 20,
+    "price": "30900105-13"
+  },
+  {
+    "upgrade_id": 1011,
+    "level": 3,
+    "additional_desktop_fee": 30,
+    "price": "30900105-20"
+  },
+  {
+    "upgrade_id": 1012,
+    "level": 1,
+    "additional_desktop_fee": 20,
+    "price": "30900105-10"
+  },
+  {
+    "upgrade_id": 1012,
+    "level": 2,
+    "additional_desktop_fee": 50,
+    "price": "30900105-18"
+  },
+  {
+    "upgrade_id": 1012,
+    "level": 3,
+    "additional_desktop_fee": 90,
+    "price": "30900105-24"
+  },
+  {
+    "upgrade_id": 1013,
+    "level": 1,
+    "additional_desktop_fee": 50,
+    "price": "30900105-12"
+  },
+  {
+    "upgrade_id": 1013,
+    "level": 2,
+    "additional_desktop_fee": 120,
+    "price": "30900105-20"
+  },
+  {
+    "upgrade_id": 1013,
+    "level": 3,
+    "additional_desktop_fee": 220,
+    "price": "30900105-36"
+  }
+]

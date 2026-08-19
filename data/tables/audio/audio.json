@@ -336,6 +336,12 @@
     "type": "lobby"
   },
   {
+    "id": 159,
+    "path": "ui/lobby/main/audio/gacha_banner_chilin",
+    "time_length": null,
+    "type": "lobby"
+  },
+  {
     "id": 201,
     "path": "ui/mj/main/audio/beiman",
     "time_length": 2098,
@@ -1998,6 +2004,132 @@
     "type": "event"
   },
   {
+    "id": 10416,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_bgm1",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10417,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_bgm2",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10418,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_banner",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10419,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_character_in",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10420,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_character_waving",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10421,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_bubble",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10422,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_waves",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10423,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_upgrade1",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10424,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_upgrade2",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10425,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_upgrade3",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10426,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_place_object1",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10427,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_place_object2",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10428,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_opening",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10429,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_tips_small",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10430,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_tips_big",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10431,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_switch_room",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10432,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_event_correct",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10433,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_event_error",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10434,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_stage_success",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10435,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_stage_failed",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10436,
+    "path": "ui/activity/extend/2608summer/main/audio/2608summer_next_stage",
+    "time_length": null,
+    "type": "event"
+  },
+  {
     "id": 305032,
     "path": "deco/effect_lizhi/effect_liqi_canying/3d/audio/effect_liqi_canying",
     "time_length": 1314,
@@ -2586,6 +2718,18 @@
     "type": "effect"
   },
   {
+    "id": 30520013,
+    "path": "deco/effect_hupai/ron_chilin/3d/audio/ron_chilin",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 30520014,
+    "path": "deco/effect_hupai/ron_26summer/3d/audio/ron_26summer",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
     "id": 30530001,
     "path": "deco/effect_lizhi/effect_liqi_23wansheng/3d/audio/effect_liqi_23wansheng",
     "time_length": null,
@@ -2654,6 +2798,18 @@
   {
     "id": 30530012,
     "path": "deco/effect_lizhi/effect_liqi_26chunjie/3d/audio/effect_liqi_26chunjie",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 30530013,
+    "path": "deco/effect_lizhi/effect_liqi_chilin/3d/audio/effect_liqi_chilin",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 30530014,
+    "path": "deco/effect_lizhi/effect_liqi_26summer/3d/audio/effect_liqi_26summer",
     "time_length": null,
     "type": "effect"
   }

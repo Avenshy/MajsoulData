@@ -1,0 +1,411 @@
+[
+  {
+    "activity_id": 260801,
+    "id": 3001,
+    "name": 20000121,
+    "icon": "avatar_character_assistant_01",
+    "image": "role_character_assistant_01",
+    "period_task_id": null,
+    "init_locked": 0,
+    "power": 50,
+    "init_tags": [
+      2
+    ],
+    "locked_tags": [
+      7,
+      11
+    ],
+    "skills": [
+      30011
+    ],
+    "skill_name": 26083001,
+    "skill_desc": 26083101,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 120
+  },
+  {
+    "activity_id": 260801,
+    "id": 3002,
+    "name": 200001,
+    "icon": "avatar_character_assistant_02",
+    "image": "role_character_assistant_02",
+    "period_task_id": null,
+    "init_locked": 0,
+    "power": 25,
+    "init_tags": [
+      1
+    ],
+    "locked_tags": [
+      6
+    ],
+    "skills": [
+      30021
+    ],
+    "skill_name": 26083002,
+    "skill_desc": 26083102,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 80
+  },
+  {
+    "activity_id": 260801,
+    "id": 3003,
+    "name": 20000107,
+    "icon": "avatar_character_assistant_03",
+    "image": "role_character_assistant_03",
+    "period_task_id": 26080349,
+    "init_locked": 1,
+    "power": 60,
+    "init_tags": [
+      6
+    ],
+    "locked_tags": [
+      2
+    ],
+    "skills": [
+      30031
+    ],
+    "skill_name": 26083003,
+    "skill_desc": 26083103,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 80
+  },
+  {
+    "activity_id": 260801,
+    "id": 3004,
+    "name": 200021,
+    "icon": "avatar_character_assistant_04",
+    "image": "role_character_assistant_04",
+    "period_task_id": 26080350,
+    "init_locked": 1,
+    "power": 35,
+    "init_tags": [
+      1
+    ],
+    "locked_tags": [
+      6
+    ],
+    "skills": [
+      30041
+    ],
+    "skill_name": 26083004,
+    "skill_desc": 26083104,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 80
+  },
+  {
+    "activity_id": 260801,
+    "id": 3005,
+    "name": 200069,
+    "icon": "avatar_character_assistant_05",
+    "image": "role_character_assistant_05",
+    "period_task_id": 26080351,
+    "init_locked": 1,
+    "power": 45,
+    "init_tags": [
+      8
+    ],
+    "locked_tags": [
+      7
+    ],
+    "skills": [
+      30051
+    ],
+    "skill_name": 26083005,
+    "skill_desc": 26083105,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 80
+  },
+  {
+    "activity_id": 260801,
+    "id": 3006,
+    "name": 200093,
+    "icon": "avatar_character_assistant_06",
+    "image": "role_character_assistant_06",
+    "period_task_id": 26080352,
+    "init_locked": 1,
+    "power": 75,
+    "init_tags": [
+      7
+    ],
+    "locked_tags": [
+      8
+    ],
+    "skills": [
+      30061
+    ],
+    "skill_name": 26083006,
+    "skill_desc": 26083106,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 80
+  },
+  {
+    "activity_id": 260801,
+    "id": 3007,
+    "name": 200047,
+    "icon": "avatar_character_assistant_07",
+    "image": "role_character_assistant_07",
+    "period_task_id": 26080353,
+    "init_locked": 1,
+    "power": 80,
+    "init_tags": [
+      2
+    ],
+    "locked_tags": [
+      11
+    ],
+    "skills": [
+      30071
+    ],
+    "skill_name": 26083007,
+    "skill_desc": 26083107,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3008,
+    "name": 200029,
+    "icon": "avatar_character_assistant_08",
+    "image": "role_character_assistant_08",
+    "period_task_id": 26080354,
+    "init_locked": 1,
+    "power": 45,
+    "init_tags": [
+      7
+    ],
+    "locked_tags": [
+      2
+    ],
+    "skills": [
+      30081
+    ],
+    "skill_name": 26083008,
+    "skill_desc": 26083108,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3009,
+    "name": 200009,
+    "icon": "avatar_character_assistant_09",
+    "image": "role_character_assistant_09",
+    "period_task_id": 26080355,
+    "init_locked": 1,
+    "power": 85,
+    "init_tags": [
+      8
+    ],
+    "locked_tags": [
+      6,
+      2
+    ],
+    "skills": [
+      30091
+    ],
+    "skill_name": 26083009,
+    "skill_desc": 26083109,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3010,
+    "name": 200048,
+    "icon": "avatar_character_assistant_10",
+    "image": "role_character_assistant_10",
+    "period_task_id": 26080356,
+    "init_locked": 1,
+    "power": 70,
+    "init_tags": [
+      6
+    ],
+    "locked_tags": [
+      1,
+      8
+    ],
+    "skills": [
+      30101
+    ],
+    "skill_name": 26083010,
+    "skill_desc": 26083110,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3011,
+    "name": 200045,
+    "icon": "avatar_character_assistant_11",
+    "image": "role_character_assistant_11",
+    "period_task_id": 26080357,
+    "init_locked": 1,
+    "power": 75,
+    "init_tags": [
+      7
+    ],
+    "locked_tags": [
+      8,
+      2
+    ],
+    "skills": [
+      30111
+    ],
+    "skill_name": 26083011,
+    "skill_desc": 26083111,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3012,
+    "name": 200012,
+    "icon": "avatar_character_assistant_12",
+    "image": "role_character_assistant_12",
+    "period_task_id": 26080358,
+    "init_locked": 1,
+    "power": 40,
+    "init_tags": [
+      1
+    ],
+    "locked_tags": [
+      2,
+      7
+    ],
+    "skills": [
+      30121
+    ],
+    "skill_name": 26083012,
+    "skill_desc": 26083112,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3013,
+    "name": 200007,
+    "icon": "avatar_character_assistant_13",
+    "image": "role_character_assistant_13",
+    "period_task_id": 26080359,
+    "init_locked": 1,
+    "power": 45,
+    "init_tags": [
+      6
+    ],
+    "locked_tags": [
+      7,
+      8
+    ],
+    "skills": [
+      30131
+    ],
+    "skill_name": 26083013,
+    "skill_desc": 26083113,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 90
+  },
+  {
+    "activity_id": 260801,
+    "id": 3014,
+    "name": 200039,
+    "icon": "avatar_character_assistant_14",
+    "image": "role_character_assistant_14",
+    "period_task_id": 26080360,
+    "init_locked": 1,
+    "power": 70,
+    "init_tags": [
+      7
+    ],
+    "locked_tags": [
+      2,
+      6
+    ],
+    "skills": [
+      30141
+    ],
+    "skill_name": 26083014,
+    "skill_desc": 26083114,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 100
+  },
+  {
+    "activity_id": 260801,
+    "id": 3015,
+    "name": 200044,
+    "icon": "avatar_character_assistant_15",
+    "image": "role_character_assistant_15",
+    "period_task_id": 26080361,
+    "init_locked": 1,
+    "power": 50,
+    "init_tags": [
+      1
+    ],
+    "locked_tags": [
+      6,
+      8
+    ],
+    "skills": [
+      30151
+    ],
+    "skill_name": 26083015,
+    "skill_desc": 26083115,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 100
+  },
+  {
+    "activity_id": 260801,
+    "id": 3016,
+    "name": 200023,
+    "icon": "avatar_character_assistant_16",
+    "image": "role_character_assistant_16",
+    "period_task_id": 26080362,
+    "init_locked": 1,
+    "power": 100,
+    "init_tags": [
+      11
+    ],
+    "locked_tags": [
+      2,
+      8
+    ],
+    "skills": [
+      30161
+    ],
+    "skill_name": 26083016,
+    "skill_desc": 26083116,
+    "power_upgrade": 5,
+    "power_upgrade_price": "30900105-1",
+    "tag_upgrade_price": "30900105-3",
+    "max_power": 100
+  }
+]

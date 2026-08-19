@@ -1,1 +1,1 @@
-local a={"A","B","O","AB","불명","Unknown","불명"}return a
+local a={"A","B","O","AB","불명","Unknown","불명","불명"}return a

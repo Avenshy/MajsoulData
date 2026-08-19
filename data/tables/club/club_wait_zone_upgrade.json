@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1001,
+    "level": 1,
+    "additional_wait_time": 30,
+    "display_value": 150,
+    "price": "30900106-400"
+  },
+  {
+    "id": 1001,
+    "level": 2,
+    "additional_wait_time": 60,
+    "display_value": 200,
+    "price": "30900106-700"
+  },
+  {
+    "id": 1001,
+    "level": 3,
+    "additional_wait_time": 90,
+    "display_value": 250,
+    "price": "30900106-1000"
+  },
+  {
+    "id": 1001,
+    "level": 4,
+    "additional_wait_time": 120,
+    "display_value": 300,
+    "price": "30900106-1300"
+  },
+  {
+    "id": 1001,
+    "level": 5,
+    "additional_wait_time": 150,
+    "display_value": 350,
+    "price": "30900106-1600"
+  },
+  {
+    "id": 1001,
+    "level": 6,
+    "additional_wait_time": 180,
+    "display_value": 400,
+    "price": "30900106-2000"
+  }
+]

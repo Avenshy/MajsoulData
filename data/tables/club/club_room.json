@@ -1,0 +1,41 @@
+[
+  {
+    "activity_id": 260801,
+    "room_id": 1,
+    "room_name": 26081001,
+    "init_locked": 0,
+    "init_desktop_count": 2,
+    "max_desktop_count": 5,
+    "init_desktop_fee": 10,
+    "unlock_price": "",
+    "desktop_fee_upgrade_id": 1011,
+    "desktop_count_upgrade": 1021,
+    "room_mood": 0
+  },
+  {
+    "activity_id": 260801,
+    "room_id": 2,
+    "room_name": 26081002,
+    "init_locked": 1,
+    "init_desktop_count": 1,
+    "max_desktop_count": 4,
+    "init_desktop_fee": 30,
+    "unlock_price": "30900106-2000",
+    "desktop_fee_upgrade_id": 1012,
+    "desktop_count_upgrade": 1022,
+    "room_mood": 5
+  },
+  {
+    "activity_id": 260801,
+    "room_id": 3,
+    "room_name": 26081003,
+    "init_locked": 1,
+    "init_desktop_count": 1,
+    "max_desktop_count": 3,
+    "init_desktop_fee": 100,
+    "unlock_price": "30900106-4000",
+    "desktop_fee_upgrade_id": 1013,
+    "desktop_count_upgrade": 1023,
+    "room_mood": 10
+  }
+]

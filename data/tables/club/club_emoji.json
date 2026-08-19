@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "mood": [
+      100,
+      999999
+    ],
+    "mood_rate": 150,
+    "tip_rate": 75,
+    "tip_assistant_rate": 100,
+    "icon": "guest_emoji_1"
+  },
+  {
+    "id": 2,
+    "mood": [
+      80,
+      100
+    ],
+    "mood_rate": 120,
+    "tip_rate": 50,
+    "tip_assistant_rate": 75,
+    "icon": "guest_emoji_2"
+  },
+  {
+    "id": 3,
+    "mood": [
+      60,
+      80
+    ],
+    "mood_rate": 110,
+    "tip_rate": 40,
+    "tip_assistant_rate": 65,
+    "icon": "guest_emoji_3"
+  },
+  {
+    "id": 4,
+    "mood": [
+      40,
+      60
+    ],
+    "mood_rate": 100,
+    "tip_rate": 30,
+    "tip_assistant_rate": 55,
+    "icon": "guest_emoji_4"
+  },
+  {
+    "id": 5,
+    "mood": [
+      2,
+      40
+    ],
+    "mood_rate": 100,
+    "tip_rate": 20,
+    "tip_assistant_rate": 45,
+    "icon": "guest_emoji_4"
+  },
+  {
+    "id": 6,
+    "mood": [
+      1,
+      2
+    ],
+    "mood_rate": 100,
+    "tip_rate": 10,
+    "tip_assistant_rate": 35,
+    "icon": "guest_emoji_4"
+  },
+  {
+    "id": 7,
+    "mood": [
+      0,
+      0
+    ],
+    "mood_rate": 100,
+    "tip_rate": 0,
+    "tip_assistant_rate": 25,
+    "icon": "guest_emoji_4"
+  }
+]

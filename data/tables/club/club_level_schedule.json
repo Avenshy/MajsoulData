@@ -1,0 +1,5242 @@
+[
+  {
+    "club_level_schedule_id": 26080901,
+    "time": 14,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080901,
+    "time": 15,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080901,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080901,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080901,
+    "time": 300,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080902,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080902,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080902,
+    "time": 210,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080902,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080902,
+    "time": 240,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 44,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 45,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 210,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 270,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080903,
+    "time": 300,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 155,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 185,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 240,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 270,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 360,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 390,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080904,
+    "time": 420,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 44,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 45,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 65,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 105,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 230,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 320,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 340,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 380,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 420,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 480,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080905,
+    "time": 540,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 30,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 165,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 220,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 270,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 320,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 380,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 420,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 480,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 500,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080906,
+    "time": 600,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 0,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 29,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 120,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 150,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 210,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 300,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 330,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 450,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 480,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080907,
+    "time": 600,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 60,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 240,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 360,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 420,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 480,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 540,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080908,
+    "time": 600,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 30,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 45,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 150,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 229,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 230,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 369,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 370,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 450,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 500,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 540,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080909,
+    "time": 600,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 60,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 120,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 360,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 420,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 480,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 540,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080910,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 30,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 45,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 60,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 150,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 180,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 270,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 360,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 420,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 480,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 540,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080911,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 15,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 30,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 45,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 60,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 75,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 90,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 105,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 120,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 135,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 150,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 165,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 180,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 195,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 210,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 360,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 420,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 480,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 510,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 540,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 570,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080912,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 30,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 90,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 300,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 330,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 360,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 390,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 420,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 450,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 480,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 510,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 540,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 570,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080913,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 0,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 200,
+    "customer_weight": 28
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 400,
+    "customer_weight": 32
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 600,
+    "customer_weight": 36
+  },
+  {
+    "club_level_schedule_id": 26080914,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 60,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 120,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 360,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 419,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 420,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 480,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 509,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 510,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 539,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 540,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 569,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 570,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 600,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080915,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 30,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 60,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 90,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 120,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 180,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 240,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 300,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 330,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 360,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 390,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 420,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 450,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 480,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 510,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 540,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 570,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 600,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080916,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 20,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 45,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 105,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 190,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 265,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 370,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 420,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 430,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 450,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 460,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 470,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 510,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080917,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 30,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 60,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 120,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 180,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 240,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 255,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 300,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 360,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 375,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 480,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 495,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 519,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 520,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 560,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 600,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080918,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 0,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 45,
+    "customer_weight": 2
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 90,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 135,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 225,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 270,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 315,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 360,
+    "customer_weight": 2
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 405,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 450,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 495,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 540,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 585,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 600,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080919,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 0,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 60,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 120,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 180,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 240,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 300,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 360,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 420,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 480,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 540,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 600,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080920,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 15,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 79,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 80,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 90,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 139,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 140,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 150,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 169,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 170,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 259,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 260,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 270,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 280,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 369,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 370,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 379,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 380,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 459,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 460,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 504,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 505,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 529,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 530,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 549,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 550,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 559,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 560,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 574,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 575,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 594,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 595,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 600,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080921,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 15,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 39,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 40,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 74,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 75,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 190,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 210,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 249,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 250,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 280,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 300,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 315,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 360,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 379,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 380,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 484,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 485,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 489,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 490,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 504,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 505,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 524,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 525,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 549,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 550,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 589,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 590,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 594,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 595,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080922,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 1,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 14,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 15,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 79,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 80,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 104,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 105,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 159,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 160,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 174,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 175,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 190,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 210,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 224,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 225,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 300,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 309,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 310,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 330,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 344,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 345,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 450,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 480,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 569,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 570,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 574,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 575,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 584,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 585,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 600,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080923,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 55,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 84,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 85,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 114,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 115,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 204,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 205,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 224,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 225,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 234,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 235,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 244,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 245,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 254,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 255,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 274,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 275,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 280,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 284,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 285,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 304,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 305,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 315,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 384,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 385,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 394,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 395,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 424,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 425,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 444,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 445,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 499,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 500,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 600,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080924,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 10,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 34,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 35,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 49,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 50,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 69,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 70,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 90,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 150,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 184,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 185,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 249,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 250,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 270,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 324,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 325,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 330,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 369,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 370,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 379,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 380,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 399,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 400,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 444,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 445,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 464,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 465,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 469,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 470,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 499,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 500,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 600,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080925,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 15,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 54,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 55,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 64,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 65,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 94,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 95,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 134,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 135,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 144,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 145,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 190,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 199,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 200,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 259,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 260,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 270,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 280,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 339,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 340,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 354,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 355,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 430,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 450,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 534,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 535,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 544,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 545,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 569,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 570,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080926,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 5,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 44,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 45,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 99,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 100,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 120,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 134,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 135,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 199,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 200,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 274,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 275,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 300,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 379,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 380,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 389,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 390,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 434,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 435,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 439,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 440,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 489,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 490,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 509,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 510,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 519,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 520,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 529,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 530,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 539,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 540,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 584,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 585,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 600,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080927,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 15,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 39,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 40,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 54,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 55,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 84,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 85,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 99,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 100,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 144,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 145,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 169,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 170,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 184,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 185,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 204,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 205,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 274,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 275,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 284,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 285,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 315,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 364,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 365,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 430,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 450,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 494,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 495,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 504,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 505,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 524,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 525,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 600,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080928,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 15,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 24,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 25,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 69,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 70,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 74,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 75,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 90,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 190,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 249,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 250,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 344,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 345,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 450,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 459,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 460,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 474,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 475,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 480,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 484,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 485,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 499,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 500,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 534,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 535,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 554,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 555,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 564,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 565,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 569,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 570,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 600,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080929,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 70,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 90,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 154,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 155,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 184,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 185,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 190,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 204,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 205,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 270,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 300,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 319,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 320,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 330,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 399,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 400,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 430,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 480,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 484,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 485,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 499,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 500,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 509,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 510,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 529,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 530,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 559,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 560,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080930,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 10,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 44,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 45,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 64,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 65,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 120,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 159,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 160,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 164,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 165,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 174,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 175,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 180,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 184,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 185,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 259,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 260,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 315,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 399,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 400,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 439,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 440,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 444,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 445,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 451,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 452,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 519,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 520,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 524,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 525,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 559,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 560,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 600,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080931,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 30,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 69,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 70,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 164,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 165,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 174,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 175,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 210,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 234,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 235,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 280,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 330,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 334,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 335,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 354,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 355,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 364,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 365,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 369,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 370,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 384,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 385,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 394,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 395,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 404,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 405,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 414,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 415,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 459,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 460,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 504,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 505,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080932,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 15,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 34,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 35,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 64,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 65,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 74,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 75,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 114,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 115,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 164,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 165,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 199,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 200,
+    "customer_weight": 20
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 210,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 280,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 289,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 290,
+    "customer_weight": 20
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 324,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 325,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 379,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 380,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 399,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 400,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 430,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 509,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 510,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 519,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 520,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 529,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 530,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 544,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 545,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 600,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080933,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 15,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 39,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 40,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 94,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 95,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 104,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 105,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 114,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 115,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 120,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 124,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 125,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 204,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 205,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 319,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 320,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 369,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 370,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 394,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 395,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 414,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 415,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 434,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 435,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 464,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 465,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 474,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 475,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 489,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 490,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 519,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 520,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 584,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 585,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 600,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080934,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 35,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 49,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 50,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 69,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 70,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 84,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 85,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 164,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 165,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 169,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 170,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 174,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 175,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 189,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 190,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 244,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 245,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 280,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 364,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 365,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 404,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 405,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 414,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 415,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 430,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 434,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 435,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 489,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 490,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 514,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 515,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 534,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 535,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 600,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080935,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 40,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 74,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 75,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 90,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 124,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 125,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 159,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 160,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 180,
+    "customer_weight": 19
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 194,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 195,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 210,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 224,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 225,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 244,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 245,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 300,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 304,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 305,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 315,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 330,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 360,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 414,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 415,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 450,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 480,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 600,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080936,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 30,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 34,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 35,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 44,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 45,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 69,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 70,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 104,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 105,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 150,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 164,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 165,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 194,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 195,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 240,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 280,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 294,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 295,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 319,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 320,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 389,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 390,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 394,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 395,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 434,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 435,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 454,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 455,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 459,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 460,
+    "customer_weight": 20
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 514,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 515,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080937,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 15,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 54,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 55,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 54,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 55,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 90,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 139,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 140,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 234,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 235,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 270,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 279,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 280,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 314,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 315,
+    "customer_weight": 17
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 319,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 320,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 324,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 325,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 330,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 349,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 350,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 384,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 385,
+    "customer_weight": 20
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 389,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 390,
+    "customer_weight": 7
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 414,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 415,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 504,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 505,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 529,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 530,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 600,
+    "customer_weight": 5
+  },
+  {
+    "club_level_schedule_id": 26080938,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 25,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 39,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 40,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 74,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 75,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 79,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 80,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 180,
+    "customer_weight": 9
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 194,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 195,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 214,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 215,
+    "customer_weight": 11
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 224,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 225,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 234,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 235,
+    "customer_weight": 14
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 289,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 290,
+    "customer_weight": 13
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 319,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 320,
+    "customer_weight": 4
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 330,
+    "customer_weight": 15
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 399,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 400,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 409,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 410,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 429,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 430,
+    "customer_weight": 18
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 444,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 445,
+    "customer_weight": 6
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 484,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 485,
+    "customer_weight": 10
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 524,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 525,
+    "customer_weight": 20
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 600,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080939,
+    "time": 720,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 15,
+    "customer_weight": 32
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 59,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 60,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 89,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 90,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 119,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 120,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 149,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 150,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 179,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 180,
+    "customer_weight": 32
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 209,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 210,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 239,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 240,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 269,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 270,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 299,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 300,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 329,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 330,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 359,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 360,
+    "customer_weight": 12
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 389,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 390,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 419,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 420,
+    "customer_weight": 8
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 449,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 450,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 479,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 480,
+    "customer_weight": 32
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 509,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 510,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 539,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 540,
+    "customer_weight": 16
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 599,
+    "customer_weight": null
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 600,
+    "customer_weight": 24
+  },
+  {
+    "club_level_schedule_id": 26080940,
+    "time": 720,
+    "customer_weight": null
+  }
+]

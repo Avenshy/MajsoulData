@@ -8862,6 +8862,114 @@
     }
   },
   {
+    "id": 1521,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000121,
+    "price": 300,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "赤麟",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1522,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30530014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "立直-天裁！",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1523,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30520014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "和牌-天罚！",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1524,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30560011,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-优胜猫猫奖杯",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1525,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30580029,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布-噼啪充电站",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1526,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30570018,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "牌背-雷魔石",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
     "id": 1999,
     "chest_id": 1000,
     "icon": "extendRes/items/wishstone.jpg",
@@ -17736,6 +17844,114 @@
     "sort": 1005,
     "name": {
       "chs": "桌布-勇喵传说",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3521,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000121,
+    "price": 300,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "赤麟",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3522,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30530014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "立直-天裁！",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3523,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30520014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "和牌-天罚！",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3524,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30560011,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-优胜猫猫奖杯",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3525,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30580029,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布-噼啪充电站",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3526,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30570018,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260811,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "牌背-雷魔石",
       "chs_t": "",
       "jp": "",
       "en": ""

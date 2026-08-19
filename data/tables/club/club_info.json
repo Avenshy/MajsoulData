@@ -1,0 +1,22 @@
+[
+  {
+    "activity_id": 260801,
+    "init_wait_time": 90,
+    "wait_zone_upgrade": 1001,
+    "init_level": 2608001,
+    "init_moodmin": -10,
+    "init_moodmax": 10,
+    "tag_mood": 10,
+    "ticks_per_minute": 5,
+    "init_battle_time": 360,
+    "battle_time_min": 30,
+    "game_total_time": 720,
+    "game_hurry_time": 600,
+    "mood_judge_time": 30,
+    "event_judge_time": 30,
+    "tip_disappear_time": 720,
+    "event_rate": 3,
+    "tenpai_rate": 65,
+    "event_idle_time": 15
+  }
+]

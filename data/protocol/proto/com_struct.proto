@@ -764,6 +764,96 @@ message ActivityIslandData {
   repeated .lq.IslandZoneData zones = 4;
 }
 
+message ActivityMajClubChanges {
+  .lq.ActivityMajClubGameDataChanges game = 1;
+  .lq.ActivityMajClubUpgradeDataChanges upgrade = 2;
+  .lq.ActivityMajClubIllustratedBookDataChanges illustrated_book = 3;
+}
+
+message ActivityMajClubCharacterData {
+  uint32 id = 1;
+  repeated uint32 tags = 2;
+  uint32 power = 3;
+}
+
+message ActivityMajClubCharacterDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajClubCharacterData value = 2;
+}
+
+message ActivityMajClubCharacterRoomData {
+  uint32 character_id = 1;
+  uint32 room_id = 2;
+  uint32 desktop_id = 3;
+}
+
+message ActivityMajClubCharacterRoomDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajClubCharacterRoomData value = 2;
+}
+
+message ActivityMajClubCustomerData {
+  uint32 id = 1;
+  uint32 power = 2;
+  uint32 patience = 3;
+}
+
+message ActivityMajClubData {
+  uint32 activity_id = 1;
+  .lq.ActivityMajClubGameData game = 2;
+  .lq.ActivityMajClubUpgradeData upgrade = 3;
+  .lq.ActivityMajClubIllustratedBookData illustrated_book = 4;
+}
+
+message ActivityMajClubGameData {
+  uint32 level = 1;
+  repeated .lq.ActivityMajClubCharacterRoomData character_room_data = 2;
+  repeated .lq.ActivityMajClubCustomerData customers = 100;
+  uint32 start_time = 101;
+}
+
+message ActivityMajClubGameDataChanges {
+  .lq.UInt32Dirty level = 1;
+  .lq.ActivityMajClubCharacterRoomDataArrayDirty character_room_data = 2;
+}
+
+message ActivityMajClubIllustratedBookData {
+  repeated uint32 unlocked_customer_level_1 = 1;
+  repeated uint32 unlocked_customer_level_2 = 2;
+  uint32 highest_income = 3;
+  uint32 total_customer_count = 4;
+}
+
+message ActivityMajClubIllustratedBookDataChanges {
+  .lq.UInt32ArrayDirty unlocked_customer_level_1 = 1;
+  .lq.UInt32ArrayDirty unlocked_customer_level_2 = 2;
+  .lq.UInt32Dirty highest_income = 3;
+  .lq.UInt32Dirty total_customer_count = 4;
+}
+
+message ActivityMajClubRoomData {
+  uint32 id = 1;
+  uint32 desktop_count_level = 2;
+  uint32 desktop_fee_level = 3;
+}
+
+message ActivityMajClubRoomDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajClubRoomData value = 2;
+}
+
+message ActivityMajClubUpgradeData {
+  repeated .lq.ActivityMajClubRoomData rooms = 1;
+  repeated .lq.ActivityMajClubCharacterData characters = 2;
+  uint32 wait_zone_level = 3;
+}
+
+message ActivityMajClubUpgradeDataChanges {
+  .lq.ActivityMajClubRoomDataArrayDirty rooms = 1;
+  .lq.ActivityMajClubCharacterDataArrayDirty characters = 2;
+  .lq.UInt32Dirty wait_zone_level = 4;
+}
+
 message ActivityMarathonCheckData {
   uint32 round = 1;
   repeated uint32 item = 2;
@@ -1257,6 +1347,7 @@ message ClientDeviceInfo {
   uint32 screen_height = 11;
   string user_agent = 12;
   uint32 screen_type = 13;
+  string device_id = 14;
 }
 
 message ClientDeviceInfoLog {

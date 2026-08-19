@@ -1,5 +1,4 @@
 {
-  "help_bg": 0,
   "l_1": 0,
   "l_2": 0,
   "l_3": 0,
@@ -8,8 +7,5 @@
   "bgStretchable": 0,
   "chatlog": 0,
   "jiantou": 0,
-  "arrow": 0,
-  "close": 0,
-  "popup_mask1": 0,
-  "popup_mask2": 0
+  "close": 0
 }

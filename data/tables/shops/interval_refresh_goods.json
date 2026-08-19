@@ -91,6 +91,12 @@
   },
   {
     "group_id": 1001,
+    "goods_id": 9082,
+    "interval": 1,
+    "interval_type": 2
+  },
+  {
+    "group_id": 1001,
     "goods_id": 9011,
     "interval": 2,
     "interval_type": 2
@@ -308,6 +314,12 @@
   {
     "group_id": 1001,
     "goods_id": 9071,
+    "interval": 4,
+    "interval_type": 2
+  },
+  {
+    "group_id": 1001,
+    "goods_id": 9081,
     "interval": 4,
     "interval_type": 2
   },

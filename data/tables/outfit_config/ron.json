@@ -53,5 +53,10 @@
     "id": 30520009,
     "is_fullscreen": 1,
     "queue_change_delay": 1860
+  },
+  {
+    "id": 30520013,
+    "is_fullscreen": 1,
+    "queue_change_delay": 5000
   }
 ]

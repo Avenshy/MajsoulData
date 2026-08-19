@@ -581,5 +581,16 @@
     "banner_left_selected": null,
     "banner_left_icon": null,
     "time_remind": null
+  },
+  {
+    "id": 260801,
+    "sort": 140,
+    "banner_type": 2,
+    "enter_icon": "ui/activity/lobby/banner_lobby/pic/26summer_0.png",
+    "banner_big": "ui/activity/lobby/banner_tab/pic/26summer_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/26summer.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
   }
 ]

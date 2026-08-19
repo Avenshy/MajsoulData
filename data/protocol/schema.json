@@ -12516,6 +12516,302 @@
           "nested_messages": []
         },
         {
+          "name": "ReqMajClubActivityFetchData",
+          "full_name": ".lq.ReqMajClubActivityFetchData",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityFetchData.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityFinishDay",
+          "full_name": ".lq.ReqMajClubActivityFinishDay",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityFinishDay.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "customer_list",
+              "full_name": ".lq.ReqMajClubActivityFinishDay.customer_list",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ReqMajClubActivityFinishDay.CustomerData",
+              "type_code": 11,
+              "raw_type_ref": "REQMAJCLUBACTIVITYFINISHDAY_CUSTOMERDATA"
+            },
+            {
+              "name": "income",
+              "full_name": ".lq.ReqMajClubActivityFinishDay.income",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": [
+            {
+              "name": "CustomerData",
+              "full_name": ".lq.ReqMajClubActivityFinishDay.CustomerData",
+              "fields": [
+                {
+                  "name": "id",
+                  "full_name": ".lq.ReqMajClubActivityFinishDay.CustomerData.id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "emo",
+                  "full_name": ".lq.ReqMajClubActivityFinishDay.CustomerData.emo",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "result",
+                  "full_name": ".lq.ReqMajClubActivityFinishDay.CustomerData.result",
+                  "number": 3,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "payment_amount",
+                  "full_name": ".lq.ReqMajClubActivityFinishDay.CustomerData.payment_amount",
+                  "number": 4,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            }
+          ]
+        },
+        {
+          "name": "ReqMajClubActivitySaveRoomData",
+          "full_name": ".lq.ReqMajClubActivitySaveRoomData",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivitySaveRoomData.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "character_room_data",
+              "full_name": ".lq.ReqMajClubActivitySaveRoomData.character_room_data",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterRoomData",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHARACTERROOMDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityStartDay",
+          "full_name": ".lq.ReqMajClubActivityStartDay",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityStartDay.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "character_room_data",
+              "full_name": ".lq.ReqMajClubActivityStartDay.character_room_data",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterRoomData",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHARACTERROOMDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUnlockDesktop",
+          "full_name": ".lq.ReqMajClubActivityUnlockDesktop",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUnlockDesktop.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "room_id",
+              "full_name": ".lq.ReqMajClubActivityUnlockDesktop.room_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUnlockRoom",
+          "full_name": ".lq.ReqMajClubActivityUnlockRoom",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUnlockRoom.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "room_id",
+              "full_name": ".lq.ReqMajClubActivityUnlockRoom.room_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUpgradeCharacterPower",
+          "full_name": ".lq.ReqMajClubActivityUpgradeCharacterPower",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeCharacterPower.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "character_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeCharacterPower.character_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUpgradeCharacterTag",
+          "full_name": ".lq.ReqMajClubActivityUpgradeCharacterTag",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeCharacterTag.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "character_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeCharacterTag.character_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUpgradeRoomFee",
+          "full_name": ".lq.ReqMajClubActivityUpgradeRoomFee",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeRoomFee.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "room_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeRoomFee.room_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajClubActivityUpgradeWaiting",
+          "full_name": ".lq.ReqMajClubActivityUpgradeWaiting",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajClubActivityUpgradeWaiting.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ReqMarathonActivityFinishRace",
           "full_name": ".lq.ReqMarathonActivityFinishRace",
           "fields": [
@@ -22510,6 +22806,15 @@
               "type": ".lq.ResFetchAnnualReportInfo",
               "type_code": 11,
               "raw_type_ref": "RESFETCHANNUALREPORTINFO"
+            },
+            {
+              "name": "recharge_info",
+              "full_name": ".lq.ResFetchInfo.recharge_info",
+              "number": 35,
+              "label": "optional",
+              "type": ".lq.ResFetchRechargeInfo",
+              "type_code": 11,
+              "raw_type_ref": "RESFETCHRECHARGEINFO"
             }
           ],
           "nested_enums": [],
@@ -23203,6 +23508,50 @@
               "full_name": ".lq.ResFetchrecentFriend.account_list",
               "number": 2,
               "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResFetchRechargeInfo",
+          "full_name": ".lq.ResFetchRechargeInfo",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResFetchRechargeInfo.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "time_range",
+              "full_name": ".lq.ResFetchRechargeInfo.time_range",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "recharged_list",
+              "full_name": ".lq.ResFetchRechargeInfo.recharged_list",
+              "number": 3,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "now",
+              "full_name": ".lq.ResFetchRechargeInfo.now",
+              "number": 4,
+              "label": "optional",
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
@@ -25031,6 +25380,128 @@
               "type": ".lq.Mail",
               "type_code": 11,
               "raw_type_ref": "b.MAIL"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajClubActivityCommon",
+          "full_name": ".lq.ResMajClubActivityCommon",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajClubActivityCommon.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajClubActivityCommon.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajClubActivityFetchData",
+          "full_name": ".lq.ResMajClubActivityFetchData",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajClubActivityFetchData.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "data",
+              "full_name": ".lq.ResMajClubActivityFetchData.data",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubData",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajClubActivityFinishDay",
+          "full_name": ".lq.ResMajClubActivityFinishDay",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajClubActivityFinishDay.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajClubActivityFinishDay.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHANGES"
+            },
+            {
+              "name": "result",
+              "full_name": ".lq.ResMajClubActivityFinishDay.result",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajClubActivityStartDay",
+          "full_name": ".lq.ResMajClubActivityStartDay",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajClubActivityStartDay.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajClubActivityStartDay.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHANGES"
+            },
+            {
+              "name": "customers",
+              "full_name": ".lq.ResMajClubActivityStartDay.customers",
+              "number": 3,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCustomerData",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCUSTOMERDATA"
             }
           ],
           "nested_enums": [],
@@ -34295,6 +34766,531 @@
           "nested_messages": []
         },
         {
+          "name": "ActivityMajClubChanges",
+          "full_name": ".lq.ActivityMajClubChanges",
+          "fields": [
+            {
+              "name": "game",
+              "full_name": ".lq.ActivityMajClubChanges.game",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubGameDataChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBGAMEDATACHANGES"
+            },
+            {
+              "name": "upgrade",
+              "full_name": ".lq.ActivityMajClubChanges.upgrade",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubUpgradeDataChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBUPGRADEDATACHANGES"
+            },
+            {
+              "name": "illustrated_book",
+              "full_name": ".lq.ActivityMajClubChanges.illustrated_book",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubIllustratedBookDataChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBILLUSTRATEDBOOKDATACHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubCharacterData",
+          "full_name": ".lq.ActivityMajClubCharacterData",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajClubCharacterData.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "tags",
+              "full_name": ".lq.ActivityMajClubCharacterData.tags",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "power",
+              "full_name": ".lq.ActivityMajClubCharacterData.power",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubCharacterDataArrayDirty",
+          "full_name": ".lq.ActivityMajClubCharacterDataArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajClubCharacterDataArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajClubCharacterDataArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubCharacterRoomData",
+          "full_name": ".lq.ActivityMajClubCharacterRoomData",
+          "fields": [
+            {
+              "name": "character_id",
+              "full_name": ".lq.ActivityMajClubCharacterRoomData.character_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "room_id",
+              "full_name": ".lq.ActivityMajClubCharacterRoomData.room_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "desktop_id",
+              "full_name": ".lq.ActivityMajClubCharacterRoomData.desktop_id",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubCharacterRoomDataArrayDirty",
+          "full_name": ".lq.ActivityMajClubCharacterRoomDataArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajClubCharacterRoomDataArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajClubCharacterRoomDataArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterRoomData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERROOMDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubCustomerData",
+          "full_name": ".lq.ActivityMajClubCustomerData",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajClubCustomerData.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "power",
+              "full_name": ".lq.ActivityMajClubCustomerData.power",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "patience",
+              "full_name": ".lq.ActivityMajClubCustomerData.patience",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubData",
+          "full_name": ".lq.ActivityMajClubData",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ActivityMajClubData.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "game",
+              "full_name": ".lq.ActivityMajClubData.game",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubGameData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBGAMEDATA"
+            },
+            {
+              "name": "upgrade",
+              "full_name": ".lq.ActivityMajClubData.upgrade",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubUpgradeData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBUPGRADEDATA"
+            },
+            {
+              "name": "illustrated_book",
+              "full_name": ".lq.ActivityMajClubData.illustrated_book",
+              "number": 4,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubIllustratedBookData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBILLUSTRATEDBOOKDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubGameData",
+          "full_name": ".lq.ActivityMajClubGameData",
+          "fields": [
+            {
+              "name": "level",
+              "full_name": ".lq.ActivityMajClubGameData.level",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "character_room_data",
+              "full_name": ".lq.ActivityMajClubGameData.character_room_data",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterRoomData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERROOMDATA"
+            },
+            {
+              "name": "customers",
+              "full_name": ".lq.ActivityMajClubGameData.customers",
+              "number": 100,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCustomerData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCUSTOMERDATA"
+            },
+            {
+              "name": "start_time",
+              "full_name": ".lq.ActivityMajClubGameData.start_time",
+              "number": 101,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubGameDataChanges",
+          "full_name": ".lq.ActivityMajClubGameDataChanges",
+          "fields": [
+            {
+              "name": "level",
+              "full_name": ".lq.ActivityMajClubGameDataChanges.level",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            },
+            {
+              "name": "character_room_data",
+              "full_name": ".lq.ActivityMajClubGameDataChanges.character_room_data",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubCharacterRoomDataArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERROOMDATAARRAYDIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubIllustratedBookData",
+          "full_name": ".lq.ActivityMajClubIllustratedBookData",
+          "fields": [
+            {
+              "name": "unlocked_customer_level_1",
+              "full_name": ".lq.ActivityMajClubIllustratedBookData.unlocked_customer_level_1",
+              "number": 1,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "unlocked_customer_level_2",
+              "full_name": ".lq.ActivityMajClubIllustratedBookData.unlocked_customer_level_2",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "highest_income",
+              "full_name": ".lq.ActivityMajClubIllustratedBookData.highest_income",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "total_customer_count",
+              "full_name": ".lq.ActivityMajClubIllustratedBookData.total_customer_count",
+              "number": 4,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubIllustratedBookDataChanges",
+          "full_name": ".lq.ActivityMajClubIllustratedBookDataChanges",
+          "fields": [
+            {
+              "name": "unlocked_customer_level_1",
+              "full_name": ".lq.ActivityMajClubIllustratedBookDataChanges.unlocked_customer_level_1",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.UInt32ArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32ARRAYDIRTY"
+            },
+            {
+              "name": "unlocked_customer_level_2",
+              "full_name": ".lq.ActivityMajClubIllustratedBookDataChanges.unlocked_customer_level_2",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.UInt32ArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32ARRAYDIRTY"
+            },
+            {
+              "name": "highest_income",
+              "full_name": ".lq.ActivityMajClubIllustratedBookDataChanges.highest_income",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            },
+            {
+              "name": "total_customer_count",
+              "full_name": ".lq.ActivityMajClubIllustratedBookDataChanges.total_customer_count",
+              "number": 4,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubRoomData",
+          "full_name": ".lq.ActivityMajClubRoomData",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajClubRoomData.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "desktop_count_level",
+              "full_name": ".lq.ActivityMajClubRoomData.desktop_count_level",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "desktop_fee_level",
+              "full_name": ".lq.ActivityMajClubRoomData.desktop_fee_level",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubRoomDataArrayDirty",
+          "full_name": ".lq.ActivityMajClubRoomDataArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajClubRoomDataArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajClubRoomDataArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubRoomData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBROOMDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubUpgradeData",
+          "full_name": ".lq.ActivityMajClubUpgradeData",
+          "fields": [
+            {
+              "name": "rooms",
+              "full_name": ".lq.ActivityMajClubUpgradeData.rooms",
+              "number": 1,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubRoomData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBROOMDATA"
+            },
+            {
+              "name": "characters",
+              "full_name": ".lq.ActivityMajClubUpgradeData.characters",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajClubCharacterData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERDATA"
+            },
+            {
+              "name": "wait_zone_level",
+              "full_name": ".lq.ActivityMajClubUpgradeData.wait_zone_level",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajClubUpgradeDataChanges",
+          "full_name": ".lq.ActivityMajClubUpgradeDataChanges",
+          "fields": [
+            {
+              "name": "rooms",
+              "full_name": ".lq.ActivityMajClubUpgradeDataChanges.rooms",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubRoomDataArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBROOMDATAARRAYDIRTY"
+            },
+            {
+              "name": "characters",
+              "full_name": ".lq.ActivityMajClubUpgradeDataChanges.characters",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubCharacterDataArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJCLUBCHARACTERDATAARRAYDIRTY"
+            },
+            {
+              "name": "wait_zone_level",
+              "full_name": ".lq.ActivityMajClubUpgradeDataChanges.wait_zone_level",
+              "number": 4,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ActivityMarathonCheckData",
           "full_name": ".lq.ActivityMarathonCheckData",
           "fields": [
@@ -37284,6 +38280,15 @@
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "device_id",
+              "full_name": ".lq.ClientDeviceInfo.device_id",
+              "number": 14,
+              "label": "optional",
+              "type": "string",
+              "type_code": 9,
               "raw_type_ref": null
             }
           ],
@@ -73111,6 +74116,23 @@
           "nested_messages": []
         },
         {
+          "name": "NotifyActivityChanges",
+          "full_name": ".lq.NotifyActivityChanges",
+          "fields": [
+            {
+              "name": "club",
+              "full_name": ".lq.NotifyActivityChanges.club",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.ActivityMajClubChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJCLUBCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "NotifyActivityPeriodTaskUpdate",
           "full_name": ".lq.NotifyActivityPeriodTaskUpdate",
           "fields": [
@@ -74864,7 +75886,7 @@
     }
   ],
   "module_count": 11,
-  "message_count": 1585,
+  "message_count": 1617,
   "enum_count": 2,
-  "field_count": 6855
+  "field_count": 6940
 }

@@ -9216,7 +9216,7 @@
     "open": 1,
     "init_skin": 40011201,
     "full_fetter_skin": 40011202,
-    "hand": 309997,
+    "hand": 30990015,
     "favorite": 4,
     "star_5_material": "302010-10,302008-10,303143|303043-5,302002-10,302004-100",
     "star_5_cost": null,
@@ -9912,6 +9912,94 @@
       "jp": "自らを霊鳥「キンウ」と称する少女。一飜市に来るまでの全ての記憶を失っている。ちょっぴりドジっ子な彼女は今、セイランと共に「三青斎」で生活している。",
       "en": "Somehow, this young girl ended up in One Han City without realizing it. Though she calls herself a spirit bird, she hardly acts the part; if anything, she's actually quite clumsy. Now living at Beryl Blue, she's working hard to settle into this unfamiliar but brilliant new environment, one step at a time.",
       "kr": "자신도 모르는 사이 이한시에 온 것을 깨달은 소녀. 자신을 영조라고 칭하지만, 오히려 약간 둔한 면이 있다. 지금은 '삼청재'에 머물며, 낯설지만 화려한 새로운 환경에 자기만의 리듬으로 열심히 적응 중이다."
+    }
+  },
+  {
+    "id": 20000121,
+    "sort": 123,
+    "launch_time": "2026-08-19 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012101,
+    "full_fetter_skin": 40012102,
+    "hand": 30990016,
+    "favorite": 1,
+    "star_5_material": "302005-10,302006-10,303113|303013-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 150,
+    "emo": "deco/emo/e20000121",
+    "sound": 121,
+    "sound_volume": 1,
+    "sound_folder": "chilin",
+    "sex": 1,
+    "collaboration": null,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": 1,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": 1,
+    "treasure_sp": null,
+    "name": {
+      "chs": "赤麟",
+      "chs_t": "赤麟",
+      "jp": "赤麟",
+      "en": "Chi Lin",
+      "kr": "아카리"
+    },
+    "desc_stature": {
+      "chs": "173厘米",
+      "chs_t": "173公分",
+      "jp": "173cm",
+      "en": "173cm",
+      "kr": "173cm"
+    },
+    "desc_birth": {
+      "chs": "11月25日",
+      "chs_t": "11月25日",
+      "jp": "11月25日",
+      "en": "25th November",
+      "kr": "11월 25일"
+    },
+    "desc_age": {
+      "chs": "未知",
+      "chs_t": "未知",
+      "jp": "未知",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_bloodtype": {
+      "chs": "未知",
+      "chs_t": "未知",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_cv": {
+      "chs": "户松遥",
+      "chs_t": "戶松遙",
+      "jp": "戸松 遥",
+      "en": "Haruka Tomatsu",
+      "kr": "토마츠 하루카"
+    },
+    "desc_hobby": {
+      "chs": "奔跑、胡萝卜",
+      "chs_t": "奔跑、紅蘿蔔",
+      "jp": "走ること、ニンジン",
+      "en": "Running, carrots",
+      "kr": "달리기, 당근"
+    },
+    "desc": {
+      "chs": "赤诚如火，意气风发！午马宫的现任宫主是个不折不扣的行动派，钟情于生命之中每一个全力以赴、挑战极限的时刻。\n——怀揣着这份率性，今天她也在一番市的街巷快意驰骋。",
+      "chs_t": "赤誠如火，意氣風發！午馬宮的現任宮主是個不折不扣的行動派，鍾情於生命之中每一個全力以赴、挑戰極限的時刻。\n——懷揣著這份率性，今天她也在一番市的街巷快意馳騁。",
+      "jp": "燃えるような情熱を持つ、意気盛んな新任午馬宮宮主。\n全力を尽くして命を謳歌し、あらゆる限界に挑む。\nその自由奔放さを胸に、今日も彼女は一飜市の街を颯爽と駆け巡る。",
+      "en": "A fiery soul and a doer through and through, the Lady of the Horse Palace thrives on the thrill of pushing past her limits.\nAnd true to her unbridled nature, she's out tearing through the streets of One Han City again today.",
+      "kr": "불타는 정열을 품은, 의기가 왕성한 오마궁의 궁주. 철저한 행동주의자로 인생에선 항상 전력을 다하고, 모든 한계에 도전한다. 이러한 자유분방함을 가슴에 품고, 오늘도 그녀는 이한시의 거리를 거침없이 누비고 있다."
     }
   },
   {

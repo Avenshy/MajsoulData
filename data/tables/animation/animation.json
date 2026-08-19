@@ -1456,5 +1456,329 @@
       450,
       900
     ]
+  },
+  {
+    "id": 1002801,
+    "name": "Dapai",
+    "type": "hand_xiyuansiyiyu",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1002802,
+    "name": "LiQiPai",
+    "type": "hand_xiyuansiyiyu",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1002803,
+    "name": "LiZhi",
+    "type": "hand_xiyuansiyiyu",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1002804,
+    "name": "Fulu",
+    "type": "hand_xiyuansiyiyu",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1002805,
+    "name": "Zimo",
+    "type": "hand_xiyuansiyiyu",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1002901,
+    "name": "Dapai",
+    "type": "hand_beiyuanlili",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1002902,
+    "name": "LiQiPai",
+    "type": "hand_beiyuanlili",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1002903,
+    "name": "LiZhi",
+    "type": "hand_beiyuanlili",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1002904,
+    "name": "Fulu",
+    "type": "hand_beiyuanlili",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1002905,
+    "name": "Zimo",
+    "type": "hand_beiyuanlili",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003001,
+    "name": "Dapai",
+    "type": "hand_dongchengxuanyin",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003002,
+    "name": "LiQiPai",
+    "type": "hand_dongchengxuanyin",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003003,
+    "name": "LiZhi",
+    "type": "hand_dongchengxuanyin",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003004,
+    "name": "Fulu",
+    "type": "hand_dongchengxuanyin",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003005,
+    "name": "Zimo",
+    "type": "hand_dongchengxuanyin",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003101,
+    "name": "Dapai",
+    "type": "hand_nanfenghua",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003102,
+    "name": "LiQiPai",
+    "type": "hand_nanfenghua",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003103,
+    "name": "LiZhi",
+    "type": "hand_nanfenghua",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003104,
+    "name": "Fulu",
+    "type": "hand_nanfenghua",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003105,
+    "name": "Zimo",
+    "type": "hand_nanfenghua",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003201,
+    "name": "Dapai",
+    "type": "hand_liyang",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003202,
+    "name": "LiQiPai",
+    "type": "hand_liyang",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003203,
+    "name": "LiZhi",
+    "type": "hand_liyang",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003204,
+    "name": "Fulu",
+    "type": "hand_liyang",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003205,
+    "name": "Zimo",
+    "type": "hand_liyang",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003301,
+    "name": "Dapai",
+    "type": "hand_chilin",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003302,
+    "name": "LiQiPai",
+    "type": "hand_chilin",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003303,
+    "name": "LiZhi",
+    "type": "hand_chilin",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003304,
+    "name": "Fulu",
+    "type": "hand_chilin",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003305,
+    "name": "Zimo",
+    "type": "hand_chilin",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
   }
 ]

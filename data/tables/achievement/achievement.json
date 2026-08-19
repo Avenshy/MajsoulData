@@ -12766,6 +12766,58 @@
     }
   },
   {
+    "id": 100498,
+    "rare": 2,
+    "locked": null,
+    "group_id": 10,
+    "sort": 174,
+    "segment_id": null,
+    "base_task": 99186,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "与赤麟的邂逅",
+      "chs_t": "與赤麟的邂逅",
+      "jp": "赤麟との出会い",
+      "en": "An Encounter with Chi Lin",
+      "kr": "아카리와의 만남"
+    },
+    "desc": {
+      "chs": "获得雀士赤麟",
+      "chs_t": "獲得雀士赤麟",
+      "jp": "赤麟を入手する",
+      "en": "Obtain Jyanshi Chi Lin",
+      "kr": "아카리 획득하기."
+    }
+  },
+  {
+    "id": 100499,
+    "rare": 2,
+    "locked": null,
+    "group_id": 10,
+    "sort": 376,
+    "segment_id": null,
+    "base_task": 99187,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "赤麟的契约者",
+      "chs_t": "赤麟的契約者",
+      "jp": "赤麟の契約者",
+      "en": "Bonded with Chi Lin",
+      "kr": "아카리의 계약자"
+    },
+    "desc": {
+      "chs": "与赤麟签订契约",
+      "chs_t": "與赤麟簽訂契約",
+      "jp": "赤麟と契約を結ぶ",
+      "en": "Bond with Chi Lin",
+      "kr": "아카리와(과) 계약 맺기."
+    }
+  },
+  {
     "id": 800011,
     "rare": 1,
     "locked": null,

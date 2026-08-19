@@ -353,6 +353,17 @@
     - [ReqMMOActivitySetTeamMember.MMOActivityTeamMember](#lq-ReqMMOActivitySetTeamMember-MMOActivityTeamMember)
     - [ReqMMOActivityStartBattle](#lq-ReqMMOActivityStartBattle)
     - [ReqMMOActivityUpdatehFriendList](#lq-ReqMMOActivityUpdatehFriendList)
+    - [ReqMajClubActivityFetchData](#lq-ReqMajClubActivityFetchData)
+    - [ReqMajClubActivityFinishDay](#lq-ReqMajClubActivityFinishDay)
+    - [ReqMajClubActivityFinishDay.CustomerData](#lq-ReqMajClubActivityFinishDay-CustomerData)
+    - [ReqMajClubActivitySaveRoomData](#lq-ReqMajClubActivitySaveRoomData)
+    - [ReqMajClubActivityStartDay](#lq-ReqMajClubActivityStartDay)
+    - [ReqMajClubActivityUnlockDesktop](#lq-ReqMajClubActivityUnlockDesktop)
+    - [ReqMajClubActivityUnlockRoom](#lq-ReqMajClubActivityUnlockRoom)
+    - [ReqMajClubActivityUpgradeCharacterPower](#lq-ReqMajClubActivityUpgradeCharacterPower)
+    - [ReqMajClubActivityUpgradeCharacterTag](#lq-ReqMajClubActivityUpgradeCharacterTag)
+    - [ReqMajClubActivityUpgradeRoomFee](#lq-ReqMajClubActivityUpgradeRoomFee)
+    - [ReqMajClubActivityUpgradeWaiting](#lq-ReqMajClubActivityUpgradeWaiting)
     - [ReqMarathonActivityFinishRace](#lq-ReqMarathonActivityFinishRace)
     - [ReqMarathonActivityStartRace](#lq-ReqMarathonActivityStartRace)
     - [ReqModifyBirthday](#lq-ReqModifyBirthday)
@@ -673,6 +684,7 @@
     - [ResFetchRankPointLeaderboard.Item](#lq-ResFetchRankPointLeaderboard-Item)
     - [ResFetchReadyPlayerList](#lq-ResFetchReadyPlayerList)
     - [ResFetchReadyPlayerList.Player](#lq-ResFetchReadyPlayerList-Player)
+    - [ResFetchRechargeInfo](#lq-ResFetchRechargeInfo)
     - [ResFetchRefundOrder](#lq-ResFetchRefundOrder)
     - [ResFetchRefundOrder.OrderInfo](#lq-ResFetchRefundOrder-OrderInfo)
     - [ResFetchRollingNotice](#lq-ResFetchRollingNotice)
@@ -731,6 +743,10 @@
     - [ResMMOActivityStartBattle.MMOActivityBattleUnit](#lq-ResMMOActivityStartBattle-MMOActivityBattleUnit)
     - [ResMMOActivityUpdatehFriendList](#lq-ResMMOActivityUpdatehFriendList)
     - [ResMailInfo](#lq-ResMailInfo)
+    - [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon)
+    - [ResMajClubActivityFetchData](#lq-ResMajClubActivityFetchData)
+    - [ResMajClubActivityFinishDay](#lq-ResMajClubActivityFinishDay)
+    - [ResMajClubActivityStartDay](#lq-ResMajClubActivityStartDay)
     - [ResMarathonActivityFinishRace](#lq-ResMarathonActivityFinishRace)
     - [ResMarathonActivityStartRace](#lq-ResMarathonActivityStartRace)
     - [ResMisc](#lq-ResMisc)
@@ -978,6 +994,21 @@
     - [ActivityMMOSupportRecord](#lq-ActivityMMOSupportRecord)
     - [ActivityMMOSupportRecordDirty](#lq-ActivityMMOSupportRecordDirty)
     - [ActivityMMOTeamMember](#lq-ActivityMMOTeamMember)
+    - [ActivityMajClubChanges](#lq-ActivityMajClubChanges)
+    - [ActivityMajClubCharacterData](#lq-ActivityMajClubCharacterData)
+    - [ActivityMajClubCharacterDataArrayDirty](#lq-ActivityMajClubCharacterDataArrayDirty)
+    - [ActivityMajClubCharacterRoomData](#lq-ActivityMajClubCharacterRoomData)
+    - [ActivityMajClubCharacterRoomDataArrayDirty](#lq-ActivityMajClubCharacterRoomDataArrayDirty)
+    - [ActivityMajClubCustomerData](#lq-ActivityMajClubCustomerData)
+    - [ActivityMajClubData](#lq-ActivityMajClubData)
+    - [ActivityMajClubGameData](#lq-ActivityMajClubGameData)
+    - [ActivityMajClubGameDataChanges](#lq-ActivityMajClubGameDataChanges)
+    - [ActivityMajClubIllustratedBookData](#lq-ActivityMajClubIllustratedBookData)
+    - [ActivityMajClubIllustratedBookDataChanges](#lq-ActivityMajClubIllustratedBookDataChanges)
+    - [ActivityMajClubRoomData](#lq-ActivityMajClubRoomData)
+    - [ActivityMajClubRoomDataArrayDirty](#lq-ActivityMajClubRoomDataArrayDirty)
+    - [ActivityMajClubUpgradeData](#lq-ActivityMajClubUpgradeData)
+    - [ActivityMajClubUpgradeDataChanges](#lq-ActivityMajClubUpgradeDataChanges)
     - [ActivityMarathonCheckData](#lq-ActivityMarathonCheckData)
     - [ActivityMarathonData](#lq-ActivityMarathonData)
     - [ActivityMarathonData.MarathonRaceData](#lq-ActivityMarathonData-MarathonRaceData)
@@ -1551,6 +1582,7 @@
     - [NotifyAccountRandomTaskUpdate](#lq-NotifyAccountRandomTaskUpdate)
     - [NotifyAccountUpdate](#lq-NotifyAccountUpdate)
     - [NotifyActivityChange](#lq-NotifyActivityChange)
+    - [NotifyActivityChanges](#lq-NotifyActivityChanges)
     - [NotifyActivityPeriodTaskUpdate](#lq-NotifyActivityPeriodTaskUpdate)
     - [NotifyActivityPointV2](#lq-NotifyActivityPointV2)
     - [NotifyActivityPointV2.ActivityPoint](#lq-NotifyActivityPointV2-ActivityPoint)
@@ -7593,6 +7625,183 @@
 
 
 
+<a name="lq-ReqMajClubActivityFetchData"></a>
+
+### ReqMajClubActivityFetchData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityFinishDay"></a>
+
+### ReqMajClubActivityFinishDay
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| customer_list | [ReqMajClubActivityFinishDay.CustomerData](#lq-ReqMajClubActivityFinishDay-CustomerData) | repeated |  |
+| income | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityFinishDay-CustomerData"></a>
+
+### ReqMajClubActivityFinishDay.CustomerData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| emo | [uint32](#uint32) |  |  |
+| result | [uint32](#uint32) |  |  |
+| payment_amount | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivitySaveRoomData"></a>
+
+### ReqMajClubActivitySaveRoomData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| character_room_data | [ActivityMajClubCharacterRoomData](#lq-ActivityMajClubCharacterRoomData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityStartDay"></a>
+
+### ReqMajClubActivityStartDay
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| character_room_data | [ActivityMajClubCharacterRoomData](#lq-ActivityMajClubCharacterRoomData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUnlockDesktop"></a>
+
+### ReqMajClubActivityUnlockDesktop
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| room_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUnlockRoom"></a>
+
+### ReqMajClubActivityUnlockRoom
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| room_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUpgradeCharacterPower"></a>
+
+### ReqMajClubActivityUpgradeCharacterPower
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| character_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUpgradeCharacterTag"></a>
+
+### ReqMajClubActivityUpgradeCharacterTag
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| character_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUpgradeRoomFee"></a>
+
+### ReqMajClubActivityUpgradeRoomFee
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| room_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajClubActivityUpgradeWaiting"></a>
+
+### ReqMajClubActivityUpgradeWaiting
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
 <a name="lq-ReqMarathonActivityFinishRace"></a>
 
 ### ReqMarathonActivityFinishRace
@@ -12567,6 +12776,7 @@
 | maintenance_info | [ResFetchServerMaintenanceInfo](#lq-ResFetchServerMaintenanceInfo) |  |  |
 | seer_info | [ResFetchSeerInfo](#lq-ResFetchSeerInfo) |  |  |
 | annual_report_info | [ResFetchAnnualReportInfo](#lq-ResFetchAnnualReportInfo) |  |  |
+| recharge_info | [ResFetchRechargeInfo](#lq-ResFetchRechargeInfo) |  |  |
 
 
 
@@ -12967,6 +13177,24 @@
 | account_id | [uint32](#uint32) |  |  |
 | nickname | [string](#string) |  |  |
 | team_name | [string](#string) |  |  |
+
+
+
+
+
+
+<a name="lq-ResFetchRechargeInfo"></a>
+
+### ResFetchRechargeInfo
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| time_range | [uint32](#uint32) | repeated |  |
+| recharged_list | [uint32](#uint32) | repeated |  |
+| now | [uint32](#uint32) |  |  |
 
 
 
@@ -13946,6 +14174,72 @@
 | ----- | ---- | ----- | ----------- |
 | error | [Error](#lq-Error) |  |  |
 | mails | [Mail](#lq-Mail) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ResMajClubActivityCommon"></a>
+
+### ResMajClubActivityCommon
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajClubChanges](#lq-ActivityMajClubChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajClubActivityFetchData"></a>
+
+### ResMajClubActivityFetchData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| data | [ActivityMajClubData](#lq-ActivityMajClubData) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajClubActivityFinishDay"></a>
+
+### ResMajClubActivityFinishDay
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajClubChanges](#lq-ActivityMajClubChanges) |  |  |
+| result | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajClubActivityStartDay"></a>
+
+### ResMajClubActivityStartDay
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajClubChanges](#lq-ActivityMajClubChanges) |  |  |
+| customers | [ActivityMajClubCustomerData](#lq-ActivityMajClubCustomerData) | repeated |  |
 
 
 
@@ -18217,6 +18511,261 @@
 
 
 
+<a name="lq-ActivityMajClubChanges"></a>
+
+### ActivityMajClubChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| game | [ActivityMajClubGameDataChanges](#lq-ActivityMajClubGameDataChanges) |  |  |
+| upgrade | [ActivityMajClubUpgradeDataChanges](#lq-ActivityMajClubUpgradeDataChanges) |  |  |
+| illustrated_book | [ActivityMajClubIllustratedBookDataChanges](#lq-ActivityMajClubIllustratedBookDataChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubCharacterData"></a>
+
+### ActivityMajClubCharacterData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| tags | [uint32](#uint32) | repeated |  |
+| power | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubCharacterDataArrayDirty"></a>
+
+### ActivityMajClubCharacterDataArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajClubCharacterData](#lq-ActivityMajClubCharacterData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubCharacterRoomData"></a>
+
+### ActivityMajClubCharacterRoomData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| character_id | [uint32](#uint32) |  |  |
+| room_id | [uint32](#uint32) |  |  |
+| desktop_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubCharacterRoomDataArrayDirty"></a>
+
+### ActivityMajClubCharacterRoomDataArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajClubCharacterRoomData](#lq-ActivityMajClubCharacterRoomData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubCustomerData"></a>
+
+### ActivityMajClubCustomerData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| power | [uint32](#uint32) |  |  |
+| patience | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubData"></a>
+
+### ActivityMajClubData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| game | [ActivityMajClubGameData](#lq-ActivityMajClubGameData) |  |  |
+| upgrade | [ActivityMajClubUpgradeData](#lq-ActivityMajClubUpgradeData) |  |  |
+| illustrated_book | [ActivityMajClubIllustratedBookData](#lq-ActivityMajClubIllustratedBookData) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubGameData"></a>
+
+### ActivityMajClubGameData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| level | [uint32](#uint32) |  |  |
+| character_room_data | [ActivityMajClubCharacterRoomData](#lq-ActivityMajClubCharacterRoomData) | repeated |  |
+| customers | [ActivityMajClubCustomerData](#lq-ActivityMajClubCustomerData) | repeated |  |
+| start_time | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubGameDataChanges"></a>
+
+### ActivityMajClubGameDataChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| level | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+| character_room_data | [ActivityMajClubCharacterRoomDataArrayDirty](#lq-ActivityMajClubCharacterRoomDataArrayDirty) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubIllustratedBookData"></a>
+
+### ActivityMajClubIllustratedBookData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| unlocked_customer_level_1 | [uint32](#uint32) | repeated |  |
+| unlocked_customer_level_2 | [uint32](#uint32) | repeated |  |
+| highest_income | [uint32](#uint32) |  |  |
+| total_customer_count | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubIllustratedBookDataChanges"></a>
+
+### ActivityMajClubIllustratedBookDataChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| unlocked_customer_level_1 | [UInt32ArrayDirty](#lq-UInt32ArrayDirty) |  |  |
+| unlocked_customer_level_2 | [UInt32ArrayDirty](#lq-UInt32ArrayDirty) |  |  |
+| highest_income | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+| total_customer_count | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubRoomData"></a>
+
+### ActivityMajClubRoomData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| desktop_count_level | [uint32](#uint32) |  |  |
+| desktop_fee_level | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubRoomDataArrayDirty"></a>
+
+### ActivityMajClubRoomDataArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajClubRoomData](#lq-ActivityMajClubRoomData) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubUpgradeData"></a>
+
+### ActivityMajClubUpgradeData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| rooms | [ActivityMajClubRoomData](#lq-ActivityMajClubRoomData) | repeated |  |
+| characters | [ActivityMajClubCharacterData](#lq-ActivityMajClubCharacterData) | repeated |  |
+| wait_zone_level | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajClubUpgradeDataChanges"></a>
+
+### ActivityMajClubUpgradeDataChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| rooms | [ActivityMajClubRoomDataArrayDirty](#lq-ActivityMajClubRoomDataArrayDirty) |  |  |
+| characters | [ActivityMajClubCharacterDataArrayDirty](#lq-ActivityMajClubCharacterDataArrayDirty) |  |  |
+| wait_zone_level | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+
+
+
+
+
+
 <a name="lq-ActivityMarathonCheckData"></a>
 
 ### ActivityMarathonCheckData
@@ -19170,6 +19719,7 @@
 | screen_height | [uint32](#uint32) |  |  |
 | user_agent | [string](#string) |  |  |
 | screen_type | [uint32](#uint32) |  |  |
+| device_id | [string](#string) |  |  |
 
 
 
@@ -29849,6 +30399,21 @@
 
 
 
+<a name="lq-NotifyActivityChanges"></a>
+
+### NotifyActivityChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| club | [ActivityMajClubChanges](#lq-ActivityMajClubChanges) |  |  |
+
+
+
+
+
+
 <a name="lq-NotifyActivityPeriodTaskUpdate"></a>
 
 ### NotifyActivityPeriodTaskUpdate
@@ -31051,6 +31616,7 @@
 | fetchRankPointLeaderboard | [ReqFetchRankPointLeaderboard](#lq-ReqFetchRankPointLeaderboard) | [ResFetchRankPointLeaderboard](#lq-ResFetchRankPointLeaderboard) |  |
 | fetchReadyPlayerList | [ReqFetchReadyPlayerList](#lq-ReqFetchReadyPlayerList) | [ResFetchReadyPlayerList](#lq-ResFetchReadyPlayerList) |  |
 | fetchRecentFriend | [ReqCommon](#lq-ReqCommon) | [ResFetchrecentFriend](#lq-ResFetchrecentFriend) |  |
+| fetchRechargeInfo | [ReqCommon](#lq-ReqCommon) | [ResFetchRechargeInfo](#lq-ResFetchRechargeInfo) |  |
 | fetchRefundOrder | [ReqCommon](#lq-ReqCommon) | [ResFetchRefundOrder](#lq-ResFetchRefundOrder) |  |
 | fetchReviveCoinInfo | [ReqCommon](#lq-ReqCommon) | [ResReviveCoinInfo](#lq-ResReviveCoinInfo) |  |
 | fetchRollingNotice | [ReqFetchRollingNotice](#lq-ReqFetchRollingNotice) | [ResFetchRollingNotice](#lq-ResFetchRollingNotice) |  |
@@ -31102,6 +31668,16 @@
 | loginBeat | [ReqLoginBeat](#lq-ReqLoginBeat) | [ResCommon](#lq-ResCommon) |  |
 | loginSuccess | [ReqCommon](#lq-ReqCommon) | [ResCommon](#lq-ResCommon) |  |
 | logout | [ReqLogout](#lq-ReqLogout) | [ResLogout](#lq-ResLogout) |  |
+| majClubActivityFetchData | [ReqMajClubActivityFetchData](#lq-ReqMajClubActivityFetchData) | [ResMajClubActivityFetchData](#lq-ResMajClubActivityFetchData) |  |
+| majClubActivityFinishDay | [ReqMajClubActivityFinishDay](#lq-ReqMajClubActivityFinishDay) | [ResMajClubActivityFinishDay](#lq-ResMajClubActivityFinishDay) |  |
+| majClubActivitySaveRoomData | [ReqMajClubActivitySaveRoomData](#lq-ReqMajClubActivitySaveRoomData) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityStartDay | [ReqMajClubActivityStartDay](#lq-ReqMajClubActivityStartDay) | [ResMajClubActivityStartDay](#lq-ResMajClubActivityStartDay) |  |
+| majClubActivityUnlockDesktop | [ReqMajClubActivityUnlockDesktop](#lq-ReqMajClubActivityUnlockDesktop) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityUnlockRoom | [ReqMajClubActivityUnlockRoom](#lq-ReqMajClubActivityUnlockRoom) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityUpgradeCharacterPower | [ReqMajClubActivityUpgradeCharacterPower](#lq-ReqMajClubActivityUpgradeCharacterPower) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityUpgradeCharacterTag | [ReqMajClubActivityUpgradeCharacterTag](#lq-ReqMajClubActivityUpgradeCharacterTag) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityUpgradeRoomFee | [ReqMajClubActivityUpgradeRoomFee](#lq-ReqMajClubActivityUpgradeRoomFee) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majClubActivityUpgradeWaiting | [ReqMajClubActivityUpgradeWaiting](#lq-ReqMajClubActivityUpgradeWaiting) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
 | marathonActivityFinishRace | [ReqMarathonActivityFinishRace](#lq-ReqMarathonActivityFinishRace) | [ResMarathonActivityFinishRace](#lq-ResMarathonActivityFinishRace) |  |
 | marathonActivityStartRace | [ReqMarathonActivityStartRace](#lq-ReqMarathonActivityStartRace) | [ResMarathonActivityStartRace](#lq-ResMarathonActivityStartRace) |  |
 | matchGame | [ReqJoinMatchQueue](#lq-ReqJoinMatchQueue) | [ResCommon](#lq-ResCommon) |  |

@@ -942,6 +942,10 @@
       "request": "ReqCommon",
       "response": "ResFetchrecentFriend"
     },
+    "fetchRechargeInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchRechargeInfo"
+    },
     "fetchRefundOrder": {
       "request": "ReqCommon",
       "response": "ResFetchRefundOrder"
@@ -1145,6 +1149,54 @@
     "logout": {
       "request": "ReqLogout",
       "response": "ResLogout"
+    },
+    "majClubActivityDebug": {
+      "request": "ReqMajClubActivityDebug",
+      "response": "ResCommon"
+    },
+    "majClubActivityFetchData": {
+      "request": "ReqMajClubActivityFetchData",
+      "response": "ResMajClubActivityFetchData"
+    },
+    "majClubActivityFetchDebugData": {
+      "request": "ReqMajClubActivityFetchDebugData",
+      "response": "ResMajClubActivityFetchDebugData"
+    },
+    "majClubActivityFinishDay": {
+      "request": "ReqMajClubActivityFinishDay",
+      "response": "ResMajClubActivityFinishDay"
+    },
+    "majClubActivitySaveRoomData": {
+      "request": "ReqMajClubActivitySaveRoomData",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityStartDay": {
+      "request": "ReqMajClubActivityStartDay",
+      "response": "ResMajClubActivityStartDay"
+    },
+    "majClubActivityUnlockDesktop": {
+      "request": "ReqMajClubActivityUnlockDesktop",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityUnlockRoom": {
+      "request": "ReqMajClubActivityUnlockRoom",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityUpgradeCharacterPower": {
+      "request": "ReqMajClubActivityUpgradeCharacterPower",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityUpgradeCharacterTag": {
+      "request": "ReqMajClubActivityUpgradeCharacterTag",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityUpgradeRoomFee": {
+      "request": "ReqMajClubActivityUpgradeRoomFee",
+      "response": "ResMajClubActivityCommon"
+    },
+    "majClubActivityUpgradeWaiting": {
+      "request": "ReqMajClubActivityUpgradeWaiting",
+      "response": "ResMajClubActivityCommon"
     },
     "marathonActivityFinishRace": {
       "request": "ReqMarathonActivityFinishRace",

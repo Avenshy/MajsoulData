@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["club_level_schedule_id"]=1,["time"]=2,["customer_weight"]=3}local e={26080921,600,nil}local f=function(g,h)return c(g,h,d,e)end;local i={26080918,26080927,26080934,26080940}local j={}return{tb=j,get=f,b2i=i}
