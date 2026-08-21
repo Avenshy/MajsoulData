@@ -39612,11 +39612,11 @@
       "3"
     ],
     "desc": {
-      "chs": "将铜之间的麻将桌数量与桌台费升至最高后，营业结束时招募",
-      "chs_t": "將銅之間的麻將桌數量與檯費升至最高後，營業結束時招募",
-      "jp": "ビーチエリアの雀卓数と入室料を最大までアップグレードし、次回の営業終了後に解放する。",
-      "en": "Max out the mahjong tables and table fees in Bronze Room. (Joins upon closing)",
-      "kr": "동탁의 작탁 수 및 작탁료 최대가 된 후, 게임 1회 진행."
+      "chs": "将铜之间所有的麻将桌解锁后，营业结束时招募",
+      "chs_t": "將銅之間所有的麻將桌解鎖後，營業結束時招募",
+      "jp": "ビーチエリアの雀卓数を最大までアップグレードし、次回の営業終了後に解放する。",
+      "en": "Unlock all mahjong tables in Bronze Room. (Joins upon closing)",
+      "kr": "동탁의 작탁 수가 최대가 된 후, 게임 1회 진행."
     }
   },
   {
