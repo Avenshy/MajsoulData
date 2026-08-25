@@ -7,6 +7,8 @@
   "base": 0,
   "bgtitle": 0,
   "bg_title": 0,
+  "btn_zoomin": 0,
+  "btn_zoomout": 0,
   "checkbox": 0,
   "selectedBg": 0,
   "check": 0,

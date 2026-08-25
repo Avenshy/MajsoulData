@@ -31833,6 +31833,14 @@
             "fileType": 0
         },
         {
+            "filepath": "ui\\activity\\extend\\questionnaire\\main\\pic\\btn_zoomin.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\questionnaire\\main\\pic\\btn_zoomout.png",
+            "fileType": 0
+        },
+        {
             "filepath": "ui\\activity\\extend\\questionnaire\\main\\pic\\check.png",
             "fileType": 0
         },
