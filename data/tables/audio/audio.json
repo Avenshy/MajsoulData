@@ -2730,6 +2730,12 @@
     "type": "effect"
   },
   {
+    "id": 30520015,
+    "path": "deco/effect_hupai/ron_26shuiyi/3d/audio/ron_26shuiyi",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
     "id": 30530001,
     "path": "deco/effect_lizhi/effect_liqi_23wansheng/3d/audio/effect_liqi_23wansheng",
     "time_length": null,
@@ -2810,6 +2816,12 @@
   {
     "id": 30530014,
     "path": "deco/effect_lizhi/effect_liqi_26summer/3d/audio/effect_liqi_26summer",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 30530015,
+    "path": "deco/effect_lizhi/effect_liqi_26shuiyi/3d/audio/effect_liqi_26shuiyi",
     "time_length": null,
     "type": "effect"
   }

@@ -383,5 +383,103 @@
     "count": 50,
     "rare": 4,
     "item": "100002-1000"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10502,
+    "count": 1,
+    "rare": 1,
+    "item": "307495-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10503,
+    "count": 3,
+    "rare": 1,
+    "item": "304009-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10504,
+    "count": 6,
+    "rare": 2,
+    "item": "304008-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10505,
+    "count": 17,
+    "rare": 2,
+    "item": "100002-5000"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10506,
+    "count": 1,
+    "rare": 3,
+    "item": "302005-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10507,
+    "count": 1,
+    "rare": 3,
+    "item": "302006-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10508,
+    "count": 1,
+    "rare": 3,
+    "item": "302007-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10509,
+    "count": 1,
+    "rare": 3,
+    "item": "302008-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10510,
+    "count": 1,
+    "rare": 3,
+    "item": "302009-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10511,
+    "count": 1,
+    "rare": 3,
+    "item": "302010-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10512,
+    "count": 1,
+    "rare": 3,
+    "item": "302011-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10513,
+    "count": 1,
+    "rare": 3,
+    "item": "302012-1"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10514,
+    "count": 25,
+    "rare": 3,
+    "item": "100002-2000"
+  },
+  {
+    "pool_id": 105,
+    "reward_id": 10515,
+    "count": 60,
+    "rare": 4,
+    "item": "100002-1000"
   }
 ]

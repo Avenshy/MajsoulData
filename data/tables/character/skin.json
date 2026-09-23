@@ -63,11 +63,11 @@
     "skinid": 400506,
     "spine_layers": 3,
     "has_effect": 1,
-    "audio_celebrate": "XYW_SE/240228_qh_xiangyuanwu_celebrate",
+    "audio_celebrate": "xyw_se_400506/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
-    "audio_greeting": "XYW_SE/240228_qh_xiangyuanwu_greeting",
-    "audio_click": "XYW_SE/240228_qh_xiangyuanwu_click",
+    "audio_greeting": "xyw_se_400506/greeting",
+    "audio_click": "xyw_se_400506/click",
     "audio_click2": null,
     "celebrate_delay": 1
   },
@@ -80,6 +80,18 @@
     "audio_idle": null,
     "audio_greeting": "XYW_SE_400508/greeting",
     "audio_click": "XYW_SE_400508/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 400509,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "xyw_se_400509/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "xyw_se_400509/greeting",
+    "audio_click": "xyw_se_400509/click",
     "audio_click2": null,
     "celebrate_delay": null
   },
@@ -183,11 +195,11 @@
     "skinid": 401709,
     "spine_layers": 1,
     "has_effect": null,
-    "audio_celebrate": "EZGH_SE_401709/celebrate",
+    "audio_celebrate": "ezgh_SE_401709/celebrate",
     "audio_celebrate_idle": null,
     "audio_idle": null,
-    "audio_greeting": "EZGH_SE_401709/greeting",
-    "audio_click": "EZGH_SE_401709/click",
+    "audio_greeting": "ezgh_SE_401709/greeting",
+    "audio_click": "ezgh_SE_401709/click",
     "audio_click2": null,
     "celebrate_delay": 1
   },
@@ -646,6 +658,18 @@
     "audio_click": "RYCY_SE_406804/click",
     "audio_click2": null,
     "celebrate_delay": 1
+  },
+  {
+    "skinid": 406805,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "rycy_se_406805/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "rycy_se_406805/greeting",
+    "audio_click": "rycy_se_406805/click",
+    "audio_click2": null,
+    "celebrate_delay": null
   },
   {
     "skinid": 407404,

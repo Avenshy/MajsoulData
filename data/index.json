@@ -263,6 +263,10 @@
   },
   {
     "TableName": "activity",
+    "SheetName": "gacha_sp"
+  },
+  {
+    "TableName": "activity",
     "SheetName": "gacha_pool"
   },
   {
@@ -615,6 +619,10 @@
   {
     "TableName": "character",
     "SheetName": "skin"
+  },
+  {
+    "TableName": "character",
+    "SheetName": "chara_emoji"
   },
   {
     "TableName": "chest",

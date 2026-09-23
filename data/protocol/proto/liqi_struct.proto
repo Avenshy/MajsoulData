@@ -340,6 +340,7 @@ message GameUserInput {
   uint32 seat = 1;
   uint32 type = 2;
   uint32 emo = 3;
+  uint32 emo_id = 4;
   .lq.GameSelfOperation operation = 10;
   .lq.GameChiPengGang cpg = 11;
   .lq.GameVoteGameEnd vote = 12;

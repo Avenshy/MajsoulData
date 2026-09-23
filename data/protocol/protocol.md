@@ -339,6 +339,7 @@
     - [ReqLevelLeaderboard](#lq-ReqLevelLeaderboard)
     - [ReqLikeSNS](#lq-ReqLikeSNS)
     - [ReqLogReport](#lq-ReqLogReport)
+    - [ReqLogReport.EmojiStat](#lq-ReqLogReport-EmojiStat)
     - [ReqLogin](#lq-ReqLogin)
     - [ReqLoginBeat](#lq-ReqLoginBeat)
     - [ReqLogout](#lq-ReqLogout)
@@ -7391,8 +7392,36 @@
 
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
-| success | [uint32](#uint32) |  |  |
-| failed | [uint32](#uint32) |  |  |
+| emoji | [ReqLogReport.EmojiStat](#lq-ReqLogReport-EmojiStat) | repeated |  |
+| m | [uint32](#uint32) |  |  |
+| d | [uint32](#uint32) |  |  |
+| e | [uint32](#uint32) |  |  |
+| f | [uint32](#uint32) |  |  |
+| t | [uint32](#uint32) |  |  |
+| g | [uint32](#uint32) |  |  |
+| uuid | [string](#string) |  |  |
+| x | [uint32](#uint32) |  |  |
+| y | [uint32](#uint32) |  |  |
+| z | [uint32](#uint32) |  |  |
+| a | [uint32](#uint32) |  |  |
+| c | [ClientDeviceInfo](#lq-ClientDeviceInfo) |  |  |
+| v | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqLogReport-EmojiStat"></a>
+
+### ReqLogReport.EmojiStat
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| count | [uint32](#uint32) |  |  |
 
 
 
@@ -12869,6 +12898,7 @@
 | season | [ResFetchManagerCustomizedContest.SeasonInfo](#lq-ResFetchManagerCustomizedContest-SeasonInfo) |  |  |
 | match_start_time | [uint32](#uint32) |  |  |
 | match_end_time | [uint32](#uint32) |  |  |
+| version | [uint32](#uint32) |  |  |
 
 
 
@@ -19656,6 +19686,7 @@
 | is_upgraded | [bool](#bool) |  |  |
 | extra_emoji | [uint32](#uint32) | repeated |  |
 | rewarded_level | [uint32](#uint32) | repeated |  |
+| enabled_emoji | [uint32](#uint32) | repeated |  |
 
 
 
@@ -21347,6 +21378,7 @@
 | goods_click_action | [uint32](#uint32) |  |  |
 | goods_click_text | [string](#string) |  |  |
 | enabled_channel | [string](#string) | repeated |  |
+| disabled_platform | [string](#string) | repeated |  |
 
 
 
@@ -21369,6 +21401,7 @@
 | enable_for_frozen_account | [bool](#bool) |  |  |
 | extra_data | [string](#string) |  |  |
 | enabled_channel | [string](#string) | repeated |  |
+| disabled_platform | [string](#string) | repeated |  |
 
 
 
@@ -29360,6 +29393,7 @@
 | seat | [uint32](#uint32) |  |  |
 | type | [uint32](#uint32) |  |  |
 | emo | [uint32](#uint32) |  |  |
+| emo_id | [uint32](#uint32) |  |  |
 | operation | [GameSelfOperation](#lq-GameSelfOperation) |  |  |
 | cpg | [GameChiPengGang](#lq-GameChiPengGang) |  |  |
 | vote | [GameVoteGameEnd](#lq-GameVoteGameEnd) |  |  |

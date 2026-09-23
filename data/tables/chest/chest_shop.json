@@ -8970,6 +8970,96 @@
     }
   },
   {
+    "id": 1527,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000126,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": null,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "墨菲",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1528,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30520015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "立直",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1529,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30530015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "和牌",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1530,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30560012,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1531,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 30580030,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
     "id": 1999,
     "chest_id": 1000,
     "icon": "extendRes/items/wishstone.jpg",
@@ -17952,6 +18042,96 @@
     "sort": 1005,
     "name": {
       "chs": "牌背-雷魔石",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3527,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000126,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": null,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "墨菲",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3528,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30520015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "立直",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3529,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30530015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "和牌",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3530,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30560012,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3531,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 30580030,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260911,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布",
       "chs_t": "",
       "jp": "",
       "en": ""

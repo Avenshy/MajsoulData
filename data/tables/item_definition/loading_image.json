@@ -1006,6 +1006,17 @@
     "args": null
   },
   {
+    "id": 260901,
+    "img_path": "deco/loading_cg/260901/main/260901.jpg",
+    "thumb_path": "deco/loading_cg/260901/thumb/260901_thumb.jpg",
+    "sort": 1095,
+    "unlock_items": [
+      307495,
+      307295
+    ],
+    "args": null
+  },
+  {
     "id": 30740001,
     "img_path": "deco/loading_cg/CG200001/main/CG200001.jpg",
     "thumb_path": "deco/loading_cg/CG200001/thumb/CG200001_thumb.jpg",

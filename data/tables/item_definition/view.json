@@ -3764,6 +3764,17 @@
     "old_lobby_background_mark": null
   },
   {
+    "id": 30520015,
+    "res_name": "ron_26shuiyi",
+    "audio_id": 30520015,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
     "id": 30530001,
     "res_name": "effect_liqi_23wansheng",
     "audio_id": 30530001,
@@ -3951,6 +3962,20 @@
     "old_effect_mark": 0,
     "hand_version": null,
     "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30530015,
+    "res_name": "effect_liqi_26shuiyi",
+    "audio_id": 30530015,
+    "character_id": null,
+    "sargs": [
+      "heng",
+      "1"
+    ],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": 1,
     "old_lobby_background_mark": null
   },
   {
@@ -4699,6 +4724,17 @@
     "old_lobby_background_mark": null
   },
   {
+    "id": 30560012,
+    "res_name": "liqi_26shuiyi",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
     "id": 30570001,
     "res_name": "mjp_23winter",
     "audio_id": null,
@@ -4888,6 +4924,28 @@
   {
     "id": 30570018,
     "res_name": "mjp_26summer",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30570019,
+    "res_name": "mjp_26shuiyi",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30570021,
+    "res_name": "mjp_26gaoxiaosai",
     "audio_id": null,
     "character_id": null,
     "sargs": [],
@@ -5196,6 +5254,28 @@
   {
     "id": 30580029,
     "res_name": "tablecloth_26summer",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30580030,
+    "res_name": "tablecloth_26shuiyi",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30580032,
+    "res_name": "tablecloth_26gaoxiaosai",
     "audio_id": null,
     "character_id": null,
     "sargs": [],

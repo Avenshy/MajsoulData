@@ -1111,8 +1111,26 @@ message ReqLogout {
 }
 
 message ReqLogReport {
-  uint32 success = 1;
-  uint32 failed = 2;
+
+  message EmojiStat {
+    uint32 id = 1;
+    uint32 count = 2;
+  }
+
+  repeated .lq.ReqLogReport.EmojiStat emoji = 3;
+  uint32 m = 4;
+  uint32 d = 5;
+  uint32 e = 6;
+  uint32 f = 7;
+  uint32 t = 8;
+  uint32 g = 9;
+  string uuid = 10;
+  uint32 x = 11;
+  uint32 y = 12;
+  uint32 z = 13;
+  uint32 a = 14;
+  .lq.ClientDeviceInfo c = 15;
+  uint32 v = 16;
 }
 
 message ReqMajClubActivityFetchData {
@@ -3008,6 +3026,7 @@ message ResFetchManagerCustomizedContest {
   .lq.ResFetchManagerCustomizedContest.SeasonInfo season = 13;
   uint32 match_start_time = 14;
   uint32 match_end_time = 15;
+  uint32 version = 16;
 }
 
 message ResFetchManagerCustomizedContestList {

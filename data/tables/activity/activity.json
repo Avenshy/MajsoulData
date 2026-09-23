@@ -6619,5 +6619,107 @@
     "id": 260860,
     "type": "sns_activity",
     "need_popout": null
+  },
+  {
+    "id": 260901,
+    "type": "gacha",
+    "need_popout": 1,
+    "name": {
+      "chs": "奇想贩售机",
+      "chs_t": "奇想販賣機",
+      "jp": "謎ガチャ",
+      "en": "Whimsy Machine",
+      "kr": "기상천외 자판기"
+    }
+  },
+  {
+    "id": 260902,
+    "type": "random_task",
+    "need_popout": null
+  },
+  {
+    "id": 260910,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 260911,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 260912,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 260920,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260921,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260922,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260923,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260924,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260925,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260926,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260930,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260931,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260932,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260933,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260934,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260935,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260936,
+    "type": "chest_replace_up",
+    "need_popout": null
   }
 ]

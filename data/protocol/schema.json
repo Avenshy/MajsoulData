@@ -12494,18 +12494,126 @@
           "full_name": ".lq.ReqLogReport",
           "fields": [
             {
-              "name": "success",
-              "full_name": ".lq.ReqLogReport.success",
-              "number": 1,
+              "name": "emoji",
+              "full_name": ".lq.ReqLogReport.emoji",
+              "number": 3,
+              "label": "repeated",
+              "type": ".lq.ReqLogReport.EmojiStat",
+              "type_code": 11,
+              "raw_type_ref": "REQLOGREPORT_EMOJISTAT"
+            },
+            {
+              "name": "m",
+              "full_name": ".lq.ReqLogReport.m",
+              "number": 4,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
             },
             {
-              "name": "failed",
-              "full_name": ".lq.ReqLogReport.failed",
-              "number": 2,
+              "name": "d",
+              "full_name": ".lq.ReqLogReport.d",
+              "number": 5,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "e",
+              "full_name": ".lq.ReqLogReport.e",
+              "number": 6,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "f",
+              "full_name": ".lq.ReqLogReport.f",
+              "number": 7,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "t",
+              "full_name": ".lq.ReqLogReport.t",
+              "number": 8,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "g",
+              "full_name": ".lq.ReqLogReport.g",
+              "number": 9,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "uuid",
+              "full_name": ".lq.ReqLogReport.uuid",
+              "number": 10,
+              "label": "optional",
+              "type": "string",
+              "type_code": 9,
+              "raw_type_ref": null
+            },
+            {
+              "name": "x",
+              "full_name": ".lq.ReqLogReport.x",
+              "number": 11,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "y",
+              "full_name": ".lq.ReqLogReport.y",
+              "number": 12,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "z",
+              "full_name": ".lq.ReqLogReport.z",
+              "number": 13,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "a",
+              "full_name": ".lq.ReqLogReport.a",
+              "number": 14,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "c",
+              "full_name": ".lq.ReqLogReport.c",
+              "number": 15,
+              "label": "optional",
+              "type": ".lq.ClientDeviceInfo",
+              "type_code": 11,
+              "raw_type_ref": "b.CLIENTDEVICEINFO"
+            },
+            {
+              "name": "v",
+              "full_name": ".lq.ReqLogReport.v",
+              "number": 16,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -12513,7 +12621,34 @@
             }
           ],
           "nested_enums": [],
-          "nested_messages": []
+          "nested_messages": [
+            {
+              "name": "EmojiStat",
+              "full_name": ".lq.ReqLogReport.EmojiStat",
+              "fields": [
+                {
+                  "name": "id",
+                  "full_name": ".lq.ReqLogReport.EmojiStat.id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "count",
+                  "full_name": ".lq.ReqLogReport.EmojiStat.count",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            }
+          ]
         },
         {
           "name": "ReqMajClubActivityFetchData",
@@ -23050,6 +23185,15 @@
               "name": "match_end_time",
               "full_name": ".lq.ResFetchManagerCustomizedContest.match_end_time",
               "number": 15,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "version",
+              "full_name": ".lq.ResFetchManagerCustomizedContest.version",
+              "number": 16,
               "label": "optional",
               "type": "uint32",
               "type_code": 13,
@@ -38068,6 +38212,15 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
+            },
+            {
+              "name": "enabled_emoji",
+              "full_name": ".lq.Character.enabled_emoji",
+              "number": 9,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -43064,6 +43217,15 @@
                   "type": "string",
                   "type_code": 9,
                   "raw_type_ref": null
+                },
+                {
+                  "name": "disabled_platform",
+                  "full_name": ".lq.PaymentSettingV2.PaymentMaintain.disabled_platform",
+                  "number": 6,
+                  "label": "repeated",
+                  "type": "string",
+                  "type_code": 9,
+                  "raw_type_ref": null
                 }
               ],
               "nested_enums": [],
@@ -43140,6 +43302,15 @@
                   "name": "enabled_channel",
                   "full_name": ".lq.PaymentSettingV2.PaymentSettingUnit.enabled_channel",
                   "number": 8,
+                  "label": "repeated",
+                  "type": "string",
+                  "type_code": 9,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "disabled_platform",
+                  "full_name": ".lq.PaymentSettingV2.PaymentSettingUnit.disabled_platform",
+                  "number": 9,
                   "label": "repeated",
                   "type": "string",
                   "type_code": 9,
@@ -71076,6 +71247,15 @@
               "raw_type_ref": null
             },
             {
+              "name": "emo_id",
+              "full_name": ".lq.GameUserInput.emo_id",
+              "number": 4,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
               "name": "operation",
               "full_name": ".lq.GameUserInput.operation",
               "number": 10,
@@ -75886,7 +76066,7 @@
     }
   ],
   "module_count": 11,
-  "message_count": 1617,
+  "message_count": 1618,
   "enum_count": 2,
-  "field_count": 6940
+  "field_count": 6959
 }

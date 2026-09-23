@@ -12818,6 +12818,58 @@
     }
   },
   {
+    "id": 100500,
+    "rare": 1,
+    "locked": null,
+    "group_id": 10,
+    "sort": 175,
+    "segment_id": null,
+    "base_task": 99188,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "与墨菲的邂逅",
+      "chs_t": "與墨菲的邂逅",
+      "jp": "モフィーとの出会い",
+      "en": "An Encounter with Murphy",
+      "kr": "머피와의 만남"
+    },
+    "desc": {
+      "chs": "获得雀士墨菲",
+      "chs_t": "獲得雀士墨菲",
+      "jp": "モフィーを入手する",
+      "en": "Obtain Jyanshi Murphy",
+      "kr": "머피 획득하기."
+    }
+  },
+  {
+    "id": 100501,
+    "rare": 1,
+    "locked": null,
+    "group_id": 10,
+    "sort": 377,
+    "segment_id": null,
+    "base_task": 99189,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "墨菲的契约者",
+      "chs_t": "墨菲的契約者",
+      "jp": "モフィーの契約者",
+      "en": "Bonded with Murphy",
+      "kr": "머피의 계약자"
+    },
+    "desc": {
+      "chs": "与墨菲签订契约",
+      "chs_t": "與墨菲簽訂契約",
+      "jp": "モフィーと契約を結ぶ",
+      "en": "Bond with Murphy",
+      "kr": "머피와(과) 계약 맺기."
+    }
+  },
+  {
     "id": 800011,
     "rare": 1,
     "locked": null,

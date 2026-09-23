@@ -20899,6 +20899,60 @@
     }
   },
   {
+    "id": 307295,
+    "sort": 15095,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260901/thumb/260901_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260901
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-10-09 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "守梦夜明-2026",
+      "chs_t": "守夢夜明-2026",
+      "jp": "夜が明けるまで -2026",
+      "en": "Goodnight Glow (2026)",
+      "kr": "굿나잇 글로우-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "——嘘，把要说的话，都藏进梦境与夜色中吧。",
+      "chs_t": "——噓，把要說的話，都藏進夢境與夜色中吧。",
+      "jp": "しーっ。お話しの続きは、夢の中でしましょう。",
+      "en": "Shh... let the night hold your words.",
+      "kr": "쉿…… 하고 싶은 말은 모두 이 밤에 숨겨두자."
+    },
+    "expire_desc": {
+      "chs": "2026-10-09 05:00:00",
+      "chs_t": "2026-10-09 05:00:00",
+      "jp": "2026/10/09 5:59 まで",
+      "en": "2026-10-08 14:00:00 (UTC-7)",
+      "kr": "2026.10.09 06:00(GMT+9)"
+    }
+  },
+  {
     "id": 307401,
     "sort": 16201,
     "name_chs_t2": null,
@@ -25314,6 +25368,53 @@
       "jp": "いまから戦う準備？ もう遅い！ この夏、みんなのターゲットは……そう、あなた！",
       "en": "Some are still gearing up, while others are already diving in. Ready to make some waves this summer?",
       "kr": "이제 막 승부를 준비하는 사람도 보이지만, 벌써부터 뜨겁게 즐기는 사람도 있네요. 올여름, 당신만의 승부를 펼칠 준비가 되셨나요?"
+    }
+  },
+  {
+    "id": 307495,
+    "sort": 15095,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260901/thumb/260901_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260901
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "守梦夜明-2026",
+      "chs_t": "守夢夜明-2026",
+      "jp": "夜が明けるまで -2026",
+      "en": "Goodnight Glow (2026)",
+      "kr": "굿나잇 글로우-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "——嘘，把要说的话，都藏进梦境与夜色中吧。",
+      "chs_t": "——噓，把要說的話，都藏進夢境與夜色中吧。",
+      "jp": "しーっ。お話しの続きは、夢の中でしましょう。",
+      "en": "Shh... let the night hold your words.",
+      "kr": "쉿…… 하고 싶은 말은 모두 이 밤에 숨겨두자."
     }
   },
   {
@@ -31506,8 +31607,8 @@
     "sort": 20073,
     "name_chs_t2": null,
     "desc_chs_t2": null,
-    "icon": "extendRes/items/activity/unused/2505balei_coin.jpg",
-    "icon_transparent": "extendRes/items/activity/unused/2505balei_coin_0.png",
+    "icon": "ui/activity/extend/26niudan/main/pic_scattered/26niudan.jpg",
+    "icon_transparent": "ui/activity/extend/26niudan/main/pic_scattered/26niudan_0.png",
     "category": 6,
     "type": null,
     "is_unique": 0,
@@ -31543,7 +31644,7 @@
       "chs_t": "透過活動任務獲得。可用於在神秘扭蛋機中獲得獎勵。",
       "jp": "ガチャガチャを回して賞品をたくさん手に入れましょう！",
       "en": "Gacha event item, can be gained from event missions and be used to pull for prizes from the gacha machine.",
-      "kr": "이벤트 임무를 완료하면 획득할 수 있으며, 미스터리 뽑기에서 아이템을 사용하여 보상을 획득할 수 있다."
+      "kr": "이벤트 임무를 완료하면 획득할 수 있으며, 신비한 뽑기통에서 아이템을 사용하여 보상을 획득할 수 있다."
     }
   },
   {
@@ -33877,7 +33978,7 @@
     "can_sell": null,
     "sell_reward_id": null,
     "sell_reward_count": null,
-    "item_expire": "2025-10-24 05:00:00",
+    "item_expire": "2026-10-23 05:00:00",
     "region_limit": null,
     "cross_view": null,
     "database_cache": null,
@@ -33891,16 +33992,16 @@
     "desc_func": {
       "chs": "活动限定表情",
       "chs_t": "活動限定表情",
-      "jp": "期間限定スタンプが使えるようになる。このスタンプは2025年10月24日6:00まで使用可能です。期間後は使用不可になります。",
+      "jp": "期間限定スタンプが使えるようになる。このスタンプは2026年10月23日6:00まで使用可能です。期間後は使用不可になります。",
       "en": "Event-limited emotes.",
       "kr": "기간 한정 스탬프."
     },
     "desc": {
-      "chs": "解锁吃月饼限时表情。该表情将在2025年10月24日5:00过期，过期以后将无法继续使用。“那个人竟然喜欢吃这种月饼喵？”",
-      "chs_t": "解鎖吃月餅限時表情。該表情將在2025年10月24日5:00過期，過期以後將無法繼續使用。「那個人竟然喜歡吃這種月餅喵？」",
+      "chs": "解锁吃月饼限时表情。该表情将在2026年10月23日5:00过期，过期以后将无法继续使用。“那个人竟然喜欢吃这种月饼喵？”",
+      "chs_t": "解鎖吃月餅限時表情。該表情將在2026年10月23日5:00過期，過期以後將無法繼續使用。「那個人竟然喜歡吃這種月餅喵？」",
       "jp": "",
-      "en": "Limited-time Mooncake Emote.It will expire at 10/23 2:00 P.M. (UTC-7)",
-      "kr": "기간 한정 스탬프. 2025년 10월 24일 6:00까지 사용 가능하다."
+      "en": "Limited-time Mooncake Emote.It will expire at 10/22 2:00 P.M. (UTC-7)",
+      "kr": "기간 한정 스탬프. 2026년 10월 23일 6:00까지 사용 가능하다."
     }
   },
   {
@@ -35413,8 +35514,56 @@
       "chs": "激电飞光，驰掠牌河。(当期活动限定，活动结束后将从卡池中下架)",
       "chs_t": "激電飛光，馳掠牌河。(當期活動限定，活動結束後將從卡池中下架)",
       "jp": "天地を揺るがす激しい雷光を放ち、相手の点数を奪い取れ！",
-      "en": "A searing bolt streaks across the table, leaving only victory in its wake.",
+      "en": "A searing bolt streaks across the table, leaving only victory in its wake.(Event limited, will be unobtainable after the end of event)",
       "kr": "벼락같은 기세가 작탁을 뒤흔들고, 그 자리엔 승리만이 남아있다."
+    }
+  },
+  {
+    "id": 30520015,
+    "sort": 3042,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_hupai/ron_26shuiyi/pic/ron_26shuiyi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 1,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "和牌-灵感大暴走",
+      "chs_t": "和牌-靈感大暴走",
+      "jp": "和了演出：カラーの大爆発",
+      "en": "Winning - Art Attack",
+      "kr": "화료 연출: 영감 대폭주"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、和了時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "这就是艺术！(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "這就是藝術！(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "これこそ芸術！",
+      "en": "Putting their defenses up won't save them from this masterpiece.(Event limited, will be unobtainable after the end of event)",
+      "kr": "이게 예술이다!"
     }
   },
   {
@@ -36079,8 +36228,56 @@
       "chs": "我的立直，迅捷如电！(当期活动限定，活动结束后将从卡池中下架)",
       "chs_t": "我的立直，迅捷如電！(當期活動限定，活動結束後將從卡池中下架)",
       "jp": "電光石火の立直で決めろ！",
-      "en": "My Riichi strikes like a thunderbolt!",
+      "en": "My Riichi strikes like a thunderbolt!(Event limited, will be unobtainable after the end of event)",
       "kr": "나의 리치, 번개처럼 빠르다!"
+    }
+  },
+  {
+    "id": 30530015,
+    "sort": 4042,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/effect_lizhi/effect_liqi_26shuiyi/pic/effect_liqi_26shuiyi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 2,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "立直-给点颜色",
+      "chs_t": "立直-給點顏色",
+      "jp": "立直演出：カラーの一撃",
+      "en": "Riichi - Tile-Dye",
+      "kr": "리치 연출: 컬러컬러"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、立直時の演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "绚烂美丽的色彩，有时也可以化作进攻的手段！(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "絢爛美麗的色彩，有時也可以化作進攻的手段！(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "綺麗な色は、攻撃の手段にもなるぞ！",
+      "en": "A little color is all it takes to make this hand pop.(Event limited, will be unobtainable after the end of event)",
+      "kr": "찬란하고 아름다운 색은 때때로 공격 수단이 될 수 있다!"
     }
   },
   {
@@ -41752,7 +41949,7 @@
     "database_cache": null,
     "name": {
       "chs": "学生雀魂杯　南場",
-      "chs_t": "学生雀魂杯　南場",
+      "chs_t": "学生雀魂杯　東場",
       "jp": "学生雀魂杯　南場",
       "en": "学生雀魂杯　南場",
       "kr": "学生雀魂杯　南場"
@@ -41770,6 +41967,51 @@
       "jp": "2027年8月31日まで",
       "en": "2027年8月31日まで",
       "kr": "2027年8月31日まで"
+    }
+  },
+  {
+    "id": 30557073,
+    "sort": 6095,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/26gaoxiaosai/pic/26gaoxiaosai_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-11-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "2026雀魂高校赛冠军",
+      "chs_t": "2026雀魂高校賽冠軍",
+      "jp": "2026雀魂高校賽冠軍",
+      "en": "2026雀魂高校賽冠軍",
+      "kr": "2026雀魂高校賽冠軍"
+    },
+    "desc_func": {
+      "chs": "赠予2026雀魂高校赛冠军",
+      "chs_t": "贈予2026雀魂高校賽冠軍",
+      "jp": "贈予2026雀魂高校賽冠軍",
+      "en": "贈予2026雀魂高校賽冠軍",
+      "kr": "贈予2026雀魂高校賽冠軍"
+    },
+    "expire_desc": {
+      "chs": "2027-11-01 05:00:00",
+      "chs_t": "2027-11-01 05:00:00",
+      "jp": "2027-11-01 05:00:00",
+      "en": "2027-11-01 05:00:00",
+      "kr": "2027-11-01 05:00:00"
     }
   },
   {
@@ -42290,8 +42532,56 @@
       "chs": "据说冠军都会收到奖杯，那提前准备一个，好像也没什么问题？(当期活动限定，活动结束后将从卡池中下架)",
       "chs_t": "據說冠軍都會收到獎盃，那提前準備一個，好像也沒什麼問題？(當期活動限定，活動結束後將從卡池中下架)",
       "jp": "優勝者にはトロフィーを、一位には段位PTを！",
-      "en": "Every champion needs a trophy. No harm in getting one early, right?",
+      "en": "Every champion needs a trophy. No harm in getting one early, right?(Event limited, will be unobtainable after the end of event)",
       "kr": "승자에겐 트로피가 있어야 하는 법이지. 미리 하나 준비해 놓는다고 나쁠 건 없잖아?"
+    }
+  },
+  {
+    "id": 30560012,
+    "sort": 7039,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/lizhibang/liqi_26shuiyi/pic/liqi_26shuiyi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": null,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "立直棒-墨彩喷喷",
+      "chs_t": "立直棒-墨彩噴噴",
+      "jp": "カラフルスプレーの立直棒",
+      "en": "Riichi Bet - Paint Splatter",
+      "kr": "페인트 칙칙 리치봉"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、立直棒を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 리치봉을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "准备为这场对局染上属于你的颜色！(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "準備為這場對局染上屬於你的顏色！(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "この対局を、自分の色に染めてやる！",
+      "en": "Your color, your rules. Let's make a beautiful mess!(Event limited, will be unobtainable after the end of event)",
+      "kr": "당신의 색으로, 당신만의 방식으로, 멋지게 어질러 봅시다!"
     }
   },
   {
@@ -43130,8 +43420,98 @@
       "chs": "警告：内含的魔力可能导致误触的猫科动物炸毛。(当期活动限定，活动结束后将从卡池中下架)",
       "chs_t": "警告：內含的魔力可能導致誤觸的貓科動物炸毛。(當期活動限定，活動結束後將從卡池中下架)",
       "jp": "ネコ科の動物はこの牌に触れると、内包された魔力の影響で毛が逆立つ恐れがあるため、使用時は留意されたし。",
-      "en": "Warning: May make a curious cat's fur stand on end.",
+      "en": "Warning: May make a curious cat's fur stand on end.(Event limited, will be unobtainable after the end of event)",
       "kr": "경고: 실수로 건드리면 고양이가 깜짝 놀라 털을 곤두세울 수 있습니다."
+    }
+  },
+  {
+    "id": 30570019,
+    "sort": 8044,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/mjpai/mjp_26shuiyi/pic/mjp_26shuiyi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 7,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "牌背-喵体力学",
+      "chs_t": "牌背-喵體力學",
+      "jp": "ニャン体力学の麻雀牌",
+      "en": "Tile Back - Fluid Meowchanics",
+      "kr": "마작패: 냥체역학"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、麻雀牌を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 마작패를 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "众所周知，MAKA是流体动物。",
+      "chs_t": "眾所周知，MAKA是流體動物。",
+      "jp": "よく知られている通り、MAKAは流体生物である。",
+      "en": "Daily reminder that MAKA is literally liquid.",
+      "kr": "모두에게 알립니다, MAKA는 유체동물입니다."
+    }
+  },
+  {
+    "id": 30570021,
+    "sort": 8046,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/mjpai/mjp_26gaoxiaosai/pic/mjp_26gaoxiaosai.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 7,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "牌背-高校赛",
+      "chs_t": "牌背-高校赛",
+      "jp": "牌背-高校赛",
+      "en": "牌背-高校赛",
+      "kr": "牌背-高校赛"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、麻雀牌を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 마작패를 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "牌背-高校赛",
+      "chs_t": "牌背-高校赛",
+      "jp": "牌背-高校赛",
+      "en": "牌背-高校赛",
+      "kr": "牌背-高校赛"
     }
   },
   {
@@ -44388,7 +44768,7 @@
   },
   {
     "id": 30580029,
-    "sort": 10047,
+    "sort": 10048,
     "name_chs_t2": null,
     "desc_chs_t2": null,
     "icon": "deco/tablecloth/tablecloth_26summer/pic/tablecloth_26summer.jpg",
@@ -44422,7 +44802,7 @@
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
-      "jp": "装飾で設定することで、雀卓を変更できる。",
+      "jp": "装飾で設定することで、雀卓を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
       "kr": "장식품 화면에서 작탁을 변경할 수 있다."
     },
@@ -44430,8 +44810,101 @@
       "chs": "你可曾听说过一道从天而降的法术？(当期活动限定，活动结束后将从卡池中下架)",
       "chs_t": "你可曾聽說過一道從天而降的法術？(當期活動限定，活動結束後將從卡池中下架)",
       "jp": "天から降り注ぐ雷光で、魔力を一気にチャージ！",
-      "en": "Ever heard of a spell that strikes from the heavens?",
+      "en": "Ever heard of a spell that strikes from the heavens?(Event limited, will be unobtainable after the end of event)",
       "kr": "하늘에서 떨어진 마법을 들어본 적 있나요?"
+    }
+  },
+  {
+    "id": 30580030,
+    "sort": 10049,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/tablecloth/tablecloth_26shuiyi/pic/tablecloth_26shuiyi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 6,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      302003,
+      5
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "桌布-混一色！",
+      "chs_t": "桌布-混一色！",
+      "jp": "カラフル！の雀卓",
+      "en": "Tablecloth - A Flush of Color",
+      "kr": "작탁: 혼일색!"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、雀卓を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 작탁을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "目标是：为华丽的对局增光添彩！(当期活动限定，活动结束后将从卡池中下架)",
+      "chs_t": "目標是：為華麗的對局增光添彩！(當期活動限定，活動結束後將從卡池中下架)",
+      "jp": "目標：華麗な対局にさらなる彩りを与えること！",
+      "en": "My goal? To bring even more color and flair to every match!(Event limited, will be unobtainable after the end of event)",
+      "kr": "목표는 화려한 대국을 한층 더 빛나게 하는 것!"
+    }
+  },
+  {
+    "id": 30580032,
+    "sort": 10051,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/tablecloth/tablecloth_26gaoxiaosai/pic/tablecloth_26gaoxiaosai.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 6,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "桌布-官方赛事高校赛",
+      "chs_t": "桌布-官方赛事高校赛",
+      "jp": "桌布-官方赛事高校赛",
+      "en": "桌布-官方赛事高校赛",
+      "kr": "桌布-官方赛事高校赛"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、雀卓を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 작탁을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "官方赛事-高校赛",
+      "chs_t": "官方赛事-高校赛",
+      "jp": "官方赛事-高校赛",
+      "en": "官方赛事-高校赛",
+      "kr": "官方赛事-高校赛"
     }
   },
   {

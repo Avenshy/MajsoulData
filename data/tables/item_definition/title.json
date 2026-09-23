@@ -3884,5 +3884,30 @@
       "en": "「学生雀魂杯」優勝記念称号",
       "kr": "「学生雀魂杯」優勝記念称号"
     }
+  },
+  {
+    "id": 600170,
+    "icon": "deco/title/26gaoxiaosai/pic/26gaoxiaosai.png",
+    "icon_item": "deco/title/26gaoxiaosai/pic/26gaoxiaosai_item.jpg",
+    "priority": 40112,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557073
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "2026雀魂高校赛冠军",
+      "chs_t": "2026雀魂高校賽冠軍",
+      "jp": "2026雀魂高校賽冠軍",
+      "en": "2026雀魂高校賽冠軍",
+      "kr": "2026雀魂高校賽冠軍"
+    },
+    "desc": {
+      "chs": "赠予2026雀魂高校赛冠军",
+      "chs_t": "贈予2026雀魂高校賽冠軍",
+      "jp": "贈予2026雀魂高校賽冠軍",
+      "en": "贈予2026雀魂高校賽冠軍",
+      "kr": "贈予2026雀魂高校賽冠軍"
+    }
   }
 ]

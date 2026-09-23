@@ -1,0 +1,32 @@
+[
+  {
+    "activity_id": 230301,
+    "sp_trigger_times": 30,
+    "sp_rewards": "306006-1"
+  },
+  {
+    "activity_id": 231001,
+    "sp_trigger_times": 30,
+    "sp_rewards": "30580001-1"
+  },
+  {
+    "activity_id": 240901,
+    "sp_trigger_times": 30,
+    "sp_rewards": "307460-1"
+  },
+  {
+    "activity_id": 250501,
+    "sp_trigger_times": 30,
+    "sp_rewards": "307472-1"
+  },
+  {
+    "activity_id": 260901,
+    "sp_trigger_times": 30,
+    "sp_rewards": "309201-1"
+  },
+  {
+    "activity_id": 260901,
+    "sp_trigger_times": 60,
+    "sp_rewards": "30570019-1"
+  }
+]

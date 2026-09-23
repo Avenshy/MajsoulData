@@ -11814,5 +11814,103 @@
     "type": 20,
     "path": "audio/sound/shinai/spot/shinai06",
     "type_desc": "语气2"
+  },
+  {
+    "id": 12601,
+    "character": 20000126,
+    "type": 1,
+    "path": "audio/sound/mofei/spot/jtm_mof_230",
+    "type_desc": "表示惊讶"
+  },
+  {
+    "id": 12602,
+    "character": 20000126,
+    "type": 2,
+    "path": "audio/sound/mofei/spot/jtm_mof_231",
+    "type_desc": "表示肯定"
+  },
+  {
+    "id": 12603,
+    "character": 20000126,
+    "type": 3,
+    "path": "audio/sound/mofei/spot/jtm_mof_232",
+    "type_desc": "表示否定"
+  },
+  {
+    "id": 12604,
+    "character": 20000126,
+    "type": 4,
+    "path": "audio/sound/mofei/spot/jtm_mof_233",
+    "type_desc": "早上打招呼"
+  },
+  {
+    "id": 12605,
+    "character": 20000126,
+    "type": 5,
+    "path": "audio/sound/mofei/spot/jtm_mof_234",
+    "type_desc": "中午打招呼"
+  },
+  {
+    "id": 12606,
+    "character": 20000126,
+    "type": 6,
+    "path": "audio/sound/mofei/spot/jtm_mof_235",
+    "type_desc": "晚上打招呼"
+  },
+  {
+    "id": 12607,
+    "character": 20000126,
+    "type": 7,
+    "path": "audio/sound/mofei/spot/jtm_mof_236",
+    "type_desc": "告别"
+  },
+  {
+    "id": 12608,
+    "character": 20000126,
+    "type": 8,
+    "path": "audio/sound/mofei/spot/jtm_mof_237",
+    "type_desc": "承接"
+  },
+  {
+    "id": 12609,
+    "character": 20000126,
+    "type": 9,
+    "path": "audio/sound/mofei/spot/jtm_mof_238",
+    "type_desc": "叹气"
+  },
+  {
+    "id": 12610,
+    "character": 20000126,
+    "type": 10,
+    "path": "audio/sound/mofei/spot/jtm_mof_239",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 12611,
+    "character": 20000126,
+    "type": 11,
+    "path": "audio/sound/mofei/spot/jtm_mof_240",
+    "type_desc": "生气"
+  },
+  {
+    "id": 12612,
+    "character": 20000126,
+    "type": 12,
+    "path": "audio/sound/mofei/spot/jtm_mof_241",
+    "type_desc": "递进"
+  },
+  {
+    "id": 12613,
+    "character": 20000126,
+    "type": 13,
+    "path": "audio/sound/mofei/spot/jtm_mof_242",
+    "type_desc": "转折"
+  },
+  {
+    "id": 12614,
+    "character": 20000126,
+    "type": 14,
+    "path": "audio/sound/mofei/spot/jtm_mof_243",
+    "type_desc": "疑惑"
   }
 ]

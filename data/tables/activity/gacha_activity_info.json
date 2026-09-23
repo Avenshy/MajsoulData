@@ -3,32 +3,40 @@
     "activity_id": 230301,
     "gacha_pool": 101,
     "gacha_control": 101,
-    "sp_trigger_times": 30,
-    "sp_rewards": "306006-1",
+    "sp_trigger_times": null,
+    "sp_rewards": null,
     "consume": "309072-1"
   },
   {
     "activity_id": 231001,
     "gacha_pool": 102,
     "gacha_control": 102,
-    "sp_trigger_times": 30,
-    "sp_rewards": "30580001-1",
+    "sp_trigger_times": null,
+    "sp_rewards": null,
     "consume": "309072-1"
   },
   {
     "activity_id": 240901,
     "gacha_pool": 103,
     "gacha_control": 103,
-    "sp_trigger_times": 30,
-    "sp_rewards": "307460-1",
+    "sp_trigger_times": null,
+    "sp_rewards": null,
     "consume": "30900077-1"
   },
   {
     "activity_id": 250501,
     "gacha_pool": 104,
     "gacha_control": 104,
-    "sp_trigger_times": 30,
-    "sp_rewards": "307472-1",
+    "sp_trigger_times": null,
+    "sp_rewards": null,
+    "consume": "309072-1"
+  },
+  {
+    "activity_id": 260901,
+    "gacha_pool": 105,
+    "gacha_control": 105,
+    "sp_trigger_times": null,
+    "sp_rewards": null,
     "consume": "309072-1"
   }
 ]

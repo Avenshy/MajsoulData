@@ -10269,5 +10269,93 @@
       "en": "An ace sniper who is never without her trusty \"Hecate II.\" No matter the situation, she delivers the one decisive shot that secures victory. Her unapproachable demeanor seems to be a front for something...",
       "kr": "뛰어난 실력의 저격수. 애총 '헤카테Ⅱ'를 항상 지니고 다니며, 어떤 상황에서도 승리를 결정짓는 한 발을 날린다. 사람을 가까이하지 않는 분위기 이면에는 무언가 숨겨져 있는 것 같다."
     }
+  },
+  {
+    "id": 20000126,
+    "sort": 124,
+    "launch_time": "2026-09-23 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012601,
+    "full_fetter_skin": 40012602,
+    "hand": 309997,
+    "favorite": 7,
+    "star_5_material": "302009-10,302006-10,303173|303073-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000126",
+    "sound": 126,
+    "sound_volume": 1,
+    "sound_folder": "mofei",
+    "sex": 1,
+    "collaboration": null,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": null,
+    "treasure_sp": null,
+    "name": {
+      "chs": "墨菲",
+      "chs_t": "墨菲",
+      "jp": "モフィー",
+      "en": "Murphy",
+      "kr": "머피"
+    },
+    "desc_stature": {
+      "chs": "159厘米",
+      "chs_t": "159公分",
+      "jp": "159cm",
+      "en": "159cm",
+      "kr": "159cm"
+    },
+    "desc_birth": {
+      "chs": "3月30日",
+      "chs_t": "3月30日",
+      "jp": "3月30日",
+      "en": "30th March",
+      "kr": "3월 30일"
+    },
+    "desc_age": {
+      "chs": "27",
+      "chs_t": "27",
+      "jp": "27",
+      "en": "27",
+      "kr": "27"
+    },
+    "desc_bloodtype": {
+      "chs": "O",
+      "chs_t": "O",
+      "jp": "O",
+      "en": "O",
+      "kr": "O"
+    },
+    "desc_cv": {
+      "chs": "大西沙织",
+      "chs_t": "大西沙織",
+      "jp": "大西 沙織",
+      "en": "Saori Onishi",
+      "kr": "오오니시 사오리"
+    },
+    "desc_hobby": {
+      "chs": "宅文化",
+      "chs_t": "宅文化",
+      "jp": "オタク文化",
+      "en": "Otaku culture",
+      "kr": "오타쿠 문화"
+    },
+    "desc": {
+      "chs": "被截稿日围追堵截的知名少女漫画家，平时总是一副睡眼惺忪、提不起劲的模样，但她开始创作时，名为灵感的不可名状之神便会在她耳边进行永恒的低语，直到理智与交稿线的尽头。",
+      "chs_t": "被截稿日追著跑的知名少女漫畫家，平時總是一副睡眼惺忪、提不起勁的模樣，但當她開始創作時，名為靈感的不可名狀之神便會在她耳邊進行永恆的低語，直到理智與截稿線的盡頭。",
+      "jp": "常に締切に追われている、人気少女漫画家。\n普段はぐうたらしてるが、一度ペンを持つと、「インスピレーション」という名の名状しがたき神の囁きのために没頭しすぎてしまうらしい。",
+      "en": "A big-name shojo manga artist who always seems to be up against a deadline. She is usually low-energy and a little checked out, but the moment she puts pen to paper, Inspiration starts whispering – and doesn't stop until she's out of pages, time, or sanity.",
+      "kr": "항상 마감의 압박에 시달리는 유명한 순정만화가. 평소에는 늘 멍하니 빈둥거리는 듯한 모습이지만, 펜을 들기만 하면 '영감'이라는 형언할 수 없는 신의 속삭임에 이끌려 지나치게 몰두해 버리는 듯하다."
+    }
   }
 ]

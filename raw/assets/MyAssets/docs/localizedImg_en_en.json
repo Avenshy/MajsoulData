@@ -137,6 +137,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\effect_hupai\\ron_26shuiyi\\pic\\ron_26shuiyi.jpg",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\effect_hupai\\ron_26summer\\pic\\ron_26summer.jpg",
             "fileType": 0
         },
@@ -389,6 +393,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\effect_lizhi\\effect_liqi_26shuiyi\\pic\\effect_liqi_26shuiyi.jpg",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\effect_lizhi\\effect_liqi_26summer\\pic\\effect_liqi_26summer.jpg",
             "fileType": 0
         },
@@ -525,46 +533,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\activity\\1.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\10.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\2.png",
-            "fileType": 1
-        },
-        {
-            "filepath": "deco\\emo\\activity\\3.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\4.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\5.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\6.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\7.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\8.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\activity\\9.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200001\\0.png",
             "fileType": 0
         },
@@ -577,35 +545,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200001\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200001\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200001\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200001\\1008.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200001\\1022.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200001\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200001\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\13.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\18.png",
             "fileType": 0
         },
         {
@@ -615,6 +579,10 @@
         {
             "filepath": "deco\\emo\\e200001\\3.png",
             "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200001\\3001.png",
+            "fileType": 1
         },
         {
             "filepath": "deco\\emo\\e200001\\4.png",
@@ -638,30 +606,6 @@
         },
         {
             "filepath": "deco\\emo\\e200001\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\937.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\966.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\983.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\984.png",
-            "fileType": 1
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\996.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200001\\997.png",
             "fileType": 0
         },
         {
@@ -901,15 +845,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000106\\1020.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000106\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e20000106\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000106\\14.png",
             "fileType": 0
         },
         {
@@ -945,10 +889,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000106\\927.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000107\\0.png",
             "fileType": 0
         },
@@ -961,15 +901,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000107\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000107\\1016.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000107\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e20000107\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000107\\14.png",
             "fileType": 0
         },
         {
@@ -1005,14 +949,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000107\\924.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000107\\935.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000108\\0.png",
             "fileType": 0
         },
@@ -1033,11 +969,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000108\\14.png",
+            "filepath": "deco\\emo\\e20000108\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000108\\2.png",
+            "filepath": "deco\\emo\\e20000108\\2001.png",
             "fileType": 0
         },
         {
@@ -1065,10 +1001,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000108\\940.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000109\\0.png",
             "fileType": 0
         },
@@ -1089,11 +1021,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000109\\14.png",
+            "filepath": "deco\\emo\\e20000109\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000109\\2.png",
+            "filepath": "deco\\emo\\e20000109\\2001.png",
             "fileType": 0
         },
         {
@@ -1121,10 +1053,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000109\\940.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000110\\0.png",
             "fileType": 0
         },
@@ -1145,11 +1073,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000110\\14.png",
+            "filepath": "deco\\emo\\e20000110\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000110\\2.png",
+            "filepath": "deco\\emo\\e20000110\\2001.png",
             "fileType": 0
         },
         {
@@ -1177,10 +1105,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000110\\940.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000111\\0.png",
             "fileType": 0
         },
@@ -1201,11 +1125,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000111\\14.png",
+            "filepath": "deco\\emo\\e20000111\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000111\\2.png",
+            "filepath": "deco\\emo\\e20000111\\2001.png",
             "fileType": 0
         },
         {
@@ -1233,10 +1157,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000111\\940.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000112\\0.png",
             "fileType": 0
         },
@@ -1257,11 +1177,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000112\\14.png",
+            "filepath": "deco\\emo\\e20000112\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000112\\2.png",
+            "filepath": "deco\\emo\\e20000112\\2001.png",
             "fileType": 0
         },
         {
@@ -1293,10 +1213,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000112\\936.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000113\\0.png",
             "fileType": 0
         },
@@ -1317,11 +1233,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000113\\14.png",
+            "filepath": "deco\\emo\\e20000113\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000113\\2.png",
+            "filepath": "deco\\emo\\e20000113\\2001.png",
             "fileType": 0
         },
         {
@@ -1349,10 +1265,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000113\\934.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000114\\0.png",
             "fileType": 0
         },
@@ -1373,11 +1285,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000114\\14.png",
+            "filepath": "deco\\emo\\e20000114\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000114\\2.png",
+            "filepath": "deco\\emo\\e20000114\\2001.png",
             "fileType": 0
         },
         {
@@ -1405,10 +1317,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000114\\934.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000115\\0.png",
             "fileType": 0
         },
@@ -1429,12 +1337,12 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000115\\14.png",
+            "filepath": "deco\\emo\\e20000115\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000115\\2.png",
-            "fileType": 0
+            "filepath": "deco\\emo\\e20000115\\2001.png",
+            "fileType": 1
         },
         {
             "filepath": "deco\\emo\\e20000115\\3.png",
@@ -1461,10 +1369,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000115\\934.png",
-            "fileType": 1
-        },
-        {
             "filepath": "deco\\emo\\e20000116\\0.png",
             "fileType": 0
         },
@@ -1485,11 +1389,11 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000116\\14.png",
+            "filepath": "deco\\emo\\e20000116\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000116\\2.png",
+            "filepath": "deco\\emo\\e20000116\\2001.png",
             "fileType": 0
         },
         {
@@ -1517,10 +1421,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000116\\934.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e20000117\\0.png",
             "fileType": 0
         },
@@ -1530,6 +1430,10 @@
         },
         {
             "filepath": "deco\\emo\\e20000117\\10.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000117\\1013.png",
             "fileType": 0
         },
         {
@@ -1570,10 +1474,6 @@
         },
         {
             "filepath": "deco\\emo\\e20000117\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000117\\925.png",
             "fileType": 0
         },
         {
@@ -1757,6 +1657,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000121\\2001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000121\\3.png",
             "fileType": 0
         },
@@ -1778,10 +1682,6 @@
         },
         {
             "filepath": "deco\\emo\\e20000121\\8.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000121\\924.png",
             "fileType": 0
         },
         {
@@ -1809,6 +1709,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000122\\2001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000122\\3.png",
             "fileType": 0
         },
@@ -1830,10 +1734,6 @@
         },
         {
             "filepath": "deco\\emo\\e20000122\\8.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000122\\928.png",
             "fileType": 0
         },
         {
@@ -1861,6 +1761,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000123\\2001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000123\\3.png",
             "fileType": 0
         },
@@ -1882,10 +1786,6 @@
         },
         {
             "filepath": "deco\\emo\\e20000123\\8.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000123\\928.png",
             "fileType": 0
         },
         {
@@ -1913,6 +1813,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000124\\2001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000124\\3.png",
             "fileType": 0
         },
@@ -1934,10 +1838,6 @@
         },
         {
             "filepath": "deco\\emo\\e20000124\\8.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e20000124\\928.png",
             "fileType": 0
         },
         {
@@ -1965,6 +1865,10 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e20000125\\2001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e20000125\\3.png",
             "fileType": 0
         },
@@ -1989,7 +1893,51 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e20000125\\928.png",
+            "filepath": "deco\\emo\\e20000126\\0.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\1.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\10.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\11.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\12.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\2.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\3.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\4.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\5.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\6.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\7.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e20000126\\8.png",
             "fileType": 0
         },
         {
@@ -2097,35 +2045,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200003\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200003\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200003\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200003\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200003\\1020.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200003\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200003\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\13.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\18.png",
             "fileType": 0
         },
         {
@@ -2159,26 +2103,6 @@
         {
             "filepath": "deco\\emo\\e200003\\888.png",
             "fileType": 1
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\927.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\943.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\959.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\979.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200003\\999.png",
-            "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200004\\0.png",
@@ -2289,6 +2213,30 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200005\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200005\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200005\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200005\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200005\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200005\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200005\\11.png",
             "fileType": 0
         },
@@ -2297,27 +2245,7 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200005\\13.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\18.png",
+            "filepath": "deco\\emo\\e200005\\1801.png",
             "fileType": 0
         },
         {
@@ -2350,30 +2278,6 @@
         },
         {
             "filepath": "deco\\emo\\e200005\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\947.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\952.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\968.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\989.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200005\\997.png",
             "fileType": 0
         },
         {
@@ -2481,6 +2385,30 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200007\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200007\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200007\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200007\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200007\\1012.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200007\\1016.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200007\\11.png",
             "fileType": 0
         },
@@ -2489,27 +2417,7 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200007\\13.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\18.png",
+            "filepath": "deco\\emo\\e200007\\1801.png",
             "fileType": 0
         },
         {
@@ -2545,34 +2453,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200007\\935.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\947.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\961.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\970.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\976.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\993.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200007\\999.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200008\\0.png",
             "fileType": 0
         },
@@ -2585,35 +2465,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200008\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200008\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200008\\1008.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200008\\1012.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200008\\1015.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200008\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200008\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\13.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\18.png",
             "fileType": 0
         },
         {
@@ -2649,26 +2525,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200008\\937.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\950.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\972.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\991.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200008\\997.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200009\\0.png",
             "fileType": 0
         },
@@ -2681,6 +2537,26 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200009\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200009\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200009\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200009\\1005.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "deco\\emo\\e200009\\1008.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200009\\11.png",
             "fileType": 0
         },
@@ -2689,23 +2565,7 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200009\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\18.png",
+            "filepath": "deco\\emo\\e200009\\1801.png",
             "fileType": 0
         },
         {
@@ -2739,30 +2599,6 @@
         {
             "filepath": "deco\\emo\\e200009\\888.png",
             "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\929.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\937.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\947.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\966.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\994.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200009\\998.png",
-            "fileType": 1
         },
         {
             "filepath": "deco\\emo\\e200010\\0.png",
@@ -2863,26 +2699,6 @@
         {
             "filepath": "deco\\emo\\e200011\\12.png",
             "fileType": 1
-        },
-        {
-            "filepath": "deco\\emo\\e200011\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200011\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200011\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200011\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200011\\18.png",
-            "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200011\\2.png",
@@ -3369,31 +3185,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200017\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200017\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200017\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200017\\1009.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200017\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200017\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200017\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\18.png",
             "fileType": 0
         },
         {
@@ -3429,22 +3245,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200017\\944.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\962.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\982.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200017\\995.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200018\\0.png",
             "fileType": 0
         },
@@ -3457,31 +3257,27 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200018\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200018\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200018\\1009.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200018\\1020.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200018\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200018\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\18.png",
             "fileType": 0
         },
         {
@@ -3517,22 +3313,6 @@
             "fileType": 1
         },
         {
-            "filepath": "deco\\emo\\e200018\\927.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\944.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\962.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200018\\994.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200019\\0.png",
             "fileType": 1
         },
@@ -3545,31 +3325,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200019\\1009.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200019\\1010.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200019\\1011.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200019\\1012.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200019\\1017.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200019\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200019\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\14.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\15.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\16.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\17.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\18.png",
             "fileType": 0
         },
         {
@@ -3602,26 +3382,6 @@
         },
         {
             "filepath": "deco\\emo\\e200019\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\938.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\949.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\972.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\981.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200019\\986.png",
             "fileType": 0
         },
         {
@@ -3709,15 +3469,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200021\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200021\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200021\\1010.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200021\\1011.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200021\\1018.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200021\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200021\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\14.png",
             "fileType": 0
         },
         {
@@ -3750,26 +3526,6 @@
         },
         {
             "filepath": "deco\\emo\\e200021\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\924.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\939.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\954.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\981.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200021\\985.png",
             "fileType": 0
         },
         {
@@ -3985,15 +3741,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200025\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200025\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200025\\1007.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200025\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200025\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200025\\14.png",
             "fileType": 0
         },
         {
@@ -4029,18 +3793,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200025\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200025\\957.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200025\\982.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200026\\0.png",
             "fileType": 0
         },
@@ -4053,15 +3805,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200026\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200026\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200026\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200026\\1009.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200026\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200026\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200026\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200026\\14.png",
             "fileType": 0
         },
         {
@@ -4094,22 +3862,6 @@
         },
         {
             "filepath": "deco\\emo\\e200026\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200026\\936.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200026\\944.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200026\\973.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200026\\989.png",
             "fileType": 0
         },
         {
@@ -4193,15 +3945,27 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200028\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200028\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200028\\1008.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200028\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200028\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200028\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200028\\14.png",
             "fileType": 0
         },
         {
@@ -4237,22 +4001,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200028\\937.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200028\\952.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200028\\971.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200028\\991.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200029\\0.png",
             "fileType": 0
         },
@@ -4265,15 +4013,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200029\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200029\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200029\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200029\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200029\\1019.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200029\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200029\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\14.png",
             "fileType": 0
         },
         {
@@ -4306,26 +4070,6 @@
         },
         {
             "filepath": "deco\\emo\\e200029\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\933.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\942.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\964.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\976.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200029\\992.png",
             "fileType": 0
         },
         {
@@ -4405,15 +4149,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200031\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200031\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200031\\1013.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200031\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200031\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200031\\14.png",
             "fileType": 0
         },
         {
@@ -4449,18 +4201,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200031\\925.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200031\\959.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200031\\978.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200032\\0.png",
             "fileType": 1
         },
@@ -4473,15 +4213,31 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200032\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200032\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200032\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200032\\1011.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200032\\1015.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200032\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200032\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200032\\14.png",
             "fileType": 0
         },
         {
@@ -4517,26 +4273,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200032\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200032\\950.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200032\\957.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200032\\976.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200032\\985.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200033\\0.png",
             "fileType": 0
         },
@@ -4549,15 +4285,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200033\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200033\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200033\\1010.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200033\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200033\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200033\\14.png",
             "fileType": 0
         },
         {
@@ -4590,18 +4334,6 @@
         },
         {
             "filepath": "deco\\emo\\e200033\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200033\\929.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200033\\948.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200033\\969.png",
             "fileType": 0
         },
         {
@@ -4857,6 +4589,22 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200038\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200038\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200038\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200038\\1006.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200038\\11.png",
             "fileType": 0
         },
@@ -4865,7 +4613,7 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200038\\14.png",
+            "filepath": "deco\\emo\\e200038\\1801.png",
             "fileType": 0
         },
         {
@@ -4898,26 +4646,6 @@
         },
         {
             "filepath": "deco\\emo\\e200038\\888.png",
-            "fileType": 1
-        },
-        {
-            "filepath": "deco\\emo\\e200038\\930.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200038\\947.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200038\\959.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200038\\967.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200038\\974.png",
             "fileType": 0
         },
         {
@@ -4933,15 +4661,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200039\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200039\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200039\\1012.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200039\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200039\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200039\\14.png",
             "fileType": 0
         },
         {
@@ -4974,18 +4710,6 @@
         },
         {
             "filepath": "deco\\emo\\e200039\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200039\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200039\\961.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200039\\970.png",
             "fileType": 0
         },
         {
@@ -5225,15 +4949,27 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200044\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200044\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200044\\1011.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200044\\1013.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200044\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200044\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200044\\14.png",
             "fileType": 0
         },
         {
@@ -5266,22 +5002,6 @@
         },
         {
             "filepath": "deco\\emo\\e200044\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200044\\925.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200044\\944.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200044\\960.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200044\\978.png",
             "fileType": 0
         },
         {
@@ -5429,15 +5149,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200047\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200047\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200047\\1006.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200047\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200047\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200047\\14.png",
             "fileType": 0
         },
         {
@@ -5473,18 +5201,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200047\\924.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200047\\957.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200047\\967.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200048\\0.png",
             "fileType": 0
         },
@@ -5497,15 +5213,27 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200048\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200048\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200048\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200048\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200048\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200048\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200048\\14.png",
             "fileType": 0
         },
         {
@@ -5541,22 +5269,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200048\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200048\\946.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200048\\965.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200048\\971.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200049\\0.png",
             "fileType": 0
         },
@@ -5569,15 +5281,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200049\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200049\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200049\\1019.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200049\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200049\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200049\\14.png",
             "fileType": 0
         },
         {
@@ -5613,18 +5333,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200049\\933.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200049\\954.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200049\\964.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200050\\0.png",
             "fileType": 1
         },
@@ -5645,11 +5353,15 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200050\\14.png",
+            "filepath": "deco\\emo\\e200050\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200050\\2.png",
+            "filepath": "deco\\emo\\e200050\\2001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200050\\2002.png",
             "fileType": 0
         },
         {
@@ -5677,14 +5389,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200050\\926.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200050\\980.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200051\\0.png",
             "fileType": 0
         },
@@ -5705,11 +5409,15 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200051\\14.png",
+            "filepath": "deco\\emo\\e200051\\2.png",
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200051\\2.png",
+            "filepath": "deco\\emo\\e200051\\2001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200051\\2002.png",
             "fileType": 0
         },
         {
@@ -5737,14 +5445,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200051\\926.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200051\\980.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200052\\0.png",
             "fileType": 0
         },
@@ -5762,10 +5462,6 @@
         },
         {
             "filepath": "deco\\emo\\e200052\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200052\\14.png",
             "fileType": 0
         },
         {
@@ -5813,15 +5509,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200053\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200053\\1010.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200053\\11.png",
             "fileType": 1
         },
         {
             "filepath": "deco\\emo\\e200053\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200053\\14.png",
             "fileType": 0
         },
         {
@@ -5857,14 +5557,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200053\\936.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200053\\958.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200054\\0.png",
             "fileType": 0
         },
@@ -5877,15 +5569,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200054\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200054\\1003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200054\\1017.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200054\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200054\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200054\\14.png",
             "fileType": 0
         },
         {
@@ -5918,18 +5618,6 @@
         },
         {
             "filepath": "deco\\emo\\e200054\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200054\\938.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200054\\953.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200054\\974.png",
             "fileType": 0
         },
         {
@@ -6169,15 +5857,27 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200059\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200059\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200059\\1011.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200059\\1018.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200059\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200059\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200059\\14.png",
             "fileType": 0
         },
         {
@@ -6210,22 +5910,6 @@
         },
         {
             "filepath": "deco\\emo\\e200059\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200059\\939.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200059\\948.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200059\\955.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200059\\960.png",
             "fileType": 0
         },
         {
@@ -6585,15 +6269,27 @@
             "fileType": 1
         },
         {
+            "filepath": "deco\\emo\\e200066\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200066\\1009.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200066\\1014.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200066\\1020.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200066\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200066\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200066\\14.png",
             "fileType": 0
         },
         {
@@ -6629,22 +6325,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200066\\927.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200066\\951.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200066\\955.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200066\\962.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200067\\0.png",
             "fileType": 0
         },
@@ -6657,15 +6337,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200067\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200067\\1004.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200067\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200067\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200067\\14.png",
             "fileType": 0
         },
         {
@@ -6701,14 +6385,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200067\\936.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200067\\954.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200068\\0.png",
             "fileType": 0
         },
@@ -6721,15 +6397,23 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200068\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200068\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200068\\1011.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200068\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200068\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200068\\14.png",
             "fileType": 0
         },
         {
@@ -6765,14 +6449,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200068\\944.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200068\\955.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200069\\0.png",
             "fileType": 0
         },
@@ -6785,15 +6461,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200069\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200069\\1018.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200069\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200069\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200069\\14.png",
             "fileType": 0
         },
         {
@@ -6826,14 +6506,6 @@
         },
         {
             "filepath": "deco\\emo\\e200069\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200069\\939.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200069\\953.png",
             "fileType": 0
         },
         {
@@ -7073,15 +6745,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200074\\1005.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200074\\1019.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200074\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200074\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200074\\14.png",
             "fileType": 0
         },
         {
@@ -7117,14 +6793,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200074\\933.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200074\\946.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200075\\0.png",
             "fileType": 0
         },
@@ -7137,15 +6805,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200075\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200075\\1016.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200075\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200075\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200075\\14.png",
             "fileType": 0
         },
         {
@@ -7178,14 +6850,6 @@
         },
         {
             "filepath": "deco\\emo\\e200075\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200075\\935.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200075\\948.png",
             "fileType": 0
         },
         {
@@ -7597,15 +7261,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200083\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200083\\1017.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200083\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200083\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200083\\14.png",
             "fileType": 0
         },
         {
@@ -7641,14 +7309,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200083\\930.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200083\\938.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200084\\0.png",
             "fileType": 0
         },
@@ -7661,15 +7321,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200084\\1006.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200084\\1014.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200084\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200084\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200084\\14.png",
             "fileType": 0
         },
         {
@@ -7705,14 +7369,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200084\\932.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200084\\951.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200085\\0.png",
             "fileType": 0
         },
@@ -7725,15 +7381,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200085\\1016.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200085\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200085\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200085\\14.png",
             "fileType": 0
         },
         {
@@ -7766,10 +7422,6 @@
         },
         {
             "filepath": "deco\\emo\\e200085\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200085\\935.png",
             "fileType": 0
         },
         {
@@ -8009,15 +7661,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200090\\1004.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200090\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200090\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200090\\14.png",
             "fileType": 0
         },
         {
@@ -8053,10 +7705,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200090\\936.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200091\\0.png",
             "fileType": 0
         },
@@ -8069,15 +7717,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200091\\1019.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200091\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200091\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200091\\14.png",
             "fileType": 0
         },
         {
@@ -8113,10 +7761,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200091\\933.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200092\\0.png",
             "fileType": 0
         },
@@ -8129,15 +7773,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200092\\1001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200092\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200092\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200092\\14.png",
             "fileType": 0
         },
         {
@@ -8173,10 +7817,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200092\\930.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200093\\0.png",
             "fileType": 0
         },
@@ -8189,15 +7829,19 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200093\\1002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\emo\\e200093\\1004.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200093\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200093\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200093\\14.png",
             "fileType": 0
         },
         {
@@ -8230,14 +7874,6 @@
         },
         {
             "filepath": "deco\\emo\\e200093\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200093\\924.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200093\\942.png",
             "fileType": 0
         },
         {
@@ -8425,15 +8061,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200097\\1002.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200097\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200097\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200097\\14.png",
             "fileType": 0
         },
         {
@@ -8469,10 +8105,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200097\\931.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200098\\0.png",
             "fileType": 0
         },
@@ -8485,15 +8117,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200098\\1002.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200098\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200098\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200098\\14.png",
             "fileType": 0
         },
         {
@@ -8529,10 +8161,6 @@
             "fileType": 0
         },
         {
-            "filepath": "deco\\emo\\e200098\\931.png",
-            "fileType": 0
-        },
-        {
             "filepath": "deco\\emo\\e200099\\0.png",
             "fileType": 0
         },
@@ -8545,15 +8173,15 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\emo\\e200099\\1002.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\emo\\e200099\\11.png",
             "fileType": 0
         },
         {
             "filepath": "deco\\emo\\e200099\\12.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200099\\14.png",
             "fileType": 0
         },
         {
@@ -8586,10 +8214,6 @@
         },
         {
             "filepath": "deco\\emo\\e200099\\888.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "deco\\emo\\e200099\\931.png",
             "fileType": 0
         },
         {
@@ -9066,6 +8690,10 @@
         },
         {
             "filepath": "deco\\lizhibang\\liqi_26dj\\pic\\liqi_26dj.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\lizhibang\\liqi_26shuiyi\\pic\\liqi_26shuiyi.jpg",
             "fileType": 0
         },
         {
@@ -9941,6 +9569,38 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\loading_cg\\260901\\main\\1001.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\main\\1004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\main\\1007.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\main\\1008.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\main\\1022.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\main\\260901.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\thumb\\260901_thumb.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\loading_cg\\260901\\thumb\\3001.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\loading_cg\\CG200001\\main\\CG200001.jpg",
             "fileType": 0
         },
@@ -10645,6 +10305,22 @@
             "fileType": 0
         },
         {
+            "filepath": "deco\\mjpai\\mjp_26gaoxiaosai\\pic\\mjp_26gaoxiaosai.jpg",
+            "fileType": 1
+        },
+        {
+            "filepath": "deco\\mjpai\\mjp_26gaoxiaosai\\preview\\preview.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\mjpai\\mjp_26shuiyi\\pic\\mjp_26shuiyi.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\mjpai\\mjp_26shuiyi\\preview\\preview.png",
+            "fileType": 0
+        },
+        {
             "filepath": "deco\\mjpai\\mjp_26summer\\pic\\mjp_26summer.jpg",
             "fileType": 0
         },
@@ -11150,6 +10826,22 @@
         },
         {
             "filepath": "deco\\tablecloth\\tablecloth_26dj\\preview\\preview.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\tablecloth\\tablecloth_26gaoxiaosai\\pic\\tablecloth_26gaoxiaosai.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\tablecloth\\tablecloth_26gaoxiaosai\\preview\\preview.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\tablecloth\\tablecloth_26shuiyi\\pic\\tablecloth_26shuiyi.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "deco\\tablecloth\\tablecloth_26shuiyi\\preview\\preview.jpg",
             "fileType": 0
         },
         {
@@ -13093,6 +12785,10 @@
             "fileType": 1
         },
         {
+            "filepath": "extendRes\\skin_shop\\bamuweiwx_shop.jpg",
+            "fileType": 0
+        },
+        {
             "filepath": "extendRes\\skin_shop\\beijing_fenwoshi.jpg",
             "fileType": 0
         },
@@ -13133,31 +12829,19 @@
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\chilin_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\chutaosy_shop.jpg",
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\chutaoYZ_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\erzhigonghuasy_shop.jpg",
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\jiushiYZ_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\lingwx_shop.jpg",
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\laienxr_shop.jpg",
-            "fileType": 0
-        },
-        {
-            "filepath": "extendRes\\skin_shop\\laiyaxr_shop.jpg",
-            "fileType": 0
-        },
-        {
-            "filepath": "extendRes\\skin_shop\\lianggongxingshuxr_shop.jpg",
-            "fileType": 0
-        },
-        {
-            "filepath": "extendRes\\skin_shop\\qingluanYZ_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\ruyuecaiyinsy_shop.jpg",
             "fileType": 0
         },
         {
@@ -13169,11 +12853,27 @@
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\xiaoyesiqiyuYZ_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\xiamierxl_shop.jpg",
             "fileType": 0
         },
         {
-            "filepath": "extendRes\\skin_shop\\yuanxiaoxr_shop.jpg",
+            "filepath": "extendRes\\skin_shop\\xiangyuanwusy_shop.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "extendRes\\skin_shop\\xiaoniaoyouchutianxl_shop.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "extendRes\\skin_shop\\yifuxl_shop.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "extendRes\\skin_shop\\yuanfengwx_shop.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "extendRes\\skin_shop\\yuanxiaowx_shop.jpg",
             "fileType": 0
         },
         {
@@ -13273,6 +12973,10 @@
             "fileType": 1
         },
         {
+            "filepath": "extendRes\\treasurehead\\yh1_q.png",
+            "fileType": 1
+        },
+        {
             "filepath": "extendRes\\treasurehead\\yh2_d.png",
             "fileType": 1
         },
@@ -13281,11 +12985,23 @@
             "fileType": 1
         },
         {
+            "filepath": "extendRes\\treasurehead\\yh2_q.png",
+            "fileType": 1
+        },
+        {
             "filepath": "extendRes\\treasurehead\\yh3_lh.png",
             "fileType": 1
         },
         {
+            "filepath": "extendRes\\treasurehead\\yh3_q.png",
+            "fileType": 1
+        },
+        {
             "filepath": "extendRes\\treasurehead\\yh4_lh.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "extendRes\\treasurehead\\yh4_q.png",
             "fileType": 1
         },
         {
@@ -13365,11 +13081,19 @@
             "fileType": 1
         },
         {
+            "filepath": "extendRes\\treasurehead\\zl1_q.png",
+            "fileType": 1
+        },
+        {
             "filepath": "extendRes\\treasurehead\\zl2_d.png",
             "fileType": 1
         },
         {
             "filepath": "extendRes\\treasurehead\\zl2_lh.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "extendRes\\treasurehead\\zl2_q.png",
             "fileType": 1
         },
         {
@@ -25741,6 +25465,14 @@
             "fileType": 0
         },
         {
+            "filepath": "ui\\activity\\extend\\26niudan\\main\\pic_scattered\\26niudan.jpg",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\26niudan\\main\\pic_scattered\\26niudan_0.png",
+            "fileType": 0
+        },
+        {
             "filepath": "ui\\activity\\extend\\26summer\\main\\pic_scattered\\26summer1.jpg",
             "fileType": 0
         },
@@ -31253,168 +30985,220 @@
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_ceil.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\gacha_001.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_deco.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\gacha_002.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_floor.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\gacha_003.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_num.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\gacha_004.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_num_dark.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\gacha_005.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_pool.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_reward_left.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_claim_tips1.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_task.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_claim_tips2.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_text.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_complete_cover.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\bg_wall.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_complete_tips.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_close_pool.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_niudanbi_170.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_collect.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_niudanbi_70.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_collect_gray.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_number_base.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_return.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_back_btn.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_reward.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_consume_tips_base.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\btn_rule.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_consume_tips_base_cover.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\copyright.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_consume_tips1.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_consume_tips2.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_help_btn.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_machine_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_machine_btn_cover.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_reward_btn.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_show_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_show_btn.png",
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\daily_task_bown.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_task_base.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\daily_task_up.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_task_divider.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\deco_double_line.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_task_progress.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_claimed.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_task_progress_base.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\icon_coin.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_coin_bg.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\mark_done.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\niudan_25.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\niudanji.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\num_1.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\num_10_red.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\progress_bg.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\progress_fill.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_frame_2.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_frame_3.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_frame_4.png",
-            "fileType": 0
-        },
-        {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\skin_text.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_title_1.png",
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\skin1.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_title_di.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_title_text.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_title_text_mask.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\skin2.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\main_title_time.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\mask02.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\skin3.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\mian_currency_base.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\skin4.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\niudanji_door.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\slider_bg.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_close_btn.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\slider_handle.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_divider.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\star.png",
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_box_001.png",
             "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_box_002.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_box_003.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_box_004.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_number_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_icon_surplus_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_ball.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_cat.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_cover.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_eye.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_popup_eye2.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_slider_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_slider_btn.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_surplus_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\activity\\extend\\niudan\\main\\pic\\reward_title.png",
+            "fileType": 1
         },
         {
             "filepath": "ui\\activity\\extend\\questionnaire\\banner\\pic\\bg.jpg",
@@ -32901,7 +32685,11 @@
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26summer_0.png",
+            "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26shuiyi_0.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\lobby\\banner_payment\\pic\\btn_banner.png",
             "fileType": 1
         },
         {
@@ -32985,11 +32773,19 @@
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26summer.png",
+            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26shuiyi.png",
             "fileType": 0
         },
         {
-            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26summer_b.jpg",
+            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26shuiyi_b.jpg",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26zhifu1.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26zhifu1_b.jpg",
             "fileType": 1
         },
         {
@@ -34997,6 +34793,10 @@
             "fileType": 0
         },
         {
+            "filepath": "ui\\common\\main\\pic\\inputbox_gray.png",
+            "fileType": 0
+        },
+        {
             "filepath": "ui\\common\\main\\pic\\invite_bg.png",
             "fileType": 0
         },
@@ -36945,6 +36745,10 @@
             "fileType": 0
         },
         {
+            "filepath": "ui\\lobby\\extend\\match_room\\pic\\universal_bottom_gray.png",
+            "fileType": 0
+        },
+        {
             "filepath": "ui\\lobby\\extend\\match_room\\pic\\xm-close.png",
             "fileType": 0
         },
@@ -38795,6 +38599,14 @@
         {
             "filepath": "ui\\lobby\\main\\pic\\new_mark.png",
             "fileType": 0
+        },
+        {
+            "filepath": "ui\\lobby\\main\\pic\\new2.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\lobby\\main\\pic\\new3.png",
+            "fileType": 1
         },
         {
             "filepath": "ui\\lobby\\main\\pic\\noinfo.png",
