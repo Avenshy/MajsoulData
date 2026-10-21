@@ -4,5 +4,11 @@
     "refresh_price_rate": 150,
     "shop_refresh_coin": 5,
     "effect_goods_pack": 981
+  },
+  {
+    "activity_id": 261081,
+    "refresh_price_rate": 150,
+    "shop_refresh_coin": 5,
+    "effect_goods_pack": 981
   }
 ]

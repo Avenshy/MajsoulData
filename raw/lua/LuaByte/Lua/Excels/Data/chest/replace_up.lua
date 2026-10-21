@@ -1,1 +1,0 @@
-local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["replace_pool_id"]=2,["count"]=3,["activity_id"]=4,["count_id"]=5,["type"]=6}local g={nil,nil,nil,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[100001]=b({100001,1001,3,109899,1001,1},h)return{tb=k}

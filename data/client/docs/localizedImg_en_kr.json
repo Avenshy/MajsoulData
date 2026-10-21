@@ -17,10 +17,6 @@
       "fileType": 1
     },
     {
-      "filepath": "deco\\effect_hupai\\25yh_ron\\pic\\25yh_ron.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "deco\\effect_hupai\\ron_20chunjie\\pic\\ron_20chunjie.jpg",
       "fileType": 0
     },
@@ -270,10 +266,6 @@
     },
     {
       "filepath": "deco\\effect_hupai\\ron_youlingaoao\\pic\\ron_youlingaoao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\effect_lizhi\\25yh_liqi_effect\\pic\\25yh_liqi_effect.jpg",
       "fileType": 0
     },
     {
@@ -1541,6 +1533,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e20000119\\1005.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e20000119\\11.png",
       "fileType": 0
     },
@@ -1938,6 +1934,54 @@
     },
     {
       "filepath": "deco\\emo\\e20000126\\8.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\10.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\11.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\12.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\6.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\7.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e20000127\\8.png",
       "fileType": 0
     },
     {
@@ -3093,31 +3137,35 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200016\\1001.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200016\\1004.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200016\\1005.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200016\\1007.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200016\\1008.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\emo\\e200016\\1012.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200016\\11.png",
       "fileType": 0
     },
     {
       "filepath": "deco\\emo\\e200016\\12.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\14.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\15.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\16.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\17.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\18.png",
       "fileType": 0
     },
     {
@@ -3150,26 +3198,6 @@
     },
     {
       "filepath": "deco\\emo\\e200016\\888.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\943.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\961.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\970.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\988.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200016\\996.png",
       "fileType": 0
     },
     {
@@ -5861,6 +5889,10 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200059\\1005.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200059\\1007.png",
       "fileType": 0
     },
@@ -6981,15 +7013,15 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\emo\\e200078\\1005.png",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\emo\\e200078\\11.png",
       "fileType": 0
     },
     {
       "filepath": "deco\\emo\\e200078\\12.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\emo\\e200078\\14.png",
       "fileType": 0
     },
     {
@@ -8241,14 +8273,6 @@
       "fileType": 0
     },
     {
-      "filepath": "deco\\head_frame\\25yh_headframe\\pic\\25yh_headframe.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "deco\\head_frame\\25yh_headframe\\pic\\25yh_headframe.jpg",
-      "fileType": 1
-    },
-    {
       "filepath": "deco\\head_frame\\headframe_22winter\\icon\\headframe_22winter.png",
       "fileType": 0
     },
@@ -8462,11 +8486,11 @@
     },
     {
       "filepath": "deco\\head_frame\\headframe_team2109\\pic\\headframe_team2109.jpg",
-      "fileType": 0
+      "fileType": 1
     },
     {
       "filepath": "deco\\head_frame\\headframe_team2109\\pic\\headframe_team2109.jpg",
-      "fileType": 0
+      "fileType": 1
     },
     {
       "filepath": "deco\\head_frame\\headframe_trailA\\icon\\headframe_trailA.png",
@@ -8554,10 +8578,6 @@
     },
     {
       "filepath": "deco\\lizhi_bgm\\pic\\liqibgm.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\lizhibang\\25yh_liqi\\pic\\25yh_liqi.jpg",
       "fileType": 0
     },
     {
@@ -8685,10 +8705,6 @@
       "fileType": 0
     },
     {
-      "filepath": "deco\\lizhibang\\liqi_26dj\\pic\\icon.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "deco\\lizhibang\\liqi_26dj\\pic\\liqi_26dj.jpg",
       "fileType": 0
     },
@@ -8698,6 +8714,10 @@
     },
     {
       "filepath": "deco\\lizhibang\\liqi_26summer\\pic\\liqi_26summer.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\lizhibang\\liqi_26wansheng\\pic\\liqi_26wansheng.jpg",
       "fileType": 0
     },
     {
@@ -9601,6 +9621,14 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\loading_cg\\261001\\main\\261001.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\261001\\thumb\\261001_thumb.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\loading_cg\\CG200001\\main\\CG200001.jpg",
       "fileType": 0
     },
@@ -9777,6 +9805,14 @@
       "fileType": 0
     },
     {
+      "filepath": "deco\\loading_cg\\CG200059\\main\\CG200059.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\loading_cg\\CG200059\\thumb\\CG200059_thumb.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\loading_cg\\CG200094\\main\\CG200094.jpg",
       "fileType": 0
     },
@@ -9830,6 +9866,14 @@
     },
     {
       "filepath": "deco\\lobby_background\\beijing_dongmudaqiao\\preview\\beijing_dongmudaqiao.jpg",
+      "fileType": 1
+    },
+    {
+      "filepath": "deco\\lobby_background\\beijing_fengchehuatian\\pic\\beijing_fengchehuatian.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\lobby_background\\beijing_fengchehuatian\\preview\\beijing_fengchehuatian.jpg",
       "fileType": 1
     },
     {
@@ -9959,10 +10003,6 @@
     {
       "filepath": "deco\\lobby_background\\beijing_zhongxia\\preview\\beijing_zhongxia.jpg",
       "fileType": 1
-    },
-    {
-      "filepath": "deco\\mjpai\\25yh_pai\\pic\\25yh_pai.jpg",
-      "fileType": 0
     },
     {
       "filepath": "deco\\mjpai\\mjp_20chunjie\\pic\\mjp_20chunjie.jpg",
@@ -10257,19 +10297,11 @@
       "fileType": 0
     },
     {
-      "filepath": "deco\\mjpai\\mjp_25xila1\\pic\\mjp_21zhounian.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "deco\\mjpai\\mjp_25xila1\\pic\\mjp_25xila1.jpg",
       "fileType": 0
     },
     {
       "filepath": "deco\\mjpai\\mjp_25xila1\\preview\\preview.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\mjpai\\mjp_25xila2\\pic\\mjp_21zhounian.jpg",
       "fileType": 0
     },
     {
@@ -10326,6 +10358,14 @@
     },
     {
       "filepath": "deco\\mjpai\\mjp_26summer\\preview\\preview.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\mjpai\\mjp_26wansheng\\pic\\mjp_26wansheng.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\mjpai\\mjp_26wansheng\\preview\\preview.png",
       "fileType": 0
     },
     {
@@ -10470,10 +10510,6 @@
     },
     {
       "filepath": "deco\\mjpface\\mjpface_default\\preview\\preview.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "deco\\tablecloth\\25yh_table\\pic\\25yh_table.jpg",
       "fileType": 0
     },
     {
@@ -10874,6 +10910,14 @@
     },
     {
       "filepath": "deco\\tablecloth\\tablecloth_26summer\\preview\\preview.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\tablecloth\\tablecloth_26wansheng\\pic\\tablecloth_26wansheng.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\tablecloth\\tablecloth_26wansheng\\preview\\preview.jpg",
       "fileType": 0
     },
     {
@@ -11297,6 +11341,14 @@
       "fileType": 1
     },
     {
+      "filepath": "deco\\title\\mjwg\\pic\\mjwg.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "deco\\title\\mjwg\\pic\\mjwg_item.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "deco\\title\\notitle\\pic\\notitle.png",
       "fileType": 1
     },
@@ -11465,83 +11517,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\24summer106.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\24summer107.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie1.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie1_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie2.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie2_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie3.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie4.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25chunjie5.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25lifu1.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25lifu2.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan1.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan1_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan2.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan2_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan3.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\25wenquan3_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\25wuxia1.jpg",
       "fileType": 0
     },
     {
       "filepath": "extendRes\\items\\25wuxia2.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\appmiao.jpg",
       "fileType": 0
     },
     {
@@ -11562,30 +11542,6 @@
     },
     {
       "filepath": "extendRes\\items\\art2_limit.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\baobing.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\baobing_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\baozhu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\baozhu_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\bingqiling.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\bingqiling_0.png",
       "fileType": 0
     },
     {
@@ -11621,131 +11577,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\chigua.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\chiyuebin.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\chizi.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chizi_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\christmas_bell.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\christmas_bell_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\christmas_socks.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\christmas_socks_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_chutian.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_fuzi.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_hua.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_jianai.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_kawei.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_kong.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_liyu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_meishu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_nainai.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_qianzhi.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_qingkuniang.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_shala.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\chunjie_stamp_box.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_wangcilang.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_wei.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_xiangyuanwu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_xiasheng.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_xingshu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_yangcai.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_yiji.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_yingshu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_yuesefu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_zeniya.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\chunjie_zhaitengzhi.jpg",
       "fileType": 0
     },
     {
@@ -11861,14 +11697,6 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\diaoyushao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\diaoyushao_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\dress0.jpg",
       "fileType": 0
     },
@@ -11889,27 +11717,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\effect_liqi_wind.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\fankaijihui.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\fengling.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\fengling_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\fu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\fu_0.png",
       "fileType": 0
     },
     {
@@ -11993,39 +11801,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\Glasses_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\gold0.png",
       "fileType": 0
     },
     {
       "filepath": "extendRes\\items\\gold1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\guihuajiu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\guihuajiu_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\guihuajiu_1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\guoqingmiao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\huaqiu.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\huaqiu_0.png",
       "fileType": 0
     },
     {
@@ -12125,59 +11905,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\jingbing.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\jingbing_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\kirins1en_item.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\laba.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\laba_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\liqi_bgm_1.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\liqi_bgm_2.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\liqi_chuzhen.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\lzhdticket.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\lzhdticket_0.png",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\mingpaizhishi_dian.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\monthcard.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\monvnangua.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\monvnangua_0.png",
       "fileType": 0
     },
     {
@@ -12205,24 +11933,8 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\qianbi.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\qianbi_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\qiaokeli.jpg",
       "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\qingkuquan.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\qingkuquan_0.png",
-      "fileType": 1
     },
     {
       "filepath": "extendRes\\items\\qingxiaoshuo.jpg",
@@ -12237,23 +11949,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\ron_lightening.jpg",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\selectskin.jpg",
       "fileType": 0
     },
     {
       "filepath": "extendRes\\items\\selectskin_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\shouzhang.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\shouzhang_0.png",
       "fileType": 0
     },
     {
@@ -12273,43 +11973,7 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\tablecloth_zhongxiahuahuo.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tingzhenqi.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tingzhenqi_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tizhongcheng.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tizhongcheng_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\tongxinjie.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tool.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\tool_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\touzi.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\touzi_0.png",
       "fileType": 0
     },
     {
@@ -12330,22 +11994,6 @@
     },
     {
       "filepath": "extendRes\\items\\toy2_limit.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\trailpoint.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\wanshengmiao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\wenduji.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\wenduji_0.png",
       "fileType": 0
     },
     {
@@ -12377,103 +12025,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\wurenyuebing.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\wurenyuebing_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xigua.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xigua_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xinshouyouling.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xinshouyouling_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xiongmao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xiongmao_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xiuxuept.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xiuxuept_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xuegao.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\xuegao_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\xunmihuishi.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\items\\xunmihuishi_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\yaokongtouzi.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\yiji_redbull.jpg",
-      "fileType": 1
-    },
-    {
-      "filepath": "extendRes\\items\\yijilevelpoint.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\yijilevelpoint_0.png",
-      "fileType": 0
-    },
-    {
       "filepath": "extendRes\\items\\yueguangbaohe.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziA.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziA_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziB.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziB_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziC.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\items\\zongziC_0.png",
       "fileType": 0
     },
     {
@@ -12809,7 +12365,7 @@
       "fileType": 1
     },
     {
-      "filepath": "extendRes\\skin_shop\\bamuweiwx_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\beijing_fengchehuatian.jpg",
       "fileType": 0
     },
     {
@@ -12853,19 +12409,27 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\chutaosy_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\huiyeji_yh_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\erzhigonghuasy_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\lanxing_yh_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\lingwx_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\longchuanxiayan_yh_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\ruyuecaiyinsy_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\miya_ws_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\musa_ws_shop.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "extendRes\\skin_shop\\shala_ws_shop.jpg",
       "fileType": 0
     },
     {
@@ -12877,27 +12441,11 @@
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\xiamierxl_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\xili_yh_shop.jpg",
       "fileType": 0
     },
     {
-      "filepath": "extendRes\\skin_shop\\xiangyuanwusy_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\xiaoniaoyouchutianxl_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yifuxl_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yuanfengwx_shop.jpg",
-      "fileType": 0
-    },
-    {
-      "filepath": "extendRes\\skin_shop\\yuanxiaowx_shop.jpg",
+      "filepath": "extendRes\\skin_shop\\you_ws_shop.jpg",
       "fileType": 0
     },
     {
@@ -25517,6 +25065,22 @@
       "fileType": 0
     },
     {
+      "filepath": "ui\\activity\\extend\\26wansheng\\main\\pic_scattered\\26wansheng1.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26wansheng\\main\\pic_scattered\\26wansheng1_0.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26wansheng\\main\\pic_scattered\\26wansheng2.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\26wansheng\\main\\pic_scattered\\26wansheng2_0.png",
+      "fileType": 0
+    },
+    {
       "filepath": "ui\\activity\\extend\\26wenquan\\main\\pic_scattered\\26wenquan1.jpg",
       "fileType": 0
     },
@@ -27034,6 +26598,38 @@
     },
     {
       "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_3880.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4010.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4020.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4030.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4040.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4050.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4060.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4070.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\amulet\\extend\\icon_fu\\pic\\fu_4080.png",
       "fileType": 0
     },
     {
@@ -31465,6 +31061,362 @@
       "fileType": 1
     },
     {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\common_tips_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_a.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_b.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_c.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_d.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_e.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_f.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\fame_rank_s.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\icon_music_70.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\item_box.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\item_number_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_back_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_currency_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_help_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_reward_btn.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_role.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_task_btn.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\main_title.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_close_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_common_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_common_btn_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_common_btn2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_common_btn2_dis.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_common_complete_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_icon_max.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_05.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_06.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_base_07.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_entry_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_reward_entry_base_special.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_base3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_entry_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_task_entry_cover.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\popup_voice_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\reward_fame_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\reward_lock.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\reward_slider_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\reward_slider_btn.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_progress.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_progress_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_tab_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_tab_base_lock.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_tab_base_selected.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_tab_completed_tips.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\task_title_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_common_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_light.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_light_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_light_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_light_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_piano.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_piano_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_piano_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_piano_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_piano_04.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_stage.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_stage_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_stage_02.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_icon_stage_03.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_max_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_tips_arrow.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_tips_arrow_01.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_tips_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_tips_fame_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_tips_line.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic\\upgrade_title_icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\icon_music_170.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\icon_music_70.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\icon_pt_170.jpg",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\icon_pt_44.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\skillReward\\main\\pic_scattered\\main_bg.jpg",
+      "fileType": 0
+    },
+    {
       "filepath": "ui\\activity\\extend\\snowball\\extend\\icon\\pic\\snowball_fight_upgrade_point.jpg",
       "fileType": 0
     },
@@ -32709,7 +32661,7 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26shuiyi_0.png",
+      "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26wansheng_0.png",
       "fileType": 1
     },
     {
@@ -32793,11 +32745,11 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26shuiyi.png",
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26wansheng.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26shuiyi_b.jpg",
+      "filepath": "ui\\activity\\lobby\\banner_tab\\pic\\26wansheng_b.jpg",
       "fileType": 1
     },
     {
@@ -32845,7 +32797,7 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\lobby\\bannerbase\\pic\\base_banner_btn.png",
+      "filepath": "ui\\activity\\lobby\\bannerbase\\pic\\btn_banner.png",
       "fileType": 1
     },
     {
@@ -41645,6 +41597,14 @@
       "fileType": 1
     },
     {
+      "filepath": "ui\\spot\\pic_scattered\\bijiyong.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\bijiyong_alter.png",
+      "fileType": 0
+    },
+    {
       "filepath": "ui\\spot\\pic_scattered\\chahua.png",
       "fileType": 0
     },
@@ -42162,6 +42122,30 @@
     },
     {
       "filepath": "ui\\spot\\pic_scattered\\yixiangrengouhuo.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_1.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_2.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_3.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_4.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_5.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\spot\\pic_scattered\\you_6.png",
       "fileType": 0
     },
     {

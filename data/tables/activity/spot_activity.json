@@ -16,10 +16,12 @@
     "unlock_ending_id": [],
     "ending_id": [
       22080101,
-      22080102
+      22080102,
+      0
     ],
     "ending_res": null,
     "ending_id_dep": [
+      0,
       0,
       0
     ],
@@ -42,10 +44,12 @@
     "unlock_ending_id": [],
     "ending_id": [
       22080201,
-      22080202
+      22080202,
+      0
     ],
     "ending_res": null,
     "ending_id_dep": [
+      0,
       0,
       0
     ],
@@ -68,12 +72,14 @@
     "unlock_ending_id": [],
     "ending_id": [
       22080301,
-      22080302
+      22080302,
+      0
     ],
     "ending_res": null,
     "ending_id_dep": [
       22080201,
-      22080202
+      22080202,
+      0
     ],
     "reward": "100002-16888"
   },
@@ -94,12 +100,14 @@
     "unlock_ending_id": [],
     "ending_id": [
       22080401,
-      22080402
+      22080402,
+      0
     ],
     "ending_res": null,
     "ending_id_dep": [
       22080301,
-      22080302
+      22080302,
+      0
     ],
     "reward": "304005-1"
   },
@@ -120,12 +128,14 @@
     "unlock_ending_id": [],
     "ending_id": [
       22080501,
-      22080502
+      22080502,
+      0
     ],
     "ending_res": null,
     "ending_id_dep": [
       22080401,
-      22080402
+      22080402,
+      0
     ],
     "reward": "304006-1"
   },
@@ -149,10 +159,15 @@
     ],
     "ending_id": [
       230914011,
-      230914012
+      230914012,
+      0
     ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -170,9 +185,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": 230914011,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -190,9 +213,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": 230914012,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -210,9 +241,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -230,9 +269,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -250,9 +297,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -270,9 +325,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -290,9 +353,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -310,9 +381,17 @@
     "unlock_item": null,
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0,
+      0
+    ],
     "ending_res": null,
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -331,10 +410,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060001
+      24060001,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_11.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   },
   {
@@ -353,10 +438,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060101
+      24060101,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_1.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900030-1"
   },
   {
@@ -375,10 +466,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060201
+      24060201,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_2.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900031-1"
   },
   {
@@ -397,10 +494,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060301
+      24060301,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_10.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900032-1"
   },
   {
@@ -420,10 +523,15 @@
     "unlock_ending_id": [],
     "ending_id": [
       24060401,
-      24060402
+      24060402,
+      0
     ],
     "ending_res": "plot_plot_diagram_3.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900033-1,30900041-1"
   },
   {
@@ -443,10 +551,15 @@
     "unlock_ending_id": [],
     "ending_id": [
       24060502,
-      24060501
+      24060501,
+      0
     ],
     "ending_res": "plot_plot_diagram_4.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900038-1,30900039-1"
   },
   {
@@ -465,10 +578,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060601
+      24060601,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_7.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900036-1"
   },
   {
@@ -488,10 +607,15 @@
     "unlock_ending_id": [],
     "ending_id": [
       24060702,
-      24060701
+      24060701,
+      0
     ],
     "ending_res": "plot_plot_diagram_8.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900037-1"
   },
   {
@@ -515,7 +639,11 @@
       24060803
     ],
     "ending_res": "plot_plot_diagram_9.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900040-1"
   },
   {
@@ -534,10 +662,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24060901
+      24060901,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_5.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900034-1"
   },
   {
@@ -556,10 +690,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24061001
+      24061001,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_6.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": "30900035-1"
   },
   {
@@ -578,10 +718,16 @@
     "unlock_by_ending_id": null,
     "unlock_ending_id": [],
     "ending_id": [
-      24061101
+      24061101,
+      0,
+      0
     ],
     "ending_res": "plot_plot_diagram_12.jpg",
-    "ending_id_dep": [],
+    "ending_id_dep": [
+      0,
+      0,
+      0
+    ],
     "reward": null
   }
 ]

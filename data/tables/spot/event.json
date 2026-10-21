@@ -8,7 +8,10 @@
     "sort": 1,
     "unlock_time": null,
     "content_path": "event/kakekuru00",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "『渊』的修学之旅",
@@ -41,7 +44,10 @@
     "sort": 2,
     "unlock_time": null,
     "content_path": "event/kakekuru01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "从花香中醒来",
@@ -74,7 +80,10 @@
     "sort": 3,
     "unlock_time": null,
     "content_path": "event/kakekuru02",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "缘",
@@ -107,7 +116,10 @@
     "sort": 4,
     "unlock_time": null,
     "content_path": "event/kakekuru03",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "神社迷途",
@@ -140,7 +152,10 @@
     "sort": 5,
     "unlock_time": null,
     "content_path": "event/kakekuru04",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "各自的课题",
@@ -173,7 +188,10 @@
     "sort": 6,
     "unlock_time": null,
     "content_path": "event/kakekuru05",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "归路",
@@ -206,7 +224,10 @@
     "sort": 1,
     "unlock_time": "2021-10-01 05:00:00+08",
     "content_path": "event/akagi00",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "序",
@@ -232,7 +253,10 @@
     "sort": 2,
     "unlock_time": "2021-11-06 05:00:00+08",
     "content_path": "event/akagi01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "尾声",
@@ -258,7 +282,10 @@
     "sort": 1,
     "unlock_time": "2022-03-27 05:00:00+08",
     "content_path": "event/huiye1",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "开幕",
@@ -284,7 +311,10 @@
     "sort": 2,
     "unlock_time": "2022-05-02 05:00:00+08",
     "content_path": "event/huiye2",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "幕间",
@@ -310,7 +340,10 @@
     "sort": 3,
     "unlock_time": "2022-05-07 05:00:00+08",
     "content_path": "event/huiye3",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "尾声",
@@ -336,7 +369,10 @@
     "sort": 1,
     "unlock_time": null,
     "content_path": "event/2211saki01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "神社与……兔女郎？",
@@ -362,7 +398,10 @@
     "sort": 2,
     "unlock_time": "2022-11-23 05:00:00+08",
     "content_path": "event/2211saki02",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "Good morning，未来视",
@@ -388,7 +427,10 @@
     "sort": 3,
     "unlock_time": "2022-11-30 05:00:00+08",
     "content_path": "event/2211saki03",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "同样的想法",
@@ -414,7 +456,10 @@
     "sort": 1,
     "unlock_time": null,
     "content_path": "event/codegeass01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "开幕",
@@ -433,7 +478,10 @@
     "sort": 2,
     "unlock_time": "2023-05-03 05:00:00+08",
     "content_path": "event/codegeass02",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "幕间",
@@ -452,7 +500,10 @@
     "sort": 3,
     "unlock_time": "2023-05-10 05:00:00+08",
     "content_path": "event/codegeass03",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "尾声",
@@ -471,7 +522,10 @@
     "sort": 1,
     "unlock_time": null,
     "content_path": "event/yiliya01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "Day1 圣雀战争开幕",
@@ -490,7 +544,10 @@
     "sort": 2,
     "unlock_time": "2023-11-20 05:00:00+08",
     "content_path": "event/yiliya02",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "Day2 黑夜的枪声",
@@ -509,7 +566,10 @@
     "sort": 3,
     "unlock_time": "2023-11-25 05:00:00+08",
     "content_path": "event/yiliya03",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "Day3 舞与魔术",
@@ -528,7 +588,10 @@
     "sort": 4,
     "unlock_time": "2023-11-30 05:00:00+08",
     "content_path": "event/yiliya04",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "Day4 三位一体的奇迹",
@@ -547,7 +610,10 @@
     "sort": 1,
     "unlock_time": null,
     "content_path": "event/BA01",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "EP1",
@@ -573,7 +639,10 @@
     "sort": 2,
     "unlock_time": "2024-04-20 05:00:00+08",
     "content_path": "event/BA02",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "EP2",
@@ -599,7 +668,10 @@
     "sort": 3,
     "unlock_time": "2024-04-23 05:00:00+08",
     "content_path": "event/BA03",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "EP3",
@@ -625,7 +697,10 @@
     "sort": 4,
     "unlock_time": "2024-04-26 05:00:00+08",
     "content_path": "event/BA04",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "EP4",
@@ -651,7 +726,10 @@
     "sort": 5,
     "unlock_time": "2024-04-29 05:00:00+08",
     "content_path": "event/BA05",
-    "ending_id": [],
+    "ending_id": [
+      0,
+      0
+    ],
     "ending_res": null,
     "title": {
       "chs": "EP5",

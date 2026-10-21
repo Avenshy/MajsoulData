@@ -8,17 +8,17 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 11,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 5101,
     "desc": 5301,
     "card_image": "fu_0001",
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      4
+      16
     ],
     "tag_id": []
   },
@@ -31,17 +31,17 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 5102,
     "desc": 5302,
     "card_image": "fu_0001",
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      8
+      32
     ],
     "tag_id": []
   },
@@ -54,10 +54,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 21,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 5103,
     "desc": 5303,
     "card_image": "fu_0002",
@@ -77,17 +77,17 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 5104,
     "desc": 5304,
     "card_image": "fu_0002",
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      8
+      32
     ],
     "tag_id": []
   },
@@ -101,7 +101,7 @@
     "duplicate_enabled": null,
     "upgrade": 31,
     "rarity": 4,
-    "price": 9,
+    "price": 6,
     "can_sell": 1,
     "sell_price": 3,
     "name": 5105,
@@ -126,7 +126,7 @@
     "duplicate_enabled": null,
     "upgrade": null,
     "rarity": 4,
-    "price": 9,
+    "price": 6,
     "can_sell": 1,
     "sell_price": 3,
     "name": 5106,
@@ -190,7 +190,7 @@
   {
     "id": 50,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4,2,3",
     "effect_group": null,
     "shop_badge": null,
@@ -217,7 +217,7 @@
   {
     "id": 51,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4,2,3",
     "effect_group": null,
     "shop_badge": null,
@@ -453,7 +453,7 @@
     ],
     "args": [
       100,
-      80
+      100
     ],
     "tag_id": []
   },
@@ -479,7 +479,7 @@
     ],
     "args": [
       100,
-      120
+      150
     ],
     "tag_id": []
   },
@@ -536,7 +536,7 @@
   {
     "id": 120,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -560,7 +560,7 @@
   {
     "id": 121,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -688,7 +688,7 @@
   {
     "id": 150,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3,2",
     "effect_group": null,
     "shop_badge": null,
@@ -713,7 +713,7 @@
   {
     "id": 151,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3,2",
     "effect_group": null,
     "shop_badge": null,
@@ -790,7 +790,7 @@
   {
     "id": 170,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -816,7 +816,7 @@
   {
     "id": 171,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -992,7 +992,7 @@
   {
     "id": 210,
     "book_enabled": 1,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -1008,7 +1008,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      13,
+      78,
       13
     ],
     "tag_id": []
@@ -1016,7 +1016,7 @@
   {
     "id": 211,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -1032,15 +1032,15 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      10,
-      13
+      78,
+      26
     ],
     "tag_id": []
   },
   {
     "id": 220,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -1065,7 +1065,7 @@
   {
     "id": 221,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -1312,7 +1312,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      400
+      1000
     ],
     "tag_id": []
   },
@@ -1335,7 +1335,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      500
+      1500
     ],
     "tag_id": []
   },
@@ -1770,7 +1770,7 @@
   {
     "id": 360,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -1796,7 +1796,7 @@
   {
     "id": 361,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -2108,7 +2108,7 @@
   {
     "id": 430,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3",
     "effect_group": null,
     "shop_badge": null,
@@ -2131,7 +2131,7 @@
   {
     "id": 431,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3",
     "effect_group": null,
     "shop_badge": null,
@@ -2395,7 +2395,7 @@
   {
     "id": 490,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -2421,7 +2421,7 @@
   {
     "id": 491,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -2643,7 +2643,7 @@
   {
     "id": 550,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "8",
     "effect_group": null,
     "shop_badge": null,
@@ -2668,7 +2668,7 @@
   {
     "id": 551,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "8",
     "effect_group": null,
     "shop_badge": null,
@@ -2891,7 +2891,7 @@
   {
     "id": 600,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -2914,7 +2914,7 @@
   {
     "id": 601,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -3139,7 +3139,7 @@
   {
     "id": 650,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3165,7 +3165,7 @@
   {
     "id": 651,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3191,7 +3191,7 @@
   {
     "id": 660,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3217,7 +3217,7 @@
   {
     "id": 661,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3243,7 +3243,7 @@
   {
     "id": 670,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3269,7 +3269,7 @@
   {
     "id": 671,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3295,7 +3295,7 @@
   {
     "id": 680,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "5,9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3321,7 +3321,7 @@
   {
     "id": 681,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "5,9",
     "effect_group": 2,
     "shop_badge": null,
@@ -3347,7 +3347,7 @@
   {
     "id": 690,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -3370,7 +3370,7 @@
   {
     "id": 691,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -3437,7 +3437,7 @@
   {
     "id": 710,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -3462,7 +3462,7 @@
   {
     "id": 711,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -3533,7 +3533,7 @@
   {
     "id": 730,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -3556,7 +3556,7 @@
   {
     "id": 731,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -3977,7 +3977,7 @@
   {
     "id": 1070,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "2",
     "effect_group": null,
     "shop_badge": null,
@@ -4002,7 +4002,7 @@
   {
     "id": 1071,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "2",
     "effect_group": null,
     "shop_badge": null,
@@ -4077,7 +4077,7 @@
   {
     "id": 1090,
     "book_enabled": 1,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "1",
     "effect_group": null,
     "shop_badge": null,
@@ -4093,14 +4093,14 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      4
+      12
     ],
     "tag_id": []
   },
   {
     "id": 1091,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "1",
     "effect_group": null,
     "shop_badge": null,
@@ -4116,7 +4116,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      6
+      20
     ],
     "tag_id": []
   },
@@ -4532,11 +4532,11 @@
     "card_image": "fu_0105",
     "card_remark": 1,
     "init_param_view": [
-      9
+      12
     ],
     "args": [
-      9,
-      1
+      12,
+      2
     ],
     "tag_id": [
       25084001
@@ -4942,7 +4942,7 @@
     "args": [
       100,
       6,
-      50,
+      100,
       3
     ],
     "tag_id": [
@@ -4973,7 +4973,7 @@
     "args": [
       100,
       6,
-      100,
+      150,
       3
     ],
     "tag_id": [
@@ -5077,7 +5077,7 @@
   {
     "id": 1280,
     "book_enabled": 1,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "11",
     "effect_group": null,
     "shop_badge": null,
@@ -5103,7 +5103,7 @@
   {
     "id": 1281,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "11",
     "effect_group": null,
     "shop_badge": null,
@@ -5526,7 +5526,7 @@
     ],
     "args": [
       100,
-      20
+      60
     ],
     "tag_id": []
   },
@@ -5552,7 +5552,7 @@
     ],
     "args": [
       100,
-      40
+      100
     ],
     "tag_id": []
   },
@@ -5614,17 +5614,17 @@
   },
   {
     "id": 1380,
-    "book_enabled": 1,
-    "deprecated": 1,
+    "book_enabled": null,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 1381,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 2,
+    "price": 18,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 9,
     "name": 6175,
     "desc": 6375,
     "card_image": "fu_0126",
@@ -5637,7 +5637,7 @@
       100,
       0,
       9,
-      10
+      30
     ],
     "tag_id": [
       25084015
@@ -5646,16 +5646,16 @@
   {
     "id": 1381,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 2,
+    "price": 18,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 9,
     "name": 6176,
     "desc": 6376,
     "card_image": "fu_0126",
@@ -5668,7 +5668,7 @@
       100,
       0,
       9,
-      20
+      50
     ],
     "tag_id": [
       25084015
@@ -5783,7 +5783,7 @@
   {
     "id": 1410,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "11",
     "effect_group": null,
     "shop_badge": null,
@@ -5814,7 +5814,7 @@
   {
     "id": 1411,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "11",
     "effect_group": null,
     "shop_badge": null,
@@ -5973,8 +5973,8 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      15,
-      15
+      20,
+      20
     ],
     "tag_id": []
   },
@@ -5997,8 +5997,8 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      25,
-      25
+      30,
+      30
     ],
     "tag_id": []
   },
@@ -6059,7 +6059,7 @@
   {
     "id": 1460,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6082,7 +6082,7 @@
   {
     "id": 1461,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6151,7 +6151,7 @@
   {
     "id": 1480,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6178,7 +6178,7 @@
   {
     "id": 1481,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6319,7 +6319,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      2
+      4
     ],
     "tag_id": [
       25084001
@@ -6344,7 +6344,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      3
+      6
     ],
     "tag_id": [
       25084001
@@ -6405,10 +6405,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 1531,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 6205,
     "desc": 6405,
     "card_image": "fu_0141",
@@ -6428,10 +6428,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 6206,
     "desc": 6406,
     "card_image": "fu_0141",
@@ -6445,7 +6445,7 @@
   {
     "id": 1540,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6472,7 +6472,7 @@
   {
     "id": 1541,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -6518,7 +6518,7 @@
     ],
     "args": [
       100,
-      20
+      30
     ],
     "tag_id": [
       25084012
@@ -6546,7 +6546,7 @@
     ],
     "args": [
       100,
-      30
+      50
     ],
     "tag_id": [
       25084012
@@ -6609,7 +6609,7 @@
   {
     "id": 1570,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -6628,14 +6628,14 @@
     ],
     "args": [
       100,
-      30
+      20
     ],
     "tag_id": []
   },
   {
     "id": 1571,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -6654,7 +6654,7 @@
     ],
     "args": [
       100,
-      50
+      30
     ],
     "tag_id": []
   },
@@ -6721,7 +6721,7 @@
   {
     "id": 1590,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "8",
     "effect_group": null,
     "shop_badge": null,
@@ -6747,7 +6747,7 @@
   {
     "id": 1591,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": "8",
     "effect_group": null,
     "shop_badge": null,
@@ -6885,7 +6885,7 @@
   {
     "id": 1620,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3",
     "effect_group": null,
     "shop_badge": null,
@@ -6909,7 +6909,7 @@
   {
     "id": 1621,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "3",
     "effect_group": null,
     "shop_badge": null,
@@ -6979,7 +6979,7 @@
   {
     "id": 1640,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7007,7 +7007,7 @@
   {
     "id": 1641,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7137,7 +7137,7 @@
   {
     "id": 1670,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7155,12 +7155,14 @@
     "args": [
       1
     ],
-    "tag_id": []
+    "tag_id": [
+      26054009
+    ]
   },
   {
     "id": 1671,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7359,9 +7361,9 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      300,
-      1,
-      130
+      500,
+      2,
+      120
     ],
     "tag_id": [
       25084010,
@@ -7387,9 +7389,9 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      500,
-      2,
-      130
+      800,
+      3,
+      120
     ],
     "tag_id": [
       25084010,
@@ -7399,7 +7401,7 @@
   {
     "id": 1720,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7422,7 +7424,7 @@
   {
     "id": 1721,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7507,7 +7509,7 @@
   {
     "id": 1740,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7533,7 +7535,7 @@
   {
     "id": 1741,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7559,7 +7561,7 @@
   {
     "id": 2010,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "2",
     "effect_group": null,
     "shop_badge": null,
@@ -7586,7 +7588,7 @@
   {
     "id": 2011,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "2",
     "effect_group": null,
     "shop_badge": null,
@@ -7613,7 +7615,7 @@
   {
     "id": 2020,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -7639,7 +7641,7 @@
   {
     "id": 2021,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -7665,7 +7667,7 @@
   {
     "id": 2030,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -7692,7 +7694,7 @@
   {
     "id": 2031,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8137,7 +8139,7 @@
   {
     "id": 2120,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "1,10",
     "effect_group": null,
     "shop_badge": null,
@@ -8163,7 +8165,7 @@
   {
     "id": 2121,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "1,10",
     "effect_group": null,
     "shop_badge": null,
@@ -8301,10 +8303,10 @@
     "shop_badge": null,
     "duplicate_enabled": 1,
     "upgrade": 2151,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 25081029,
     "desc": 25082029,
     "card_image": "fu_0177",
@@ -8329,10 +8331,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 25081030,
     "desc": 25082030,
     "card_image": "fu_0177",
@@ -8350,17 +8352,17 @@
   },
   {
     "id": 2160,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": "1",
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 2161,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081031,
     "desc": 25082031,
     "card_image": "fu_0178",
@@ -8380,10 +8382,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081032,
     "desc": 25082032,
     "card_image": "fu_0178",
@@ -8490,17 +8492,17 @@
   },
   {
     "id": 2190,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": "11",
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 2191,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081037,
     "desc": 25082037,
     "card_image": "fu_0181",
@@ -8523,10 +8525,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081038,
     "desc": 25082038,
     "card_image": "fu_0181",
@@ -8607,17 +8609,17 @@
   },
   {
     "id": 2210,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 2211,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081041,
     "desc": 25082041,
     "card_image": "fu_0183",
@@ -8640,10 +8642,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081042,
     "desc": 25082042,
     "card_image": "fu_0183",
@@ -8663,7 +8665,7 @@
   {
     "id": 2220,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "1",
     "effect_group": null,
     "shop_badge": null,
@@ -8686,7 +8688,7 @@
   {
     "id": 2221,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "1",
     "effect_group": null,
     "shop_badge": null,
@@ -8709,7 +8711,7 @@
   {
     "id": 2230,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8732,7 +8734,7 @@
   {
     "id": 2231,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8807,24 +8809,24 @@
   },
   {
     "id": 2250,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": null,
     "effect_group": 3,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 2251,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081049,
     "desc": 25082049,
     "card_image": "fu_0187",
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      6
+      4
     ],
     "tag_id": [
       26054001
@@ -8839,17 +8841,17 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 25081050,
     "desc": 25082050,
     "card_image": "fu_0187",
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      9
+      6
     ],
     "tag_id": [
       26054001
@@ -8904,7 +8906,7 @@
   {
     "id": 2270,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8930,7 +8932,7 @@
   {
     "id": 2271,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8956,7 +8958,7 @@
   {
     "id": 2280,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -8982,7 +8984,7 @@
   {
     "id": 2281,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -9114,7 +9116,7 @@
   {
     "id": 2310,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -9139,7 +9141,7 @@
   {
     "id": 2311,
     "book_enabled": null,
-    "deprecated": 1,
+    "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -9266,7 +9268,7 @@
   {
     "id": 3010,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14",
     "effect_group": null,
     "shop_badge": null,
@@ -9294,7 +9296,7 @@
   {
     "id": 3011,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14",
     "effect_group": null,
     "shop_badge": null,
@@ -9382,7 +9384,7 @@
   {
     "id": 3030,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "13",
     "effect_group": 3,
     "shop_badge": null,
@@ -9410,7 +9412,7 @@
   {
     "id": 3031,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "13",
     "effect_group": 3,
     "shop_badge": null,
@@ -9594,7 +9596,7 @@
   {
     "id": 3070,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -9620,7 +9622,7 @@
   {
     "id": 3071,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "4",
     "effect_group": null,
     "shop_badge": null,
@@ -9806,7 +9808,7 @@
   {
     "id": 3110,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -9831,7 +9833,7 @@
   {
     "id": 3111,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -9873,7 +9875,7 @@
     "init_param_view": [],
     "args": [
       3,
-      9
+      12
     ],
     "tag_id": [
       26054004
@@ -9899,7 +9901,7 @@
     "init_param_view": [],
     "args": [
       6,
-      18
+      24
     ],
     "tag_id": [
       26054004
@@ -9908,7 +9910,7 @@
   {
     "id": 3130,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -9931,7 +9933,7 @@
   {
     "id": 3131,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -10102,7 +10104,7 @@
   {
     "id": 3170,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "17",
     "effect_group": null,
     "shop_badge": null,
@@ -10125,7 +10127,7 @@
   {
     "id": 3171,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "17",
     "effect_group": null,
     "shop_badge": null,
@@ -10194,7 +10196,7 @@
   {
     "id": 3190,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "8,1",
     "effect_group": null,
     "shop_badge": null,
@@ -10219,7 +10221,7 @@
   {
     "id": 3191,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "8,1",
     "effect_group": null,
     "shop_badge": null,
@@ -10260,7 +10262,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      1,
+      3,
       1,
       1
     ],
@@ -10288,7 +10290,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      2,
+      6,
       1,
       1
     ],
@@ -10316,7 +10318,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      2
+      3
     ],
     "tag_id": []
   },
@@ -10339,14 +10341,14 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      4
+      5
     ],
     "tag_id": []
   },
   {
     "id": 3220,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14,16",
     "effect_group": null,
     "shop_badge": null,
@@ -10371,7 +10373,7 @@
   {
     "id": 3221,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14,16",
     "effect_group": null,
     "shop_badge": null,
@@ -10412,7 +10414,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      20,
+      10,
       1
     ],
     "tag_id": [
@@ -10438,7 +10440,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      30,
+      15,
       2
     ],
     "tag_id": [
@@ -10510,10 +10512,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3251,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051049,
     "desc": 26052049,
     "card_image": "fu_3250",
@@ -10524,7 +10526,7 @@
     "args": [
       5,
       1,
-      2
+      3
     ],
     "tag_id": [
       26054001,
@@ -10540,10 +10542,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051050,
     "desc": 26052050,
     "card_image": "fu_3250",
@@ -10554,7 +10556,7 @@
     "args": [
       5,
       2,
-      3
+      6
     ],
     "tag_id": [
       26054001,
@@ -10930,10 +10932,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3331,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051065,
     "desc": 26052065,
     "card_image": "fu_3330",
@@ -10957,10 +10959,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051066,
     "desc": 26052066,
     "card_image": "fu_3330",
@@ -10984,10 +10986,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3341,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051067,
     "desc": 26052067,
     "card_image": "fu_3340",
@@ -11007,10 +11009,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051068,
     "desc": 26052068,
     "card_image": "fu_3340",
@@ -11030,10 +11032,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3351,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051069,
     "desc": 26052069,
     "card_image": "fu_3350",
@@ -11055,10 +11057,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051070,
     "desc": 26052070,
     "card_image": "fu_3350",
@@ -11094,7 +11096,7 @@
     "args": [
       100,
       5,
-      500
+      1000
     ],
     "tag_id": []
   },
@@ -11121,7 +11123,7 @@
     "args": [
       100,
       5,
-      1000
+      2000
     ],
     "tag_id": []
   },
@@ -11143,11 +11145,11 @@
     "card_image": "fu_3370",
     "card_remark": null,
     "init_param_view": [
-      5
+      8
     ],
     "args": [
       3000,
-      5
+      8
     ],
     "tag_id": []
   },
@@ -11169,11 +11171,11 @@
     "card_image": "fu_3370",
     "card_remark": 1,
     "init_param_view": [
-      5
+      8
     ],
     "args": [
       5000,
-      5
+      8
     ],
     "tag_id": []
   },
@@ -11282,10 +11284,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3401,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051079,
     "desc": 26052079,
     "card_image": "fu_3400",
@@ -11309,10 +11311,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 3,
-    "price": 12,
+    "rarity": 4,
+    "price": 6,
     "can_sell": 1,
-    "sell_price": 6,
+    "sell_price": 3,
     "name": 26051080,
     "desc": 26052080,
     "card_image": "fu_3400",
@@ -11346,7 +11348,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      6
+      12
     ],
     "tag_id": [
       25084009
@@ -11688,7 +11690,7 @@
   {
     "id": 3480,
     "book_enabled": 1,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -11713,7 +11715,7 @@
   {
     "id": 3481,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
@@ -11792,7 +11794,7 @@
   {
     "id": 3500,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14",
     "effect_group": null,
     "shop_badge": null,
@@ -11818,7 +11820,7 @@
   {
     "id": 3501,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "14",
     "effect_group": null,
     "shop_badge": null,
@@ -11965,17 +11967,17 @@
   },
   {
     "id": 3530,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": "6,8",
     "effect_group": 3,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3531,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 26051105,
     "desc": 26052105,
     "card_image": "fu_3530",
@@ -11983,7 +11985,7 @@
     "init_param_view": [],
     "args": [
       6,
-      4
+      6
     ],
     "tag_id": [
       26054001,
@@ -11999,10 +12001,10 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 26051106,
     "desc": 26052106,
     "card_image": "fu_3530",
@@ -12010,7 +12012,7 @@
     "init_param_view": [],
     "args": [
       6,
-      8
+      12
     ],
     "tag_id": [
       26054001,
@@ -12192,7 +12194,7 @@
   {
     "id": 3570,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -12217,7 +12219,7 @@
   {
     "id": 3571,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "10",
     "effect_group": null,
     "shop_badge": null,
@@ -12293,24 +12295,24 @@
   },
   {
     "id": 3590,
-    "book_enabled": null,
+    "book_enabled": 1,
     "deprecated": null,
     "group": null,
     "effect_group": null,
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": 3591,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 26051117,
     "desc": 26052117,
     "card_image": "fu_3590",
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      3
+      2
     ],
     "tag_id": [
       25084002
@@ -12325,17 +12327,17 @@
     "shop_badge": null,
     "duplicate_enabled": null,
     "upgrade": null,
-    "rarity": 2,
-    "price": 18,
+    "rarity": 3,
+    "price": 12,
     "can_sell": 1,
-    "sell_price": 9,
+    "sell_price": 6,
     "name": 26051118,
     "desc": 26052118,
     "card_image": "fu_3590",
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      6
+      3
     ],
     "tag_id": [
       25084002
@@ -12412,7 +12414,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      3
+      6
     ],
     "tag_id": [
       26054007
@@ -12437,7 +12439,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      5
+      10
     ],
     "tag_id": [
       26054007
@@ -12538,7 +12540,7 @@
   {
     "id": 3640,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "16,11",
     "effect_group": null,
     "shop_badge": null,
@@ -12566,7 +12568,7 @@
   {
     "id": 3641,
     "book_enabled": null,
-    "deprecated": null,
+    "deprecated": 1,
     "group": "16,11",
     "effect_group": null,
     "shop_badge": null,
@@ -12711,7 +12713,7 @@
     ],
     "args": [
       18,
-      150
+      300
     ],
     "tag_id": [
       25084009
@@ -12739,7 +12741,7 @@
     ],
     "args": [
       18,
-      200
+      600
     ],
     "tag_id": [
       25084009
@@ -12813,7 +12815,7 @@
     ],
     "args": [
       300,
-      100
+      200
     ],
     "tag_id": []
   },
@@ -12839,7 +12841,7 @@
     ],
     "args": [
       300,
-      200
+      400
     ],
     "tag_id": []
   },
@@ -12964,7 +12966,7 @@
     "card_remark": null,
     "init_param_view": [],
     "args": [
-      5,
+      15,
       1
     ],
     "tag_id": [
@@ -12990,7 +12992,7 @@
     "card_remark": 1,
     "init_param_view": [],
     "args": [
-      8,
+      30,
       1
     ],
     "tag_id": [
@@ -13017,7 +13019,7 @@
     "init_param_view": [],
     "args": [
       3,
-      30,
+      50,
       1,
       1
     ],
@@ -13046,7 +13048,7 @@
     "init_param_view": [],
     "args": [
       3,
-      60,
+      100,
       1,
       1
     ],
@@ -13806,7 +13808,7 @@
     ],
     "args": [
       100,
-      500,
+      1000,
       64,
       3280
     ],
@@ -13837,7 +13839,7 @@
     ],
     "args": [
       100,
-      1000,
+      2000,
       64,
       3280
     ],
@@ -13896,5 +13898,415 @@
       25084019,
       26054009
     ]
+  },
+  {
+    "id": 4010,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "14",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4011,
+    "rarity": 4,
+    "price": 6,
+    "can_sell": 1,
+    "sell_price": 3,
+    "name": 26108101,
+    "desc": 26108151,
+    "card_image": "fu_4010",
+    "card_remark": null,
+    "init_param_view": [
+      0
+    ],
+    "args": [
+      3,
+      1
+    ],
+    "tag_id": [
+      25084001
+    ]
+  },
+  {
+    "id": 4011,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "14",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 4,
+    "price": 6,
+    "can_sell": 1,
+    "sell_price": 3,
+    "name": 26108102,
+    "desc": 26108152,
+    "card_image": "fu_4010",
+    "card_remark": 1,
+    "init_param_view": [
+      0
+    ],
+    "args": [
+      3,
+      2
+    ],
+    "tag_id": [
+      25084001
+    ]
+  },
+  {
+    "id": 4020,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "16",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4021,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108103,
+    "desc": 26108153,
+    "card_image": "fu_4020",
+    "card_remark": null,
+    "init_param_view": [],
+    "args": [
+      1
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4021,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "16",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108104,
+    "desc": 26108154,
+    "card_image": "fu_4020",
+    "card_remark": 1,
+    "init_param_view": [],
+    "args": [
+      2
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4030,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4031,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108105,
+    "desc": 26108155,
+    "card_image": "fu_4030",
+    "card_remark": null,
+    "init_param_view": [
+      0
+    ],
+    "args": [
+      1,
+      108,
+      3280
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4031,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108106,
+    "desc": 26108156,
+    "card_image": "fu_4030",
+    "card_remark": 1,
+    "init_param_view": [
+      0
+    ],
+    "args": [
+      2,
+      108,
+      3280
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4040,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "14,4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4041,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108107,
+    "desc": 26108157,
+    "card_image": "fu_4040",
+    "card_remark": null,
+    "init_param_view": [],
+    "args": [
+      1,
+      100
+    ],
+    "tag_id": [
+      26054008
+    ]
+  },
+  {
+    "id": 4041,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "14,4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108108,
+    "desc": 26108158,
+    "card_image": "fu_4040",
+    "card_remark": 1,
+    "init_param_view": [],
+    "args": [
+      1,
+      200
+    ],
+    "tag_id": [
+      26054008
+    ]
+  },
+  {
+    "id": 4050,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "3",
+    "effect_group": 3,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4051,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108109,
+    "desc": 26108159,
+    "card_image": "fu_4050",
+    "card_remark": null,
+    "init_param_view": [],
+    "args": [
+      2
+    ],
+    "tag_id": [
+      26054001,
+      26054003
+    ]
+  },
+  {
+    "id": 4051,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "3",
+    "effect_group": 3,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108110,
+    "desc": 26108160,
+    "card_image": "fu_4050",
+    "card_remark": 1,
+    "init_param_view": [],
+    "args": [
+      4
+    ],
+    "tag_id": [
+      26054001,
+      26054003
+    ]
+  },
+  {
+    "id": 4060,
+    "book_enabled": 1,
+    "deprecated": null,
+    "group": "4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4061,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108111,
+    "desc": 26108161,
+    "card_image": "fu_4060",
+    "card_remark": null,
+    "init_param_view": [],
+    "args": [
+      4,
+      3
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4061,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "4",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 3,
+    "price": 12,
+    "can_sell": 1,
+    "sell_price": 6,
+    "name": 26108112,
+    "desc": 26108162,
+    "card_image": "fu_4060",
+    "card_remark": 1,
+    "init_param_view": [],
+    "args": [
+      6,
+      3
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4070,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "14",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4071,
+    "rarity": 2,
+    "price": 18,
+    "can_sell": 1,
+    "sell_price": 9,
+    "name": 26108113,
+    "desc": 26108163,
+    "card_image": "fu_4070",
+    "card_remark": null,
+    "init_param_view": [],
+    "args": [
+      1
+    ],
+    "tag_id": [
+      25084001
+    ]
+  },
+  {
+    "id": 4071,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "14",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 2,
+    "price": 18,
+    "can_sell": 1,
+    "sell_price": 9,
+    "name": 26108114,
+    "desc": 26108164,
+    "card_image": "fu_4070",
+    "card_remark": 1,
+    "init_param_view": [],
+    "args": [
+      2
+    ],
+    "tag_id": [
+      25084001
+    ]
+  },
+  {
+    "id": 4080,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "6,8",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": 4081,
+    "rarity": 1,
+    "price": 24,
+    "can_sell": 1,
+    "sell_price": 12,
+    "name": 26108115,
+    "desc": 26108165,
+    "card_image": "fu_4080",
+    "card_remark": null,
+    "init_param_view": [
+      100
+    ],
+    "args": [
+      50,
+      100
+    ],
+    "tag_id": []
+  },
+  {
+    "id": 4081,
+    "book_enabled": null,
+    "deprecated": null,
+    "group": "6,8",
+    "effect_group": null,
+    "shop_badge": null,
+    "duplicate_enabled": null,
+    "upgrade": null,
+    "rarity": 1,
+    "price": 24,
+    "can_sell": 1,
+    "sell_price": 12,
+    "name": 26108116,
+    "desc": 26108166,
+    "card_image": "fu_4080",
+    "card_remark": 1,
+    "init_param_view": [
+      100
+    ],
+    "args": [
+      100,
+      100
+    ],
+    "tag_id": []
   }
 ]

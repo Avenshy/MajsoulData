@@ -9,7 +9,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 15,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -25,7 +29,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 30,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -41,7 +49,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 45,
     "effect": 160,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -57,7 +69,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 60,
     "effect": 180,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -73,7 +89,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 75,
     "effect": 200,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -89,7 +109,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 20,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -105,7 +129,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 40,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -121,7 +149,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 60,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -137,7 +169,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 80,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -153,7 +189,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 100,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -169,7 +209,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 10,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -185,7 +229,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 20,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -201,7 +249,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 30,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -217,7 +269,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 40,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -233,7 +289,11 @@
     "upgrade_resource_id": 309030,
     "upgrade_resource_count": 50,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -249,7 +309,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -265,7 +329,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -281,7 +349,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 160,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -297,7 +369,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 180,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -313,7 +389,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 200,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -329,7 +409,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -345,7 +429,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -361,7 +449,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -377,7 +469,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -393,7 +489,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -409,7 +509,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -425,7 +529,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -441,7 +549,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -457,7 +569,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -473,7 +589,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -489,7 +609,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -505,7 +629,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -521,7 +649,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -537,7 +669,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -553,7 +689,11 @@
     "upgrade_resource_id": 309034,
     "upgrade_resource_count": 1,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -569,7 +709,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -585,7 +729,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -601,7 +749,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -617,7 +769,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -633,7 +789,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -649,7 +809,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -665,7 +829,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -681,7 +849,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 160,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -697,7 +869,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 180,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -713,7 +889,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 200,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -729,7 +909,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -745,7 +929,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -761,7 +949,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 15,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -777,7 +969,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -793,7 +989,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 25,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -809,7 +1009,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -825,7 +1029,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -841,7 +1049,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 15,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -857,7 +1069,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -873,7 +1089,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 1,
     "effect": 25,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -889,7 +1109,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 2,
     "effect": 105,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -905,7 +1129,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 3,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -921,7 +1149,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 4,
     "effect": 115,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -937,7 +1169,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 2,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -953,7 +1189,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 3,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -969,7 +1209,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 4,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -985,7 +1229,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 2,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1001,7 +1249,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 3,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1017,7 +1269,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 4,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1033,7 +1289,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 2,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1049,7 +1309,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 3,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1065,7 +1329,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 4,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1081,7 +1349,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 2,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1097,7 +1369,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 3,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1113,7 +1389,11 @@
     "upgrade_resource_id": 309041,
     "upgrade_resource_count": 4,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": null,
     "effect_desc_2": null,
     "limit_count": null,
@@ -1529,7 +1809,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3091,
     "effect_desc_2": 3094,
     "limit_count": 2,
@@ -1545,7 +1829,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3091,
     "effect_desc_2": 3094,
     "limit_count": 2,
@@ -1561,7 +1849,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 160,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3091,
     "effect_desc_2": 3094,
     "limit_count": 2,
@@ -1577,7 +1869,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 180,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3091,
     "effect_desc_2": 3094,
     "limit_count": 2,
@@ -1593,7 +1889,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 200,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3091,
     "effect_desc_2": 3094,
     "limit_count": 2,
@@ -1609,7 +1909,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3092,
     "effect_desc_2": 3095,
     "limit_count": null,
@@ -1625,7 +1929,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3092,
     "effect_desc_2": 3095,
     "limit_count": null,
@@ -1641,7 +1949,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 160,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3092,
     "effect_desc_2": 3095,
     "limit_count": null,
@@ -1657,7 +1969,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 180,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3092,
     "effect_desc_2": 3095,
     "limit_count": null,
@@ -1673,7 +1989,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 200,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3092,
     "effect_desc_2": 3095,
     "limit_count": null,
@@ -1689,7 +2009,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 110,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3093,
     "effect_desc_2": 3096,
     "limit_count": null,
@@ -1705,7 +2029,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 120,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3093,
     "effect_desc_2": 3096,
     "limit_count": null,
@@ -1721,7 +2049,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 130,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3093,
     "effect_desc_2": 3096,
     "limit_count": null,
@@ -1737,7 +2069,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 140,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3093,
     "effect_desc_2": 3096,
     "limit_count": null,
@@ -1753,7 +2089,11 @@
     "upgrade_resource_id": 30900078,
     "upgrade_resource_count": 1,
     "effect": 150,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 3093,
     "effect_desc_2": 3096,
     "limit_count": null,
@@ -2069,7 +2409,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040021,
     "effect_desc_2": 26040041,
     "limit_count": null,
@@ -2085,7 +2429,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040021,
     "effect_desc_2": 26040041,
     "limit_count": null,
@@ -2101,7 +2449,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 8,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040021,
     "effect_desc_2": 26040041,
     "limit_count": null,
@@ -2117,7 +2469,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040022,
     "effect_desc_2": 26040042,
     "limit_count": null,
@@ -2133,7 +2489,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040022,
     "effect_desc_2": 26040042,
     "limit_count": null,
@@ -2149,7 +2509,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 8,
     "effect": 18,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040022,
     "effect_desc_2": 26040042,
     "limit_count": null,
@@ -2165,7 +2529,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 3,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040023,
     "effect_desc_2": 26040043,
     "limit_count": null,
@@ -2181,7 +2549,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 7,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040023,
     "effect_desc_2": 26040043,
     "limit_count": null,
@@ -2197,7 +2569,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 8,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040023,
     "effect_desc_2": 26040043,
     "limit_count": null,
@@ -2213,7 +2589,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040024,
     "effect_desc_2": 26040044,
     "limit_count": null,
@@ -2229,7 +2609,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040024,
     "effect_desc_2": 26040044,
     "limit_count": null,
@@ -2245,7 +2629,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040024,
     "effect_desc_2": 26040044,
     "limit_count": null,
@@ -2261,7 +2649,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040025,
     "effect_desc_2": 26040045,
     "limit_count": null,
@@ -2277,7 +2669,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040025,
     "effect_desc_2": 26040045,
     "limit_count": null,
@@ -2293,7 +2689,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 18,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040025,
     "effect_desc_2": 26040045,
     "limit_count": null,
@@ -2309,7 +2709,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 3,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040026,
     "effect_desc_2": 26040046,
     "limit_count": null,
@@ -2325,7 +2729,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 7,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040026,
     "effect_desc_2": 26040046,
     "limit_count": null,
@@ -2341,7 +2749,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040026,
     "effect_desc_2": 26040046,
     "limit_count": null,
@@ -2357,7 +2769,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040027,
     "effect_desc_2": 26040047,
     "limit_count": null,
@@ -2373,7 +2789,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040027,
     "effect_desc_2": 26040047,
     "limit_count": null,
@@ -2389,7 +2809,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040027,
     "effect_desc_2": 26040047,
     "limit_count": null,
@@ -2405,7 +2829,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040028,
     "effect_desc_2": 26040048,
     "limit_count": null,
@@ -2421,7 +2849,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040028,
     "effect_desc_2": 26040048,
     "limit_count": null,
@@ -2437,7 +2869,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 18,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040028,
     "effect_desc_2": 26040048,
     "limit_count": null,
@@ -2453,7 +2889,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 3,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040029,
     "effect_desc_2": 26040049,
     "limit_count": null,
@@ -2469,7 +2909,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 7,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040029,
     "effect_desc_2": 26040049,
     "limit_count": null,
@@ -2485,7 +2929,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040029,
     "effect_desc_2": 26040049,
     "limit_count": null,
@@ -2501,7 +2949,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040030,
     "effect_desc_2": 26040050,
     "limit_count": null,
@@ -2517,7 +2969,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040030,
     "effect_desc_2": 26040050,
     "limit_count": null,
@@ -2533,7 +2989,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040030,
     "effect_desc_2": 26040050,
     "limit_count": null,
@@ -2549,7 +3009,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 5,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040031,
     "effect_desc_2": 26040051,
     "limit_count": null,
@@ -2565,7 +3029,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040031,
     "effect_desc_2": 26040051,
     "limit_count": null,
@@ -2581,7 +3049,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 18,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040031,
     "effect_desc_2": 26040051,
     "limit_count": null,
@@ -2597,7 +3069,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 3,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040032,
     "effect_desc_2": 26040052,
     "limit_count": null,
@@ -2613,7 +3089,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 7,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040032,
     "effect_desc_2": 26040052,
     "limit_count": null,
@@ -2629,7 +3109,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 12,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040032,
     "effect_desc_2": 26040052,
     "limit_count": null,
@@ -2645,7 +3129,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 1,
     "effect": 10,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040033,
     "effect_desc_2": 26040053,
     "limit_count": null,
@@ -2661,7 +3149,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 2,
     "effect": 20,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040033,
     "effect_desc_2": 26040053,
     "limit_count": null,
@@ -2677,7 +3169,11 @@
     "upgrade_resource_id": 30900103,
     "upgrade_resource_count": 4,
     "effect": 40,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26040033,
     "effect_desc_2": 26040053,
     "limit_count": null,
@@ -2693,7 +3189,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043001,
     "effect_desc_2": 26044001,
     "limit_count": null,
@@ -2709,7 +3209,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 1001,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043002,
     "effect_desc_2": 26044002,
     "limit_count": null,
@@ -2725,7 +3229,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043003,
     "effect_desc_2": 26044003,
     "limit_count": null,
@@ -2741,7 +3249,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043004,
     "effect_desc_2": 26044004,
     "limit_count": null,
@@ -2757,7 +3269,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043005,
     "effect_desc_2": 26044005,
     "limit_count": null,
@@ -2773,7 +3289,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 1001,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043006,
     "effect_desc_2": 26044006,
     "limit_count": null,
@@ -2789,7 +3309,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043007,
     "effect_desc_2": 26044007,
     "limit_count": null,
@@ -2805,7 +3329,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043008,
     "effect_desc_2": 26044008,
     "limit_count": null,
@@ -2821,7 +3349,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043009,
     "effect_desc_2": 26044009,
     "limit_count": null,
@@ -2837,7 +3369,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 101,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043010,
     "effect_desc_2": 26044010,
     "limit_count": null,
@@ -2853,7 +3389,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 1001,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043011,
     "effect_desc_2": 26044011,
     "limit_count": null,
@@ -2869,7 +3409,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043012,
     "effect_desc_2": 26044012,
     "limit_count": null,
@@ -2885,7 +3429,11 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 70001000,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043013,
     "effect_desc_2": 26044013,
     "limit_count": null,
@@ -2901,9 +3449,313 @@
     "upgrade_resource_id": 0,
     "upgrade_resource_count": 0,
     "effect": 102,
-    "unlock_params": [],
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
     "effect_desc": 26043014,
     "effect_desc_2": 26044014,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100201,
+    "activity_id": 261002,
+    "buff_level": 1,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 110,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100001,
+    "effect_desc_2": 26100004,
+    "limit_count": 2,
+    "limit_interval": 1
+  },
+  {
+    "buff_id": 26100201,
+    "activity_id": 261002,
+    "buff_level": 2,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 120,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100001,
+    "effect_desc_2": 26100004,
+    "limit_count": 2,
+    "limit_interval": 1
+  },
+  {
+    "buff_id": 26100201,
+    "activity_id": 261002,
+    "buff_level": 3,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 130,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100001,
+    "effect_desc_2": 26100004,
+    "limit_count": 2,
+    "limit_interval": 1
+  },
+  {
+    "buff_id": 26100201,
+    "activity_id": 261002,
+    "buff_level": 4,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 140,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100001,
+    "effect_desc_2": 26100004,
+    "limit_count": 2,
+    "limit_interval": 1
+  },
+  {
+    "buff_id": 26100201,
+    "activity_id": 261002,
+    "buff_level": 5,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 150,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100001,
+    "effect_desc_2": 26100004,
+    "limit_count": 2,
+    "limit_interval": 1
+  },
+  {
+    "buff_id": 26100202,
+    "activity_id": 261002,
+    "buff_level": 1,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 120,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100002,
+    "effect_desc_2": 26100005,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100202,
+    "activity_id": 261002,
+    "buff_level": 2,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 140,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100002,
+    "effect_desc_2": 26100005,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100202,
+    "activity_id": 261002,
+    "buff_level": 3,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 160,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100002,
+    "effect_desc_2": 26100005,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100202,
+    "activity_id": 261002,
+    "buff_level": 4,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 180,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100002,
+    "effect_desc_2": 26100005,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100202,
+    "activity_id": 261002,
+    "buff_level": 5,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 200,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100002,
+    "effect_desc_2": 26100005,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100203,
+    "activity_id": 261002,
+    "buff_level": 1,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 120,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100003,
+    "effect_desc_2": 26100006,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100203,
+    "activity_id": 261002,
+    "buff_level": 2,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 140,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100003,
+    "effect_desc_2": 26100006,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100203,
+    "activity_id": 261002,
+    "buff_level": 3,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 160,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100003,
+    "effect_desc_2": 26100006,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100203,
+    "activity_id": 261002,
+    "buff_level": 4,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 180,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100003,
+    "effect_desc_2": 26100006,
+    "limit_count": null,
+    "limit_interval": null
+  },
+  {
+    "buff_id": 26100203,
+    "activity_id": 261002,
+    "buff_level": 5,
+    "resetable": null,
+    "buff_group": null,
+    "buff_type": 3,
+    "upgrade_resource_id": 30900107,
+    "upgrade_resource_count": 10,
+    "effect": 200,
+    "unlock_params": [
+      0,
+      0,
+      0
+    ],
+    "effect_desc": 26100003,
+    "effect_desc_2": 26100006,
     "limit_count": null,
     "limit_interval": null
   }

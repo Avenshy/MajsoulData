@@ -1692,6 +1692,78 @@
     }
   },
   {
+    "id": 5900041,
+    "type": 1,
+    "reward": "302007-1",
+    "content": {
+      "chs": "解锁结局【并肩作战的开始】",
+      "chs_t": "解鎖結局【並肩作戰的開始】",
+      "jp": "End1.協力開始",
+      "en": "Unlock the Ending - Together in the Name of Justice",
+      "kr": "End1. 협동작전의 시작"
+    }
+  },
+  {
+    "id": 5900042,
+    "type": 3,
+    "reward": "100002-8000",
+    "content": {
+      "chs": "解锁结局【正义魔女的燃尽日】",
+      "chs_t": "解鎖結局【正義魔女的燃盡日】",
+      "jp": "End2.正義の魔女、燃え尽きる",
+      "en": "Unlock the Ending - The Witch of Justice Gives Her All",
+      "kr": "End2. 모든 것을 불태운 정의의 마녀"
+    }
+  },
+  {
+    "id": 5900051,
+    "type": 1,
+    "reward": "304005-1",
+    "content": {
+      "chs": "解锁结局【理想的正义】",
+      "chs_t": "解鎖結局【理想的正義】",
+      "jp": "End3.理想の正義",
+      "en": "Unlock the Ending - Justice as It Should Be",
+      "kr": "End3. 이상의 정의"
+    }
+  },
+  {
+    "id": 5900052,
+    "type": 3,
+    "reward": "302012-1,100002-12000",
+    "content": {
+      "chs": "解锁结局【对抗邪恶的代价】",
+      "chs_t": "解鎖結局【對抗邪惡的代價】",
+      "jp": "End4.悪に立ち向かった代償",
+      "en": "Unlock the Ending - The Price of Fighting Evil",
+      "kr": "End4. 악에 맞서는 대가"
+    }
+  },
+  {
+    "id": 5900061,
+    "type": 1,
+    "reward": "302001-1",
+    "content": {
+      "chs": "解锁结局【魔女的契约】",
+      "chs_t": "解鎖結局【魔女的契約】",
+      "jp": "End5.魔女との契約",
+      "en": "Unlock the Ending - An Everlasting Bond",
+      "kr": "End5. 마녀의 계약"
+    }
+  },
+  {
+    "id": 5900062,
+    "type": 3,
+    "reward": "304006-1",
+    "content": {
+      "chs": "解锁结局【未竟的解药】",
+      "chs_t": "解鎖結局【未竟的解藥】",
+      "jp": "End6.未完成の解呪薬",
+      "en": "Unlock the Ending - A Cure Yet to Come",
+      "kr": "End6. 완성하지 못한 해독제"
+    }
+  },
+  {
     "id": 9400041,
     "type": 1,
     "reward": "302005-1",

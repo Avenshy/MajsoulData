@@ -1,6 +1,12 @@
 [
   {
     "id": 308048,
-    "hide_direction": "1,0,1,0"
+    "hide_direction": "1,0,1,0",
+    "animation_time": 0
+  },
+  {
+    "id": 30560013,
+    "hide_direction": "",
+    "animation_time": 2500
   }
 ]

@@ -1,13 +1,13 @@
 {
   "client_url": "https://game.maj-soul.com/1/",
   "issuer": "chs_t",
-  "product_version": "4.0.47",
-  "loader": "chs_t-WebGL-release-4.0.47(47).loader.js",
+  "product_version": "4.0.51",
+  "loader": "chs_t-WebGL-release-4.0.51(51).loader.js",
   "bundle_profile": "ASTC",
-  "bundle_hash": "32a94aec59119f2bc06bb675989674a810cdeaa7",
+  "bundle_hash": "aeed8ac264cef3020e36e86df584f1b71a7437ee",
   "raw_dir": "raw",
   "tables": 283,
-  "rows": 72902,
+  "rows": 74482,
   "locale_sources": 461,
   "skipped_modules": 0,
   "protocol": {
@@ -22,12 +22,12 @@
     "doc": "protoc-gen-doc"
   },
   "client_data": {
-    "docs_json": 194,
+    "docs_json": 197,
     "docs_version_json": 2,
-    "spot_scripts": 792,
-    "deco_illust_json": 424,
-    "deco_character_json": 36,
-    "spine_info_csv": 33,
-    "ui_atlas_json": 330
+    "spot_scripts": 807,
+    "deco_illust_json": 451,
+    "deco_character_json": 35,
+    "spine_info_csv": 32,
+    "ui_atlas_json": 333
   }
 }

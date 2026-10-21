@@ -1,0 +1,1490 @@
+[
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 422,
+    "text": "4. Code of the Witch of Justice: World Peace Must Be Protected!"
+  },
+  {
+    "line": 423,
+    "text": "???"
+  },
+  {
+    "line": 426,
+    "text": "Argh-Argh"
+  },
+  {
+    "line": 427,
+    "text": "Argh-argh!!"
+  },
+  {
+    "line": 428,
+    "text": "You want me to follow you...? Whoa, you're stronger than you look!"
+  },
+  {
+    "line": 429,
+    "text": "Frenzied Sparrows"
+  },
+  {
+    "line": 431,
+    "text": "Yuzu"
+  },
+  {
+    "line": 433,
+    "text": "...{var:player_nickname}?!"
+  },
+  {
+    "line": 435,
+    "text": "...Hey there?"
+  },
+  {
+    "line": 437,
+    "text": "Argh-arar?"
+  },
+  {
+    "line": 438,
+    "text": "I-I never said I wanted {var:player_nickname} to join us! Don't make things up!"
+  },
+  {
+    "line": 439,
+    "text": "Argh-Argh"
+  },
+  {
+    "line": 440,
+    "text": "Argh-arghhh..."
+  },
+  {
+    "line": 442,
+    "text": "Well, fine... {var:player_nickname}, hold out your hand and lend me your power!"
+  },
+  {
+    "line": 443,
+    "text": "(Take her hand)"
+  },
+  {
+    "line": 446,
+    "text": "A soft yet powerful radiance bursts from her staff, washing over the entire gym."
+  },
+  {
+    "line": 447,
+    "text": "The once-frenzied sparrows grow calm, settling peacefully onto the floor one by one."
+  },
+  {
+    "line": 448,
+    "text": "Phew... All done! Heh heh, never doubt the Witch of Justice."
+  },
+  {
+    "line": 449,
+    "text": "...So, what actually happened here?"
+  },
+  {
+    "line": 451,
+    "text": "I tried to catch him to figure out what was wrong, but he flew off..."
+  },
+  {
+    "line": 452,
+    "text": "While searching for him, I noticed that all the other sparrows in the neighborhood were acting just as crazy."
+  },
+  {
+    "line": 453,
+    "text": "To make sure no innocent people got hurt, I gathered them all here and tried to calm them down with magic."
+  },
+  {
+    "line": 455,
+    "text": "(Look at her catching her breath)"
+  },
+  {
+    "line": 457,
+    "text": "(Notice the feathers stuck in her hair)"
+  },
+  {
+    "line": 459,
+    "text": "Doesn't exactly look like it was nothing to me..."
+  },
+  {
+    "line": 460,
+    "text": "Argh-gh... J-just look at this!"
+  },
+  {
+    "line": 461,
+    "text": "What is this...?"
+  },
+  {
+    "line": 463,
+    "text": "There's definitely something evil behind this."
+  },
+  {
+    "line": 464,
+    "text": "And according to the Red Panda Squad, other animals in One Han City have been acting restless too. This can only mean one thing..."
+  },
+  {
+    "line": 466,
+    "text": "That's so terrifying!!"
+  },
+  {
+    "line": 467,
+    "text": "Ah, another day, another crisis in One Han City."
+  },
+  {
+    "line": 468,
+    "text": "Don't worry! With me around, everything's gonna be fine. I'll track down Piji and save all the animals!"
+  },
+  {
+    "line": 469,
+    "text": "So this is what it feels like to have the Witch of Justice looking out for you... How reassuring."
+  },
+  {
+    "line": 471,
+    "text": "Why is that?"
+  },
+  {
+    "line": 472,
+    "text": "Just think about it. Evil magic must be dealt with quietly using justice magic! If we panic the citizens, the mastermind will just get smug and escalate the whole thing."
+  },
+  {
+    "line": 473,
+    "text": "As the Witch of Justice, I have to nip any threat of chaos, war, or apocalypse right in the bud!"
+  },
+  {
+    "line": 474,
+    "text": "You're already planning for world-ending threats?!"
+  },
+  {
+    "line": 475,
+    "text": "Setting all that cosmic drama aside..."
+  },
+  {
+    "line": 476,
+    "text": "Did you skip class again today?"
+  },
+  {
+    "line": 477,
+    "text": "Everyone's going to worry about you, you know."
+  },
+  {
+    "line": 478,
+    "text": "W-worry about me?"
+  },
+  {
+    "line": 480,
+    "text": "...Still, causing distress to the people around me isn't very witch-of-justice-like either."
+  },
+  {
+    "line": 481,
+    "text": "Fine, I'll write an apology letter to my teacher."
+  },
+  {
+    "line": 482,
+    "text": "But can you keep this just between us for now, {var:player_nickname}?"
+  },
+  {
+    "line": 483,
+    "text": "Deal. But on one condition."
+  },
+  {
+    "line": 484,
+    "text": "A-argh! Taking advantage of a witch in a tight spot like this..."
+  },
+  {
+    "line": 485,
+    "text": "I'm joining the investigation with you."
+  },
+  {
+    "line": 486,
+    "text": "Is the age on your student ID actually real?"
+  },
+  {
+    "line": 487,
+    "text": "Argh... Knowing how clingy you are, {var:player_nickname}, I can't say I'm surprised."
+  },
+  {
+    "line": 489,
+    "text": "And here I thought you'd say something kinda cool, like \"I want to come with you and help investigate\"..."
+  },
+  {
+    "line": 490,
+    "text": "..."
+  },
+  {
+    "line": 492,
+    "text": "In that case, let's go with that condition."
+  },
+  {
+    "line": 493,
+    "text": "...Hmph, you sure change your mind easily. Fine, given your dedication to defending justice..."
+  },
+  {
+    "line": 494,
+    "text": "For safety's sake, you'll follow my orders from here on out. Got it?"
+  },
+  {
+    "line": 495,
+    "text": "You got it, Captain."
+  },
+  {
+    "line": 496,
+    "text": "After ensuring she officially took the day off, we set out on our investigation."
+  },
+  {
+    "line": 497,
+    "text": "The park is in absolute chaos – dogs are barking frantically, cats are hissing, and their owners can barely keep them under control."
+  },
+  {
+    "line": 499,
+    "text": "A huge flock of seagulls swarms a nearby diner, fighting over a fresh batch of fries."
+  },
+  {
+    "line": 502,
+    "text": "Sara"
+  },
+  {
+    "line": 503,
+    "text": "Oh my goodness, thank you so much! The animals have been acting strangely for days now... Even Ciri, who knows them better than anyone, couldn't figure out what was wrong..."
+  },
+  {
+    "line": 504,
+    "text": "Don't mention it! I'm just glad my magic worked on them."
+  },
+  {
+    "line": 505,
+    "text": "Perfect! We'll just keep calming the animals down like this until we find the source of this great crisis and defeat the evil final boss –"
+  },
+  {
+    "line": 506,
+    "text": "Following the scent of the pollen, we put out one animal disturbance after another across One Han City. Yet despite our progress, Yuzu doesn't look relieved in the slightest..."
+  },
+  {
+    "line": 507,
+    "text": "(Hand her a bottle of water)"
+  },
+  {
+    "line": 508,
+    "text": "Nice work out there. Let's rest for a bit."
+  },
+  {
+    "line": 509,
+    "text": "...Thanks."
+  },
+  {
+    "line": 510,
+    "text": "You know... you've been calling this a \"great crisis\" since the beginning. Could it be that..."
+  },
+  {
+    "line": 511,
+    "text": "...this is your first time handling something this big on your own?"
+  },
+  {
+    "line": 512,
+    "text": "...you're feeling a bit nervous?"
+  },
+  {
+    "line": 513,
+    "text": "!!"
+  },
+  {
+    "line": 514,
+    "text": "N-no way!//nI might still be an apprentice witch, but I already know tons of advanced spells!"
+  },
+  {
+    "line": 515,
+    "text": "It's just..."
+  },
+  {
+    "line": 516,
+    "text": "...things are way worse than I originally thought."
+  },
+  {
+    "line": 517,
+    "text": "The animals are losing control because this pollen is draining their life force."
+  },
+  {
+    "line": 518,
+    "text": "I have no idea how long this has been going on!"
+  },
+  {
+    "line": 519,
+    "text": "And on top of that..."
+  },
+  {
+    "line": 521,
+    "text": "...That really is serious. Who would do something like this to innocent animals?"
+  },
+  {
+    "line": 522,
+    "text": "Exactly! It's unforgivable!!"
+  },
+  {
+    "line": 523,
+    "text": "{var:player_nickname}, you know, all my animal friends always tell me how happy they are to live in One Han City."
+  },
+  {
+    "line": 524,
+    "text": "They can't speak human language, but they're doing their part to keep our city peaceful in their own little ways."
+  },
+  {
+    "line": 525,
+    "text": "Like the bees tending to the flowers, the ants quietly keeping the soil healthy, and Piji..."
+  },
+  {
+    "line": 526,
+    "text": "Sparrow"
+  },
+  {
+    "line": 528,
+    "text": "Of course I can! I'm Yuzu, the Witch of Justice!"
+  },
+  {
+    "line": 530,
+    "text": "Hmm... Even though the road was full of traffic, you kept circling right above that open manhole to warn people. You're so brave! How about I call you Piji the Brave?"
+  },
+  {
+    "line": 531,
+    "text": "Piji the Brave"
+  },
+  {
+    "line": 533,
+    "text": "In that case, Yuzu, Witch of Justice, I'll be your official Justice Informant from now on... Wait, no, not just me! My whole family will be your Justice Informants! We'll protect One Han City together!"
+  },
+  {
+    "line": 534,
+    "text": "Argh... I'm really worried about Piji."
+  },
+  {
+    "line": 535,
+    "text": "He's got it the worst. He became so aggressive that he even attacked me, and my soothing spell didn't work either."
+  },
+  {
+    "line": 536,
+    "text": "We still haven't found him. What if he gets hurt? Or loses control and attacks someone else, and people start thinking he's just a bad bird?!"
+  },
+  {
+    "line": 538,
+    "text": "(Gently pat her on the head)"
+  },
+  {
+    "line": 539,
+    "text": "We'll figure something out. Together."
+  },
+  {
+    "line": 540,
+    "text": "T-together...?"
+  },
+  {
+    "line": 541,
+    "text": "Yeah, you and me."
+  },
+  {
+    "line": 542,
+    "text": "Should we reach out to Kaavi, and your master Leia?"
+  },
+  {
+    "line": 543,
+    "text": "Truth is, as soon as I noticed something was wrong, I tried calling Master and that fortune-telling fraud... but neither of them answered."
+  },
+  {
+    "line": 544,
+    "text": "Huh?"
+  },
+  {
+    "line": 545,
+    "text": "Argh. We witches train under a master, but every witch follows her own code.//nMy code, Kaavi's code, and Master's code are all completely different."
+  },
+  {
+    "line": 546,
+    "text": "My code is Justice. But I can't force other witches to abide by my principles."
+  },
+  {
+    "line": 547,
+    "text": "That's the way of witches. Master made that very clear."
+  },
+  {
+    "line": 548,
+    "text": "I see."
+  },
+  {
+    "line": 549,
+    "text": "Still, just because they follow different codes doesn't mean they'd stand by and let evil go unchecked, right?"
+  },
+  {
+    "line": 550,
+    "text": "I know Kaavi from her fortune-telling, but I haven't met Leia yet. You said she came to One Han City too. Is her magic really that powerful?"
+  },
+  {
+    "line": 551,
+    "text": "Argh-argh... What I said about Master still stands. You really shouldn't get too curious about her."
+  },
+  {
+    "line": 552,
+    "text": "She's dangerous. And besides, this time..."
+  },
+  {
+    "line": 553,
+    "text": "Hm?"
+  },
+  {
+    "line": 554,
+    "text": "Never mind... It's probably just my imagination."
+  },
+  {
+    "line": 555,
+    "text": "Alright, enough dwelling! We don't have time to waste!"
+  },
+  {
+    "line": 556,
+    "text": "We need to deal with the crisis in front of us first.//nAs for the next spot where lots of animals gather... there's only one place left –"
+  },
+  {
+    "line": 557,
+    "text": "The zoo!"
+  },
+  {
+    "line": 558,
+    "text": "Loudspeaker"
+  },
+  {
+    "line": 559,
+    "text": "Attention, please! This is an emergency. All visitors, please evacuate the premises in an orderly manner!"
+  },
+  {
+    "line": 560,
+    "text": "Argh, that sounds bad. Let's go check it out!"
+  },
+  {
+    "line": 561,
+    "text": "Restless Elephant"
+  },
+  {
+    "line": 562,
+    "text": "ROAAAR!"
+  },
+  {
+    "line": 563,
+    "text": "Taking advantage of the chaos, we slip into the zoo through a fence knocked down by the elephants."
+  },
+  {
+    "line": 564,
+    "text": "In the distance, several adult elephants have broken through multiple fences, leaving the keepers and security guards utterly helpless."
+  },
+  {
+    "line": 565,
+    "text": "Zoo Guard"
+  },
+  {
+    "line": 566,
+    "text": "They're completely out of control! If they keep heading toward the exit, we'll have no choice but to use tranquilizer darts!"
+  },
+  {
+    "line": 567,
+    "text": "Zookeeper"
+  },
+  {
+    "line": 569,
+    "text": "Argh! That's the matriarch! Elephants are super smart, so she might know what's going on."
+  },
+  {
+    "line": 570,
+    "text": "We need to calm her down right away. {var:player_nickname}, I need to talk to her directly."
+  },
+  {
+    "line": 571,
+    "text": "That's way too dangerous!"
+  },
+  {
+    "line": 572,
+    "text": "I know a spell that lets me communicate from a distance, but I need a clear line of sight..."
+  },
+  {
+    "line": 573,
+    "text": "Elephant"
+  },
+  {
+    "line": 574,
+    "text": "ROAAAR!"
+  },
+  {
+    "line": 575,
+    "text": "They're going completely berserk!!"
+  },
+  {
+    "line": 576,
+    "text": "I need eye contact with the matriarch to set up the magic circle! {var:player_nickname}, get me a ladder, a stool, anything!"
+  },
+  {
+    "line": 577,
+    "text": "Where am I supposed to find something like that right now?!"
+  },
+  {
+    "line": 579,
+    "text": "Sorry in advance for this –"
+  },
+  {
+    "line": 581,
+    "text": "(Lift her up)"
+  },
+  {
+    "line": 584,
+    "text": "The surrounding scenery blurs into a haze."
+  },
+  {
+    "line": 585,
+    "text": "The silhouette of the elephant emerges within the magic circle. Her anxious trumpeting softens, transforming into clear, intelligible words in my ear."
+  },
+  {
+    "line": 586,
+    "text": "Matriarch Sanma"
+  },
+  {
+    "line": 588,
+    "text": "Matriarch Sanma, we just want to talk!"
+  },
+  {
+    "line": 589,
+    "text": "...We never wished to cause chaos."
+  },
+  {
+    "line": 590,
+    "text": "But if we stay here, on this land, nothing awaits us... except death."
+  },
+  {
+    "line": 591,
+    "text": "My family and I have all fallen ill."
+  },
+  {
+    "line": 592,
+    "text": "A sudden, inexplicable weakness, hunger, and restlessness came over us... as if death itself were hanging over our heads."
+  },
+  {
+    "line": 593,
+    "text": "I can endure the suffering, but I cannot risk the life of my unborn child."
+  },
+  {
+    "line": 594,
+    "text": "We must save ourselves. My instincts tell me... if we leave this place... we may recover."
+  },
+  {
+    "line": 595,
+    "text": "Matriarch Sanma, I might be able to find the source of your pain!"
+  },
+  {
+    "line": 596,
+    "text": "You... can help us?"
+  },
+  {
+    "line": 597,
+    "text": "Yes, please trust me!"
+  },
+  {
+    "line": 598,
+    "text": "What on earth is happening?! Sanma and the others are usually so gentle!!"
+  },
+  {
+    "line": 600,
+    "text": "No, wait, give it a second... Hey, the herd has stopped?! What are they looking at...?"
+  },
+  {
+    "line": 601,
+    "text": "...Is that someone standing there?!"
+  },
+  {
+    "line": 602,
+    "text": "Sanma finally places her trust in us.//nYuzu steps forward and chants in a low voice. Vibrant green magic flows from the gem at the tip of her staff, turning into a gentle breeze that softly wraps around Sanma and her herd."
+  },
+  {
+    "line": 603,
+    "text": "Found it."
+  },
+  {
+    "line": 604,
+    "text": "A flower-shaped emblem of shimmering golden powder appears on Sanma's forehead."
+  },
+  {
+    "line": 606,
+    "text": "Yuzu's magic envelops Sanma completely. The golden pollen dissolves as revitalizing energy surges through her body..."
+  },
+  {
+    "line": 608,
+    "text": "Elephants"
+  },
+  {
+    "line": 609,
+    "text": "Rooaaar!!"
+  },
+  {
+    "line": 610,
+    "text": "Yes!"
+  },
+  {
+    "line": 611,
+    "text": "By the way, Matriarch Sanma, do you recognize this golden pollen? When did you come into contact with it?"
+  },
+  {
+    "line": 612,
+    "text": "Pollen...?"
+  },
+  {
+    "line": 613,
+    "text": "Yes! Have you come across any flowers lately? Or met any strange humans?"
+  },
+  {
+    "line": 614,
+    "text": "Flowers... strange humans... Ah, yes. There was one."
+  },
+  {
+    "line": 615,
+    "text": "When?!"
+  },
+  {
+    "line": 616,
+    "text": "On the night of the last full moon. It was raining that night."
+  },
+  {
+    "line": 617,
+    "text": "A human I had never seen before approached us. Long red hair, dressed in white."
+  },
+  {
+    "line": 618,
+    "text": "A single white flower floated beside her."
+  },
+  {
+    "line": 619,
+    "text": "From within that flower, golden pollen drifted toward us..."
+  },
+  {
+    "line": 620,
+    "text": "That flower... I believe humans call it a datura."
+  },
+  {
+    "line": 621,
+    "text": "!!"
+  },
+  {
+    "line": 623,
+    "text": "...The woman who spread that magical pollen... is most likely Leia, my master."
+  },
+  {
+    "line": 624,
+    "text": "Long red hair, wearing white clothes... every detail matches."
+  },
+  {
+    "line": 625,
+    "text": "And the datura flower...?"
+  },
+  {
+    "line": 626,
+    "text": "...It's her familiar, an everlasting magical plant. Just like my red pandas, her datura helps her cast complex spells that a witch couldn't manage alone."
+  },
+  {
+    "line": 627,
+    "text": "Argh... I thought that scent was familiar, but I brushed it off as a coincidence."
+  },
+  {
+    "line": 628,
+    "text": "Come to think of it, it's been a whole month since she said she was coming to One Han City, but she still hasn't contacted me."
+  },
+  {
+    "line": 629,
+    "text": "She was always talking about using animals to brew terrifying potions. Could she... could she actually have gone through with it?!"
+  },
+  {
+    "line": 630,
+    "text": "This is just a lead for now."
+  },
+  {
+    "line": 631,
+    "text": "We need to dig deeper to get to the truth."
+  },
+  {
+    "line": 632,
+    "text": "...You're right. I need to keep a cool head."
+  },
+  {
+    "line": 633,
+    "text": "..."
+  },
+  {
+    "line": 635,
+    "text": "Red Panda Squad"
+  },
+  {
+    "line": 636,
+    "text": "Argh!"
+  },
+  {
+    "line": 637,
+    "text": "{var:player_nickname}, could you stay with them if you don't mind? They said they feel safe with you around."
+  },
+  {
+    "line": 638,
+    "text": "As for the rest of the investigation, you don't need to come along."
+  },
+  {
+    "line": 639,
+    "text": "No way. I'm coming with you to see Leia."
+  },
+  {
+    "line": 640,
+    "text": "...Understood. Just please be careful."
+  },
+  {
+    "line": 642,
+    "text": "But you sent all three of your red pandas away. You don't have anyone at your side."
+  },
+  {
+    "line": 643,
+    "text": "...The Witch of Justice walks a lonely path. To protect what's right, I've always been prepared to face anything on my own."
+  },
+  {
+    "line": 644,
+    "text": "Besides, if Master really is behind this... things are about to get a lot more dangerous. She might be someone even I can't defeat! Aren't you scared?"
+  },
+  {
+    "line": 645,
+    "text": "Hearing that just makes me want to go with you even more."
+  },
+  {
+    "line": 646,
+    "text": "Argh?"
+  },
+  {
+    "line": 647,
+    "text": "I've been pretty useful during today's mission, haven't I?"
+  },
+  {
+    "line": 648,
+    "text": "I truly admire your dedication to justice, and I want to stand beside you as your ally."
+  },
+  {
+    "line": 649,
+    "text": "...!!"
+  },
+  {
+    "line": 650,
+    "text": "Wh-what's that supposed to mean?! Today was just a temporary team-up! The Witch of Justice can manage just fine on her own. I d-don't need human allies...!"
+  },
+  {
+    "line": 651,
+    "text": "You might not accept it right now, but I want you to know..."
+  },
+  {
+    "line": 652,
+    "text": "I believe in justice every bit as much as you do."
+  },
+  {
+    "line": 653,
+    "text": "...Alright, I hear you loud and clear."
+  },
+  {
+    "line": 654,
+    "text": "Since you share my unwavering resolve to protect justice, I won't turn down that kind of determination."
+  },
+  {
+    "line": 655,
+    "text": "Besides... as an aspiring Witch of Justice, I've prepared a few secret trump cards to keep people safe when it counts."
+  },
+  {
+    "line": 656,
+    "text": "Alright... then let's go!"
+  },
+  {
+    "line": 657,
+    "text": "Where to?"
+  },
+  {
+    "line": 658,
+    "text": "To Master's herbal shop! Its location changes all the time... but its name always stays the same: Datura."
+  },
+  {
+    "line": 659,
+    "text": "I will get to the bottom of all this, no matter what!"
+  },
+  {
+    "line": 660,
+    "text": "So this is the new address in One Han City that Master left me a month ago."
+  },
+  {
+    "line": 661,
+    "text": "What the –?!"
+  },
+  {
+    "line": 662,
+    "text": "A heavy air of exhaustion hangs over the herbal shop. The place looks less like a store and more like a withered garden."
+  },
+  {
+    "line": 663,
+    "text": "Argh... How did this happen? This lingering decay magic feels just like what Sanma and the others went through... Wait, what's that over there...?"
+  },
+  {
+    "line": 664,
+    "text": "At the center of the workbench, a datura glowing with a strange light droops its leaves weakly."
+  },
+  {
+    "line": 665,
+    "text": "Master's familiar... It looks terribly injured!"
+  },
+  {
+    "line": 666,
+    "text": "Leia"
+  },
+  {
+    "line": 667,
+    "text": "Yes, poor thing has been working itself to the bone lately..."
+  },
+  {
+    "line": 668,
+    "text": "Master?!"
+  },
+  {
+    "line": 669,
+    "text": "???"
+  },
+  {
+    "line": 671,
+    "text": "...Trying to break free now of all times... Is it because you two arrived?"
+  },
+  {
+    "line": 672,
+    "text": "In the corner of the shop, a birdcage encased in a barrier rattles violently. A red-eyed sparrow oozing dark aura repeatedly hurls itself against the magic seal."
+  },
+  {
+    "line": 674,
+    "text": "I brought him back here to keep him safe... Datura, if you would..."
+  },
+  {
+    "line": 675,
+    "text": "Datura"
+  },
+  {
+    "line": 676,
+    "text": "(Whoosh... Rustle...)"
+  },
+  {
+    "line": 677,
+    "text": "The datura strains to bloom, scattering a cloud of golden pollen. The shimmering dust swirls around Piji before sinking into his body and vanishing."
+  },
+  {
+    "line": 678,
+    "text": "Piji..."
+  },
+  {
+    "line": 679,
+    "text": "Piji finally seems to quiet down a little."
+  },
+  {
+    "line": 680,
+    "text": "Wait... I get it now! I had it all wrong..."
+  },
+  {
+    "line": 681,
+    "text": "The datura's pollen isn't some evil spell draining life force..."
+  },
+  {
+    "line": 682,
+    "text": "The animals were infected with a completely different kind of magic all along."
+  },
+  {
+    "line": 683,
+    "text": "Master's magic was suppressing the dark curse inside them!!"
+  },
+  {
+    "line": 684,
+    "text": "Full marks for you two... Though this little bird's situation is a bit more complicated... Watch out!"
+  },
+  {
+    "line": 686,
+    "text": "With a sharp crack, the barrier around the birdcage shatters! The golden pollen dissipates as a wave of frigid, shadowy magic rapidly engulfs the room!"
+  },
+  {
+    "line": 687,
+    "text": "Hehehe... So what if you ruined my little plan? This vessel is just a disposable shell anyway... You can't trap me."
+  },
+  {
+    "line": 688,
+    "text": "Did that sparrow just talk?!"
+  },
+  {
+    "line": 689,
+    "text": "No, that's not Piji! Something else is possessing him!"
+  },
+  {
+    "line": 690,
+    "text": "It's the source of the curse."
+  },
+  {
+    "line": 691,
+    "text": "Hahaha... Now DIE!!"
+  },
+  {
+    "line": 692,
+    "text": "A dark shadow bursts from the tiny sparrow and lunges straight at us!"
+  },
+  {
+    "line": 693,
+    "text": "Shadow's Magic"
+  },
+  {
+    "line": 694,
+    "text": "BOOM! BOOM! BOOM!"
+  },
+  {
+    "line": 695,
+    "text": "Guardian Barrier!!"
+  },
+  {
+    "line": 696,
+    "text": "Kaavi"
+  },
+  {
+    "line": 697,
+    "text": "...Tarot: Knight of Pentacles – Upright Defend."
+  },
+  {
+    "line": 698,
+    "text": "Huh? Where did you come from?!"
+  },
+  {
+    "line": 699,
+    "text": "Just protect {var:player_nickname}."
+  },
+  {
+    "line": 700,
+    "text": "Argh! I know that!"
+  },
+  {
+    "line": 701,
+    "text": "The shadow's attack was merely a distraction. Rather than stay and fight, it dissolves into a cloud of black mist and slips through the wall."
+  },
+  {
+    "line": 702,
+    "text": "With the possession lifted, the abandoned sparrow plummets from midair like a puppet with its strings cut."
+  },
+  {
+    "line": 703,
+    "text": "Piji!"
+  },
+  {
+    "line": 704,
+    "text": "Yuzu dashes forward, catching him just in time."
+  },
+  {
+    "line": 705,
+    "text": "Piji... Piji's life force is slipping away!!"
+  },
+  {
+    "line": 706,
+    "text": "...When that thing fled, it forcibly severed its connection to Piji. His soul suffered severe damage."
+  },
+  {
+    "line": 707,
+    "text": "Yuzu, only a Life Witch's healing spell can save him now."
+  },
+  {
+    "line": 709,
+    "text": "Wait."
+  },
+  {
+    "line": 710,
+    "text": "Soul healing requires the caster to absorb a portion of the patient's agony. It demands immense willpower and magical strength. If you fail to endure it, the backlash will hit you hard. It could damage the source of your magic – or worse..."
+  },
+  {
+    "line": 711,
+    "text": "What happens in the worst case?"
+  },
+  {
+    "line": 712,
+    "text": "...Your magic will burn out completely, leaving you unable to ever cast another spell."
+  },
+  {
+    "line": 713,
+    "text": "...?!"
+  },
+  {
+    "line": 714,
+    "text": "Yuzu, think carefully about whether taking such a risk is truly worth it."
+  },
+  {
+    "line": 715,
+    "text": "..."
+  },
+  {
+    "line": 716,
+    "text": "Yuzu's fingers tighten slightly as she gazes down at the frail little sparrow in her hands."
+  },
+  {
+    "line": 717,
+    "text": "Argh... Piji is my ally in justice... He's just an ordinary, happy little bird."
+  },
+  {
+    "line": 718,
+    "text": "...He shouldn't have been dragged into this or used by some nasty villain... He shouldn't have to suffer like this –"
+  },
+  {
+    "line": 719,
+    "text": "Master! I... I want to save him!!"
+  },
+  {
+    "line": 720,
+    "text": "Without another word, Leia takes a step back, giving Yuzu room to cast her spell."
+  },
+  {
+    "line": 721,
+    "text": "Yuzu takes a deep breath, gently sets Piji down, and raises her staff."
+  },
+  {
+    "line": 723,
+    "text": "Pale green magic flows from the staff toward Piji, but he doesn't respond."
+  },
+  {
+    "line": 724,
+    "text": "It's not enough... Again!"
+  },
+  {
+    "line": 726,
+    "text": "This time, a denser aura envelops Piji. Yet moments later, a dark shockwave bursts from his body, slamming straight into Yuzu!"
+  },
+  {
+    "line": 727,
+    "text": "Gah!"
+  },
+  {
+    "line": 729,
+    "text": "(Yuzu!)"
+  },
+  {
+    "line": 730,
+    "text": "(Catch her quickly)"
+  },
+  {
+    "line": 732,
+    "text": "One more time... Even if it costs my..."
+  },
+  {
+    "line": 734,
+    "text": "Hold on!"
+  },
+  {
+    "line": 735,
+    "text": "Yuzu, you don't have to carry this all by yourself. Try holding my hand – just like you did back at the gym. My presence helps boost your magic, right?"
+  },
+  {
+    "line": 736,
+    "text": "What...?"
+  },
+  {
+    "line": 737,
+    "text": "No! I don't know why you can strengthen my magic, but this spell is way more complex than before! I have no idea what might happen... It could hurt you, or even..."
+  },
+  {
+    "line": 738,
+    "text": "Trust me. We're allies."
+  },
+  {
+    "line": 739,
+    "text": "(Take her hand without hesitation)"
+  },
+  {
+    "line": 740,
+    "text": "{var:player_nickname}...!"
+  },
+  {
+    "line": 741,
+    "text": "Let's do this. One more time, together."
+  },
+  {
+    "line": 742,
+    "text": "...Why do you always jump in headfirst like this...?"
+  },
+  {
+    "line": 743,
+    "text": "It was the same back then. The moment I asked for your hand, you trusted me without a single doubt..."
+  },
+  {
+    "line": 744,
+    "text": "Honestly... I've never met anyone quite like you...!!"
+  },
+  {
+    "line": 745,
+    "text": "Still, there's something I never told you."
+  },
+  {
+    "line": 747,
+    "text": "If that's the case..."
+  },
+  {
+    "line": 749,
+    "text": "..."
+  },
+  {
+    "line": 750,
+    "text": "..."
+  },
+  {
+    "line": 751,
+    "text": "...Piji?"
+  },
+  {
+    "line": 753,
+    "text": "I'm totally fine."
+  },
+  {
+    "line": 754,
+    "text": "Argh, thank goodness!"
+  },
+  {
+    "line": 755,
+    "text": "Yeah, thank goodness."
+  },
+  {
+    "line": 756,
+    "text": "And so, through the combined efforts of the Witch of Justice and her ally,//n//nthe animal crisis threatening One Han City was brought to...//n//na temporary halt."
+  },
+  {
+    "line": 757,
+    "text": "...Now that things are under control here, I will see to it that those who tamper with destiny are sealed within the Tower."
+  },
+  {
+    "line": 758,
+    "text": "I'm sorry, Yuzu. You were never meant to face a crisis of this scale, much less see your cherished companion caught up in it.//nBut rest assured... the animals of One Han City are safe now."
+  },
+  {
+    "line": 760,
+    "text": "Though the true nature of the enemy ahead remains unclear, the Witch of Justice has stepped forward without hesitation.//nAs her ally, I can do no less."
+  },
+  {
+    "line": 761,
+    "text": "Count me in too. We're in this together."
+  },
+  {
+    "line": 762,
+    "text": "...Heh, it seems conventional solutions no longer apply here."
+  },
+  {
+    "line": 763,
+    "text": "Show me, then – can your \"Justice\" unravel the riddle behind this chaos?"
+  },
+  {
+    "line": 764,
+    "text": "...Okay."
+  },
+  {
+    "line": 766,
+    "text": "I'm leaving things here in your hands."
+  },
+  {
+    "line": 767,
+    "text": "Got it. You can count on me."
+  },
+  {
+    "line": 768,
+    "text": "Arrrrgh"
+  },
+  {
+    "line": 769,
+    "text": "(Watches with worried eyes) Argh..."
+  },
+  {
+    "line": 770,
+    "text": "After hours of working alongside the Red Panda Squad, I finally manage to calm the rest of the agitated animals around the zoo."
+  },
+  {
+    "line": 771,
+    "text": "As dusk settles over the city, Yuzu is nowhere to be seen, and none of my calls are going through."
+  },
+  {
+    "line": 772,
+    "text": "An unknown number...? Hello?"
+  },
+  {
+    "line": 773,
+    "text": "Hello. Is this {var:player_nickname}?"
+  },
+  {
+    "line": 774,
+    "text": "Speaking. Who's calling?"
+  },
+  {
+    "line": 776,
+    "text": "Could I trouble you to come by? I'll send over the address."
+  },
+  {
+    "line": 777,
+    "text": "Is she alright?!"
+  },
+  {
+    "line": 778,
+    "text": "...She is alright, just... asleep."
+  },
+  {
+    "line": 779,
+    "text": "Huh?"
+  },
+  {
+    "line": 780,
+    "text": "Excuse me..."
+  },
+  {
+    "line": 781,
+    "text": "Heh, you made it. Do come in."
+  },
+  {
+    "line": 782,
+    "text": "Leia sits poised at the table with effortless elegance."
+  },
+  {
+    "line": 783,
+    "text": "Across the room, Yuzu lies curled up on the sofa beneath a plush blanket, fast asleep. Her staff lies on the floor beside her."
+  },
+  {
+    "line": 784,
+    "text": "What on earth happened here...?"
+  },
+  {
+    "line": 785,
+    "text": "Nothing to worry about, really. She tracked the trail all the way here on her own, ran out of magic, and simply passed out."
+  },
+  {
+    "line": 786,
+    "text": "Though she seems to have misjudged a few things... For an apprentice witch lacking real field experience, coming this far is quite an achievement. Naturally, she couldn't have done it without your constant support."
+  },
+  {
+    "line": 787,
+    "text": "Out of magic...?"
+  },
+  {
+    "line": 788,
+    "text": "Judging by the signs of a struggle throughout the room, there was clearly more to Yuzu's magical exhaustion than Leia was letting on."
+  },
+  {
+    "line": 789,
+    "text": "And what about the animal rampage?"
+  },
+  {
+    "line": 790,
+    "text": "Someone else has taken over the matter. Everything will be fine. Whatever comes next is far beyond what an apprentice witch needs to concern herself with."
+  },
+  {
+    "line": 791,
+    "text": "Heh, it seems you have a few questions for me as well? No matter. The truth always finds a way to surface eventually.//nWe'll have plenty of opportunities to get acquainted in the future, and you'll come to understand me in time."
+  },
+  {
+    "line": 792,
+    "text": "Thank you for all your help today. Now, could I trouble you to take her home? I'm afraid I'm not equipped to accommodate overnight guests."
+  },
+  {
+    "line": 793,
+    "text": "Before I can press her any further,//n//nLeia sees us out."
+  },
+  {
+    "line": 794,
+    "text": "In the days that follow,//n//nnews reports confirm that the animals of One Han City have returned to normal,//n//nwith no further strange incidents occurring."
+  },
+  {
+    "line": 795,
+    "text": "And so,//n//nwithout us ever knowing the truth,//n//nthe so-called \"Great One Han City Crisis\"//n//ncomes to an unexpected close."
+  },
+  {
+    "line": 797,
+    "text": "Having completely exhausted her magic, Yuzu fell into such a deep sleep that even the blaring of her alarm couldn't wake her the next morning."
+  },
+  {
+    "line": 804,
+    "text": "Breath of silent winter, sing a soothing lullaby for these restless birds!"
+  },
+  {
+    "line": 807,
+    "text": "{var:player_nickname}, grab that big dog's leash! Gentle spirits of the meadow, calm these restless souls!"
+  },
+  {
+    "line": 809,
+    "text": "Nectar of life, restore vigor to these weary creatures!"
+  },
+  {
+    "line": 810,
+    "text": "Alright... May my heart resonate with every living soul. Let our minds become one!"
+  },
+  {
+    "line": 811,
+    "text": "Mighty breath of life, grant them your protection!"
+  },
+  {
+    "line": 815,
+    "text": "Argh-argh!"
+  },
+  {
+    "line": 816,
+    "text": "Isn't that one of Yuzu's red pandas? What's it doing here all by itself?"
+  },
+  {
+    "line": 817,
+    "text": "Chirp! Chirp! Screech! Chirp!"
+  },
+  {
+    "line": 818,
+    "text": "Argh-Argh! You're finally back – and you brought backup, huh? Is it that phony fortune-teller, or Master...?"
+  },
+  {
+    "line": 820,
+    "text": "...What are you doing here? It's dangerous!"
+  },
+  {
+    "line": 821,
+    "text": "What do you mean, {var:player_nickname} has a soothing aura? Whose familiar are you anyway...?"
+  },
+  {
+    "line": 822,
+    "text": "...Wh-who said to hold my hand?! Ugh, whatever, it actually seems to be working. Let's center our energy right here..."
+  },
+  {
+    "line": 825,
+    "text": "I found this stuff caught in their feathers. It's magical pollen."
+  },
+  {
+    "line": 826,
+    "text": "One. Han. City. Is. In. Grave. Danger!"
+  },
+  {
+    "line": 827,
+    "text": "But remember, we have to keep this strictly hush-hush for now."
+  },
+  {
+    "line": 829,
+    "text": "N-not that I was actually hoping you'd come along or anything!!"
+  },
+  {
+    "line": 830,
+    "text": "{var:player_nickname}, cut off the fryer! Spirits of the sea breeze, guide these lost birds back to the sky!"
+  },
+  {
+    "line": 831,
+    "text": "Piji? Wait, you can actually understand me?"
+  },
+  {
+    "line": 832,
+    "text": "Yuzu? That's such a cool name! I wish I had one like that too!"
+  },
+  {
+    "line": 833,
+    "text": "Piji the Brave... I love it! That's awesome!"
+  },
+  {
+    "line": 834,
+    "text": "No, you can't! Sanma, the matriarch, is pregnant. Tranquilizing her could harm the baby!"
+  },
+  {
+    "line": 835,
+    "text": "There's no time! {var:player_nickname}, figure something out!!"
+  },
+  {
+    "line": 836,
+    "text": "Whoa! Th-the audacity! Ugh, whatever, desperate times call for desperate measures...!"
+  },
+  {
+    "line": 837,
+    "text": "Roar! Please step aside! Let us through!"
+  },
+  {
+    "line": 838,
+    "text": "It'll be a disaster if they break out of the zoo! Get the tranquilizers ready!"
+  },
+  {
+    "line": 839,
+    "text": "I can feel my strength returning... and my baby's, too. Thank you, my friends."
+  },
+  {
+    "line": 840,
+    "text": "Yuzu? What's wrong?"
+  },
+  {
+    "line": 842,
+    "text": "Argh, you promised to follow my orders."
+  },
+  {
+    "line": 843,
+    "text": "Piji! Piji! Screech!"
+  },
+  {
+    "line": 844,
+    "text": "...Piji?! What is he doing here?!"
+  },
+  {
+    "line": 845,
+    "text": "CRASH!"
+  },
+  {
+    "line": 846,
+    "text": "But I am a Life Witch! Perfect, I'll do it right –"
+  },
+  {
+    "line": 847,
+    "text": "Argh... I-I'm okay..."
+  },
+  {
+    "line": 849,
+    "text": "Ahhhh, he's awake! He's awake!!! {var:player_nickname}, are you okay?! How do you feel?!"
+  },
+  {
+    "line": 850,
+    "text": "...Master! What was that shadow?! What is really going on?! I'm joining the operation too!"
+  },
+  {
+    "line": 851,
+    "text": "Argh-ghhhh!!! Why is this happening?!"
+  },
+  {
+    "line": 854,
+    "text": "Argh... I was on my way to school today when Piji, my trusty Justice Informant here in One Han City, suddenly went berserk and attacked me..."
+  },
+  {
+    "line": 855,
+    "text": "It was a bit of a hassle, but a minor crisis like this is nothing for the Witch of Justice!"
+  },
+  {
+    "line": 858,
+    "text": "Argh... School is such a pain. They shouldn't be worrying about where a witch goes in the first place."
+  },
+  {
+    "line": 859,
+    "text": "Argh! After all this, you're still doubting my maturity?!"
+  },
+  {
+    "line": 860,
+    "text": "...my magic can only buy them some time by easing their symptoms. I can't actually fix the root cause!"
+  },
+  {
+    "line": 862,
+    "text": "The look in her eyes tells me she's prepared to give up everything."
+  },
+  {
+    "line": 863,
+    "text": "Your aura really is... unique and soothing. And not just to the red pandas..."
+  },
+  {
+    "line": 864,
+    "text": "Let my will and my ally's be one, and grant us the blessing of the God of Nature! Bestow upon us the power of rebirth once more! Awaken, my brave, kind, and righteous friend – Piji!"
+  },
+  {
+    "line": 865,
+    "text": "The path of the Witch of Justice has always been a lonely one."
+  },
+  {
+    "line": 866,
+    "text": "I'm Leia, Yuzu's magic mentor. She's with me at the moment, though... it's a bit hard to explain."
+  },
+  {
+    "line": 867,
+    "text": "And just like that, she's running late for school yet again..."
+  },
+  {
+    "line": 871,
+    "text": "Alright... There are still other animals in the zoo affected by the pollen, though their symptoms are milder. Argh-Argh, Arrrrgh, and Argh! Argh! I need you three to stay behind and patrol the grounds. Help them out, and make sure they stay safely inside their enclosures."
+  },
+  {
+    "line": 875,
+    "text": "By my divine will, I call upon the spirits of nature to protect him. Awaken, Piji the Brave!"
+  },
+  {
+    "line": 876,
+    "text": "With all the strength within me, I call upon the spirits of nature once more. Awaken, Piji the Brave!!"
+  }
+]

@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "sort": 996,
+    "sort": 145,
     "banner_type": 1,
     "enter_icon": null,
     "banner_big": "ui/activity/lobby/banner_tab/pic/26zhifu1_b.jpg",
@@ -611,6 +611,28 @@
     "enter_icon": "ui/activity/lobby/banner_lobby/pic/26shuiyi_0.png",
     "banner_big": "ui/activity/lobby/banner_tab/pic/26shuiyi_b.jpg",
     "banner_left": "ui/activity/lobby/banner_tab/pic/26shuiyi.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
+  },
+  {
+    "id": 261001,
+    "sort": 146,
+    "banner_type": 2,
+    "enter_icon": "ui/activity/lobby/banner_lobby/pic/26wansheng_0.png",
+    "banner_big": "ui/activity/lobby/banner_tab/pic/26wansheng_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/26wansheng.png",
+    "banner_left_selected": null,
+    "banner_left_icon": null,
+    "time_remind": null
+  },
+  {
+    "id": 261081,
+    "sort": 139,
+    "banner_type": 2,
+    "enter_icon": "ui/activity/lobby/banner_lobby/pic/26qingyun_0.png",
+    "banner_big": "ui/activity/lobby/banner_tab/pic/26qingyun_b.jpg",
+    "banner_left": "ui/activity/lobby/banner_tab/pic/26qingyun.png",
     "banner_left_selected": null,
     "banner_left_icon": null,
     "time_remind": null

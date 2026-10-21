@@ -1,0 +1,1326 @@
+[
+  {
+    "line": 464,
+    "text": "5. Code of the Witch of Justice: Even the Enemy's Justice Is Justice!"
+  },
+  {
+    "line": 465,
+    "text": "\"Argh... Long, long ago,//n//nan evil witch was laid to rest on the outskirts of One Han City.//n//nHer lingering spirit turned into a phantom, forever searching for a way to achieve resurrection.\""
+  },
+  {
+    "line": 466,
+    "text": "Yuzu"
+  },
+  {
+    "line": 467,
+    "text": "...One fateful day, the phantom stumbled upon an artifact and brought down a terrible hex upon the world.//nAny living creature touched by the cursed rain saw their spark of life slowly drain away..."
+  },
+  {
+    "line": 468,
+    "text": "Thankfully, the Witch of Justice and her three trusty companions stepped in just in time!"
+  },
+  {
+    "line": 469,
+    "text": "The defeated phantom is fleeing with its tail between its legs!//nOur mission, as the Squad of Justice, is to –"
+  },
+  {
+    "line": 470,
+    "text": "capture that wicked entity and ensure lasting peace for One Han City!"
+  },
+  {
+    "line": 471,
+    "text": "???"
+  },
+  {
+    "line": 472,
+    "text": "Trick or treat!"
+  },
+  {
+    "line": 473,
+    "text": "!"
+  },
+  {
+    "line": 474,
+    "text": "Little Girl"
+  },
+  {
+    "line": 475,
+    "text": "Haha! If we do this, does that mean we can catch the evil phantom?"
+  },
+  {
+    "line": 476,
+    "text": "Amusement Park - Halloween Grounds"
+  },
+  {
+    "line": 478,
+    "text": "Your smile is actually the most powerful spell of all. Here, have some candy!"
+  },
+  {
+    "line": 479,
+    "text": "Young Mother"
+  },
+  {
+    "line": 480,
+    "text": "Miyabi–!"
+  },
+  {
+    "line": 481,
+    "text": "Miyabi"
+  },
+  {
+    "line": 482,
+    "text": "Yay, Mommy found me!"
+  },
+  {
+    "line": 483,
+    "text": "Wonderful! Make sure you stick close to her so you don't wander off again, alright?"
+  },
+  {
+    "line": 487,
+    "text": "You're surprisingly natural with kids."
+  },
+  {
+    "line": 489,
+    "text": "Achievement unlocked: Halloween Volunteer of the Night."
+  },
+  {
+    "line": 491,
+    "text": "Still, I wonder if that fate-obsessed fraud is actually onto something. She swore the phantom was hiding right here, but I've already turned this whole amusement park upside down..."
+  },
+  {
+    "line": 492,
+    "text": "Waaah, Miss Witch!"
+  },
+  {
+    "line": 494,
+    "text": "I wanted to give you this jack-o'-lantern, but Mommy said it fell sick because it suddenly stopped glowing..."
+  },
+  {
+    "line": 495,
+    "text": "Don't worry! Th-there's nothing wrong with that – it adds to the spooky Halloween vibe..."
+  },
+  {
+    "line": 496,
+    "text": "Wait a second... {var:player_nickname}, this jack-o'-lantern carries a trace of that evil phantom!"
+  },
+  {
+    "line": 497,
+    "text": "player"
+  },
+  {
+    "line": 498,
+    "text": "Excuse me, do you remember where the lantern went dark?"
+  },
+  {
+    "line": 500,
+    "text": "Let me think... Just now, when I passed by the haunted house...//nOh, thank you both so much for taking care of Miyabi. I don't even know how to repay you!"
+  },
+  {
+    "line": 501,
+    "text": "Argh! This lantern is already the best gift ever! Thanks, little one, you just did the Witch of Justice a huge favor!"
+  },
+  {
+    "line": 502,
+    "text": "{var:player_nickname}, target locked on the haunted house! Squad of Justice, move out!"
+  },
+  {
+    "line": 503,
+    "text": "Visitor A"
+  },
+  {
+    "line": 504,
+    "text": "(Yawning) So boring... This haunted house isn't scary in the slightest."
+  },
+  {
+    "line": 505,
+    "text": "Amusement Park - Haunted House"
+  },
+  {
+    "line": 506,
+    "text": "Visitor B"
+  },
+  {
+    "line": 507,
+    "text": "Right? I thought they'd put a little extra effort into Halloween..."
+  },
+  {
+    "line": 508,
+    "text": "Haunted House Staff"
+  },
+  {
+    "line": 510,
+    "text": "If ordinary people find it snooze-worthy, then this place will be child's play for the Witch of Justice!"
+  },
+  {
+    "line": 511,
+    "text": "See? Nothing scary at all –"
+  },
+  {
+    "line": 512,
+    "text": "Falling Spider Prop"
+  },
+  {
+    "line": 513,
+    "text": "Bzzt! Whirrr!"
+  },
+  {
+    "line": 516,
+    "text": "(Gently stroke her hair to calm her down)"
+  },
+  {
+    "line": 517,
+    "text": "I'm right here. Don't be scared."
+  },
+  {
+    "line": 518,
+    "text": "I-I wasn't scared! I was just calling it out to warn you..."
+  },
+  {
+    "line": 519,
+    "text": "Still, a giant spider dropped out of nowhere just now... Why didn't anyone else even flinch?"
+  },
+  {
+    "line": 520,
+    "text": "Now that you mention it... those visitors ahead didn't even pause. It's as if they didn't care at all..."
+  },
+  {
+    "line": 521,
+    "text": "No, something is very wrong here."
+  },
+  {
+    "line": 522,
+    "text": "(Sniffing) I knew it! The stench of the evil phantom...!"
+  },
+  {
+    "line": 523,
+    "text": "A haunted house that isn't scary, plus the presence of an evil phantom..."
+  },
+  {
+    "line": 524,
+    "text": "Could everyone's strange behavior be tied to that phantom?"
+  },
+  {
+    "line": 526,
+    "text": "I get it now! The phantom swallowed up everyone's fear, which is why this place feels so dull to them!"
+  },
+  {
+    "line": 528,
+    "text": "Mystery solved!"
+  },
+  {
+    "line": 530,
+    "text": "Then why did you get scared?"
+  },
+  {
+    "line": 533,
+    "text": "..."
+  },
+  {
+    "line": 534,
+    "text": "...Argh! That was a trick question! You set me up!"
+  },
+  {
+    "line": 535,
+    "text": "Whatever, that's beside the point!"
+  },
+  {
+    "line": 537,
+    "text": "Soft light radiates from her staff, sweeping across the entire building."
+  },
+  {
+    "line": 538,
+    "text": "Visitors"
+  },
+  {
+    "line": 539,
+    "text": "..."
+  },
+  {
+    "line": 540,
+    "text": "AHHH! HOLY–!!!!"
+  },
+  {
+    "line": 543,
+    "text": "The stench is getting stronger... This way!"
+  },
+  {
+    "line": 544,
+    "text": "Amusement Park - Food Street"
+  },
+  {
+    "line": 545,
+    "text": "The food street is packed, yet the atmosphere is strangely subdued – almost eerily calm."
+  },
+  {
+    "line": 546,
+    "text": "Customer at Popular Stall"
+  },
+  {
+    "line": 547,
+    "text": "(Muttering) I've been in line for an hour and haven't had a bite. Feeling dizzy and lightheaded... Guess I'm practically a ghost now. Talk about immersive Halloween vibes..."
+  },
+  {
+    "line": 548,
+    "text": "Customer at Roasted Sweet Potato Stall"
+  },
+  {
+    "line": 549,
+    "text": "(Biting into a blackened sweet potato) Huh, completely charred... Well, nom, nom, at least it's chewy."
+  },
+  {
+    "line": 550,
+    "text": "Cotton Candy Vendor"
+  },
+  {
+    "line": 551,
+    "text": "(Monotone) Cotton candy isn't sweet at all. The recipe's a bust. Whatever – if it doesn't sell, it doesn't sell. I'll just call it paying for the experience."
+  },
+  {
+    "line": 552,
+    "text": "This whole situation..."
+  },
+  {
+    "line": 553,
+    "text": "is way too peaceful, don't you think?"
+  },
+  {
+    "line": 554,
+    "text": "is getting seriously creepy."
+  },
+  {
+    "line": 555,
+    "text": "Argh! So you noticed how bizarre this is too!"
+  },
+  {
+    "line": 556,
+    "text": "Argh! So you felt the danger lurking here too!"
+  },
+  {
+    "line": 557,
+    "text": "Look at that guy – his sweet potato is charred black, yet he doesn't even care how terrible it tastes! What if it gives him food poisoning?"
+  },
+  {
+    "line": 559,
+    "text": "Argh... Anger, sadness, discontent – these negative feelings serve a vital purpose.//nThey are signals telling us, \"There's a baddie nearby!\" or \"This place needs justice!\""
+  },
+  {
+    "line": 565,
+    "text": "...Phew, looks like everyone's back to normal."
+  },
+  {
+    "line": 566,
+    "text": "Argh! A noisy, lively crowd – that's what a real festival should feel like!"
+  },
+  {
+    "line": 569,
+    "text": "It led right here... Wait, why did the aura suddenly vanish?"
+  },
+  {
+    "line": 570,
+    "text": "Amusement Park - Parade Route"
+  },
+  {
+    "line": 571,
+    "text": "Staff"
+  },
+  {
+    "line": 572,
+    "text": "Oh no, what are we gonna do?! The parade float... the ghost..."
+  },
+  {
+    "line": 575,
+    "text": "Ah, that kind of ghost..."
+  },
+  {
+    "line": 576,
+    "text": "Just stand on the float and create some cute, magical moments for the kids!"
+  },
+  {
+    "line": 577,
+    "text": "Well... My Code doesn't say I have to accept every single request that comes my way. Can I pass on this one...?"
+  },
+  {
+    "line": 578,
+    "text": "Please don't! So many kids are looking forward to seeing the cute ghost..."
+  },
+  {
+    "line": 579,
+    "text": "I don't mind helping people find lost items or carry heavy stuff..."
+  },
+  {
+    "line": 581,
+    "text": "Relax. You're at your cutest when you're just being yourself."
+  },
+  {
+    "line": 582,
+    "text": "Safeguarding the kids' smiles is a form of justice too, you know."
+  },
+  {
+    "line": 583,
+    "text": "I-is that so...? Hmph...! Fine then, I suppose I can take on this request – just this once!"
+  },
+  {
+    "line": 584,
+    "text": "Argh-gh... My formidable majesty as the Witch of Justice is totally gone... That phony fortune-teller better never see me like this..."
+  },
+  {
+    "line": 585,
+    "text": "Those kids over there are already smiling at you."
+  },
+  {
+    "line": 586,
+    "text": "(Straightening up)"
+  },
+  {
+    "line": 587,
+    "text": "...Hmph, alright, alright! Ghost of Justice, r-rolling out!"
+  },
+  {
+    "line": 588,
+    "text": "Standing on the parade float, Yuzu does her best to shower the kids with candy,//nall while keeping a watchful eye out for any sign of the phantom."
+  },
+  {
+    "line": 589,
+    "text": "Yet by the time the float reaches the end of the route, it is still nowhere to be seen.//nWe are met only with the children's innocent laughter and cheering,//nleaving our sole lead dead in the water."
+  },
+  {
+    "line": 590,
+    "text": "The carousel... the roller coaster... the graveyard... the haunted house... the food street... the parade..."
+  },
+  {
+    "line": 591,
+    "text": "A Quiet Corner of the Amusement Park"
+  },
+  {
+    "line": 592,
+    "text": "Impressive. The Witch of Justice came through for so many people today."
+  },
+  {
+    "line": 593,
+    "text": "It's all in a day's work for me, but still..."
+  },
+  {
+    "line": 594,
+    "text": "We've scoured almost the entire park! And we haven't even caught a whiff of that phantom!"
+  },
+  {
+    "line": 595,
+    "text": "Is it really going to end up playing right into that phony fortune-teller's prophecy?"
+  },
+  {
+    "line": 596,
+    "text": "Still dwelling on what Kaavi said this afternoon?"
+  },
+  {
+    "line": 597,
+    "text": "So this is where the prophecy said the phantom would show up! Let's split up and hunt it down!"
+  },
+  {
+    "line": 599,
+    "text": "Kaavi"
+  },
+  {
+    "line": 600,
+    "text": "There is no need.//nThe threads of fate have already been spun. When midnight strikes, the fugitive will walk right into its cage on its own."
+  },
+  {
+    "line": 602,
+    "text": "The tarot never lies. No such thing will come to pass."
+  },
+  {
+    "line": 603,
+    "text": "Her way of doing things rubbed me the wrong way, which is why I insisted on striking out on my own."
+  },
+  {
+    "line": 604,
+    "text": "But if all this searching turns up empty..."
+  },
+  {
+    "line": 605,
+    "text": "Keep up the hunt. We're bound to turn up something."
+  },
+  {
+    "line": 606,
+    "text": "Maybe staking out the plaza would be more efficient at this point."
+  },
+  {
+    "line": 607,
+    "text": "Don't lose heart. We already know what that phantom is after. It feeds on people's negative emotions to stay alive, so sticking to its trail will definitely yield better results."
+  },
+  {
+    "line": 608,
+    "text": "That's true... So where would it go looking for bad vibes right about now?"
+  },
+  {
+    "line": 609,
+    "text": "Aside from the cotton candy vendor who messed up his recipe and the visitors disappointed by the haunted house, pretty much everyone at the park is having a blast on Halloween night, right?"
+  },
+  {
+    "line": 610,
+    "text": "Just a moment ago, its trail led straight to the parade.//nThat's supposed to be the happiest event in the whole park – there shouldn't be any \"food\" for it there. Why head in that direction?"
+  },
+  {
+    "line": 611,
+    "text": "...Maybe it intends to whip up its own \"food\"?"
+  },
+  {
+    "line": 612,
+    "text": "Whip it up...? Argh, this is where the crowd is thickest! If panic breaks out here, it'll have a never-ending buffet of fear..."
+  },
+  {
+    "line": 613,
+    "text": "Oh no! The floats are about to make their return run, and that's when the crowd peaks. {var:player_nickname}, we have to hurry!"
+  },
+  {
+    "line": 614,
+    "text": "Staff"
+  },
+  {
+    "line": 616,
+    "text": "Float Driver"
+  },
+  {
+    "line": 617,
+    "text": "Come to me... your fear... your anguish... All your negative emotions shall become my sustenance!"
+  },
+  {
+    "line": 619,
+    "text": "The parade float careens wildly toward the crowd!"
+  },
+  {
+    "line": 622,
+    "text": "Yuzu, look over there!"
+  },
+  {
+    "line": 623,
+    "text": "A shadowy figure, almost indistinguishable from the night, leaps nimbly across the banners and lanterns hanging above the crowd."
+  },
+  {
+    "line": 624,
+    "text": "{var:player_nickname}, after it!!"
+  },
+  {
+    "line": 625,
+    "text": "Yuzu grabs my hand and pulls me into the sea of people –//n//ndodging past oncoming tourists...//n//nand slipping straight through a flaming hoop set up for an acrobatic show..."
+  },
+  {
+    "line": 626,
+    "text": "It went that way –"
+  },
+  {
+    "line": 627,
+    "text": "...Wait, isn't that Kaavi's fortune-telling booth up ahead?"
+  },
+  {
+    "line": 628,
+    "text": "Hold your steps, hurried traveler."
+  },
+  {
+    "line": 629,
+    "text": "Amusement Park - Central Plaza"
+  },
+  {
+    "line": 630,
+    "text": "After waiting in line for so long, turning back now would be a dreadful waste of what fate has orchestrated."
+  },
+  {
+    "line": 631,
+    "text": "Allow me to grant you a reading... The Tower, reversed. Heh, it seems blood and calamity await you tonight."
+  },
+  {
+    "line": 634,
+    "text": "Eight spectral swords forged from starlight materialize out of thin air, forcing a dark shadow out of hiding and trapping it squarely within Kaavi's crystal ball!"
+  },
+  {
+    "line": 635,
+    "text": "Did... did it work?!"
+  },
+  {
+    "line": 636,
+    "text": "Crystal Ball"
+  },
+  {
+    "line": 638,
+    "text": "Inside the crystal ball, the shadow thrashes frantically."
+  },
+  {
+    "line": 639,
+    "text": "How sturdy is that crystal ball of yours? It's looking pretty unstable..."
+  },
+  {
+    "line": 640,
+    "text": "BOOM!"
+  },
+  {
+    "line": 641,
+    "text": "Surrounding Visitors"
+  },
+  {
+    "line": 643,
+    "text": "Ugh... It's so cold... I want to go home..."
+  },
+  {
+    "line": 645,
+    "text": "Panic and aggression sweep through the crowd in an instant.//nSuddenly, the eyes of several bystanders go blank as an unnatural force takes hold of them."
+  },
+  {
+    "line": 646,
+    "text": "Controlled Visitor"
+  },
+  {
+    "line": 648,
+    "text": "Quick! Get her, everyone!"
+  },
+  {
+    "line": 650,
+    "text": "The phantom feeds on negative emotions, and this entire illusion is sustained by all that negativity!"
+  },
+  {
+    "line": 651,
+    "text": "(Channeling mana to suppress the crystal ball) I see..."
+  },
+  {
+    "line": 652,
+    "text": "I've temporarily halted the illusion's spread. The crystal ball is its core – strike it with raw magical energy, shatter it, and the phantom will be destroyed."
+  },
+  {
+    "line": 653,
+    "text": "Do it."
+  },
+  {
+    "line": 655,
+    "text": "(Looking pale) ...Stop wasting time on futile attempts. Fate dictates that this is the most efficient solution."
+  },
+  {
+    "line": 656,
+    "text": "Argh, here you go again... The word \"fate\" doesn't even exist in my Code of Justice!"
+  },
+  {
+    "line": 657,
+    "text": "...You spent the whole day running around the park, only to wind up right back here. Even your precious code is etched into the palm of fate."
+  },
+  {
+    "line": 658,
+    "text": "...So what if it is? As long as I stay true to the justice in my heart, I'll make this so-called fate serve justice too!"
+  },
+  {
+    "line": 659,
+    "text": "I've upheld justice throughout the entire park today, and that means you're under my protection too, dummy fortune-teller!"
+  },
+  {
+    "line": 660,
+    "text": "Don't you dare think I'd ever turn my back on someone who needs my help!!"
+  },
+  {
+    "line": 661,
+    "text": "...Heh. So I'm under your umbrella of justice too...?"
+  },
+  {
+    "line": 662,
+    "text": "Even after all this time as an apprentice, you're still just a laughably naive, hopelessly stubborn little furball."
+  },
+  {
+    "line": 664,
+    "text": "Phony fortune-teller, you never intended to merely contain the phantom in your crystal ball, did you? You must have a way to purify it afterward. Out with it!"
+  },
+  {
+    "line": 665,
+    "text": "...Very well. I do possess a purification spell."
+  },
+  {
+    "line": 666,
+    "text": "However, the negative emotions of everyone inside this realm are constantly fueling it. It will continue feeding on those feelings and regenerating endlessly."
+  },
+  {
+    "line": 667,
+    "text": "If we keep this stalemate going, it won't be long before my magic is completely drained, leaving us in a far worse predicament."
+  },
+  {
+    "line": 668,
+    "text": "Argh, so it's a battle of attrition..."
+  },
+  {
+    "line": 669,
+    "text": "So the key is cutting off its supply."
+  },
+  {
+    "line": 671,
+    "text": "But how do we turn everyone's mood around?"
+  },
+  {
+    "line": 673,
+    "text": "...Maybe it's not that complicated?"
+  },
+  {
+    "line": 674,
+    "text": "Do you have another brilliant idea, {var:player_nickname}?!"
+  },
+  {
+    "line": 675,
+    "text": "Your little ghost act put smiles on everyone's faces earlier."
+  },
+  {
+    "line": 676,
+    "text": "What if we convince them that none of this is real danger – that it's all just a \"special performance\"?"
+  },
+  {
+    "line": 677,
+    "text": "...Oh! If they think it's all part of the show, they won't be frightened anymore! Let's give it a shot... Hey, phony fortune-teller!!"
+  },
+  {
+    "line": 678,
+    "text": "I hear you. I'll focus all my power on purifying the phantom. How much time I have depends entirely on you two."
+  },
+  {
+    "line": 679,
+    "text": "Hmph... Just sit back and watch!"
+  },
+  {
+    "line": 680,
+    "text": "Dropping her protective barrier, Yuzu throws her arms wide to face the restless crowd."
+  },
+  {
+    "line": 684,
+    "text": "(Eagerly awaiting applause) ..."
+  },
+  {
+    "line": 685,
+    "text": "Yawning Visitor"
+  },
+  {
+    "line": 686,
+    "text": "What a snoozefest... Just another tired ghost-busting cliché."
+  },
+  {
+    "line": 687,
+    "text": "Impatient Visitor"
+  },
+  {
+    "line": 688,
+    "text": "What a joke. I just came to have fun – let us out of here!"
+  },
+  {
+    "line": 689,
+    "text": "Eye-Rolling Visitor"
+  },
+  {
+    "line": 690,
+    "text": "The practical effects are kinda neat, but that dialogue is straight out of a bargain bin!"
+  },
+  {
+    "line": 691,
+    "text": "H-how did it flop this hard?!"
+  },
+  {
+    "line": 692,
+    "text": "Crack–"
+  },
+  {
+    "line": 693,
+    "text": "Panicking Visitor"
+  },
+  {
+    "line": 695,
+    "text": "A surge of malicious energy ripples through the air.//nTendrils of pure malice rise from the crowd, coalescing into solid spikes that rain down on Kaavi's crystal ball!"
+  },
+  {
+    "line": 697,
+    "text": "C-come forth, my adorable familiars!"
+  },
+  {
+    "line": 698,
+    "text": "Red Panda Squad"
+  },
+  {
+    "line": 701,
+    "text": "The sudden arrival of the red pandas instantly takes the edge off the crowd's hostility."
+  },
+  {
+    "line": 702,
+    "text": "Heh-heh, cuteness is justice!"
+  },
+  {
+    "line": 703,
+    "text": "Crackle-clack–"
+  },
+  {
+    "line": 704,
+    "text": "Controlled Visitors"
+  },
+  {
+    "line": 706,
+    "text": "I-I am NOT an evil witch!! {var:player_nickname}, what do we do?!"
+  },
+  {
+    "line": 707,
+    "text": "Forget the witch playbook. How about we tell our story?"
+  },
+  {
+    "line": 708,
+    "text": "Our... story?"
+  },
+  {
+    "line": 709,
+    "text": "Another wave of dark energy comes hurtling straight at us –"
+  },
+  {
+    "line": 710,
+    "text": "Watch out!"
+  },
+  {
+    "line": 711,
+    "text": "(Perfect time to grab their attention!)"
+  },
+  {
+    "line": 712,
+    "text": "(Pretend to be hit!)"
+  },
+  {
+    "line": 713,
+    "text": "Ngh...!"
+  },
+  {
+    "line": 714,
+    "text": "I stagger back a few steps and collapse at Yuzu's feet."
+  },
+  {
+    "line": 715,
+    "text": "!!"
+  },
+  {
+    "line": 716,
+    "text": "...{var:player_nickname}!!"
+  },
+  {
+    "line": 717,
+    "text": "Yuzu drops to her knees and gathers me into her arms, her eyes instantly filling with tears."
+  },
+  {
+    "line": 718,
+    "text": "The dramatic fall immediately grabs the onlookers' attention, and the entire audience falls silent."
+  },
+  {
+    "line": 719,
+    "text": "(Quietly) ...Don't panic."
+  },
+  {
+    "line": 720,
+    "text": "(Quietly) It's just a show. I'm fine."
+  },
+  {
+    "line": 721,
+    "text": "(Quietly) ...You scared the life out of me!"
+  },
+  {
+    "line": 722,
+    "text": "(Quietly) We've got their full attention – now's our chance."
+  },
+  {
+    "line": 723,
+    "text": "(Quietly) Keep going while we still have them."
+  },
+  {
+    "line": 725,
+    "text": "(Quietly) Just speak from the heart."
+  },
+  {
+    "line": 726,
+    "text": "(Quietly) Like when you played the little ghost."
+  },
+  {
+    "line": 728,
+    "text": "(Quietly) Genuine feelings are what move people."
+  },
+  {
+    "line": 730,
+    "text": "(Weakly open your eyes and gaze at Yuzu)"
+  },
+  {
+    "line": 731,
+    "text": "(Offer a faint smile and wipe the tears from the corners of her eyes)"
+  },
+  {
+    "line": 732,
+    "text": "I'm okay... After all, we're... partners... aren't we?"
+  },
+  {
+    "line": 733,
+    "text": "P-partners..."
+  },
+  {
+    "line": 734,
+    "text": "I used to think the Witch of Justice never needed human companions..."
+  },
+  {
+    "line": 735,
+    "text": "But ever since you came along... I realized... having you around isn't so bad after all..."
+  },
+  {
+    "line": 736,
+    "text": "And after everything we've been through... I haven't even properly thanked you."
+  },
+  {
+    "line": 737,
+    "text": "Thanks for sticking by my side, {var:player_nickname}."
+  },
+  {
+    "line": 738,
+    "text": "So, am I officially your partner now?"
+  },
+  {
+    "line": 739,
+    "text": "...Y-you don't have to spell it out like that! Just keep it to yourself!"
+  },
+  {
+    "line": 740,
+    "text": "Amused Visitor"
+  },
+  {
+    "line": 742,
+    "text": "Someone in the crowd chuckles at her flustered, blushing reaction, prompting a wave of warm, genuine laughter from the audience."
+  },
+  {
+    "line": 743,
+    "text": "Now's our chance!"
+  },
+  {
+    "line": 744,
+    "text": "Right!"
+  },
+  {
+    "line": 745,
+    "text": "Helping me \"struggle\" back to my feet, she calls out to the crowd."
+  },
+  {
+    "line": 746,
+    "text": "My partner has been struck down by a dark curse! I need your power to save them!"
+  },
+  {
+    "line": 747,
+    "text": "Touched Visitors"
+  },
+  {
+    "line": 748,
+    "text": "Tell us what to do!"
+  },
+  {
+    "line": 749,
+    "text": "The law of Halloween dictates: trick or treat! And right now, an \"evil witch\" is trying to play a wicked trick on my partner – it's her!"
+  },
+  {
+    "line": 750,
+    "text": "...?"
+  },
+  {
+    "line": 751,
+    "text": "(Quietly) Just play along!"
+  },
+  {
+    "line": 752,
+    "text": "(Deadpan) Heh... heh... heh. I am the legendary Evil Witch of Calamity. Give up. Your companion is doomed to an eternal nightmare..."
+  },
+  {
+    "line": 753,
+    "text": "I won't let you have your way!"
+  },
+  {
+    "line": 755,
+    "text": "Enthusiastic Visitors"
+  },
+  {
+    "line": 756,
+    "text": "Yeah!!"
+  },
+  {
+    "line": 758,
+    "text": "Little Boy"
+  },
+  {
+    "line": 764,
+    "text": "The crowd erupts into excitement as, one by one, the people she helped begin to share their stories.//nEach spoken word transforms into a speck of golden light, rising into the air until they merge into a brilliant river of stars, sweeping directly toward her!"
+  },
+  {
+    "line": 765,
+    "text": "Argh! Behold the power of justice!"
+  },
+  {
+    "line": 766,
+    "text": "Well played. The purification spell is almost ready..."
+  },
+  {
+    "line": 768,
+    "text": "As Kaavi channels gentle magic into the orb, Yuzu guides the surging joy toward it. The two forces intertwine, purging the phantom from the crystal ball. It tries to flee –"
+  },
+  {
+    "line": 770,
+    "text": "Fleeing Phantom"
+  },
+  {
+    "line": 774,
+    "text": "Visitor C"
+  },
+  {
+    "line": 776,
+    "text": "Visitor D"
+  },
+  {
+    "line": 777,
+    "text": "That mysterious fortune-teller vanished too... Part of the act, maybe?"
+  },
+  {
+    "line": 778,
+    "text": "Word of that night's \"special performance\" spread like wildfire,//n//ncementing itself as the park's most talked-about Halloween tale."
+  },
+  {
+    "line": 779,
+    "text": "And so, the gloom hanging over One Han City was swept away once more through the combined efforts of the Witch of Justice and her partner."
+  },
+  {
+    "line": 780,
+    "text": "Future adventures undoubtedly await, but tonight belongs to celebration."
+  },
+  {
+    "line": 781,
+    "text": "Argh-argh! A resounding victory for justice!"
+  },
+  {
+    "line": 782,
+    "text": "Your search wasn't for nothing – you solved a ton of problems for the visitors along the way."
+  },
+  {
+    "line": 783,
+    "text": "Still, Kaavi said the phantom would manifest in the central plaza at midnight, and we're getting close to the hour. Why don't we go take a look? Catching that phantom is our top priority, after all."
+  },
+  {
+    "line": 784,
+    "text": "Argh... Now...? Fine. Since the trail has gone cold everywhere else, let's check it out."
+  },
+  {
+    "line": 785,
+    "text": "We leave the parade route and head back toward the central plaza."
+  },
+  {
+    "line": 786,
+    "text": "But only moments later, piercing screams and the screech of tires shatter the night!"
+  },
+  {
+    "line": 787,
+    "text": "It's coming from the parade!"
+  },
+  {
+    "line": 788,
+    "text": "Out of breath, we rush back to find the float crashed against the curb, surrounded by panicked onlookers.//nThe phantom is gone, but its sinister aura still hangs heavy in the air, stronger now that it has feasted on the crowd's fear."
+  },
+  {
+    "line": 790,
+    "text": "Plaza Visitor"
+  },
+  {
+    "line": 791,
+    "text": "Ahhh! That evil fortune-teller has lost her mind! Run!"
+  },
+  {
+    "line": 792,
+    "text": "Was she the one behind all that freaky stuff?! The whole plaza just turned into some kind of graveyard and a creepy forest...!"
+  },
+  {
+    "line": 793,
+    "text": "We track Kaavi down in a quiet corner. She looks drained, the crystal ball in her hands cobwebbed with deep cracks."
+  },
+  {
+    "line": 794,
+    "text": "...Argh! What happened here?!"
+  },
+  {
+    "line": 795,
+    "text": "Nothing out of the ordinary. The phantom has been reclaimed. Fate unfolded exactly as it was meant to."
+  },
+  {
+    "line": 796,
+    "text": "...Fate?! You've been branded an evil fortune-teller!"
+  },
+  {
+    "line": 797,
+    "text": "News Report"
+  },
+  {
+    "line": 798,
+    "text": "BREAKING: A dangerous disturbance was reported during last night's Halloween festivities at One Han City Amusement Park. The suspect, an unholy fortune-teller, fled the scene. Investigations are currently underway..."
+  },
+  {
+    "line": 799,
+    "text": "Damn it!"
+  },
+  {
+    "line": 800,
+    "text": "Attention everyone! Our next objective is to restore her reputation!//nKaavi might be a phony fortune-teller, but she's not an evil one!"
+  },
+  {
+    "line": 801,
+    "text": "And so, a new mission for justice begins.//nI can already tell that clearing Kaavi's name is going to be far harder than catching a rogue phantom..."
+  },
+  {
+    "line": 811,
+    "text": "By the night spirits' blessing, let our stolen thrills return!"
+  },
+  {
+    "line": 812,
+    "text": "Nectar of life, awaken these dormant emotions!"
+  },
+  {
+    "line": 814,
+    "text": "...Heh, she is precisely the one I have been waiting for. Tarot - Eight of Swords: Array of Binding!"
+  },
+  {
+    "line": 819,
+    "text": "...Tarot - Ace of Cups: Fate's Cleansing!"
+  },
+  {
+    "line": 820,
+    "text": "You're not escaping! Light of life, banish the shadows!"
+  },
+  {
+    "line": 821,
+    "text": "A-argh! You bet!"
+  },
+  {
+    "line": 822,
+    "text": "Thank you for telling me the story, Miss Witch! I have a present for you too!"
+  },
+  {
+    "line": 823,
+    "text": "Huh? F-for me? N-no need – whoa, don't run so fast! Watch your step!"
+  },
+  {
+    "line": 826,
+    "text": "Argh?! What's wrong?"
+  },
+  {
+    "line": 827,
+    "text": "How come? We literally just updated all our props..."
+  },
+  {
+    "line": 828,
+    "text": "Aaaaaaargh!! GIANT SPIDER!!! BEGONE!!!!"
+  },
+  {
+    "line": 829,
+    "text": "...She actually lost it so bad her hair fluffed up?"
+  },
+  {
+    "line": 831,
+    "text": "Argh-argh! Ruining everyone's Halloween experience is unforgivable. Justice will be served!"
+  },
+  {
+    "line": 832,
+    "text": "Huh? Screams! Finally, real screams in my haunted house!"
+  },
+  {
+    "line": 833,
+    "text": "Piece of cake! Wait... The phantom's energy is moving toward the food street! {var:player_nickname}, after it!"
+  },
+  {
+    "line": 834,
+    "text": "And that cotton candy vendor! He messed up the recipe and couldn't care less! At this rate, his stall will go out of business!"
+  },
+  {
+    "line": 835,
+    "text": "The phantom drained all of that away! Thank goodness we noticed, or this entire street would be doomed!"
+  },
+  {
+    "line": 836,
+    "text": "(Snapping out of it) Oh gosh, why is this line still so long?! My legs are completely numb! But I'm not giving up – I'm eating this today no matter what!"
+  },
+  {
+    "line": 837,
+    "text": "(Suddenly jolting) No way! I can't let my Halloween cotton candy be a disaster! I'm fixing this recipe right now!"
+  },
+  {
+    "line": 838,
+    "text": "(Spitting out burnt pieces) Yuck! Are you selling roasted sweet potatoes or lumps of charcoal?!"
+  },
+  {
+    "line": 839,
+    "text": "...Huh? The phantom's trail..."
+  },
+  {
+    "line": 840,
+    "text": "It's heading that way – toward the parade floats!"
+  },
+  {
+    "line": 841,
+    "text": "Showing your true colors at last! Evil phantom!"
+  },
+  {
+    "line": 842,
+    "text": "A Few Hours Earlier - Central Plaza, Amusement Park"
+  },
+  {
+    "line": 843,
+    "text": "Argh? You mean we just sit here twiddling our thumbs until midnight?! What if it attacks visitors in the meantime?!"
+  },
+  {
+    "line": 844,
+    "text": "WHOA! What's happening?! The float's out of control!"
+  },
+  {
+    "line": 845,
+    "text": "...It's the phantom! It's possessing the driver!"
+  },
+  {
+    "line": 846,
+    "text": "Everyone, clear the way! Spirits of the wind, clear the haze from this lost soul's mind!"
+  },
+  {
+    "line": 847,
+    "text": "(Slamming on the brakes) Wh-what just happened to me?!"
+  },
+  {
+    "line": 848,
+    "text": "Hey! Watch out for that thing!"
+  },
+  {
+    "line": 849,
+    "text": "Hummm... hummm... hummm..."
+  },
+  {
+    "line": 850,
+    "text": "Huh...? Wh-where am I...? Is this place haunted?!"
+  },
+  {
+    "line": 851,
+    "text": "Hey, stop shoving! You looking for a fight?!"
+  },
+  {
+    "line": 852,
+    "text": "It's her! That fortune-teller did this! She's an evil witch!"
+  },
+  {
+    "line": 853,
+    "text": "Hold it right there! Rings of the ancient tree, raise a barrier and buy us some time!"
+  },
+  {
+    "line": 854,
+    "text": "...No way! You'll get hurt! You dummy, did you forget your magic is currently linked straight to that ball?! We need another plan!"
+  },
+  {
+    "line": 855,
+    "text": "Argh! I'm eighteen years old! Stop calling me that! And who are you calling naive–"
+  },
+  {
+    "line": 856,
+    "text": "Argh! That's it! If we can stop everyone from being scared and get them smiling instead, it won't be able to recover!"
+  },
+  {
+    "line": 857,
+    "text": "Ladies and gentlemen! Get ready for a special Halloween surprise – a grand showdown between the Witch of Justice and the Witch of Evil!"
+  },
+  {
+    "line": 858,
+    "text": "...Wait, what? This whole mess is just a show?"
+  },
+  {
+    "line": 859,
+    "text": "(Thrusting her staff into the air) Ahem! Hark, for I am the Witch of Justice, sent by divine decree!//nEverything you see before you is part of a grand spectacle staged to capture a wicked spirit that has eluded us for a thousand years!"
+  },
+  {
+    "line": 860,
+    "text": "Boring! Screw this! Fraud!"
+  },
+  {
+    "line": 861,
+    "text": "Shoot! It's harvesting everyone's frustration!"
+  },
+  {
+    "line": 862,
+    "text": "Argh-gh-gh–!"
+  },
+  {
+    "line": 863,
+    "text": "The Red Panda Squad bursts onto the scene in spectacular fashion, blocking every last attack!"
+  },
+  {
+    "line": 864,
+    "text": "Whoa! Red pandas! They're so cute!"
+  },
+  {
+    "line": 865,
+    "text": "Who cares if they're cute?! Let us go!//nYou're in cahoots with that wicked fortune-teller, aren't you! Trying to trap us here!//nWitch of Justice? More like Witch of Evil!"
+  },
+  {
+    "line": 866,
+    "text": "(Quietly) H-how am I supposed to act?! What do I even say?!"
+  },
+  {
+    "line": 868,
+    "text": "D-dummy! Who told you to jump in front of me like that?! I could've handled it on my own..."
+  },
+  {
+    "line": 869,
+    "text": "Pfft–"
+  },
+  {
+    "line": 870,
+    "text": "Everyone! Think of the happiest moment you've had tonight, and together, let's turn that joy into candy and drive this \"evil witch\" away!"
+  },
+  {
+    "line": 871,
+    "text": "Me! The cute little ghost on the float gave me candy today!"
+  },
+  {
+    "line": 872,
+    "text": "Me! I ate the sweetest cotton candy ever!"
+  },
+  {
+    "line": 873,
+    "text": "I-I found my daughter! We got separated earlier, and that witch onstage took care of her! Thank you so much!"
+  },
+  {
+    "line": 874,
+    "text": "And our haunted house! She's the one who brought it back to life!"
+  },
+  {
+    "line": 875,
+    "text": "Curse you... This isn't over... AGHHH!"
+  },
+  {
+    "line": 876,
+    "text": "Whoa, what a show!"
+  },
+  {
+    "line": 877,
+    "text": "Is it over already? I wanted more..."
+  },
+  {
+    "line": 878,
+    "text": "Coming here tonight was the best decision ever! Huh? Where did the Witch of Justice and her partner go?"
+  },
+  {
+    "line": 879,
+    "text": "Argh... Shoot! It got what it wanted! The trail leads straight to... the central plaza! It's heading right for Kaavi!"
+  },
+  {
+    "line": 882,
+    "text": "Hmph! Even during a top-secret mission, no incident is too small if it catches my eye – all must face justice!"
+  },
+  {
+    "line": 883,
+    "text": "That's it! Fear, anxiety, frustration... My spellbook says that a wounded phantom feeds on negative human emotions to regain its strength!"
+  },
+  {
+    "line": 884,
+    "text": "(Puffing out her chest) Because I'm the Witch of Justice! Weak phantom aura like this could never numb my feelings!"
+  },
+  {
+    "line": 885,
+    "text": "Huh? Oh, I meant we're one actor short for the cute ghost on our float! Could you step in and fill the spot?"
+  },
+  {
+    "line": 886,
+    "text": "B-but acting... cute? I don't even know where to start!!"
+  },
+  {
+    "line": 887,
+    "text": "I... I only know how to use magic to fight and purify... I've never even heard of \"happiness magic\" before."
+  }
+]

@@ -664,14 +664,6 @@
     "SheetName": "preview"
   },
   {
-    "TableName": "chest",
-    "SheetName": "replace_up"
-  },
-  {
-    "TableName": "chest",
-    "SheetName": "replace_pool"
-  },
-  {
     "TableName": "club",
     "SheetName": "club_info"
   },
@@ -1898,6 +1890,14 @@
   {
     "TableName": "spot",
     "SheetName": "audio_spot"
+  },
+  {
+    "TableName": "steam_achievement",
+    "SheetName": "steam_achievement_type"
+  },
+  {
+    "TableName": "steam_achievement",
+    "SheetName": "steam_achievement_detail"
   },
   {
     "TableName": "str",

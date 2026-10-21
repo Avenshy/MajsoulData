@@ -338,6 +338,28 @@
     }
   },
   {
+    "id": 30600004,
+    "auto_hide": 1,
+    "path": "music/lobby_26wansheng.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 30600004,
+    "name": {
+      "chs": "未完诗篇",
+      "chs_t": "未完詩篇",
+      "jp": "未完成の詩",
+      "en": "An Unfinished Verse",
+      "kr": "미완의 시"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
     "id": 30610001,
     "auto_hide": 1,
     "path": "music/23wansheng.mp3",
@@ -460,6 +482,28 @@
       "jp": "優雅に、格調高く",
       "en": "Majestic Elegance",
       "kr": "우아한 격조"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 30610007,
+    "auto_hide": 1,
+    "path": "music/26wansheng_duiju.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610007,
+    "name": {
+      "chs": "弦上华章",
+      "chs_t": "弦上華章",
+      "jp": "弦の上のメロディ",
+      "en": "Strings of Splendor",
+      "kr": "찬란한 현"
     },
     "unlock_desc": {
       "chs": "寻觅获得",

@@ -1,0 +1,142 @@
+[
+  {
+    "type": 1,
+    "count": 1,
+    "key": "a001_click_character_1"
+  },
+  {
+    "type": 2,
+    "count": 1,
+    "key": "a002_enter_spot_1"
+  },
+  {
+    "type": 3,
+    "count": 1,
+    "key": "a003_watch_matches_1"
+  },
+  {
+    "type": 4,
+    "count": 1,
+    "key": "a004_enter_log_1"
+  },
+  {
+    "type": 5,
+    "count": 1,
+    "key": "a005_use_maka_1"
+  },
+  {
+    "type": 6,
+    "count": 1,
+    "key": "a006_give_gifts_1"
+  },
+  {
+    "type": 7,
+    "count": 1,
+    "key": "a007_recycle_gifts_1"
+  },
+  {
+    "type": 8,
+    "count": 1,
+    "key": "a008_summon_times_1"
+  },
+  {
+    "type": 9,
+    "count": 5,
+    "key": "a009_ranked_match_1"
+  },
+  {
+    "type": 10,
+    "count": 5,
+    "key": "a010_tournament_match_1"
+  },
+  {
+    "type": 11,
+    "count": 5,
+    "key": "a011_friendly_match_1"
+  },
+  {
+    "type": 12,
+    "count": 1,
+    "key": "a012_finish_matches_1"
+  },
+  {
+    "type": 12,
+    "count": 10,
+    "key": "a013_finish_matches_2"
+  },
+  {
+    "type": 12,
+    "count": 100,
+    "key": "a014_finish_matches_3"
+  },
+  {
+    "type": 13,
+    "count": 1,
+    "key": "a015_win_times_1"
+  },
+  {
+    "type": 13,
+    "count": 10,
+    "key": "a016_win_times_2"
+  },
+  {
+    "type": 13,
+    "count": 100,
+    "key": "a017_win_times_3"
+  },
+  {
+    "type": 14,
+    "count": 20,
+    "key": "a018_win_mangan_times_1"
+  },
+  {
+    "type": 15,
+    "count": 10,
+    "key": "a019_win_haneman_times_1"
+  },
+  {
+    "type": 16,
+    "count": 5,
+    "key": "a020_win_baiman_times_1"
+  },
+  {
+    "type": 17,
+    "count": 3,
+    "key": "a021_win_sanbaiman_times_1"
+  },
+  {
+    "type": 18,
+    "count": 1,
+    "key": "a022_win_yakuman_times_1"
+  },
+  {
+    "type": 19,
+    "count": 1,
+    "key": "s001_hidden_achievement_1_1"
+  },
+  {
+    "type": 20,
+    "count": 1,
+    "key": "s002_hidden_achievement_2_1"
+  },
+  {
+    "type": 21,
+    "count": 1,
+    "key": "s003_hidden_achievement_3_1"
+  },
+  {
+    "type": 22,
+    "count": 1,
+    "key": "s004_hidden_achievement_4_1"
+  },
+  {
+    "type": 23,
+    "count": 1,
+    "key": "s005_hidden_achievement_5_1"
+  },
+  {
+    "type": 24,
+    "count": 1,
+    "key": "s006_hidden_achievement_6_1"
+  }
+]

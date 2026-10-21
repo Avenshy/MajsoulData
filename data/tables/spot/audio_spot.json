@@ -735,6 +735,118 @@
     "type": null
   },
   {
+    "id": 210,
+    "path": "ui/spot/audio/you_01",
+    "time_length": null,
+    "str": "单只麻雀叫声",
+    "type": null
+  },
+  {
+    "id": 211,
+    "path": "ui/spot/audio/you_02",
+    "time_length": null,
+    "str": "空灵滴水声",
+    "type": null
+  },
+  {
+    "id": 212,
+    "path": "ui/spot/audio/you_03",
+    "time_length": null,
+    "str": "魔法大招音效",
+    "type": null
+  },
+  {
+    "id": 213,
+    "path": "ui/spot/audio/you_04",
+    "time_length": null,
+    "str": "魔法氛围能量环绕",
+    "type": null
+  },
+  {
+    "id": 214,
+    "path": "ui/spot/audio/you_05",
+    "time_length": null,
+    "str": "闪电魔法音效",
+    "type": null
+  },
+  {
+    "id": 215,
+    "path": "ui/spot/audio/you_06",
+    "time_length": null,
+    "str": "温柔治愈魔法招式",
+    "type": null
+  },
+  {
+    "id": 216,
+    "path": "ui/spot/audio/you_07",
+    "time_length": null,
+    "str": "小熊猫叫声_1",
+    "type": null
+  },
+  {
+    "id": 217,
+    "path": "ui/spot/audio/you_08",
+    "time_length": null,
+    "str": "小熊猫叫声_2",
+    "type": null
+  },
+  {
+    "id": 218,
+    "path": "ui/spot/audio/you_09",
+    "time_length": null,
+    "str": "小熊猫叫声_3",
+    "type": null
+  },
+  {
+    "id": 219,
+    "path": "ui/spot/audio/you_10",
+    "time_length": null,
+    "str": "冰冷光感魔法攻击",
+    "type": null
+  },
+  {
+    "id": 220,
+    "path": "ui/spot/audio/you_11",
+    "time_length": null,
+    "str": "大象叫声",
+    "type": null
+  },
+  {
+    "id": 221,
+    "path": "ui/spot/audio/you_12",
+    "time_length": null,
+    "str": "海鸥叫声",
+    "type": null
+  },
+  {
+    "id": 223,
+    "path": "ui/spot/audio/you_14",
+    "time_length": null,
+    "str": "魔法现象出现过的过渡转场音效",
+    "type": null
+  },
+  {
+    "id": 224,
+    "path": "ui/spot/audio/you_15",
+    "time_length": null,
+    "str": "轻巧精灵感魔法音效",
+    "type": null
+  },
+  {
+    "id": 225,
+    "path": "ui/spot/audio/you_16",
+    "time_length": null,
+    "str": "神秘空灵魔法",
+    "type": null
+  },
+  {
+    "id": 226,
+    "path": "ui/spot/audio/you_17",
+    "time_length": null,
+    "str": "重物落水声",
+    "type": null
+  },
+  {
     "id": 1001,
     "path": "ui/spot/audio/yiliyase01",
     "time_length": null,
@@ -809,6 +921,104 @@
     "path": "ui/spot/audio/2604dj_dungeon_bgm",
     "time_length": null,
     "str": "剑域誓约战斗bgm",
+    "type": 1
+  },
+  {
+    "id": 6010,
+    "path": "ui/spot/audio/2506xila_bgm",
+    "time_length": null,
+    "str": "海滨料理屋bgm",
+    "type": 1
+  },
+  {
+    "id": 6011,
+    "path": "ui/spot/audio/2401chunjie_bgm_loop",
+    "time_length": null,
+    "str": "白龙的心愿bgm",
+    "type": 1
+  },
+  {
+    "id": 6012,
+    "path": "ui/spot/audio/2406haidao_bgm_loop",
+    "time_length": null,
+    "str": "海岛之夏bgm",
+    "type": 1
+  },
+  {
+    "id": 6013,
+    "path": "ui/spot/audio/2411imas_bgm_loop",
+    "time_length": null,
+    "str": "闪耀协奏曲bgm",
+    "type": 1
+  },
+  {
+    "id": 6014,
+    "path": "ui/spot/audio/2504quedou_train_bgm",
+    "time_length": null,
+    "str": "雀斗大会养成bgm",
+    "type": 1
+  },
+  {
+    "id": 6015,
+    "path": "ui/spot/audio/2510yh_bgm",
+    "time_length": null,
+    "str": "万事屋一姬bgm",
+    "type": 1
+  },
+  {
+    "id": 6016,
+    "path": "ui/spot/audio/2512dongri_bgm",
+    "time_length": null,
+    "str": "雪球大作战bgm",
+    "type": 1
+  },
+  {
+    "id": 6017,
+    "path": "ui/spot/audio/2606dp_bgm",
+    "time_length": null,
+    "str": "斗牌活动bgm",
+    "type": 1
+  },
+  {
+    "id": 6018,
+    "path": "ui/spot/audio/2608summer_bgm1",
+    "time_length": null,
+    "str": "海滨快闪店bgm",
+    "type": 1
+  },
+  {
+    "id": 6019,
+    "path": "ui/spot/audio/2608summer_bgm2",
+    "time_length": null,
+    "str": "海滨快闪店bgm_加快",
+    "type": 1
+  },
+  {
+    "id": 6020,
+    "path": "ui/spot/audio/2408qyzz_lobby_loop",
+    "time_length": null,
+    "str": "青云之志一代bgm",
+    "type": 1
+  },
+  {
+    "id": 6021,
+    "path": "ui/spot/audio/2501qyzz_lobby_loop",
+    "time_length": null,
+    "str": "青云之志二代bgm新春",
+    "type": 1
+  },
+  {
+    "id": 6022,
+    "path": "ui/spot/audio/2508qyzz_lobby_normal_loop",
+    "time_length": null,
+    "str": "青云之志三代bgm普通",
+    "type": 1
+  },
+  {
+    "id": 6023,
+    "path": "ui/spot/audio/2508qyzz_lobby_boss_loop",
+    "time_length": null,
+    "str": "青云之志三代bgm挑战",
     "type": 1
   },
   {
@@ -1012,6 +1222,41 @@
     "path": "ui/spot/audio/cheer",
     "time_length": null,
     "str": "环境音-演唱会欢呼",
+    "type": 2
+  },
+  {
+    "id": 20007,
+    "path": "ui/spot/audio/creepy",
+    "time_length": null,
+    "str": "环境音-诡异氛围",
+    "type": 2
+  },
+  {
+    "id": 20008,
+    "path": "ui/spot/audio/horror",
+    "time_length": null,
+    "str": "环境音-恐怖氛围",
+    "type": 2
+  },
+  {
+    "id": 20009,
+    "path": "ui/spot/audio/danger",
+    "time_length": null,
+    "str": "环境音-危机氛围",
+    "type": 2
+  },
+  {
+    "id": 20010,
+    "path": "ui/spot/audio/nervous",
+    "time_length": null,
+    "str": "环境音-紧张氛围",
+    "type": 2
+  },
+  {
+    "id": 20011,
+    "path": "ui/spot/audio/you_13",
+    "time_length": null,
+    "str": "环境音-麻雀群鸟声",
     "type": 2
   }
 ]

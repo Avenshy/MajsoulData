@@ -4603,6 +4603,19 @@
     "old_lobby_background_mark": null
   },
   {
+    "id": 30550049,
+    "res_name": "headframe_sxz",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [
+      "0"
+    ],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
     "id": 30560001,
     "res_name": "liqi_23wansheng",
     "audio_id": null,
@@ -4726,6 +4739,17 @@
   {
     "id": 30560012,
     "res_name": "liqi_26shuiyi",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30560013,
+    "res_name": "liqi_26wansheng",
     "audio_id": null,
     "character_id": null,
     "sargs": [],
@@ -4935,6 +4959,17 @@
   {
     "id": 30570019,
     "res_name": "mjp_26shuiyi",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30570020,
+    "res_name": "mjp_26wansheng",
     "audio_id": null,
     "character_id": null,
     "sargs": [],
@@ -5274,6 +5309,17 @@
     "old_lobby_background_mark": null
   },
   {
+    "id": 30580031,
+    "res_name": "tablecloth_26wansheng",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
     "id": 30580032,
     "res_name": "tablecloth_26gaoxiaosai",
     "audio_id": null,
@@ -5397,6 +5443,17 @@
   {
     "id": 30700009,
     "res_name": "beijing_yanxiapubu",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30700010,
+    "res_name": "beijing_fengchehuatian",
     "audio_id": null,
     "character_id": null,
     "sargs": [],

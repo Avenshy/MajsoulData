@@ -23,7 +23,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -111,7 +115,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -199,7 +207,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -287,7 +299,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -375,7 +391,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -463,7 +483,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -551,7 +575,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -639,7 +667,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -727,7 +759,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -815,7 +851,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -903,7 +943,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -991,7 +1035,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1079,7 +1127,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1167,7 +1219,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1255,7 +1311,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1350,7 +1410,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1438,7 +1502,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1526,7 +1594,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1614,7 +1686,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1702,7 +1778,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1790,7 +1870,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1878,7 +1962,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -1966,7 +2054,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2054,7 +2146,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2142,7 +2238,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2230,7 +2330,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2318,7 +2422,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2406,7 +2514,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2494,7 +2606,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2582,7 +2698,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2670,7 +2790,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2758,7 +2882,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2846,7 +2974,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -2934,7 +3066,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3008,7 +3144,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3082,7 +3222,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3156,7 +3300,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3230,7 +3378,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3318,7 +3470,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3406,7 +3562,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3480,7 +3640,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3554,7 +3718,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3628,7 +3796,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3702,7 +3874,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3790,7 +3966,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3878,7 +4058,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -3966,7 +4150,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4054,7 +4242,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4142,7 +4334,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4230,7 +4426,11 @@
     "sex": 2,
     "collaboration": 3,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4318,7 +4518,11 @@
     "sex": 2,
     "collaboration": 3,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4406,7 +4610,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4494,7 +4702,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4582,7 +4794,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4670,7 +4886,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4751,7 +4971,11 @@
     "sex": 2,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4832,7 +5056,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4913,7 +5141,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -4994,7 +5226,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5082,7 +5318,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5170,7 +5410,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5258,7 +5502,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5332,7 +5580,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5406,7 +5658,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5480,7 +5736,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5554,7 +5814,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5642,7 +5906,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5730,7 +5998,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5818,7 +6090,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5906,7 +6182,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -5987,7 +6267,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6068,7 +6352,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6149,7 +6437,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6230,7 +6522,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6318,7 +6614,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6406,7 +6706,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6494,7 +6798,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6582,7 +6890,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6670,7 +6982,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": 1,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6751,7 +7067,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": 1,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6832,7 +7152,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": 1,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6913,7 +7237,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": 1,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -6994,7 +7322,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7082,7 +7414,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7170,7 +7506,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7258,7 +7598,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7332,7 +7676,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7406,7 +7754,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7480,7 +7832,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7554,7 +7910,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7642,7 +8002,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7730,7 +8094,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7818,7 +8186,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7906,7 +8278,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -7994,7 +8370,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8082,7 +8462,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8170,7 +8554,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8258,7 +8646,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8346,7 +8738,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8434,7 +8830,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8508,7 +8908,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8582,7 +8986,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8656,7 +9064,11 @@
     "sex": 1,
     "collaboration": 2,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8730,7 +9142,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8818,7 +9234,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8906,7 +9326,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -8987,7 +9411,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9068,7 +9496,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9149,7 +9581,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9230,7 +9666,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9318,7 +9758,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9385,7 +9829,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9452,7 +9900,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9519,7 +9971,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9586,7 +10042,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9674,7 +10134,11 @@
     "sex": 2,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9762,7 +10226,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9850,7 +10318,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -9938,7 +10410,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": 1,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10026,7 +10502,11 @@
     "sex": 2,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10093,7 +10573,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10160,7 +10644,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10227,7 +10715,11 @@
     "sex": 1,
     "collaboration": 4,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10294,7 +10786,11 @@
     "sex": 1,
     "collaboration": null,
     "region_limit": null,
-    "skin_lib": [],
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
     "ur": null,
     "ur_ron": null,
     "ur_liqi": null,
@@ -10356,6 +10852,98 @@
       "jp": "常に締切に追われている、人気少女漫画家。\n普段はぐうたらしてるが、一度ペンを持つと、「インスピレーション」という名の名状しがたき神の囁きのために没頭しすぎてしまうらしい。",
       "en": "A big-name shojo manga artist who always seems to be up against a deadline. She is usually low-energy and a little checked out, but the moment she puts pen to paper, Inspiration starts whispering – and doesn't stop until she's out of pages, time, or sanity.",
       "kr": "항상 마감의 압박에 시달리는 유명한 순정만화가. 평소에는 늘 멍하니 빈둥거리는 듯한 모습이지만, 펜을 들기만 하면 '영감'이라는 형언할 수 없는 신의 속삭임에 이끌려 지나치게 몰두해 버리는 듯하다."
+    }
+  },
+  {
+    "id": 20000127,
+    "sort": 125,
+    "launch_time": "2026-10-21 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012701,
+    "full_fetter_skin": 40012702,
+    "hand": 309997,
+    "favorite": 6,
+    "star_5_material": "302010-10,302007-10,303163|303063-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000127",
+    "sound": 127,
+    "sound_volume": 1,
+    "sound_folder": "lingxing",
+    "sex": 1,
+    "collaboration": null,
+    "region_limit": null,
+    "skin_lib": [
+      0,
+      0,
+      0
+    ],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": null,
+    "treasure_sp": null,
+    "name": {
+      "chs": "泠星",
+      "chs_t": "泠星",
+      "jp": "レイセイ",
+      "en": "Reisei",
+      "kr": "레이세이"
+    },
+    "desc_stature": {
+      "chs": "167厘米",
+      "chs_t": "167公分",
+      "jp": "167cm",
+      "en": "167cm",
+      "kr": "167cm"
+    },
+    "desc_birth": {
+      "chs": "9月7日",
+      "chs_t": "9月7日",
+      "jp": "9月7日",
+      "en": "7th September",
+      "kr": "9월 7일"
+    },
+    "desc_age": {
+      "chs": "25",
+      "chs_t": "25",
+      "jp": "25",
+      "en": "25",
+      "kr": "25"
+    },
+    "desc_bloodtype": {
+      "chs": "AB",
+      "chs_t": "AB",
+      "jp": "AB",
+      "en": "AB",
+      "kr": "AB"
+    },
+    "desc_cv": {
+      "chs": "日笠阳子",
+      "chs_t": "日笠陽子",
+      "jp": "日笠 陽子",
+      "en": "Yoko Hikasa",
+      "kr": "히카사 요코"
+    },
+    "desc_hobby": {
+      "chs": "钢琴，甜食，玩偶",
+      "chs_t": "鋼琴，甜食，玩偶",
+      "jp": "ピアノ、甘いもの、ぬいぐるみ",
+      "en": "Piano, sweets, plushies",
+      "kr": "피아노, 단 음식, 인형"
+    },
+    "desc": {
+      "chs": "天赋与努力兼备的钢琴家，冰山般的清冷气质之下是如涓流般细腻的心绪。即便不善言辞的她，无法将所思所想宣之于口，但那琴键上奏出的音符，也一定会将她的心意传递给听众席上的你。",
+      "chs_t": "天賦與努力兼備的鋼琴家，冰山般的清冷氣質之下是如涓流般細膩的心緒。即便不善言辭的她，無法將所思所想宣之於口，但那琴鍵上奏出的音符，也一定會將她的心意傳遞給聽眾席上的你。",
+      "jp": "才能と努力を兼ね備えたピアニスト。\n氷のように凛とした佇まいの奥には、清流のせせらぎのように繊細な想いが流れている。\n口下手な彼女は、胸の内をうまく言葉にできない。それでも、鍵盤から紡がれる音色は、客席にいるあなたへ、きっとその想いを届けてくれる。",
+      "en": "A gifted pianist whose talent is matched only by her dedication. Beneath her cool, aloof exterior lies a gentle and sensitive soul. She may struggle to put her feelings into words, but every note she plays speaks in her place – and carries them straight to you in the audience.",
+      "kr": "재능과 노력을 겸비한 피아니스트. 빙산같이 차가운 분위기 아래 가느다란 물결 같은 섬세한 마음이 자리하고 있다. 생각을 말로 잘 표현하진 못하지만, 건반 위에서 울려 퍼지는 음들이 그녀의 마음을 청중석에 있는 당신에게 반드시 전해줄 것이다."
     }
   }
 ]

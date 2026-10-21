@@ -3969,7 +3969,7 @@
     "exchange_limit": 1,
     "item_limit_id": null,
     "item_limit_count": null,
-    "unlock_day": "0"
+    "unlock_day": null
   },
   {
     "id": 24081402,
@@ -3981,7 +3981,7 @@
     "exchange_limit": 1,
     "item_limit_id": null,
     "item_limit_count": null,
-    "unlock_day": "2"
+    "unlock_day": 2
   },
   {
     "id": 24081403,
@@ -3993,7 +3993,7 @@
     "exchange_limit": 1,
     "item_limit_id": null,
     "item_limit_count": null,
-    "unlock_day": "4"
+    "unlock_day": 4
   },
   {
     "id": 24081404,
@@ -4005,7 +4005,7 @@
     "exchange_limit": 1,
     "item_limit_id": null,
     "item_limit_count": null,
-    "unlock_day": "6"
+    "unlock_day": 6
   },
   {
     "id": 25030201,

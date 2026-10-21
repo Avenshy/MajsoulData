@@ -6294,7 +6294,7 @@
       "chs": "传说之夜·再临",
       "chs_t": "傳説之夜·再臨",
       "jp": "伝説の夜・再臨",
-      "en": "The Night of Legends:\r\nShadows Reborn",
+      "en": "The Night of Legends:\n\nShadows Reborn",
       "kr": "전설의 밤"
     }
   },
@@ -6721,5 +6721,119 @@
     "id": 260936,
     "type": "chest_replace_up",
     "need_popout": null
+  },
+  {
+    "id": 261001,
+    "type": "event_cross_time",
+    "need_popout": 1,
+    "name": {
+      "chs": "筑梦琴屋",
+      "chs_t": "築夢琴屋",
+      "jp": "夢を紡ぐピアノ教室",
+      "en": "Dreams on the Keys",
+      "kr": "피아노에 피어난 꿈"
+    }
+  },
+  {
+    "id": 261002,
+    "type": "activity_buff",
+    "need_popout": null
+  },
+  {
+    "id": 261003,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261004,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261005,
+    "type": "game_task",
+    "need_popout": null
+  },
+  {
+    "id": 261006,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261010,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 261011,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 261012,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 261020,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261021,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261022,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261023,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261024,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261030,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261031,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261032,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261033,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261034,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261081,
+    "type": "amulet",
+    "need_popout": null,
+    "name": {
+      "chs": "青云之志",
+      "chs_t": "青雲之志",
+      "jp": "青雲の志：失われた聖餌",
+      "en": "Sky-High Ambition: Finders Kitties",
+      "kr": "청운의 꿈: 냥냥 보물찾기"
+    }
   }
 ]

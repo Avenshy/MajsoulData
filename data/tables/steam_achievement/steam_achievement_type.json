@@ -1,0 +1,98 @@
+[
+  {
+    "type": 1,
+    "key": "click_character"
+  },
+  {
+    "type": 2,
+    "key": "enter_spot"
+  },
+  {
+    "type": 3,
+    "key": "watch_matches"
+  },
+  {
+    "type": 4,
+    "key": "enter_log"
+  },
+  {
+    "type": 5,
+    "key": "use_maka"
+  },
+  {
+    "type": 6,
+    "key": "give_gifts"
+  },
+  {
+    "type": 7,
+    "key": "recycle_gifts"
+  },
+  {
+    "type": 8,
+    "key": "summon_times"
+  },
+  {
+    "type": 9,
+    "key": "ranked_match"
+  },
+  {
+    "type": 10,
+    "key": "tournament_match"
+  },
+  {
+    "type": 11,
+    "key": "friendly_match"
+  },
+  {
+    "type": 12,
+    "key": "finish_matches"
+  },
+  {
+    "type": 13,
+    "key": "win_times"
+  },
+  {
+    "type": 14,
+    "key": "win_mangan_times"
+  },
+  {
+    "type": 15,
+    "key": "win_haneman_times"
+  },
+  {
+    "type": 16,
+    "key": "win_baiman_times"
+  },
+  {
+    "type": 17,
+    "key": "win_sanbaiman_times"
+  },
+  {
+    "type": 18,
+    "key": "win_yakuman_times"
+  },
+  {
+    "type": 19,
+    "key": "hidden_achievement_1"
+  },
+  {
+    "type": 20,
+    "key": "hidden_achievement_2"
+  },
+  {
+    "type": 21,
+    "key": "hidden_achievement_3"
+  },
+  {
+    "type": 22,
+    "key": "hidden_achievement_4"
+  },
+  {
+    "type": 23,
+    "key": "hidden_achievement_5"
+  },
+  {
+    "type": 24,
+    "key": "hidden_achievement_6"
+  }
+]

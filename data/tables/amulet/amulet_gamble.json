@@ -13,11 +13,37 @@
     "price_inc_rate": 150
   },
   {
+    "activity_id": 261081,
+    "id": 1,
+    "level_range": [
+      13001,
+      13002
+    ],
+    "selection_group_id": 5201,
+    "destroy_rate": 3,
+    "destroy_inc_rate": 150,
+    "price": 5,
+    "price_inc_rate": 150
+  },
+  {
     "activity_id": 260511,
     "id": 2,
     "level_range": [
       11001,
       11005
+    ],
+    "selection_group_id": 5202,
+    "destroy_rate": 3,
+    "destroy_inc_rate": 150,
+    "price": 5,
+    "price_inc_rate": 150
+  },
+  {
+    "activity_id": 261081,
+    "id": 2,
+    "level_range": [
+      13001,
+      13005
     ],
     "selection_group_id": 5202,
     "destroy_rate": 3,
@@ -39,6 +65,19 @@
     "price_inc_rate": 150
   },
   {
+    "activity_id": 261081,
+    "id": 3,
+    "level_range": [
+      13003,
+      13005
+    ],
+    "selection_group_id": 5203,
+    "destroy_rate": 3,
+    "destroy_inc_rate": 150,
+    "price": 5,
+    "price_inc_rate": 150
+  },
+  {
     "activity_id": 260511,
     "id": 4,
     "level_range": [
@@ -52,11 +91,37 @@
     "price_inc_rate": 150
   },
   {
+    "activity_id": 261081,
+    "id": 4,
+    "level_range": [
+      13003,
+      14199
+    ],
+    "selection_group_id": 5204,
+    "destroy_rate": 3,
+    "destroy_inc_rate": 150,
+    "price": 5,
+    "price_inc_rate": 150
+  },
+  {
     "activity_id": 260511,
     "id": 5,
     "level_range": [
       11005,
       12199
+    ],
+    "selection_group_id": 5205,
+    "destroy_rate": 3,
+    "destroy_inc_rate": 150,
+    "price": 5,
+    "price_inc_rate": 150
+  },
+  {
+    "activity_id": 261081,
+    "id": 5,
+    "level_range": [
+      13005,
+      14199
     ],
     "selection_group_id": 5205,
     "destroy_rate": 3,

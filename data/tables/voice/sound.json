@@ -415555,31 +415555,6 @@
     "type": "lobby_normal",
     "level_limit": 5,
     "bond_limit": null,
-    "time_length": 37560,
-    "path": "lobby/lobby_normalmax2",
-    "hide": null,
-    "date_limit": null,
-    "name": {
-      "chs": "大厅交互语音7",
-      "chs_t": "大廳交互語音7",
-      "jp": "メイン7",
-      "en": "Lobby Interactive Voice 7",
-      "kr": "로비 상호작용7"
-    },
-    "words": {
-      "chs": "呼——呼——啊、睡着了，还做了一个美梦……内容？当然是梦见我画完交稿了……现实太残酷了，我还是继续去做梦吧，放心，我马上就能在梦里画完，等我……",
-      "chs_t": "呼——呼——啊、睡著了，還做了一個美夢……內容？當然是夢見我畫完交稿了……現實太殘酷了，我還是繼續去做夢吧，放心，我馬上就能在夢裡畫完，等我……",
-      "jp": "すぅ……むにゃむにゃ……ハッ、寝落ちしてた、\nしかもいい夢見てた……内容？　\nもちろん原稿を提出できた夢よ……\nハァ、現実はなんて残酷なんだ……もう一回夢を見よう。\nああ、心配ご無用、夢の中で描き上げるから、待ってて……",
-      "en": "Mmm... Huh?! I nodded off... and I was having such a good dream, too. What was it about? I got the chapter in on time, of course... Ugh, reality is so cruel. Better go back to sleep. Don't worry, I'll finish it in my dream. Just hang on...",
-      "kr": "새근…… 음냐음냐…… 헉, 졸다가 잠들었네. 게다가 좋은 꿈을 꿨어…… 내용? 당연히 원고를 제출하는 꿈이지…… 하아, 현실은 어쩜 이렇게 잔혹할까…… 한 번 더 꿈을 꿔야겠어. 아아, 걱정 마, 꿈속에서 다 그릴 테니까 기다려 줘……"
-    }
-  },
-  {
-    "id": 126,
-    "category": 1,
-    "type": "lobby_normal",
-    "level_limit": 5,
-    "bond_limit": null,
     "time_length": 20136,
     "path": "lobby/lobby_normalmax3",
     "hide": null,
@@ -417777,31 +417752,6 @@
   {
     "id": 126,
     "category": 2,
-    "type": "gameend_noting",
-    "level_limit": 0,
-    "bond_limit": null,
-    "time_length": 5328,
-    "path": "gameend_noting",
-    "hide": null,
-    "date_limit": null,
-    "name": {
-      "chs": "未听牌",
-      "chs_t": "未聽牌",
-      "jp": "ノーテン",
-      "en": "No-ten (No Ready Hand)",
-      "kr": "노텐"
-    },
-    "words": {
-      "chs": "没听，平行世界BE达成。",
-      "chs_t": "沒聽，平行世界BE達成。",
-      "jp": "ノーテン。平行世界のバッドエンド達成か。",
-      "en": "No-ten. Guess I just unlocked the bad ending in another timeline.",
-      "kr": "노텐. 평행세계의 배드 엔딩 달성인가."
-    }
-  },
-  {
-    "id": 126,
-    "category": 2,
     "type": "gameend_sifenglianda",
     "level_limit": 0,
     "bond_limit": null,
@@ -418397,6 +418347,3431 @@
       "jp": "作画中……始まったら声かけて……。",
       "en": "Drawing right now... Just let me know when the match starts...",
       "kr": "그림 그리는 중…… 시작하면 말 걸어 줘……"
+    }
+  },
+  {
+    "id": 126,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 37560,
+    "path": "lobby/lobby_normalmax2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音7",
+      "chs_t": "大廳交互語音7",
+      "jp": "メイン7",
+      "en": "Lobby Interactive Voice 7",
+      "kr": "로비 상호작용7"
+    },
+    "words": {
+      "chs": "呼——呼——啊、睡着了，还做了一个美梦……内容？当然是梦见我画完交稿了……现实太残酷了，我还是继续去做梦吧，放心，我马上就能在梦里画完，等我……",
+      "chs_t": "呼——呼——啊、睡著了，還做了一個美夢……內容？當然是夢見我畫完交稿了……現實太殘酷了，我還是繼續去做夢吧，放心，我馬上就能在夢裡畫完，等我……",
+      "jp": "すぅ……むにゃむにゃ……ハッ、寝落ちしてた、\nしかもいい夢見てた……内容？　\nもちろん原稿を提出できた夢よ……\nハァ、現実はなんて残酷なんだ……もう一回夢を見よう。\nああ、心配ご無用、夢の中で描き上げるから、待ってて……",
+      "en": "Mmm... Huh?! I nodded off... and I was having such a good dream, too. What was it about? I got the chapter in on time, of course... Ugh, reality is so cruel. Better go back to sleep. Don't worry, I'll finish it in my dream. Just hang on...",
+      "kr": "새근…… 음냐음냐…… 헉, 졸다가 잠들었네. 게다가 좋은 꿈을 꿨어…… 내용? 당연히 원고를 제출하는 꿈이지…… 하아, 현실은 어쩜 이렇게 잔혹할까…… 한 번 더 꿈을 꿔야겠어. 아아, 걱정 마, 꿈속에서 다 그릴 테니까 기다려 줘……"
+    }
+  },
+  {
+    "id": 126,
+    "category": 2,
+    "type": "gameend_noting",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 5328,
+    "path": "gameend_noting",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "未听牌",
+      "chs_t": "未聽牌",
+      "jp": "ノーテン",
+      "en": "No-ten (No Ready Hand)",
+      "kr": "노텐"
+    },
+    "words": {
+      "chs": "没听，平行世界BE达成。",
+      "chs_t": "沒聽，平行世界BE達成。",
+      "jp": "ノーテン。平行世界のバッドエンド達成か。",
+      "en": "No-ten. Guess I just unlocked the bad ending in another timeline.",
+      "kr": "노텐. 평행세계의 배드 엔딩 달성인가."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_rich",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_rich",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "立直",
+      "chs_t": "立直",
+      "jp": "立直",
+      "en": "Riichi",
+      "kr": "리치"
+    },
+    "words": {
+      "chs": "立直",
+      "chs_t": "立直",
+      "jp": "立直",
+      "en": "Riichi",
+      "kr": "리치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_drich",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_drich",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "两立直",
+      "chs_t": "兩立直",
+      "jp": "ダブル立直",
+      "en": "Double Riichi",
+      "kr": "더블 리치"
+    },
+    "words": {
+      "chs": "两立直",
+      "chs_t": "兩立直",
+      "jp": "ダブル立直",
+      "en": "Double Riichi",
+      "kr": "더블 리치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_chi",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_chi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "吃",
+      "chs_t": "吃",
+      "jp": "チー",
+      "en": "Chii",
+      "kr": "치"
+    },
+    "words": {
+      "chs": "吃",
+      "chs_t": "吃",
+      "jp": "チー",
+      "en": "Chii",
+      "kr": "치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_pon",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_pon",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "碰",
+      "chs_t": "碰",
+      "jp": "ポン",
+      "en": "Pon",
+      "kr": "퐁"
+    },
+    "words": {
+      "chs": "碰",
+      "chs_t": "碰",
+      "jp": "ポン",
+      "en": "Pon",
+      "kr": "퐁."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_kan",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_kan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "杠",
+      "chs_t": "槓",
+      "jp": "カン",
+      "en": "Kan",
+      "kr": "깡"
+    },
+    "words": {
+      "chs": "杠",
+      "chs_t": "槓",
+      "jp": "カン",
+      "en": "Kan",
+      "kr": "깡."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_babei",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_babei",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "拔北",
+      "chs_t": "拔北",
+      "jp": "北抜き",
+      "en": "Kita",
+      "kr": "북"
+    },
+    "words": {
+      "chs": "拔北",
+      "chs_t": "拔北",
+      "jp": "ペー",
+      "en": "Kita",
+      "kr": "북."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_ron",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_ron",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "荣",
+      "chs_t": "榮",
+      "jp": "ロン",
+      "en": "Ron",
+      "kr": "론"
+    },
+    "words": {
+      "chs": "荣",
+      "chs_t": "榮",
+      "jp": "ロン",
+      "en": "Ron",
+      "kr": "론."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "act_tumo",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "act_tumo",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "自摸",
+      "chs_t": "自摸",
+      "jp": "ツモ",
+      "en": "Tsumo",
+      "kr": "쯔모"
+    },
+    "words": {
+      "chs": "自摸",
+      "chs_t": "自摸",
+      "jp": "ツモ",
+      "en": "Tsumo",
+      "kr": "쯔모."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_selfintro",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 29832,
+    "path": "lobby/lobby_selfintro",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "获得语音",
+      "chs_t": "獲得語音",
+      "jp": "出会い",
+      "en": "Voice when obtained",
+      "kr": "획득 음성"
+    },
+    "words": {
+      "chs": "我是泠星，之后将负责你的钢琴讲习，请多指教。有些紧张吗？没关系，我会根据你的天赋和情况制定最合理的训练计划……嗯，就从重新拥抱乐感开始吧。",
+      "chs_t": "我是泠星，之後將負責你的鋼琴講習，請多指教。有些緊張嗎？沒關係，我會根據你的天賦和情況制定最適合的訓練計畫……嗯，就從重新找回樂感開始吧。",
+      "jp": "こんにちは、これからあなたのピアノレッスンを担当します、レイセイです。\nよろしくお願いします。\n……緊張しているようですね？\n大丈夫ですよ、あなたの能力に合わせた、最も合理的な計画のもとにレッスンを進めますので。\n……そうですね、まずは、音楽的なセンスを磨くことから始めましょうか。",
+      "en": "I am Reisei. I'll be overseeing your piano tutorials. Nervous? Don't be. I will tailor a regimen to your specific aptitude. Let's begin by tuning back into your musical intuition.",
+      "kr": "안녕하세요. 앞으로 당신의 피아노 레슨을 맡은 레이세이입니다. 잘 부탁드려요. ……긴장하신 것 같네요? 괜찮아요, 당신 실력에 맞춰 가장 합리적인 계획에 따라 레슨을 진행할 거니까요. ……그러면 우선은 음감을 기르는 것부터 시작할까요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_start",
+    "level_limit": 1,
+    "bond_limit": null,
+    "time_length": 1944,
+    "path": "extra2/ingame_start",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "对局开始",
+      "chs_t": "對局開始",
+      "jp": "対局開始",
+      "en": "Match Start",
+      "kr": "대국 시작"
+    },
+    "words": {
+      "chs": "请多指教。",
+      "chs_t": "請多指教。",
+      "jp": "よろしくお願いします。",
+      "en": "Pleased to perform with you.",
+      "kr": "잘 부탁드려요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "game_top",
+    "level_limit": 1,
+    "bond_limit": null,
+    "time_length": 4104,
+    "path": "game_top",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "终局一位",
+      "chs_t": "終局一位",
+      "jp": "清算一位",
+      "en": "Finishing a game in 1st place",
+      "kr": "1위"
+    },
+    "words": {
+      "chs": "不觉得你们是在浪费时间吗？",
+      "chs_t": "不覺得你們是在浪費時間嗎？",
+      "jp": "あなた達、時間の無駄だとは思いませんか？",
+      "en": "Honestly, isn't this just a waste of everyone's time?",
+      "kr": "당신들, 시간 낭비라고는 생각하지 않나요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "game_top_ron",
+    "level_limit": 2,
+    "bond_limit": null,
+    "time_length": 1944,
+    "path": "extra2/game_top_ron",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "终局一位-荣和获胜",
+      "chs_t": "終局一位-榮和獲勝",
+      "jp": "清算一位・ロンで勝利",
+      "en": "Match End - 1st Place (win by Ron)",
+      "kr": "1위-론으로 승리"
+    },
+    "words": {
+      "chs": "演奏结束了。",
+      "chs_t": "演奏結束了。",
+      "jp": "演奏が終わりました。",
+      "en": "The performance is over.",
+      "kr": "연주는 끝났어요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "game_top_big",
+    "level_limit": 3,
+    "bond_limit": null,
+    "time_length": 7080,
+    "path": "extra2/game_top_big",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "终局一位-高分获胜",
+      "chs_t": "終局一位-高分獲勝",
+      "jp": "清算一位・高い点数で勝利",
+      "en": "Match End - 1st Place (win by high points)",
+      "kr": "1위-높은 점수로 승리"
+    },
+    "words": {
+      "chs": "超常的天赋本就是极致的运势。",
+      "chs_t": "超常的天賦本來就是極致的運勢。",
+      "jp": "類まれなる才能というのは、結局、桁外れな強運のことを言うのです。",
+      "en": "True genius is just luck perfected.",
+      "kr": "비범한 재능이라는 건 결국, 상식을 벗어날 정도로 강한 운을 뜻하는 거죠."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_playerlogin",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 5712,
+    "path": "lobby/lobby_playerlogin",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "登录语音普通",
+      "chs_t": "登錄語音普通",
+      "jp": "ログイン・普通",
+      "en": "Login Voice - Normal",
+      "kr": "로그인-일반"
+    },
+    "words": {
+      "chs": "你好……一直看着我，有什么事吗？",
+      "chs_t": "你好……一直看著我，有什麼事嗎？",
+      "jp": "こんにちは……ずっと私のことを見ていますが、何か……？",
+      "en": "Hello... You've been staring. Is there something you need?",
+      "kr": "안녕하세요…… 계속 저를 쳐다보고 계시는데, 무슨 일로……?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_playerlogin",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 7128,
+    "path": "lobby/lobby_playerlogin_max",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "登录语音满羁绊",
+      "chs_t": "登錄語音滿羈絆",
+      "jp": "ログイン・絆LvMAX",
+      "en": "Login Voice - Max Bond",
+      "kr": "로그인-최고 인연"
+    },
+    "words": {
+      "chs": "你来了……那个，今天感觉怎么样？麻将的牌运。",
+      "chs_t": "你來了……那個，今天感覺怎麼樣？麻將的牌運。",
+      "jp": "来たんですね……あの……今日の麻雀の調子はいかがですか？",
+      "en": "You're here. So... how are the tiles treating you today?",
+      "kr": "오셨네요…… 저…… 오늘 마작 컨디션은 좀 어때요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 13128,
+    "path": "lobby/lobby_normal1",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音1",
+      "chs_t": "大廳交互語音1",
+      "jp": "メイン1",
+      "en": "Lobby Interactive Voice 1",
+      "kr": "로비 상호작용1"
+    },
+    "words": {
+      "chs": "放弃、逃避并不尽是坏事，跟麻将一样，无谓的勉强有时无异于飞蛾扑火。",
+      "chs_t": "放棄、逃避並不盡是壞事，跟麻將一樣，無謂的勉強有時無異於飛蛾撲火。",
+      "jp": "諦めや逃げを選ぶのが賢明な場合もあります。\n無意味に意地を張ることで、飛んで火に入る夏の虫となって\nしまうこともあり得ますから。麻雀だってそうでしょう？",
+      "en": "Walking away isn't always a defeat. In mahjong, as in life, forcing a hand that's already lost only breaks you.",
+      "kr": "포기하거나 도망치는 걸 선택하는 게 현명할 때도 있어요. 쓸데없이 고집을 부리다가 불 속으로 뛰어드는 나방 꼴이 될 수도 있으니까요. 마작도 그렇잖아요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 22248,
+    "path": "lobby/lobby_normal2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音2",
+      "chs_t": "大廳交互語音2",
+      "jp": "メイン2",
+      "en": "Lobby Interactive Voice 2",
+      "kr": "로비 상호작용2"
+    },
+    "words": {
+      "chs": "有时候，直到演出谢幕，我都没办法往观众席看一眼。大家由此对我产生误会也是很正常的。不过，比起用语言解释，我还是更擅长用音乐来传达自己的想法……",
+      "chs_t": "有時候，直到演出謝幕，我都沒辦法往觀眾席看一眼。大家由此對我產生誤會也是很正常的。不過，比起用語言解釋，我還是更擅長用音樂來傳達自己的想法……",
+      "jp": "たまに、終演まで、観客席に目を向ける余裕がないこともあります。\nそのせいで誤解されるのも、当然だと思っています。\nでも私は、言葉であれこれ言うよりも、音で気持ちを伝える方がまだ上手くいくことが多いですから……。",
+      "en": "Sometimes I can't bring myself to look at the crowd until the curtains drop. It breeds misunderstandings, I know. But I've always found my voice in music, not words...",
+      "kr": "가끔은 공연이 끝날 때까지 객석으로 눈 돌릴 여유가 없을 때도 있어요. 그 탓에 오해를 받는 것도 당연하다고 생각해요. 하지만 저는 말로 이것저것 하는 것보다, 소리로 마음을 전하는 게 더 잘될 때가 많아서……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 1,
+    "bond_limit": null,
+    "time_length": 26664,
+    "path": "lobby/lobby_normal3",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音3",
+      "chs_t": "大廳交互語音3",
+      "jp": "メイン3",
+      "en": "Lobby Interactive Voice 3",
+      "kr": "로비 상호작용3"
+    },
+    "words": {
+      "chs": "或许是职业病的缘故，我对噪音的界定非常敏感，有时候甚至听到一点点不谐音都会生理性头疼。可即便给你添了很多麻烦，你也愿意迁就和照顾我……我确实要说声谢谢呢。",
+      "chs_t": "或許是職業病的緣故，我對噪音的界定非常敏感，有時候甚至聽到一點點不協和音都會生理性頭疼。可即使給你添了很多麻煩，你也願意遷就和照顧我……我確實要說聲謝謝呢。",
+      "jp": "職業病でしょうか、騒音にはとても敏感なのです。\n少しでも、不協和音が耳に入ると、頭痛がしてしまいます。\nこれだけ面倒を掛けているのに、あなたは私を理解し、一緒にいてくださるのですね……。\n「ありがとう」と、言わせてください。",
+      "en": "An occupational hazard, I suppose, but dissonance gives me actual migraines. I know I can be a lot to handle, yet you always seem to accommodate my sensitivities without complaint. Thank you. Truly.",
+      "kr": "직업병 때문인지 소음에는 무척 민감해요. 조금이라도 불협화음이 귀에 들리면, 머리가 아파지곤 하거든요. 이렇게 번거롭게 하는데도, 당신은 저를 이해하고 함께 있어 주는군요…… '고마워요'라고, 말을 전하고 싶네요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 2,
+    "bond_limit": null,
+    "time_length": 23880,
+    "path": "lobby/lobby_normal4",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音4",
+      "chs_t": "大廳交互語音4",
+      "jp": "メイン4",
+      "en": "Lobby Interactive Voice 4",
+      "kr": "로비 상호작용4"
+    },
+    "words": {
+      "chs": "弹琴虽然也不容易，但只要准确地按下琴键就能奏响对应的声音。和人的相处就完全不同了，同样的一句话说出来，产生的效果却无法预知……",
+      "chs_t": "彈琴雖然也不容易，但只要準確地按下琴鍵就能奏響對應的聲音。和人的相處就完全不同了，同樣的一句話說出口，產生的效果卻無法預知……",
+      "jp": "ピアノは難しい楽器だと思われがちですが、正確に鍵盤を叩けば、思い通りに音が出てくれます。\n対して、人間関係はそう簡単にはいきません。\n同じ言葉でも、場面やタイミングによって、意図と完全に異なる意味として伝わってしまいます……。",
+      "en": "The piano is predictable – strike the right key, and it sings the exact note you expect. People are different. The same words can provoke an echo you never anticipated.",
+      "kr": "피아노가 어려운 악기라고 흔히 생각하지만, 정확하게 건반을 치면 원하는 대로 소리가 나와요. 반면, 인간관계는 그렇게 쉽지 않죠. 같은 말이라도 상황이나 타이밍에 따라, 의도한 것과는 완전히 다른 의미로 전달되어 버리니까요……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 3,
+    "bond_limit": null,
+    "time_length": 23040,
+    "path": "lobby/lobby_normal5",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音5",
+      "chs_t": "大廳交互語音5",
+      "jp": "メイン5",
+      "en": "Lobby Interactive Voice 5",
+      "kr": "로비 상호작용5"
+    },
+    "words": {
+      "chs": "唔……我没事，只是八木同学给的甜品，味道是比较特别……既然答应过要给她反馈，当然要吃完才能给出客观评价，还差一口……",
+      "chs_t": "唔……我沒事，只是八木同學給的甜點，味道是比較特別……既然答應過要告訴她感想，當然要吃完才能給出客觀評價，還差一口……",
+      "jp": "うっ……お気遣いなく。\n八木さんにいただいたスイーツなのですが、味がちょっと、\n何というか一風変わっていて。\nしかし、彼女に感想をお伝えすると約束した以上、\n完食した上で客観的な評価を下さなければ。\nあと、一口っ……。",
+      "en": "I'm fine. Yui's baking is just... an acquired taste. I promised her an objective review, which means finishing every crumb. One more bite to go...",
+      "kr": "욱…… 신경 쓰지 마세요. 야기 씨에게 받은 디저트인데, 맛이 좀…… 뭐랄까, 독특하네요. 하지만 맛이 어땠는지 말해주기로 약속했으니, 다 먹고 객관적인 평가를 내려야 해요. 이제 한 입만 더……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 4,
+    "bond_limit": null,
+    "time_length": 28632,
+    "path": "lobby/lobby_normalmax1",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音6",
+      "chs_t": "大廳交互語音6",
+      "jp": "メイン6",
+      "en": "Lobby Interactive Voice 6",
+      "kr": "로비 상호작용6"
+    },
+    "words": {
+      "chs": "嘘……你听。从琴键落下，到余音完全消失的几秒钟，多么动听的静谧啊，心跳都逐渐变得同拍了。来，坐到这里，和我一起再多感受一会吧。",
+      "chs_t": "噓……你聽。從琴鍵落下，到餘音完全消失的幾秒鐘，多麼動聽的靜謐啊，心跳都逐漸變得同拍了。來，坐到這裡，和我一起再多感受一會吧。",
+      "jp": "しーっ、静かに。\n……鍵盤に触れてから、残響が完全に静まるまでのこの数秒で、美しい静寂が満ちたことがわかりましたか？\n心臓の鼓動までシンクロしてしまうような……。\nさあ、こちらへ。一緒にこの静けさを楽しみましょう。",
+      "en": "Shh... listen. The silence that follows the final chord – it's beautiful. Even our pulses seem to sync. Sit with me. Let the quiet linger a little longer.",
+      "kr": "쉿, 조용히. ……건반에 손이 닿은 순간부터, 잔향이 완전히 가라앉기까지의 이 몇 초 사이, 아름다운 정적이 가득 찬 것을 느꼈나요? 심장 박동과 맞아 버린 것 같은…… 자아, 이쪽으로. 같이 이 고요함을 즐겨 봐요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 28992,
+    "path": "lobby/lobby_normalmax2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音7",
+      "chs_t": "大廳交互語音7",
+      "jp": "メイン7",
+      "en": "Lobby Interactive Voice 7",
+      "kr": "로비 상호작용7"
+    },
+    "words": {
+      "chs": "我不太擅长和人打交道，每次上课前，都会把玩偶摆在琴凳上，预先模拟和学生的互动……不过现在，我有了一个更好的倾听者，就连我没有说出口的心声也能领会。这就是，所谓的“知音”吧？",
+      "chs_t": "我不太擅長和人打交道，每次上課前，都會把玩偶擺在琴凳上，預先模擬和學生的互動……不過現在，我有了一個更好的傾聽者，就連我沒有說出口的心聲也能領會。這就是，所謂的「知音」吧？",
+      "jp": "人付き合いは、苦手です。\n授業の前は、毎回必ずぬいぐるみを椅子に置いて、\n生徒さんとの交流をシミュレーションしないことには安心できないのです。\n……でも今は、心に秘めた言葉もわかってくれる、良い聴き手がここにいます。\nこういう人のことを、「知音」というそうですね。",
+      "en": "I struggle with people. I used to practice my lectures in front of plushies on the piano bench. But now, I have a real listener who hears what goes unsaid. A true confidant, I suppose.",
+      "kr": "인간관계는 서툴러요. 수업 전에 매번 인형을 의자에 놓고, 학생을 상대하는 상황을 시뮬레이션해 보지 않으면 안심할 수가 없어서…… 하지만, 지금은 마음속에 숨겨 둔 말을 알아주는 좋은 청자가 여기 있으니까요. 이런 사람을 '지음'이라고 부른다고 하네요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 20280,
+    "path": "lobby/lobby_normalmax3",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音8",
+      "chs_t": "大廳交互語音8",
+      "jp": "メイン8",
+      "en": "Lobby Interactive Voice 8",
+      "kr": "로비 상호작용8"
+    },
+    "words": {
+      "chs": "等很久了吧。抱歉，今天备课时间有些超长了……看你一直在打哈欠，不介意的话，稍微在沙发上躺一会吧？正好我也有些累了，我们可以一起休息下再出门。",
+      "chs_t": "等很久了吧。抱歉，今天備課花的時間有點久……看你一直在打哈欠，不介意的話，稍微在沙發上躺一下吧？正好我也有些累了，我們可以一起休息一下再出門。",
+      "jp": "お待たせしました。\n今日はレッスンの準備に時間がかかってしまって……\nあくびが止まらないようですね、\nよかったらそこのソファーで横になってください。\nちょうど私も少し疲労を感じていた所ですし、\nお互いに休息してから出かけましょう。",
+      "en": "Kept you waiting. Forgive me, lesson planning ran a bit long today. You're yawning... take the couch if you like. Let's recharge before we head out. I could use a break myself.",
+      "kr": "오래 기다리셨어요. 오늘 레슨 준비에 시간이 오래 걸려서…… 하품이 계속 나오나 보네요, 괜찮으면 저기 소파에 누워요. 마침 저도 조금 피곤했는데, 같이 좀 쉬다가 나가요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_gift",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 1824,
+    "path": "lobby/lobby_gift",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "送礼物语音普通",
+      "chs_t": "送禮物語音普通",
+      "jp": "プレゼント・普通",
+      "en": "Receiving Gift - Normal",
+      "kr": "선물-일반"
+    },
+    "words": {
+      "chs": "谢谢。",
+      "chs_t": "謝謝。",
+      "jp": "ありがとうございます。",
+      "en": "Thank you.",
+      "kr": "고마워요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_gift_favor",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 11544,
+    "path": "lobby/lobby_gift_favor",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "送礼物语音喜好",
+      "chs_t": "送禮物語音喜好",
+      "jp": "プレゼント・好み",
+      "en": "Receiving Gift - Preferred",
+      "kr": "선물-기쁨"
+    },
+    "words": {
+      "chs": "这个，比起送给我，或许其他人更有资格……不，既然是你难得的心意，我当然会收下。",
+      "chs_t": "這個，比起送給我，或許其他人更有資格……不，既然是你難得的心意，我當然會收下。",
+      "jp": "こういったものは私ではなく別の方にお贈りした方が……。\nいえ、やっぱりいただいておきます。\nせっかくあなたがくださったのですから。",
+      "en": "Someone else might deserve this more than I do... Still, it's a thoughtful gesture. I'll cherish it.",
+      "kr": "이런 건 저보다 다른 분께 드리는 게…… 아니, 역시 받아 둘게요. 모처럼 당신이 주는 거니까요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_levelup0",
+    "level_limit": 1,
+    "bond_limit": null,
+    "time_length": 15888,
+    "path": "lobby/lobby_levelup1",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "好感度升级语音1",
+      "chs_t": "好感度升級語音1",
+      "jp": "絆レベルアップ1",
+      "en": "Bond Level Up Voice 1",
+      "kr": "인연 레벨업1"
+    },
+    "words": {
+      "chs": "以我的性格，恐怕没法成为优秀的教育者。说话有时候会很难听，还会把学生惹哭……可即便如此，老师还是选择我当她的助教，到底是出于哪方面的考量呢？",
+      "chs_t": "以我的性格，恐怕沒法成為優秀的教育者。說話有時候會很難聽，還會把學生惹哭……可即使如此，老師還是選擇我當她的助教，到底是出於哪方面的考量呢？",
+      "jp": "私は教育者には向いてないんです。\n言葉選びが悪くて、毎日のように教え子を泣かせて……\nなぜこんな私を助教に雇ったんでしょう。\n先生の行動は理解に苦しみます。",
+      "en": "I lack the tact to be a good mentor. My critiques cut too deep, and I've reduced students to tears... I still wonder what Professor saw in me when she made me her assistant.",
+      "kr": "전 교육자에 어울리지 않아요. 말주변이 좋지 않아 매일 학생들을 울리고…… 왜 이런 저를 조교수로 뽑으신 걸까요? 선생님의 행동은 이해하기가 어렵네요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_levelup1",
+    "level_limit": 2,
+    "bond_limit": null,
+    "time_length": 25392,
+    "path": "lobby/lobby_levelup2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "好感度升级语音2",
+      "chs_t": "好感度升級語音2",
+      "jp": "絆レベルアップ2",
+      "en": "Bond Level Up Voice 2",
+      "kr": "인연 레벨업2"
+    },
+    "words": {
+      "chs": "还想再听一遍那首我即兴创作的曲子？可当时你明明都听到睡着了……你是说，这是因为演奏令人沉醉？唔……说的也是，那就再为你弹一次摇篮曲的版本吧。",
+      "chs_t": "還想再聽一遍那首我即興創作的曲子？可當時你明明都聽到睡著了……你是說，這是因為演奏令人沉醉？唔……說的也是，那就再為你彈一次搖籃曲的版本吧。",
+      "jp": "あの即興曲を、もう一度聞きたいのですか？\n前弾いた時は、途中で寝てしまったのに……。\nうっとりと夢の世界に入ってしまうほど、美しい演奏だったから、ですか……？\nそ、そうですか。でしたら、もう一度、子守唄バージョンで弾いてあげますね。",
+      "en": "You want to hear that improvisation again? You literally nodded off last time... Oh, it was \"mesmerizing,\" you say? I see... Let me turn it into a proper lullaby for you then.",
+      "kr": "그 즉흥곡을 다시 한번 듣고 싶은 거예요? 전에 연주했을 때는 중간에 잠들어 버렸으면서……. 황홀해서 꿈의 세계로 빠져들어 버릴 정도로 아름다운 연주였기 때문이라고요…….? 그, 그런가요. 그러면 자장가 버전으로 한 번 더 쳐 드릴게요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_levelup2",
+    "level_limit": 3,
+    "bond_limit": null,
+    "time_length": 21768,
+    "path": "lobby/lobby_levelup3",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "好感度升级语音3",
+      "chs_t": "好感度升級語音3",
+      "jp": "絆レベルアップ3",
+      "en": "Bond Level Up Voice 3",
+      "kr": "인연 레벨업3"
+    },
+    "words": {
+      "chs": "如果觉得我布置的练习量让你有压力，就直接说出来，我会调整课程进度的。一点点积累进步，直到能和我同台演出的一天……嗯，那将是前所未有的四手联弹。",
+      "chs_t": "如果覺得我佈置的練習量讓你有壓力，就直接說出來，我會調整課程進度的。一點點積累進步，直到能和我同台演出的一天……嗯，那將是前所未有的四手聯彈。",
+      "jp": "自主練習の量が多すぎたり、負担に感じるようでしたら言ってください。\n随時調整していきましょう。\nこのまま少しずつ上達して、いつか私とステージに立てるようになった時には……。\nきっと、史上最高の四手連弾になるでしょう。",
+      "en": "Tell me if the workload is too heavy; I can pace the lessons. We take it measure by measure, until the day you share the bench with me. Hmm... a duet like no other.",
+      "kr": "개인 연습량이 너무 많거나, 부담이 되는 것 같으면 말해 줘요. 그때그때 조정해 나가요. 이렇게 조금씩 실력을 늘려, 언젠가 저와 무대에 설 수 있게 되면…… 틀림없이 역사상 최고의 포핸즈가 될 거예요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_levelup3",
+    "level_limit": 4,
+    "bond_limit": null,
+    "time_length": 15000,
+    "path": "lobby/lobby_levelmax",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "好感度升级语音4",
+      "chs_t": "好感度升級語音4",
+      "jp": "絆レベルアップ4",
+      "en": "Bond Level Up Voice 4",
+      "kr": "인연 레벨업4"
+    },
+    "words": {
+      "chs": "你……真的来了？没想到我不经意说过的话，居然让你特意跑来帮忙做扫除了……总之，还是先进来吧。家里这么乱，你可得当心点。",
+      "chs_t": "你……真的來了？沒想到我不經意說過的話，居然讓你特意跑來幫忙打掃了……總之，還是先進來吧。家裡這麼亂，你可得當心點。",
+      "jp": "あなた……軽い気持ちで言っただけなのに、本当に掃除しに来て\nくれるなんて……とにかく、上がってください。\n少々散らかっていますので、気をつけて。",
+      "en": "You actually came? It was just a passing remark. I didn't think you would show up to help me clean. Come in, then. Mind the clutter.",
+      "kr": "당신…… 별생각없이 한 말인데, 정말로 청소하러 와 주다니…… 어쨌든, 일단 들어와요. 집이 조금 어수선하니 조심해요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_levelmax",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 23448,
+    "path": "lobby/lobby_manjiban",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "好感度升级语音5",
+      "chs_t": "好感度升級語音5",
+      "jp": "絆レベルアップ5",
+      "en": "Bond Level Up Voice 5",
+      "kr": "인연 레벨업5"
+    },
+    "words": {
+      "chs": "对我来说，弹得好这件事本身并不值得夸耀。只要将才能和努力倾注到钢琴之中，这样的结果也是必然的。但是……不知道为什么，唯独从你这里说出来的称赞，却能让我高兴。",
+      "chs_t": "對我來說，彈得好這件事本身並不值得誇耀。只要將才能和努力傾注到鋼琴之中，這樣的結果也是必然的。但是……不知道為什麼，唯獨從你口裡說出來的稱讚，卻能讓我高興。",
+      "jp": "私は、ピアノを上手に弾けることは\n特に誇るべきことじゃないと思っています。\n才能と努力をピアノにつぎ込めば、必ず得られる結果ですから。\nでも、あなたに褒めてもらえると、何故だか少し嬉しく感じます。",
+      "en": "Flawless execution is merely the logical outcome of talent meeting discipline. It's nothing to boast about. Yet... your praise, specifically, carries a strange weight.",
+      "kr": "전, 피아노를 잘 친다는 게 특별히 자랑할 만한 일은 아니라고 생각해요. 재능과 노력을 피아노에 쏟아부으면, 반드시 얻을 수 있는 결과니까요. 하지만, 당신에게 칭찬을 받으니, 왠지 조금 기분이 좋아지네요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_qiyue",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 22704,
+    "path": "lobby/lobby_qiyue",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "契约语音",
+      "chs_t": "契約語音",
+      "jp": "契約を結ぶ",
+      "en": "Bond",
+      "kr": "계약"
+    },
+    "words": {
+      "chs": "旋律，节奏，还有和弦……我都已经没有什么能教你的了。不过，在这之后，你还愿意的话……那个，可以和我一起，一起谱写属于我们的全新乐章吗？",
+      "chs_t": "旋律、節奏，還有和弦……我已經沒有什麼能教你的了。不過，在這之後，如我你還願意的話……那個，可以和我一起，譜寫屬於我們的全新樂章嗎？",
+      "jp": "リズム、メロディー、ハーモニー……\nこれ以上あなたに教えることはありません。\nただ、もしあなたが良ければ、の話ですが……。\n今後も、私と一緒に、二人だけの曲を作れたらと、思うのですが……",
+      "en": "Rhythm, melody, harmony... I have taught you everything I know. But if you're willing... could we perhaps compose a new movement together?",
+      "kr": "리듬, 멜로디, 하모니…… 이 이상 당신에게 가르칠 건 없어요. 하지만, 만약 당신만 괜찮다면 말이지만…… 앞으로도, 저와 함께, 둘만의 곡을 만들 수 있으면 좋겠다고 생각합니다만……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_limited",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 23160,
+    "path": "extra/lobby_newyear",
+    "hide": 1,
+    "date_limit": "01-01",
+    "name": {
+      "chs": "隐藏语音 - 新年",
+      "chs_t": "",
+      "jp": "",
+      "en": "",
+      "kr": "히든-새해"
+    },
+    "words": {
+      "chs": "新年快乐。昨晚母亲来了，我正准备去超市买点做饭用的食材……那个，如果你方便的话，要不要来我们家吃饭？和我不一样，母亲她手艺很好的……",
+      "chs_t": "新年快樂。昨晚母親來了，我正準備去超市買點做飯用的食材……那個，如果你方便的話，要不要來我們家吃飯？和我不一樣，母親她手藝很好的……",
+      "jp": "あけましておめでとうございます。\n昨夜から母が来ているので、スーパーに買い出しに行って、ご飯を作ってもらおうかと。\nあの……もしよろしければ、うちに食べに来ませんか？ \n母は私と違って料理が得意なので。",
+      "en": "Happy New Year. My mother arrived last night, and I'm heading out for groceries. If you're free... would you like to join us for dinner? Unlike me, she is an excellent cook.",
+      "kr": "새해 복 많이 받아요. 어제저녁부터 어머니가 와 계셔서, 마트에 장을 보러 갔다가 밥을 해 달라고 할까 해서요. 저…… 혹시 괜찮으면 저희 집에 밥 먹으러 오지 않을래요? 어머니는 저와 달리 요리 솜씨가 좋으시니까요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_limited",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 33456,
+    "path": "extra/lobby_valentine",
+    "hide": 1,
+    "date_limit": "02-14",
+    "name": {
+      "chs": "隐藏语音 - 情人节",
+      "chs_t": "",
+      "jp": "",
+      "en": "",
+      "kr": "히든-발렌타인데이"
+    },
+    "words": {
+      "chs": "那个，感谢你一直以来的帮忙。如你所见，我不太清楚这种时候应该送什么样的礼物表达心意，如果这份焦糖夹心巧克力不合适的话，我还写了一首D小调小夜曲……要现在就弹给你听听吗？",
+      "chs_t": "那個，感謝你一直以來的幫忙。如你所見，我不太清楚這種時候應該送什麼樣的禮物表達心意，如果這份焦糖夾心巧克力不合適的話，我還寫了一首D小調小夜曲……要現在就彈給你聽聽嗎？",
+      "jp": "あの、いつも、助けてくれて、ありがとうございます。\nご存知とは思いますが、こういう時に何をプレゼントすればいいのか、わからないのです。\n一応、キャラメル入りのチョコレートを用意したのですが……もしお口に合わなければ、あなたのために、ニ短調のセレナーデも書いてみました。\n……今、弾いてみせましょうか？",
+      "en": "Thank you for everything. I'm clumsy with gifts, as you know. If these caramels aren't to your liking, I also composed a serenade in D minor... Would you care to hear it now?",
+      "kr": "저, 항상, 도와줘서 고마워요. 알고 있을 거라고는 생각하는데, 이럴 때는 뭘 선물해야 좋을지 잘 모르겠어요. 일단, 캐러멜이 들어간 초콜릿을 준비하긴 했는데…… 혹시 입맛에 맞지 않으면, 당신을 위해, 라단조 세레나데도 써 봤는데…… 지금, 들려드릴까요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_qianggang",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 994,
+    "path": "fan_qianggang",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "枪杠",
+      "chs_t": "槍槓",
+      "jp": "槍槓",
+      "en": "Robbing a Kan",
+      "kr": "창깡"
+    },
+    "words": {
+      "chs": "枪杠",
+      "chs_t": "槍槓",
+      "jp": "チャンカン",
+      "en": "Robbing a Kan",
+      "kr": "창깡."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_lingshang",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_lingshang",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "岭上开花",
+      "chs_t": "嶺上開花",
+      "jp": "嶺上開花",
+      "en": "After a Kan",
+      "kr": "영상개화"
+    },
+    "words": {
+      "chs": "岭上开花",
+      "chs_t": "嶺上開花",
+      "jp": "リンシャン",
+      "en": "After a Kan",
+      "kr": "영상개화."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_haidi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_haidi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "海底摸月",
+      "chs_t": "海底摸月",
+      "jp": "海底摸月",
+      "en": "Under the Sea",
+      "kr": "해저로월"
+    },
+    "words": {
+      "chs": "海底摸月",
+      "chs_t": "海底摸月",
+      "jp": "ハイテイ",
+      "en": "Under the Sea",
+      "kr": "해저로월."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_hedi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_hedi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "河底捞鱼",
+      "chs_t": "河底撈魚",
+      "jp": "河底撈魚",
+      "en": "Under the River",
+      "kr": "하저로어"
+    },
+    "words": {
+      "chs": "河底捞鱼",
+      "chs_t": "河底撈魚",
+      "jp": "ホウテイ",
+      "en": "Under the River",
+      "kr": "하저로어."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dong",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 634,
+    "path": "fan_dong",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "东",
+      "chs_t": "東",
+      "jp": "東",
+      "en": "East",
+      "kr": "동"
+    },
+    "words": {
+      "chs": "东",
+      "chs_t": "東",
+      "jp": "トン",
+      "en": "East",
+      "kr": "동."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_nan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 682,
+    "path": "fan_nan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "南",
+      "chs_t": "南",
+      "jp": "南",
+      "en": "South",
+      "kr": "남"
+    },
+    "words": {
+      "chs": "南",
+      "chs_t": "南",
+      "jp": "ナン",
+      "en": "South",
+      "kr": "남."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_xi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 850,
+    "path": "fan_xi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "西",
+      "chs_t": "西",
+      "jp": "西",
+      "en": "West",
+      "kr": "서"
+    },
+    "words": {
+      "chs": "西",
+      "chs_t": "西",
+      "jp": "シャー",
+      "en": "West",
+      "kr": "서."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_bei",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 682,
+    "path": "fan_bei",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "北",
+      "chs_t": "北",
+      "jp": "北",
+      "en": "North",
+      "kr": "북"
+    },
+    "words": {
+      "chs": "北",
+      "chs_t": "北",
+      "jp": "ペー",
+      "en": "North",
+      "kr": "북."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_zhong",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 706,
+    "path": "fan_zhong",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "中",
+      "chs_t": "中",
+      "jp": "中",
+      "en": "Red",
+      "kr": "중"
+    },
+    "words": {
+      "chs": "中",
+      "chs_t": "中",
+      "jp": "チュン",
+      "en": "Red",
+      "kr": "중."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_bai",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 802,
+    "path": "fan_bai",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "白",
+      "chs_t": "白",
+      "jp": "白",
+      "en": "White",
+      "kr": "백"
+    },
+    "words": {
+      "chs": "白",
+      "chs_t": "白",
+      "jp": "ハク",
+      "en": "White",
+      "kr": "백."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_fa",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 850,
+    "path": "fan_fa",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "发",
+      "chs_t": "發",
+      "jp": "発",
+      "en": "Green",
+      "kr": "발"
+    },
+    "words": {
+      "chs": "发",
+      "chs_t": "發",
+      "jp": "ハツ",
+      "en": "Green",
+      "kr": "발."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_doubledong",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 874,
+    "path": "fan_doubledong",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "连东",
+      "chs_t": "連東",
+      "jp": "ダブル東",
+      "en": "East Repeat",
+      "kr": "더블 동"
+    },
+    "words": {
+      "chs": "连东",
+      "chs_t": "連東",
+      "jp": "ダブトン",
+      "en": "Double East",
+      "kr": "더블 동."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_doublenan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 898,
+    "path": "fan_doublenan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "连南",
+      "chs_t": "連南",
+      "jp": "ダブル南",
+      "en": "South Repeat",
+      "kr": "더블 남"
+    },
+    "words": {
+      "chs": "连南",
+      "chs_t": "連南",
+      "jp": "ダブナン",
+      "en": "Double South",
+      "kr": "더블 남."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_doublexi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 994,
+    "path": "fan_doublexi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "连西",
+      "chs_t": "連西",
+      "jp": "ダブル西",
+      "en": "West Repeat",
+      "kr": "더블 서"
+    },
+    "words": {
+      "chs": "连西",
+      "chs_t": "連西",
+      "jp": "ダブシャー",
+      "en": "Double West",
+      "kr": "더블 서."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_doublebei",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 970,
+    "path": "fan_doublebei",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "连北",
+      "chs_t": "連北",
+      "jp": "ダブル北",
+      "en": "North Repeat",
+      "kr": "더블 북"
+    },
+    "words": {
+      "chs": "连北",
+      "chs_t": "連北",
+      "jp": "ダブペー",
+      "en": "Double North",
+      "kr": "더블 북."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_duanyao",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 922,
+    "path": "fan_duanyao",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "断幺",
+      "chs_t": "斷么",
+      "jp": "断幺九",
+      "en": "All Simples",
+      "kr": "탕야오"
+    },
+    "words": {
+      "chs": "断幺",
+      "chs_t": "斷么",
+      "jp": "タンヤオ",
+      "en": "All Simples",
+      "kr": "탕야오."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_yibeikou",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1138,
+    "path": "fan_yibeikou",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "一杯口",
+      "chs_t": "一盃口",
+      "jp": "一盃口",
+      "en": "Pure Double Sequence",
+      "kr": "이페코"
+    },
+    "words": {
+      "chs": "一杯口",
+      "chs_t": "一盃口",
+      "jp": "イーペーコー",
+      "en": "Pure Double Sequence",
+      "kr": "이페코."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_pinghu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 898,
+    "path": "fan_pinghu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "平和",
+      "chs_t": "平和",
+      "jp": "平和",
+      "en": "Pinfu",
+      "kr": "핑후"
+    },
+    "words": {
+      "chs": "平和",
+      "chs_t": "平和",
+      "jp": "ピンフ",
+      "en": "Pinfu",
+      "kr": "핑후."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_hunquandaiyaojiu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 850,
+    "path": "fan_hunquandaiyaojiu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "混全带幺九",
+      "chs_t": "混全帶么九",
+      "jp": "混全帯幺九",
+      "en": "Half Outside Hand",
+      "kr": "찬타"
+    },
+    "words": {
+      "chs": "混全带幺九",
+      "chs_t": "混全帶么九",
+      "jp": "チャンタ",
+      "en": "Half Outside Hand",
+      "kr": "찬타."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_yiqitongguan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_yiqitongguan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "一气通贯",
+      "chs_t": "一氣通貫",
+      "jp": "一気通貫",
+      "en": "Pure Straight",
+      "kr": "일기통관"
+    },
+    "words": {
+      "chs": "一气通贯",
+      "chs_t": "一氣通貫",
+      "jp": "イッツー",
+      "en": "Pure Straight",
+      "kr": "일기통관."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sansetongshun",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1522,
+    "path": "fan_sansetongshun",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三色同顺",
+      "chs_t": "三色同順",
+      "jp": "三色同順",
+      "en": "Mixed Triple Sequence",
+      "kr": "삼색동순"
+    },
+    "words": {
+      "chs": "三色同顺",
+      "chs_t": "三色同順",
+      "jp": "三色（さんしょく）ドウジュン",
+      "en": "Mixed Triple Sequence",
+      "kr": "삼색동순."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sansetongke",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1594,
+    "path": "fan_sansetongke",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三色同刻",
+      "chs_t": "三色同刻",
+      "jp": "三色同刻",
+      "en": "Triple Triplets",
+      "kr": "삼색동각"
+    },
+    "words": {
+      "chs": "三色同刻",
+      "chs_t": "三色同刻",
+      "jp": "三色（さんしょく）ドーコー",
+      "en": "Triple Triplets",
+      "kr": "삼색동각."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sangangzi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1258,
+    "path": "fan_sangangzi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三杠子",
+      "chs_t": "三槓子",
+      "jp": "三槓子",
+      "en": "Three Quads",
+      "kr": "산깡쯔"
+    },
+    "words": {
+      "chs": "三杠子",
+      "chs_t": "三槓子",
+      "jp": "サンカンツ",
+      "en": "Three Quads",
+      "kr": "산깡쯔."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_duiduihu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 898,
+    "path": "fan_duiduihu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "对对和",
+      "chs_t": "對對和",
+      "jp": "対々和",
+      "en": "All Triplets",
+      "kr": "또이또이"
+    },
+    "words": {
+      "chs": "对对和",
+      "chs_t": "對對和",
+      "jp": "トイトイ",
+      "en": "All Triplets",
+      "kr": "또이또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sananke",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1330,
+    "path": "fan_sananke",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三暗刻",
+      "chs_t": "三暗刻",
+      "jp": "三暗刻",
+      "en": "Three Concealed Triplets",
+      "kr": "산안커"
+    },
+    "words": {
+      "chs": "三暗刻",
+      "chs_t": "三暗刻",
+      "jp": "サンアンコー",
+      "en": "Three Concealed Triplets",
+      "kr": "산안커."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_xiaosanyuan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1162,
+    "path": "fan_xiaosanyuan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "小三元",
+      "chs_t": "小三元",
+      "jp": "小三元",
+      "en": "Little Three Dragons",
+      "kr": "소삼원"
+    },
+    "words": {
+      "chs": "小三元",
+      "chs_t": "小三元",
+      "jp": "ショーサンゲン",
+      "en": "Little Three Dragons",
+      "kr": "소삼원."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_hunlaotou",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1162,
+    "path": "fan_hunlaotou",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "混老头",
+      "chs_t": "混老頭",
+      "jp": "混老頭",
+      "en": "All Terminals and Honors",
+      "kr": "혼노두"
+    },
+    "words": {
+      "chs": "混老头",
+      "chs_t": "混老頭",
+      "jp": "ホンロートー",
+      "en": "All Terminals and Honors",
+      "kr": "혼노두."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_qiduizi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 898,
+    "path": "fan_qiduizi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "七对子",
+      "chs_t": "七對子",
+      "jp": "七対子",
+      "en": "Seven Pairs",
+      "kr": "치또이쯔"
+    },
+    "words": {
+      "chs": "七对子",
+      "chs_t": "七對子",
+      "jp": "チートイ",
+      "en": "Seven Pairs",
+      "kr": "치또이쯔."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_chunquandaiyaojiu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 970,
+    "path": "fan_chunquandaiyaojiu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "纯全带幺九",
+      "chs_t": "純全帶么九",
+      "jp": "純全帯幺九",
+      "en": "Fully Outside Hand",
+      "kr": "준찬타"
+    },
+    "words": {
+      "chs": "纯全带幺九",
+      "chs_t": "純全帶么九",
+      "jp": "ジュンチャン",
+      "en": "Fully Outside Hand",
+      "kr": "준찬타."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_hunyise",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1042,
+    "path": "fan_hunyise",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "混一色",
+      "chs_t": "混一色",
+      "jp": "混一色",
+      "en": "Half Flush",
+      "kr": "혼일색"
+    },
+    "words": {
+      "chs": "混一色",
+      "chs_t": "混一色",
+      "jp": "ホンイツ",
+      "en": "Half Flush",
+      "kr": "혼일색."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_erbeikou",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1186,
+    "path": "fan_erbeikou",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "二杯口",
+      "chs_t": "二盃口",
+      "jp": "二盃口",
+      "en": "Twice Pure Double Sequence",
+      "kr": "량페코"
+    },
+    "words": {
+      "chs": "二杯口",
+      "chs_t": "二盃口",
+      "jp": "リャンペーコー",
+      "en": "Twice Pure Double Sequence",
+      "kr": "량페코."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_qingyise",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1042,
+    "path": "fan_qingyise",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清一色",
+      "chs_t": "清一色",
+      "jp": "清一色",
+      "en": "Full Flush",
+      "kr": "청일색"
+    },
+    "words": {
+      "chs": "清一色",
+      "chs_t": "清一色",
+      "jp": "チンイツ",
+      "en": "Full Flush",
+      "kr": "청일색."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_liqi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 922,
+    "path": "fan_liqi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "立直",
+      "chs_t": "立直",
+      "jp": "立直",
+      "en": "Riichi",
+      "kr": "리치"
+    },
+    "words": {
+      "chs": "立直",
+      "chs_t": "立直",
+      "jp": "リーチ",
+      "en": "Riichi",
+      "kr": "리치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dliqi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 874,
+    "path": "fan_dliqi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "两立直",
+      "chs_t": "兩立直",
+      "jp": "ダブル立直",
+      "en": "Double Riichi",
+      "kr": "더블 리치"
+    },
+    "words": {
+      "chs": "两立直",
+      "chs_t": "兩立直",
+      "jp": "ダブリー",
+      "en": "Double Riichi",
+      "kr": "더블 리치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_zimo",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 658,
+    "path": "fan_zimo",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "自摸",
+      "chs_t": "自摸",
+      "jp": "ツモ",
+      "en": "Tsumo",
+      "kr": "쯔모"
+    },
+    "words": {
+      "chs": "自摸",
+      "chs_t": "自摸",
+      "jp": "ツモ",
+      "en": "Tsumo",
+      "kr": "쯔모."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_yifa",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_yifa",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "一发",
+      "chs_t": "一發",
+      "jp": "一発",
+      "en": "Ippatsu",
+      "kr": "일발"
+    },
+    "words": {
+      "chs": "一发",
+      "chs_t": "一發",
+      "jp": "イッパツ",
+      "en": "Ippatsu",
+      "kr": "일발."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora1",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 658,
+    "path": "fan_dora1",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌",
+      "chs_t": "寶牌",
+      "jp": "ドラ",
+      "en": "Dora",
+      "kr": "도라"
+    },
+    "words": {
+      "chs": "宝牌",
+      "chs_t": "寶牌",
+      "jp": "ドラ",
+      "en": "Dora",
+      "kr": "도라."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora2",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 826,
+    "path": "fan_dora2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌2",
+      "chs_t": "寶牌2",
+      "jp": "ドラ2",
+      "en": "Dora 2",
+      "kr": "도라2"
+    },
+    "words": {
+      "chs": "宝牌2",
+      "chs_t": "寶牌2",
+      "jp": "ドラ２（に）",
+      "en": "Dora 2",
+      "kr": "도라2."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora3",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 946,
+    "path": "fan_dora3",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌3",
+      "chs_t": "寶牌3",
+      "jp": "ドラ3",
+      "en": "Dora 3",
+      "kr": "도라3"
+    },
+    "words": {
+      "chs": "宝牌3",
+      "chs_t": "寶牌3",
+      "jp": "ドラ３（さん）",
+      "en": "Dora 3",
+      "kr": "도라3."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora4",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_dora4",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌4",
+      "chs_t": "寶牌4",
+      "jp": "ドラ4",
+      "en": "Dora 4",
+      "kr": "도라4"
+    },
+    "words": {
+      "chs": "宝牌4",
+      "chs_t": "寶牌4",
+      "jp": "ドラ４（よん）",
+      "en": "Dora 4",
+      "kr": "도라4."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora5",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 802,
+    "path": "fan_dora5",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌5",
+      "chs_t": "寶牌5",
+      "jp": "ドラ5",
+      "en": "Dora 5",
+      "kr": "도라5"
+    },
+    "words": {
+      "chs": "宝牌5",
+      "chs_t": "寶牌5",
+      "jp": "ドラ５（ご）",
+      "en": "Dora 5",
+      "kr": "도라5."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora6",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 970,
+    "path": "fan_dora6",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌6",
+      "chs_t": "寶牌6",
+      "jp": "ドラ6",
+      "en": "Dora 6",
+      "kr": "도라6"
+    },
+    "words": {
+      "chs": "宝牌6",
+      "chs_t": "寶牌6",
+      "jp": "ドラ６（ろく）",
+      "en": "Dora 6",
+      "kr": "도라6."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora7",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_dora7",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌7",
+      "chs_t": "寶牌7",
+      "jp": "ドラ7",
+      "en": "Dora 7",
+      "kr": "도라7"
+    },
+    "words": {
+      "chs": "宝牌7",
+      "chs_t": "寶牌7",
+      "jp": "ドラ７（なな）",
+      "en": "Dora 7",
+      "kr": "도라7."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora8",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 994,
+    "path": "fan_dora8",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌8",
+      "chs_t": "寶牌8",
+      "jp": "ドラ8",
+      "en": "Dora 8",
+      "kr": "도라8"
+    },
+    "words": {
+      "chs": "宝牌8",
+      "chs_t": "寶牌8",
+      "jp": "ドラ８（はち）",
+      "en": "Dora 8",
+      "kr": "도라8."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora9",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1066,
+    "path": "fan_dora9",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌9",
+      "chs_t": "寶牌9",
+      "jp": "ドラ9",
+      "en": "Dora 9",
+      "kr": "도라9"
+    },
+    "words": {
+      "chs": "宝牌9",
+      "chs_t": "寶牌9",
+      "jp": "ドラ９（きゅう）",
+      "en": "Dora 9",
+      "kr": "도라9."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora10",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1018,
+    "path": "fan_dora10",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌10",
+      "chs_t": "寶牌10",
+      "jp": "ドラ10",
+      "en": "Dora 10",
+      "kr": "도라10"
+    },
+    "words": {
+      "chs": "宝牌10",
+      "chs_t": "寶牌10",
+      "jp": "ドラ１０（じゅう）",
+      "en": "Dora 10",
+      "kr": "도라10."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora11",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1330,
+    "path": "fan_dora11",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌11",
+      "chs_t": "寶牌11",
+      "jp": "ドラ11",
+      "en": "Dora 11",
+      "kr": "도라11"
+    },
+    "words": {
+      "chs": "宝牌11",
+      "chs_t": "寶牌11",
+      "jp": "ドラ１１（じゅういち）",
+      "en": "Dora 11",
+      "kr": "도라11."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora12",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1114,
+    "path": "fan_dora12",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌12",
+      "chs_t": "寶牌12",
+      "jp": "ドラ12",
+      "en": "Dora 12",
+      "kr": "도라12"
+    },
+    "words": {
+      "chs": "宝牌12",
+      "chs_t": "寶牌12",
+      "jp": "ドラ１２（じゅうに）",
+      "en": "Dora 12",
+      "kr": "도라12."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dora13",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1186,
+    "path": "fan_dora13",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "宝牌一大堆",
+      "chs_t": "寶牌一大堆",
+      "jp": "ドラ13以上",
+      "en": "Lots of Dora",
+      "kr": "도라 13이상"
+    },
+    "words": {
+      "chs": "宝牌一大堆",
+      "chs_t": "寶牌一大堆",
+      "jp": "ドラたくさん",
+      "en": "Lots of Dora",
+      "kr": "도라 잔뜩."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_tianhu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 946,
+    "path": "fan_tianhu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "天和",
+      "chs_t": "天和",
+      "jp": "天和",
+      "en": "Blessing of Heaven",
+      "kr": "천화"
+    },
+    "words": {
+      "chs": "天和",
+      "chs_t": "天和",
+      "jp": "天和",
+      "en": "Blessing of Heaven",
+      "kr": "천화."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dihu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 994,
+    "path": "fan_dihu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "地和",
+      "chs_t": "地和",
+      "jp": "地和",
+      "en": "Blessing of Earth",
+      "kr": "지화"
+    },
+    "words": {
+      "chs": "地和",
+      "chs_t": "地和",
+      "jp": "地和",
+      "en": "Blessing of Earth",
+      "kr": "지화."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dasanyuan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1114,
+    "path": "fan_dasanyuan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大三元",
+      "chs_t": "大三元",
+      "jp": "大三元",
+      "en": "Big Three Dragons",
+      "kr": "대삼원"
+    },
+    "words": {
+      "chs": "大三元",
+      "chs_t": "大三元",
+      "jp": "ダイサンゲン",
+      "en": "Big Three Dragons",
+      "kr": "대삼원."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sianke",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1210,
+    "path": "fan_sianke",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四暗刻",
+      "chs_t": "四暗刻",
+      "jp": "四暗刻",
+      "en": "Four Concealed Triplets",
+      "kr": "스안커"
+    },
+    "words": {
+      "chs": "四暗刻",
+      "chs_t": "四暗刻",
+      "jp": "スーアンコウ",
+      "en": "Four Concealed Triplets",
+      "kr": "스안커."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_siankedanqi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1666,
+    "path": "fan_siankedanqi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四暗刻单骑",
+      "chs_t": "四暗刻單騎",
+      "jp": "四暗刻単騎",
+      "en": "Single-wait Four Concealed Triplets",
+      "kr": "스안커 단기"
+    },
+    "words": {
+      "chs": "四暗刻单骑",
+      "chs_t": "四暗刻單騎",
+      "jp": "スーアンコウ、タンキ",
+      "en": "Single-wait Four Concealed Triplets",
+      "kr": "스안커 단기."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_ziyise",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1186,
+    "path": "fan_ziyise",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "字一色",
+      "chs_t": "字一色",
+      "jp": "字一色",
+      "en": "All Honors",
+      "kr": "자일색"
+    },
+    "words": {
+      "chs": "字一色",
+      "chs_t": "字一色",
+      "jp": "ツーイーソー",
+      "en": "All Honors",
+      "kr": "자일색."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_lvyise",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1186,
+    "path": "fan_lvyise",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "绿一色",
+      "chs_t": "綠一色",
+      "jp": "緑一色",
+      "en": "All Green",
+      "kr": "녹일색"
+    },
+    "words": {
+      "chs": "绿一色",
+      "chs_t": "綠一色",
+      "jp": "リューイーソー",
+      "en": "All Green",
+      "kr": "녹일색."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_qinglaotou",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1114,
+    "path": "fan_qinglaotou",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清老头",
+      "chs_t": "清老頭",
+      "jp": "清老頭",
+      "en": "All Terminals",
+      "kr": "청노두"
+    },
+    "words": {
+      "chs": "清老头",
+      "chs_t": "清老頭",
+      "jp": "チンロートー",
+      "en": "All Terminals",
+      "kr": "청노두."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_guoshiwushuang",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1162,
+    "path": "fan_guoshiwushuang",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "国士无双",
+      "chs_t": "國士無雙",
+      "jp": "国士無双",
+      "en": "Thirteen Orphans",
+      "kr": "국사무쌍"
+    },
+    "words": {
+      "chs": "国士无双",
+      "chs_t": "國士無雙",
+      "jp": "国士無双",
+      "en": "Thirteen Orphans",
+      "kr": "국사무쌍."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_guoshishisanmian",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1810,
+    "path": "fan_guoshishisanmian",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "国士无双13面听",
+      "chs_t": "國士無雙13面聽",
+      "jp": "国士無双十三面待ち",
+      "en": "Thirteen-wait Thirteen Orphans",
+      "kr": "국사무쌍 13면 대기"
+    },
+    "words": {
+      "chs": "国士无双13面听",
+      "chs_t": "國士無雙13面聽",
+      "jp": "コクシ十三メン待ち",
+      "en": "Thirteen-wait Thirteen Orphans",
+      "kr": "국사무쌍 13면 대기."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_dasixi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1186,
+    "path": "fan_dasixi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大四喜",
+      "chs_t": "大四喜",
+      "jp": "大四喜",
+      "en": "Four Big Winds",
+      "kr": "대사희"
+    },
+    "words": {
+      "chs": "大四喜",
+      "chs_t": "大四喜",
+      "jp": "大スーシー",
+      "en": "Four Big Winds",
+      "kr": "대사희."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_xiaosixi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1282,
+    "path": "fan_xiaosixi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "小四喜",
+      "chs_t": "小四喜",
+      "jp": "小四喜",
+      "en": "Four Little Winds",
+      "kr": "소사희"
+    },
+    "words": {
+      "chs": "小四喜",
+      "chs_t": "小四喜",
+      "jp": "小スーシー",
+      "en": "Four Little Winds",
+      "kr": "소사희."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_sigangzi",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1210,
+    "path": "fan_sigangzi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四杠子",
+      "chs_t": "四槓子",
+      "jp": "四槓子",
+      "en": "Four Quads",
+      "kr": "스깡쯔"
+    },
+    "words": {
+      "chs": "四杠子",
+      "chs_t": "四槓子",
+      "jp": "スーカンツ",
+      "en": "Four Quads",
+      "kr": "스깡쯔."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_jiulianbaodeng",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1354,
+    "path": "fan_jiulianbaodeng",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "九莲宝灯",
+      "chs_t": "九蓮寶燈",
+      "jp": "九蓮宝燈",
+      "en": "Nine Gates",
+      "kr": "구련보등"
+    },
+    "words": {
+      "chs": "九莲宝灯",
+      "chs_t": "九蓮寶燈",
+      "jp": "チューレンポートー",
+      "en": "Nine Gates",
+      "kr": "구련보등."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_chunzhengjiulianbaodeng",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1762,
+    "path": "fan_chunzhengjiulianbaodeng",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "纯正九莲宝灯",
+      "chs_t": "純正九蓮寶燈",
+      "jp": "純正九蓮宝燈",
+      "en": "True Nine Gates",
+      "kr": "순정구련보등"
+    },
+    "words": {
+      "chs": "纯正九莲宝灯",
+      "chs_t": "純正九蓮寶燈",
+      "jp": "チューレン九（きゅう）メン待ち",
+      "en": "True Nine Gates",
+      "kr": "순정구련보등."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "fan_liujumanguan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1210,
+    "path": "fan_liujumanguan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "流局满贯",
+      "chs_t": "流局滿貫",
+      "jp": "流し満貫",
+      "en": "Mangan at Draw",
+      "kr": "유국만관"
+    },
+    "words": {
+      "chs": "流局满贯",
+      "chs_t": "流局滿貫",
+      "jp": "流しマンガン",
+      "en": "Mangan at Draw",
+      "kr": "유국만관."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_leijiyiman",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_leijiyiman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "累计役满",
+      "chs_t": "累計役滿",
+      "jp": "数え役満",
+      "en": "Counted Yakuman",
+      "kr": "역만"
+    },
+    "words": {
+      "chs": "累计役满",
+      "chs_t": "累計役滿",
+      "jp": "数え役満（カゾエヤクマン）",
+      "en": "Counted Yakuman",
+      "kr": "헤아림 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_manguan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_manguan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "满贯",
+      "chs_t": "滿貫",
+      "jp": "満貫",
+      "en": "Mangan",
+      "kr": "만관"
+    },
+    "words": {
+      "chs": "满贯",
+      "chs_t": "滿貫",
+      "jp": "満貫（マンガン）",
+      "en": "Mangan",
+      "kr": "만관."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_tiaoman",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_tiaoman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "跳满",
+      "chs_t": "跳滿",
+      "jp": "跳満",
+      "en": "Haneman",
+      "kr": "하네만"
+    },
+    "words": {
+      "chs": "跳满",
+      "chs_t": "跳滿",
+      "jp": "跳満（ハネマン）",
+      "en": "Haneman",
+      "kr": "하네만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_beiman",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_beiman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "倍满",
+      "chs_t": "倍滿",
+      "jp": "倍満",
+      "en": "Baiman",
+      "kr": "배만"
+    },
+    "words": {
+      "chs": "倍满",
+      "chs_t": "倍滿",
+      "jp": "倍満（バイマン）",
+      "en": "Baiman",
+      "kr": "배만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_sanbeiman",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_sanbeiman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三倍满",
+      "chs_t": "三倍滿",
+      "jp": "三倍満",
+      "en": "Sanbaiman",
+      "kr": "삼배만"
+    },
+    "words": {
+      "chs": "三倍满",
+      "chs_t": "三倍滿",
+      "jp": "三倍満（サンバイマン）",
+      "en": "Sanbaiman",
+      "kr": "삼배만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman1",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman1",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "役满",
+      "chs_t": "役滿",
+      "jp": "役満",
+      "en": "Yakuman",
+      "kr": "역만"
+    },
+    "words": {
+      "chs": "役满",
+      "chs_t": "役滿",
+      "jp": "ヤクマン",
+      "en": "Yakuman",
+      "kr": "역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman2",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "两倍役满",
+      "chs_t": "兩倍役滿",
+      "jp": "ダブル役満",
+      "en": "Double Yakuman",
+      "kr": "더블 역만"
+    },
+    "words": {
+      "chs": "两倍役满",
+      "chs_t": "兩倍役滿",
+      "jp": "ダブルヤクマン",
+      "en": "Double Yakuman",
+      "kr": "더블 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman3",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman3",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "三倍役满",
+      "chs_t": "三倍役滿",
+      "jp": "トリプル役満",
+      "en": "Triple Yakuman",
+      "kr": "트리플 역만"
+    },
+    "words": {
+      "chs": "三倍役满",
+      "chs_t": "三倍役滿",
+      "jp": "トリプルヤクマン",
+      "en": "Triple Yakuman",
+      "kr": "트리플 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman4",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman4",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四倍役满",
+      "chs_t": "四倍役滿",
+      "jp": "四倍役満",
+      "en": "Quadruple Yakuman",
+      "kr": "사배 역만"
+    },
+    "words": {
+      "chs": "四倍役满",
+      "chs_t": "四倍役滿",
+      "jp": "四倍（よんばい）ヤクマン",
+      "en": "Quadruple Yakuman",
+      "kr": "사배 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman5",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman5",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "五倍役满",
+      "chs_t": "五倍役滿",
+      "jp": "五倍役満",
+      "en": "Quintuple Yakuman",
+      "kr": "오배 역만"
+    },
+    "words": {
+      "chs": "五倍役满",
+      "chs_t": "五倍役滿",
+      "jp": "五倍（ごばい）ヤクマン",
+      "en": "Quintuple Yakuman",
+      "kr": "오배 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_yiman6",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_yiman6",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "六倍役满",
+      "chs_t": "六倍役滿",
+      "jp": "六倍役満",
+      "en": "Sextuple Yakuman",
+      "kr": "육배 역만"
+    },
+    "words": {
+      "chs": "六倍役满",
+      "chs_t": "六倍役滿",
+      "jp": "六倍（ろくばい）ヤクマン",
+      "en": "Sextuple Yakuman",
+      "kr": "육배 역만."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_tingpai",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3048,
+    "path": "gameend_tingpai",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "听牌",
+      "chs_t": "聽牌",
+      "jp": "聴牌",
+      "en": "Tenpai (Ready Hand)",
+      "kr": "텐파이"
+    },
+    "words": {
+      "chs": "听牌，无事发生。",
+      "chs_t": "聽牌，無事發生。",
+      "jp": "テンパイ、問題ありません。",
+      "en": "Tenpai. The air stays still.",
+      "kr": "텐파이, 문제없어요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_noting",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3552,
+    "path": "gameend_noting",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "未听牌",
+      "chs_t": "未聽牌",
+      "jp": "ノーテン",
+      "en": "No-ten (No Ready Hand)",
+      "kr": "노텐"
+    },
+    "words": {
+      "chs": "未听牌，这手牌，放弃才合理。",
+      "chs_t": "未聽牌，這手牌，放棄才合理。",
+      "jp": "ノーテン、諦めるのが合理的かと。",
+      "en": "No-ten. The logical move here is to fold.",
+      "kr": "노텐, 포기하는 게 합리적이겠네요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_sifenglianda",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_sifenglianda",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四风连打",
+      "chs_t": "四風連打",
+      "jp": "四風連打",
+      "en": "Four-Wind Discarded",
+      "kr": "사풍연타"
+    },
+    "words": {
+      "chs": "四风连打",
+      "chs_t": "四風連打",
+      "jp": "スーフーレンダ",
+      "en": "Four-Wind Discarded",
+      "kr": "사풍연타."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_sigangliuju",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_sigangliuju",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四杠流局",
+      "chs_t": "四槓流局",
+      "jp": "四槓散了",
+      "en": "Four-kan Abortion",
+      "kr": "사깡유국"
+    },
+    "words": {
+      "chs": "四杠流局",
+      "chs_t": "四槓流局",
+      "jp": "スーカン流れ",
+      "en": "Four-Kan Abortion",
+      "kr": "사깡유국."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_sijializhi",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_sijializhi",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "四家立直",
+      "chs_t": "四家立直",
+      "jp": "四家立直",
+      "en": "Four-player Riichi",
+      "kr": "사가리치"
+    },
+    "words": {
+      "chs": "四家立直",
+      "chs_t": "四家立直",
+      "jp": "四家立直",
+      "en": "Four-Player Riichi",
+      "kr": "사가리치."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "gameend_jiuzhongjiupai",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 3000,
+    "path": "gameend_jiuzhongjiupai",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "九种九牌",
+      "chs_t": "九種九牌",
+      "jp": "九種九牌",
+      "en": "Nine Different Terminals and Honors",
+      "kr": "구종구패"
+    },
+    "words": {
+      "chs": "九种九牌",
+      "chs_t": "九種九牌",
+      "jp": "キュウシュキュウハイ",
+      "en": "Nine Different Terminals and Honors",
+      "kr": "구종구패."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_lingshangfangchong",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1450,
+    "path": "extra/scfan_lingshangfangchong",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "杠上炮",
+      "chs_t": "槓上炮",
+      "jp": "嶺上放銃",
+      "en": "Dealing into Win after Kan",
+      "kr": "영상방총"
+    },
+    "words": {
+      "chs": "岭上放铳",
+      "chs_t": "嶺上放銃",
+      "jp": "嶺上放銃（リンシャンホウジュウ）",
+      "en": "Dealing into Win after Kan",
+      "kr": "영상방총."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_gen",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 850,
+    "path": "extra/scfan_gen",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "根",
+      "chs_t": "根",
+      "jp": "根",
+      "en": "Root",
+      "kr": "루트"
+    },
+    "words": {
+      "chs": "根",
+      "chs_t": "根",
+      "jp": "根（ルート）",
+      "en": "Root",
+      "kr": "루트."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_daiyaojiu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1282,
+    "path": "extra/scfan_daiyaojiu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "带幺九",
+      "chs_t": "帶么九",
+      "jp": "帯幺九",
+      "en": "Terminals in All Sets",
+      "kr": "대요구"
+    },
+    "words": {
+      "chs": "带幺九",
+      "chs_t": "帶么九",
+      "jp": "帯幺九（タイヤオチュウ）",
+      "en": "Terminals in All Sets",
+      "kr": "대요구."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_jingoudiao",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1162,
+    "path": "extra/scfan_jingoudiao",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "金钩钓",
+      "chs_t": "金鉤釣",
+      "jp": "金勾釣",
+      "en": "Single Wait after 4 Triplets",
+      "kr": "금구조"
+    },
+    "words": {
+      "chs": "金钩钓",
+      "chs_t": "金鉤釣",
+      "jp": "金勾釣（キンコウテャオ）",
+      "en": "Single Wait after 4 Triplets",
+      "kr": "금구조."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qingdui",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 970,
+    "path": "extra/scfan_qingdui",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清对",
+      "chs_t": "清對",
+      "jp": "清対",
+      "en": "Pure Triplets",
+      "kr": "청또이"
+    },
+    "words": {
+      "chs": "清对",
+      "chs_t": "清對",
+      "jp": "清対（チントイ）",
+      "en": "Pure Triplets",
+      "kr": "청또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_jiangdui",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 922,
+    "path": "extra/scfan_jiangdui",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "将对",
+      "chs_t": "將對",
+      "jp": "将対",
+      "en": "2/5/8 Triplets",
+      "kr": "장또이"
+    },
+    "words": {
+      "chs": "将对",
+      "chs_t": "將對",
+      "jp": "将対（ジャントイ）",
+      "en": "2/5/8 Triplets",
+      "kr": "장또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_longqidui",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1210,
+    "path": "extra/scfan_longqidui",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "龙七对",
+      "chs_t": "龍七對",
+      "jp": "龍七対",
+      "en": "Seven Pairs with One Duplicate",
+      "kr": "용치또이"
+    },
+    "words": {
+      "chs": "龙七对",
+      "chs_t": "龍七對",
+      "jp": "龍七対（ロンチートイ）",
+      "en": "Seven Pairs with One Duplicate",
+      "kr": "용치또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qingqidui",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1138,
+    "path": "extra/scfan_qingqidui",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清七对",
+      "chs_t": "清七對",
+      "jp": "清七対",
+      "en": "Pure Seven Pairs",
+      "kr": "청치또이"
+    },
+    "words": {
+      "chs": "清七对",
+      "chs_t": "清七對",
+      "jp": "清七対（チンチートイ）",
+      "en": "Pure Seven Pairs",
+      "kr": "청치또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qingyaojiu",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1282,
+    "path": "extra/scfan_qingyaojiu",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清幺九",
+      "chs_t": "清么九",
+      "jp": "清幺九",
+      "en": "All Terminals",
+      "kr": "청요구"
+    },
+    "words": {
+      "chs": "清幺九",
+      "chs_t": "清么九",
+      "jp": "清幺九（チンヤオチュウ）",
+      "en": "All Terminals",
+      "kr": "청요구."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qingjindoudiao",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1426,
+    "path": "extra/scfan_qingjindoudiao",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清金钩钓",
+      "chs_t": "清金鉤釣",
+      "jp": "清金勾釣",
+      "en": "Pure Single Wait after 4 Triplets",
+      "kr": "청금구조"
+    },
+    "words": {
+      "chs": "清金钩钓",
+      "chs_t": "清金鉤釣",
+      "jp": "清金勾釣（チンキンコウテャオ）",
+      "en": "Pure Single Wait after 4 Triplets",
+      "kr": "청금구조."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qinglongqidui",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1474,
+    "path": "extra/scfan_qinglongqidui",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清龙七对",
+      "chs_t": "清龍七對",
+      "jp": "清龍七対",
+      "en": "Pure Seven Pairs with One Duplicate",
+      "kr": "청룡치또이"
+    },
+    "words": {
+      "chs": "清龙七对",
+      "chs_t": "清龍七對",
+      "jp": "清龍七対（チンロンチートイ）",
+      "en": "Pure Seven Pairs with One Duplicate",
+      "kr": "청룡치또이."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_shibaluohan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1306,
+    "path": "extra/scfan_shibaluohan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "十八罗汉",
+      "chs_t": "十八羅漢",
+      "jp": "十八羅漢",
+      "en": "Four Quads",
+      "kr": "십팔라한"
+    },
+    "words": {
+      "chs": "十八罗汉",
+      "chs_t": "十八羅漢",
+      "jp": "十八羅漢（ジュウハチラカン）",
+      "en": "Four Quads",
+      "kr": "십팔라한."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "scfan_qingshibaluohan",
+    "level_limit": 5,
+    "bond_limit": null,
+    "time_length": 1570,
+    "path": "extra/scfan_qingshibaluohan",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "清十八罗汉",
+      "chs_t": "清十八羅漢",
+      "jp": "清十八羅漢",
+      "en": "Pure Four Quads",
+      "kr": "청십팔라한"
+    },
+    "words": {
+      "chs": "清十八罗汉",
+      "chs_t": "清十八羅漢",
+      "jp": "清十八羅漢（チンジュウハチラカン）",
+      "en": "Pure Four Quads",
+      "kr": "청십팔라한."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_lianda",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 1776,
+    "path": "ingame_lianda",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 连续打出多张相同牌",
+      "chs_t": "特殊語音 - 連續打出多張相同牌的時候",
+      "jp": "SP - 同じ牌を連続に捨てた時",
+      "en": "SP - When discarding multiple identical tiles in a row",
+      "kr": "특수-연속으로 같은 패를 버릴 때"
+    },
+    "words": {
+      "chs": "是我弹错了吗……",
+      "chs_t": "是我彈錯了嗎……",
+      "jp": "ミスタッチか……。",
+      "en": "Did I strike a wrong note?",
+      "kr": "미스터치였나……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_baopai",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 2400,
+    "path": "ingame_baopai",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 打出宝牌",
+      "chs_t": "特殊語音 - 打出寶牌的時候",
+      "jp": "SP - ドラを捨てた時",
+      "en": "SP - When discarding a Dora",
+      "kr": "특수-도라를 버릴 때"
+    },
+    "words": {
+      "chs": "不和谐的音符，不需要。",
+      "chs_t": "不和諧的音符，不需要。",
+      "jp": "調和を乱す音はいりません。",
+      "en": "Dissonance has no place here.",
+      "kr": "조화를 깨뜨리는 음은 필요 없어요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_remain10",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 5424,
+    "path": "ingame_remain10",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 余牌少于10",
+      "chs_t": "特殊語音 - 餘牌少於10",
+      "jp": "SP - 残り牌が１０枚以下の時",
+      "en": "SP - Less than 10 tiles remaining",
+      "kr": "특수-남은 패가 10장 이하일 때"
+    },
+    "words": {
+      "chs": "能完整地弹奏下去吗？还是说……",
+      "chs_t": "能完整地彈奏下去嗎？還是說……",
+      "jp": "最後まで完璧に演奏出来るでしょうか、それとも……。",
+      "en": "Can we see this piece through? Or...",
+      "kr": "끝까지 완벽하게 연주할 수 있을까요? 아니면……"
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_yiman",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 8304,
+    "path": "ingame_yiman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 役满听牌",
+      "chs_t": "特殊語音 - 役滿聽牌",
+      "jp": "SP - 役満聴牌",
+      "en": "SP - Tenpai with Yakuman",
+      "kr": "특수-역만 텐파이"
+    },
+    "words": {
+      "chs": "依靠努力将才能发挥至极致，便是这样的结果。",
+      "chs_t": "依靠努力將才能發揮至極致，便是這樣的結果。",
+      "jp": "努力してこそ、才能を最大限に発揮出来る。これがその結果です。",
+      "en": "Genius pushed to its absolute limit yields this exact crescendo.",
+      "kr": "노력해야만 재능을 최대한 발휘할 수 있어요. 이게 그 결과입니다."
+    }
+  },
+  {
+    "id": 127,
+    "category": 2,
+    "type": "ingame_beiman",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 4992,
+    "path": "ingame_beiman",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 倍满/三倍满听牌",
+      "chs_t": "特殊語音 - 倍滿/三倍滿聽牌",
+      "jp": "SP - 倍満／三倍満聴牌",
+      "en": "SP - Tenpai with Baiman/Sanbaiman",
+      "kr": "특수-배만/삼배만 텐파이"
+    },
+    "words": {
+      "chs": "比役满逊色了些，但也算不错的旋律。",
+      "chs_t": "比役滿遜色了些，但也算不錯的旋律。",
+      "jp": "役満には多少劣りますが、悪くない旋律です。",
+      "en": "It falls short of a Yakuman, but the composition is still sublime.",
+      "kr": "역만보다는 못하지만, 나쁘지 않은 선율이에요."
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_room_in",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 2016,
+    "path": "extra2/lobby_room_in",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 进入友人房",
+      "chs_t": "特殊語音 - 進入友人房",
+      "jp": "SP-友人戦部屋に入場する時",
+      "en": "SP - Entering Friends Room",
+      "kr": "특수-친선전 입장 시"
+    },
+    "words": {
+      "chs": "人都到齐了吗？",
+      "chs_t": "人都到齊了嗎？",
+      "jp": "皆さんおそろいですか？",
+      "en": "Is everyone here?",
+      "kr": "다들 모이셨나요?"
+    }
+  },
+  {
+    "id": 127,
+    "category": 1,
+    "type": "lobby_room_ready",
+    "level_limit": 5,
+    "bond_limit": 1,
+    "time_length": 2424,
+    "path": "extra2/lobby_room_ready",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "特殊语音 - 友人房内准备",
+      "chs_t": "特殊語音 - 友人房內準備",
+      "jp": "SP-友人戦部屋で準備した時",
+      "en": "SP - Ready in Friends Room",
+      "kr": "특수-친선전 준비 시"
+    },
+    "words": {
+      "chs": "都准备好了的话，就开始吧。",
+      "chs_t": "都準備好了的話，就開始吧。",
+      "jp": "準備出来たなら、始めましょう。",
+      "en": "If you are ready, we begin.",
+      "kr": "준비됐으면, 시작하죠."
     }
   }
 ]

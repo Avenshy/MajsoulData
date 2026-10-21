@@ -588,6 +588,18 @@
     "celebrate_delay": null
   },
   {
+    "skinid": 405907,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "y_se_405907/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "y_se_405907/greeting",
+    "audio_click": "y_se_405907/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
     "skinid": 406004,
     "spine_layers": 1,
     "has_effect": null,
@@ -896,6 +908,18 @@
     "audio_idle": null,
     "audio_greeting": "ml_se_40011703/greeting",
     "audio_click": "ml_se_40011703/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 40011903,
+    "spine_layers": 1,
+    "has_effect": null,
+    "audio_celebrate": "my_se_40011903/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "my_se_40011903/greeting",
+    "audio_click": "my_se_40011903/click",
     "audio_click2": null,
     "celebrate_delay": null
   },

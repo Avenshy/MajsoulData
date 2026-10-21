@@ -5,7 +5,12 @@
     "icon_item": "deco/title/notitle/pic/notitle.png",
     "priority": 1,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "无称号",
@@ -21,7 +26,12 @@
     "icon_item": "deco/title/yuanchuzhihuo/pic/yuanchuzhihuo.png",
     "priority": 2,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "原初之火",
@@ -44,7 +54,12 @@
     "icon_item": "deco/title/yinghuozhiguang/pic/yinghuozhiguang.png",
     "priority": 3,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "萤火之光",
@@ -67,7 +82,12 @@
     "icon_item": "deco/title/zuichuquesheng/pic/zuichuquesheng.png",
     "priority": 4,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "最初的雀圣",
@@ -90,7 +110,12 @@
     "icon_item": "deco/title/hunzhiqiyuezhe1/pic/hunzhiqiyuezhe1.png",
     "priority": 10001,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之契约者·初阶",
@@ -113,7 +138,12 @@
     "icon_item": "deco/title/hunzhiqiyuezhe2/pic/hunzhiqiyuezhe2.png",
     "priority": 10002,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之契约者·中阶",
@@ -136,7 +166,12 @@
     "icon_item": "deco/title/hunzhiqiyuezhe3/pic/hunzhiqiyuezhe3.png",
     "priority": 10003,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之契约者·高阶",
@@ -159,7 +194,12 @@
     "icon_item": "deco/title/hunzhiqidizhe1/pic/hunzhiqidizhe1.png",
     "priority": 10004,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之启迪者·初阶",
@@ -182,7 +222,12 @@
     "icon_item": "deco/title/hunzhiqidizhe2/pic/hunzhiqidizhe2.png",
     "priority": 10005,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之启迪者·中阶",
@@ -205,7 +250,12 @@
     "icon_item": "deco/title/hunzhiqidizhe3/pic/hunzhiqidizhe3.png",
     "priority": 10006,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之启迪者·高阶",
@@ -228,7 +278,12 @@
     "icon_item": "deco/title/hunzhidizaozhe1/pic/hunzhidizaozhe1.png",
     "priority": 10007,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之缔造者·初阶",
@@ -251,7 +306,12 @@
     "icon_item": "deco/title/hunzhidizaozhe2/pic/hunzhidizaozhe2.png",
     "priority": 10008,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之缔造者·中阶",
@@ -274,7 +334,12 @@
     "icon_item": "deco/title/hunzhidizaozhe3/pic/hunzhidizaozhe3.png",
     "priority": 10009,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之缔造者·高阶",
@@ -297,7 +362,12 @@
     "icon_item": "deco/title/hunzhichaoyuezhe/pic/hunzhichaoyuezhe.png",
     "priority": 10010,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "魂之超越者",
@@ -320,7 +390,12 @@
     "icon_item": "deco/title/maolianggongyingshang/pic/maolianggongyingshang.png",
     "priority": 10011,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "猫粮供应商",
@@ -343,7 +418,12 @@
     "icon_item": "deco/title/zuichuhuntian/pic/zuichuhuntian.png",
     "priority": 5,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "最初的魂天",
@@ -366,7 +446,12 @@
     "icon_item": "deco/title/gai/pic/gai.png",
     "priority": 6,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "认证玩家",
@@ -389,7 +474,12 @@
     "icon_item": "deco/title/12dora/pic/12dora_item.jpg",
     "priority": 7,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "12Dora",
@@ -412,7 +502,12 @@
     "icon_item": "deco/title/ganjunwudi/pic/ganjunwudi_item.jpg",
     "priority": 8,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "杆菌无敌",
@@ -435,7 +530,12 @@
     "icon_item": "deco/title/zuocangshayejia/pic/zuocangshayejia_item.jpg",
     "priority": 9,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "佐仓沙耶加",
@@ -458,7 +558,12 @@
     "icon_item": "deco/title/miaoguodahufa/pic/miaoguodahufa.jpg",
     "priority": 10012,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "喵国大护法",
@@ -481,7 +586,12 @@
     "icon_item": "deco/title/zuichuquesheng3/pic/zuichuquesheng3_item.jpg",
     "priority": 10,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "最初的雀圣",
@@ -504,7 +614,12 @@
     "icon_item": "deco/title/zuichuhuntian3/pic/zuichuhuntian3_item.jpg",
     "priority": 11,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "最初的魂天",
@@ -527,7 +642,12 @@
     "icon_item": "deco/title/2434chudai/pic/2434chudai_item.jpg",
     "priority": 40001,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "",
@@ -551,7 +671,10 @@
     "priority": 0,
     "unlock_type": 1,
     "unlock_param": [
-      305556
+      305556,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -575,7 +698,12 @@
     "icon_item": "deco/title/japan_g/pic/japan_g_item.jpg",
     "priority": 12,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "雀魂公認の選ばれしプレイヤーG",
@@ -598,7 +726,12 @@
     "icon_item": "deco/title/wanxianggengxin/pic/wanxianggengxin_item.jpg",
     "priority": 13,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "万象更新",
@@ -621,7 +754,12 @@
     "icon_item": "deco/title/trial/pic/trial_item.jpg",
     "priority": 30001,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "试炼之道S1纪念",
@@ -645,7 +783,10 @@
     "priority": 40002,
     "unlock_type": 1,
     "unlock_param": [
-      305557
+      305557,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -669,7 +810,12 @@
     "icon_item": "deco/title/achievementgroup1/pic/achievementgroup1_item.jpg",
     "priority": 20099,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "成长之旅",
@@ -692,7 +838,12 @@
     "icon_item": "deco/title/achievementgroup2/pic/achievementgroup2_item.jpg",
     "priority": 20098,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "连胜之道",
@@ -715,7 +866,12 @@
     "icon_item": "deco/title/achievementgroup3/pic/achievementgroup3_item.jpg",
     "priority": 20097,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "星罗云布",
@@ -738,7 +894,12 @@
     "icon_item": "deco/title/achievementgroup4/pic/achievementgroup4_item.jpg",
     "priority": 20096,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "天选之证",
@@ -761,7 +922,12 @@
     "icon_item": "deco/title/achievementgroup5/pic/achievementgroup5_item.jpg",
     "priority": 20095,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "千锤百炼",
@@ -784,7 +950,12 @@
     "icon_item": "deco/title/achievementgroup6/pic/achievementgroup6_item.jpg",
     "priority": 20094,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "牌桌见闻",
@@ -807,7 +978,12 @@
     "icon_item": "deco/title/achievementgroup7/pic/achievementgroup7_item.jpg",
     "priority": 20093,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "良好市民",
@@ -830,7 +1006,12 @@
     "icon_item": "deco/title/achievementgroup8/pic/achievementgroup8_item.jpg",
     "priority": 20092,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "神社贵宾",
@@ -853,7 +1034,12 @@
     "icon_item": "deco/title/achievementgroup9/pic/achievementgroup9_item.jpg",
     "priority": 20091,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "森罗万象",
@@ -876,7 +1062,12 @@
     "icon_item": "deco/title/achievementgroup10/pic/achievementgroup10_item.jpg",
     "priority": 20090,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "千客万来",
@@ -900,7 +1091,10 @@
     "priority": 40003,
     "unlock_type": 1,
     "unlock_param": [
-      305558
+      305558,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -924,7 +1118,12 @@
     "icon_item": "deco/title/kirin/pic/kirin_item.jpg",
     "priority": 40004,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2021",
@@ -947,7 +1146,12 @@
     "icon_item": "deco/title/kirins1en/pic/kirins1en_item.jpg",
     "priority": 40005,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "Limited Title",
@@ -971,7 +1175,10 @@
     "priority": 40006,
     "unlock_type": 1,
     "unlock_param": [
-      305559
+      305559,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -995,7 +1202,12 @@
     "icon_item": "deco/title/1jdq/pic/1jdq_item.jpg",
     "priority": 30002,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "一姬当千",
@@ -1018,7 +1230,12 @@
     "icon_item": "deco/title/xysr/pic/xysr_item.jpg",
     "priority": 14,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "逍遥散人",
@@ -1041,7 +1258,12 @@
     "icon_item": "deco/title/hlg/pic/hlg_item.jpg",
     "priority": 15,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "火龙果说电影",
@@ -1065,7 +1287,10 @@
     "priority": 40007,
     "unlock_type": 1,
     "unlock_param": [
-      305560
+      305560,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1090,7 +1315,10 @@
     "priority": 40008,
     "unlock_type": 1,
     "unlock_param": [
-      305561
+      305561,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1114,7 +1342,12 @@
     "icon_item": "deco/title/kirin/pic/kirin_item.jpg",
     "priority": 40009,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2021",
@@ -1138,7 +1371,10 @@
     "priority": 40010,
     "unlock_type": 1,
     "unlock_param": [
-      305562
+      305562,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1163,7 +1399,10 @@
     "priority": 40011,
     "unlock_type": 1,
     "unlock_param": [
-      305563
+      305563,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1187,7 +1426,12 @@
     "icon_item": "deco/title/kirin2022/pic/kirin2022_item.jpg",
     "priority": 40012,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2022",
@@ -1211,7 +1455,10 @@
     "priority": 40013,
     "unlock_type": 1,
     "unlock_param": [
-      305564
+      305564,
+      0,
+      0,
+      0
     ],
     "cross_view": 1,
     "name": {
@@ -1236,7 +1483,10 @@
     "priority": 40014,
     "unlock_type": 1,
     "unlock_param": [
-      305565
+      305565,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1261,7 +1511,10 @@
     "priority": 40015,
     "unlock_type": 1,
     "unlock_param": [
-      305566
+      305566,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1285,7 +1538,12 @@
     "icon_item": "deco/title/tianyuanbeidou/pic/tianyuanbeidou_item.jpg",
     "priority": 40016,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": 1,
     "name": {
       "chs": "天元北斗",
@@ -1309,7 +1567,10 @@
     "priority": 40017,
     "unlock_type": 1,
     "unlock_param": [
-      305567
+      305567,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1334,7 +1595,10 @@
     "priority": 40018,
     "unlock_type": 1,
     "unlock_param": [
-      305568
+      305568,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1359,7 +1623,10 @@
     "priority": 40019,
     "unlock_type": 1,
     "unlock_param": [
-      305569
+      305569,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1384,7 +1651,10 @@
     "priority": 40020,
     "unlock_type": 1,
     "unlock_param": [
-      305570
+      305570,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1409,7 +1679,10 @@
     "priority": 40021,
     "unlock_type": 1,
     "unlock_param": [
-      305571
+      305571,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1433,7 +1706,12 @@
     "icon_item": "deco/title/kirin2022cn/pic/kirin2022cn_item.jpg",
     "priority": 40022,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2022",
@@ -1457,7 +1735,10 @@
     "priority": 40023,
     "unlock_type": 1,
     "unlock_param": [
-      305572
+      305572,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1482,7 +1763,10 @@
     "priority": 40024,
     "unlock_type": 1,
     "unlock_param": [
-      305573
+      305573,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1507,7 +1791,10 @@
     "priority": 40025,
     "unlock_type": 1,
     "unlock_param": [
-      305574
+      305574,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1531,7 +1818,12 @@
     "icon_item": "deco/title/kirin2023jp/pic/kirin2023jp_item.jpg",
     "priority": 40026,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2023",
@@ -1555,7 +1847,10 @@
     "priority": 40027,
     "unlock_type": 1,
     "unlock_param": [
-      305575
+      305575,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1580,7 +1875,10 @@
     "priority": 40028,
     "unlock_type": 1,
     "unlock_param": [
-      305576
+      305576,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1605,7 +1903,10 @@
     "priority": 40029,
     "unlock_type": 1,
     "unlock_param": [
-      305577
+      305577,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1629,7 +1930,12 @@
     "icon_item": "deco/title/2308event/pic/2308event_item.jpg",
     "priority": 30003,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "喵之一手",
@@ -1653,7 +1959,10 @@
     "priority": 40030,
     "unlock_type": 1,
     "unlock_param": [
-      305578
+      305578,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1678,7 +1987,10 @@
     "priority": 40031,
     "unlock_type": 1,
     "unlock_param": [
-      305579
+      305579,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1703,7 +2015,10 @@
     "priority": 40032,
     "unlock_type": 1,
     "unlock_param": [
-      305580
+      305580,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1728,7 +2043,10 @@
     "priority": 40033,
     "unlock_type": 1,
     "unlock_param": [
-      30557001
+      30557001,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1753,7 +2071,10 @@
     "priority": 40034,
     "unlock_type": 1,
     "unlock_param": [
-      30557002
+      30557002,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1778,7 +2099,10 @@
     "priority": 40035,
     "unlock_type": 1,
     "unlock_param": [
-      30557003
+      30557003,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1803,7 +2127,10 @@
     "priority": 40036,
     "unlock_type": 1,
     "unlock_param": [
-      30557004
+      30557004,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1827,7 +2154,12 @@
     "icon_item": "deco/title/kirin2023cn/pic/kirin2023cn_item.jpg",
     "priority": 40037,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2023",
@@ -1851,7 +2183,10 @@
     "priority": 40038,
     "unlock_type": 1,
     "unlock_param": [
-      30557005
+      30557005,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1876,7 +2211,10 @@
     "priority": 40039,
     "unlock_type": 1,
     "unlock_param": [
-      30557006
+      30557006,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1900,7 +2238,12 @@
     "icon_item": "deco/title/kirin2024jp/pic/kirin2024jp_item.jpg",
     "priority": 40040,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2024",
@@ -1924,7 +2267,10 @@
     "priority": 40041,
     "unlock_type": 1,
     "unlock_param": [
-      30557007
+      30557007,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1949,7 +2295,10 @@
     "priority": 40042,
     "unlock_type": 1,
     "unlock_param": [
-      30557008
+      30557008,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1974,7 +2323,10 @@
     "priority": 40043,
     "unlock_type": 1,
     "unlock_param": [
-      30557009
+      30557009,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -1999,7 +2351,10 @@
     "priority": 40044,
     "unlock_type": 1,
     "unlock_param": [
-      30557010
+      30557010,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2023,7 +2378,12 @@
     "icon_item": "deco/title/24qyzz/pic/24qyzz_item.jpg",
     "priority": 30004,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "青云之志",
@@ -2047,7 +2407,10 @@
     "priority": 40045,
     "unlock_type": 1,
     "unlock_param": [
-      30557011
+      30557011,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2071,7 +2434,12 @@
     "icon_item": "deco/title/820/pic/820_item.jpg",
     "priority": 16,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "820邹倚天",
@@ -2095,7 +2463,10 @@
     "priority": 40046,
     "unlock_type": 1,
     "unlock_param": [
-      30557012
+      30557012,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2119,7 +2490,12 @@
     "icon_item": "deco/title/2409qilinzhan/pic/2409qilinzhan_item.jpg",
     "priority": 40047,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "限定称号",
@@ -2143,7 +2519,10 @@
     "priority": 40048,
     "unlock_type": 1,
     "unlock_param": [
-      30557013
+      30557013,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2168,7 +2547,10 @@
     "priority": 40049,
     "unlock_type": 1,
     "unlock_param": [
-      30557014
+      30557014,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2193,7 +2575,10 @@
     "priority": 40050,
     "unlock_type": 1,
     "unlock_param": [
-      30557015
+      30557015,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2218,7 +2603,10 @@
     "priority": 40051,
     "unlock_type": 1,
     "unlock_param": [
-      30557016
+      30557016,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2243,7 +2631,10 @@
     "priority": 40052,
     "unlock_type": 1,
     "unlock_param": [
-      30557017
+      30557017,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2268,7 +2659,10 @@
     "priority": 40053,
     "unlock_type": 1,
     "unlock_param": [
-      30557018
+      30557018,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2293,7 +2687,10 @@
     "priority": 40054,
     "unlock_type": 1,
     "unlock_param": [
-      30557019
+      30557019,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2318,7 +2715,10 @@
     "priority": 40055,
     "unlock_type": 1,
     "unlock_param": [
-      30557020
+      30557020,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2343,7 +2743,10 @@
     "priority": 40056,
     "unlock_type": 1,
     "unlock_param": [
-      30557021
+      30557021,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2367,7 +2770,12 @@
     "icon_item": "deco/title/kirin2024cn/pic/kirin2024cn_item.jpg",
     "priority": 40057,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2024",
@@ -2391,7 +2799,10 @@
     "priority": 40058,
     "unlock_type": 1,
     "unlock_param": [
-      30557022
+      30557022,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2416,7 +2827,10 @@
     "priority": 40059,
     "unlock_type": 1,
     "unlock_param": [
-      30557023
+      30557023,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2441,7 +2855,10 @@
     "priority": 40060,
     "unlock_type": 1,
     "unlock_param": [
-      30557024
+      30557024,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2465,7 +2882,12 @@
     "icon_item": "deco/title/miaoguodajiangjun/pic/miaoguodajiangjun_item.jpg",
     "priority": 10013,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "喵国大将军",
@@ -2488,7 +2910,12 @@
     "icon_item": "deco/title/miaoguozhizun/pic/miaoguozhizun_item.jpg",
     "priority": 10014,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "喵国至尊",
@@ -2512,7 +2939,10 @@
     "priority": 40061,
     "unlock_type": 1,
     "unlock_param": [
-      30557025
+      30557025,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2537,7 +2967,10 @@
     "priority": 40062,
     "unlock_type": 1,
     "unlock_param": [
-      30557026
+      30557026,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2561,7 +2994,12 @@
     "icon_item": "deco/title/achievementgroup13/pic/achievementgroup13_item.jpg",
     "priority": 20089,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "触类旁通",
@@ -2584,7 +3022,12 @@
     "icon_item": "deco/title/achievementgroup14/pic/achievementgroup14_item.jpg",
     "priority": 20088,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "琳琅满目",
@@ -2608,7 +3051,10 @@
     "priority": 40063,
     "unlock_type": 1,
     "unlock_param": [
-      30557027
+      30557027,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2633,7 +3079,10 @@
     "priority": 40064,
     "unlock_type": 1,
     "unlock_param": [
-      30557028
+      30557028,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2658,7 +3107,10 @@
     "priority": 40065,
     "unlock_type": 1,
     "unlock_param": [
-      30557029
+      30557029,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2683,7 +3135,10 @@
     "priority": 40066,
     "unlock_type": 1,
     "unlock_param": [
-      30557030
+      30557030,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2707,7 +3162,12 @@
     "icon_item": "deco/title/kirin2025jp/pic/kirin2025jp_item.jpg",
     "priority": 40067,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2025",
@@ -2731,7 +3191,10 @@
     "priority": 40068,
     "unlock_type": 1,
     "unlock_param": [
-      30557031
+      30557031,
+      0,
+      0,
+      0
     ],
     "cross_view": 1,
     "name": {
@@ -2756,7 +3219,10 @@
     "priority": 40069,
     "unlock_type": 1,
     "unlock_param": [
-      30557032
+      30557032,
+      0,
+      0,
+      0
     ],
     "cross_view": 1,
     "name": {
@@ -2781,7 +3247,10 @@
     "priority": 40070,
     "unlock_type": 1,
     "unlock_param": [
-      30557033
+      30557033,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2806,7 +3275,10 @@
     "priority": 40071,
     "unlock_type": 1,
     "unlock_param": [
-      30557034
+      30557034,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2830,7 +3302,12 @@
     "icon_item": "deco/title/25qyzz/pic/25qyzz_item.jpg",
     "priority": 30005,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "勇喵小队",
@@ -2854,7 +3331,10 @@
     "priority": 40072,
     "unlock_type": 1,
     "unlock_param": [
-      30557036
+      30557036,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2879,7 +3359,10 @@
     "priority": 40073,
     "unlock_type": 1,
     "unlock_param": [
-      30557037
+      30557037,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2904,7 +3387,10 @@
     "priority": 40074,
     "unlock_type": 1,
     "unlock_param": [
-      30557038
+      30557038,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2929,7 +3415,10 @@
     "priority": 40075,
     "unlock_type": 1,
     "unlock_param": [
-      30557039
+      30557039,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -2953,7 +3442,12 @@
     "icon_item": "deco/title/asaki/pic/asaki_item.jpg",
     "priority": 17,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "Asaki大人",
@@ -2976,7 +3470,12 @@
     "icon_item": "deco/title/2509qilinzhan/pic/2509qilinzhan_item.jpg",
     "priority": 40076,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "Limited Title",
@@ -3000,7 +3499,10 @@
     "priority": 40077,
     "unlock_type": 1,
     "unlock_param": [
-      30557042
+      30557042,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3025,7 +3527,10 @@
     "priority": 40078,
     "unlock_type": 1,
     "unlock_param": [
-      30557040
+      30557040,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3050,7 +3555,10 @@
     "priority": 40079,
     "unlock_type": 1,
     "unlock_param": [
-      30557041
+      30557041,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3075,7 +3583,10 @@
     "priority": 40080,
     "unlock_type": 1,
     "unlock_param": [
-      30557043
+      30557043,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3100,7 +3611,10 @@
     "priority": 40081,
     "unlock_type": 1,
     "unlock_param": [
-      30557044
+      30557044,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3125,7 +3639,10 @@
     "priority": 40082,
     "unlock_type": 1,
     "unlock_param": [
-      30557045
+      30557045,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3150,7 +3667,10 @@
     "priority": 40083,
     "unlock_type": 1,
     "unlock_param": [
-      30557046
+      30557046,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3175,7 +3695,10 @@
     "priority": 40084,
     "unlock_type": 1,
     "unlock_param": [
-      30557047
+      30557047,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3200,7 +3723,10 @@
     "priority": 40085,
     "unlock_type": 1,
     "unlock_param": [
-      30557048
+      30557048,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3225,7 +3751,10 @@
     "priority": 40086,
     "unlock_type": 1,
     "unlock_param": [
-      30557049
+      30557049,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3250,7 +3779,10 @@
     "priority": 40087,
     "unlock_type": 1,
     "unlock_param": [
-      30557050
+      30557050,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3274,7 +3806,12 @@
     "icon_item": "deco/title/kirin2025cn/pic/kirin2025cn_item.jpg",
     "priority": 40088,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2025",
@@ -3298,7 +3835,10 @@
     "priority": 40089,
     "unlock_type": 1,
     "unlock_param": [
-      30557052
+      30557052,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3323,7 +3863,10 @@
     "priority": 40090,
     "unlock_type": 1,
     "unlock_param": [
-      30557053
+      30557053,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3348,7 +3891,10 @@
     "priority": 40091,
     "unlock_type": 1,
     "unlock_param": [
-      30557054
+      30557054,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3373,7 +3919,10 @@
     "priority": 40092,
     "unlock_type": 1,
     "unlock_param": [
-      30557055
+      30557055,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3398,7 +3947,10 @@
     "priority": 40093,
     "unlock_type": 1,
     "unlock_param": [
-      30557056
+      30557056,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3423,7 +3975,10 @@
     "priority": 40094,
     "unlock_type": 1,
     "unlock_param": [
-      30557057
+      30557057,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3448,7 +4003,10 @@
     "priority": 40095,
     "unlock_type": 1,
     "unlock_param": [
-      30557058
+      30557058,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3473,7 +4031,10 @@
     "priority": 40096,
     "unlock_type": 1,
     "unlock_param": [
-      30557059
+      30557059,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3497,7 +4058,12 @@
     "icon_item": "deco/title/kirin2026/pic/kirin2026_item.jpg",
     "priority": 40097,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2026",
@@ -3520,7 +4086,12 @@
     "icon_item": "deco/title/kirin2026/pic/kirin2026_item.jpg",
     "priority": 40098,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "麒麟位2026",
@@ -3544,7 +4115,10 @@
     "priority": 40099,
     "unlock_type": 1,
     "unlock_param": [
-      30557060
+      30557060,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3569,7 +4143,10 @@
     "priority": 40100,
     "unlock_type": 1,
     "unlock_param": [
-      30557061
+      30557061,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3594,7 +4171,10 @@
     "priority": 40101,
     "unlock_type": 1,
     "unlock_param": [
-      30557062
+      30557062,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3619,7 +4199,10 @@
     "priority": 40102,
     "unlock_type": 1,
     "unlock_param": [
-      30557063
+      30557063,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3644,7 +4227,10 @@
     "priority": 40103,
     "unlock_type": 1,
     "unlock_param": [
-      30557064
+      30557064,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3668,7 +4254,12 @@
     "icon_item": "deco/title/26summer/pic/26summer_item.jpg",
     "priority": 30006,
     "unlock_type": 0,
-    "unlock_param": [],
+    "unlock_param": [
+      0,
+      0,
+      0,
+      0
+    ],
     "cross_view": null,
     "name": {
       "chs": "生财有喵",
@@ -3692,7 +4283,10 @@
     "priority": 40104,
     "unlock_type": 1,
     "unlock_param": [
-      30557065
+      30557065,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3717,7 +4311,10 @@
     "priority": 40105,
     "unlock_type": 1,
     "unlock_param": [
-      30557066
+      30557066,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3742,7 +4339,10 @@
     "priority": 40106,
     "unlock_type": 1,
     "unlock_param": [
-      30557067
+      30557067,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3767,7 +4367,10 @@
     "priority": 40107,
     "unlock_type": 1,
     "unlock_param": [
-      30557068
+      30557068,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3792,7 +4395,10 @@
     "priority": 40108,
     "unlock_type": 1,
     "unlock_param": [
-      30557069
+      30557069,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3817,7 +4423,10 @@
     "priority": 40109,
     "unlock_type": 1,
     "unlock_param": [
-      30557070
+      30557070,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3842,7 +4451,10 @@
     "priority": 40110,
     "unlock_type": 1,
     "unlock_param": [
-      30557071
+      30557071,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3867,7 +4479,10 @@
     "priority": 40111,
     "unlock_type": 1,
     "unlock_param": [
-      30557072
+      30557072,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
@@ -3892,22 +4507,137 @@
     "priority": 40112,
     "unlock_type": 1,
     "unlock_param": [
-      30557073
+      30557073,
+      0,
+      0,
+      0
     ],
     "cross_view": null,
     "name": {
-      "chs": "2026雀魂高校赛冠军",
-      "chs_t": "2026雀魂高校賽冠軍",
-      "jp": "2026雀魂高校賽冠軍",
-      "en": "2026雀魂高校賽冠軍",
-      "kr": "2026雀魂高校賽冠軍"
+      "chs": "2026雀魂高校联赛冠军",
+      "chs_t": "2026雀魂高校聯賽冠軍",
+      "jp": "2026雀魂高校聯賽冠軍",
+      "en": "2026雀魂高校聯賽冠軍",
+      "kr": "2026雀魂高校聯賽冠軍"
     },
     "desc": {
-      "chs": "赠予2026雀魂高校赛冠军",
-      "chs_t": "贈予2026雀魂高校賽冠軍",
-      "jp": "贈予2026雀魂高校賽冠軍",
-      "en": "贈予2026雀魂高校賽冠軍",
-      "kr": "贈予2026雀魂高校賽冠軍"
+      "chs": "赠予2026雀魂高校联赛冠军",
+      "chs_t": "贈予2026雀魂高校聯賽冠軍",
+      "jp": "贈予2026雀魂高校聯賽冠軍",
+      "en": "贈予2026雀魂高校聯賽冠軍",
+      "kr": "贈予2026雀魂高校聯賽冠軍"
+    }
+  },
+  {
+    "id": 600171,
+    "icon": "deco/title/mjwg/pic/mjwg.png",
+    "icon_item": "deco/title/mjwg/pic/mjwg_item.jpg",
+    "priority": 40113,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557074,
+      0,
+      0,
+      0
+    ],
+    "cross_view": 1,
+    "name": {
+      "chs": "Team REGULUS",
+      "chs_t": "Team REGULUS",
+      "jp": "チームレグルス",
+      "en": "Team REGULUS",
+      "kr": "Team REGULUS"
+    },
+    "desc": {
+      "chs": "Team REGULUS",
+      "chs_t": "Team REGULUS",
+      "jp": "2026年魂天リーグ優勝記念",
+      "en": "Team REGULUS",
+      "kr": "Team REGULUS"
+    }
+  },
+  {
+    "id": 600172,
+    "icon": "deco/title/24sxz3/pic/24sxz3.png",
+    "icon_item": "deco/title/24sxz3/pic/24sxz3_item.jpg",
+    "priority": 40114,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557075,
+      0,
+      0,
+      0
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "四象战冠军",
+      "chs_t": "四象戰冠軍",
+      "jp": "四象・白虎",
+      "en": "四象戰冠軍",
+      "kr": "四象戰冠軍"
+    },
+    "desc": {
+      "chs": "赠予四象战冠军",
+      "chs_t": "贈予四象戰冠軍",
+      "jp": "四象戦秋の陣優勝称号",
+      "en": "贈予四象戰冠軍",
+      "kr": "贈予四象戰冠軍"
+    }
+  },
+  {
+    "id": 600174,
+    "icon": "deco/title/guanren/pic/guanren.png",
+    "icon_item": "deco/title/guanren/pic/guanren_item.jpg",
+    "priority": 40116,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557077,
+      0,
+      0,
+      0
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "Team ゴリ雄",
+      "chs_t": "Team ゴリ雄",
+      "jp": "Team ゴリ雄",
+      "en": "Team ゴリ雄",
+      "kr": "Team ゴリ雄"
+    },
+    "desc": {
+      "chs": "「ななし雀魂杯」優勝記念称号",
+      "chs_t": "「ななし雀魂杯」優勝記念称号",
+      "jp": "「ななし雀魂杯」優勝記念称号",
+      "en": "「ななし雀魂杯」優勝記念称号",
+      "kr": "「ななし雀魂杯」優勝記念称号"
+    }
+  },
+  {
+    "id": 600175,
+    "icon": "deco/title/xsqhb3/pic/xsqhb3.png",
+    "icon_item": "deco/title/xsqhb3/pic/xsqhb3_item.jpg",
+    "priority": 40117,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557078,
+      0,
+      0,
+      0
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "学生雀魂杯　西場",
+      "chs_t": "学生雀魂杯　西場",
+      "jp": "学生雀魂杯　西場",
+      "en": "学生雀魂杯　西場",
+      "kr": "学生雀魂杯　西場"
+    },
+    "desc": {
+      "chs": "「学生雀魂杯」優勝記念称号",
+      "chs_t": "「学生雀魂杯」優勝記念称号",
+      "jp": "「学生雀魂杯」優勝記念称号",
+      "en": "「学生雀魂杯」優勝記念称号",
+      "kr": "「学生雀魂杯」優勝記念称号"
     }
   }
 ]

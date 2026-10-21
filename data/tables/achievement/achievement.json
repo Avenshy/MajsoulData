@@ -12870,6 +12870,84 @@
     }
   },
   {
+    "id": 100502,
+    "rare": 1,
+    "locked": null,
+    "group_id": 10,
+    "sort": 176,
+    "segment_id": null,
+    "base_task": 99190,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "与泠星的邂逅",
+      "chs_t": "與泠星的邂逅",
+      "jp": "レイセイとの出会い",
+      "en": "An Encounter with Reisei",
+      "kr": "레이세이와의 만남"
+    },
+    "desc": {
+      "chs": "获得雀士泠星",
+      "chs_t": "獲得雀士泠星",
+      "jp": "レイセイを入手する",
+      "en": "Obtain Jyanshi Reisei",
+      "kr": "레이세이 획득하기."
+    }
+  },
+  {
+    "id": 100503,
+    "rare": 1,
+    "locked": null,
+    "group_id": 10,
+    "sort": 378,
+    "segment_id": null,
+    "base_task": 99191,
+    "reward": null,
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "泠星的契约者",
+      "chs_t": "泠星的契約者",
+      "jp": "レイセイの契約者",
+      "en": "Bonded with Reisei",
+      "kr": "레이세이의 계약자"
+    },
+    "desc": {
+      "chs": "与泠星签订契约",
+      "chs_t": "與泠星簽訂契約",
+      "jp": "レイセイと契約を結ぶ",
+      "en": "Bond with Reisei",
+      "kr": "레이세이와(과) 계약 맺기."
+    }
+  },
+  {
+    "id": 100504,
+    "rare": 1,
+    "locked": null,
+    "group_id": 10,
+    "sort": 524,
+    "segment_id": null,
+    "base_task": 99192,
+    "reward": "30740024-1",
+    "hidden": null,
+    "deprecated": null,
+    "name": {
+      "chs": "柚的守护者",
+      "chs_t": "柚的守護者",
+      "jp": "ゆずの守護者",
+      "en": "Protector of Yuzu",
+      "kr": "유즈의 수호자"
+    },
+    "desc": {
+      "chs": "解锁柚传记中的所有结局",
+      "chs_t": "解鎖柚傳記中的所有結局",
+      "jp": "ゆずの物語のエンディングをすべて解放する",
+      "en": "Unlock all endings in Yuzu's Story",
+      "kr": "유즈 스토리의 엔딩 모두 오픈."
+    }
+  },
+  {
     "id": 800011,
     "rare": 1,
     "locked": null,

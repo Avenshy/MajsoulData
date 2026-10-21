@@ -6,7 +6,8 @@
     "friend_recv_limit": 3,
     "extra_gift": 1,
     "gift_item_id": [
-      309069
+      309069,
+      0
     ]
   }
 ]

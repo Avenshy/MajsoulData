@@ -1,1 +1,1 @@
-local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["hide_direction"]=1002}local g={nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[308048]=b({308048,"1,0,1,0"},h)return{tb=k}
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["hide_direction"]=1002,["animation_time"]=3}local g={nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[308048]=b({308048,"1,0,1,0",0},h)k[30560013]=b({30560013,"",2500},h)return{tb=k}

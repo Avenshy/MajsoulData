@@ -1,1 +1,1 @@
-local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["stage_count"]=2,["stage_weight"]=3}local g={nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[309047]=b({309047,c({150,250}),c({85,105})},h)return{tb=k}
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["stage_count"]=2,["stage_weight"]=3}local g={nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[309047]=b({309047,c({150,250,0}),c({85,105,0})},h)return{tb=k}
