@@ -415555,6 +415555,31 @@
     "type": "lobby_normal",
     "level_limit": 5,
     "bond_limit": null,
+    "time_length": 37560,
+    "path": "lobby/lobby_normalmax2",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "大厅交互语音7",
+      "chs_t": "大廳交互語音7",
+      "jp": "メイン7",
+      "en": "Lobby Interactive Voice 7",
+      "kr": "로비 상호작용7"
+    },
+    "words": {
+      "chs": "呼——呼——啊、睡着了，还做了一个美梦……内容？当然是梦见我画完交稿了……现实太残酷了，我还是继续去做梦吧，放心，我马上就能在梦里画完，等我……",
+      "chs_t": "呼——呼——啊、睡著了，還做了一個美夢……內容？當然是夢見我畫完交稿了……現實太殘酷了，我還是繼續去做夢吧，放心，我馬上就能在夢裡畫完，等我……",
+      "jp": "すぅ……むにゃむにゃ……ハッ、寝落ちしてた、\nしかもいい夢見てた……内容？　\nもちろん原稿を提出できた夢よ……\nハァ、現実はなんて残酷なんだ……もう一回夢を見よう。\nああ、心配ご無用、夢の中で描き上げるから、待ってて……",
+      "en": "Mmm... Huh?! I nodded off... and I was having such a good dream, too. What was it about? I got the chapter in on time, of course... Ugh, reality is so cruel. Better go back to sleep. Don't worry, I'll finish it in my dream. Just hang on...",
+      "kr": "새근…… 음냐음냐…… 헉, 졸다가 잠들었네. 게다가 좋은 꿈을 꿨어…… 내용? 당연히 원고를 제출하는 꿈이지…… 하아, 현실은 어쩜 이렇게 잔혹할까…… 한 번 더 꿈을 꿔야겠어. 아아, 걱정 마, 꿈속에서 다 그릴 테니까 기다려 줘……"
+    }
+  },
+  {
+    "id": 126,
+    "category": 1,
+    "type": "lobby_normal",
+    "level_limit": 5,
+    "bond_limit": null,
     "time_length": 20136,
     "path": "lobby/lobby_normalmax3",
     "hide": null,
@@ -417752,6 +417777,31 @@
   {
     "id": 126,
     "category": 2,
+    "type": "gameend_noting",
+    "level_limit": 0,
+    "bond_limit": null,
+    "time_length": 5328,
+    "path": "gameend_noting",
+    "hide": null,
+    "date_limit": null,
+    "name": {
+      "chs": "未听牌",
+      "chs_t": "未聽牌",
+      "jp": "ノーテン",
+      "en": "No-ten (No Ready Hand)",
+      "kr": "노텐"
+    },
+    "words": {
+      "chs": "没听，平行世界BE达成。",
+      "chs_t": "沒聽，平行世界BE達成。",
+      "jp": "ノーテン。平行世界のバッドエンド達成か。",
+      "en": "No-ten. Guess I just unlocked the bad ending in another timeline.",
+      "kr": "노텐. 평행세계의 배드 엔딩 달성인가."
+    }
+  },
+  {
+    "id": 126,
+    "category": 2,
     "type": "gameend_sifenglianda",
     "level_limit": 0,
     "bond_limit": null,
@@ -418347,56 +418397,6 @@
       "jp": "作画中……始まったら声かけて……。",
       "en": "Drawing right now... Just let me know when the match starts...",
       "kr": "그림 그리는 중…… 시작하면 말 걸어 줘……"
-    }
-  },
-  {
-    "id": 126,
-    "category": 1,
-    "type": "lobby_normal",
-    "level_limit": 5,
-    "bond_limit": null,
-    "time_length": 37560,
-    "path": "lobby/lobby_normalmax2",
-    "hide": null,
-    "date_limit": null,
-    "name": {
-      "chs": "大厅交互语音7",
-      "chs_t": "大廳交互語音7",
-      "jp": "メイン7",
-      "en": "Lobby Interactive Voice 7",
-      "kr": "로비 상호작용7"
-    },
-    "words": {
-      "chs": "呼——呼——啊、睡着了，还做了一个美梦……内容？当然是梦见我画完交稿了……现实太残酷了，我还是继续去做梦吧，放心，我马上就能在梦里画完，等我……",
-      "chs_t": "呼——呼——啊、睡著了，還做了一個美夢……內容？當然是夢見我畫完交稿了……現實太殘酷了，我還是繼續去做夢吧，放心，我馬上就能在夢裡畫完，等我……",
-      "jp": "すぅ……むにゃむにゃ……ハッ、寝落ちしてた、\nしかもいい夢見てた……内容？　\nもちろん原稿を提出できた夢よ……\nハァ、現実はなんて残酷なんだ……もう一回夢を見よう。\nああ、心配ご無用、夢の中で描き上げるから、待ってて……",
-      "en": "Mmm... Huh?! I nodded off... and I was having such a good dream, too. What was it about? I got the chapter in on time, of course... Ugh, reality is so cruel. Better go back to sleep. Don't worry, I'll finish it in my dream. Just hang on...",
-      "kr": "새근…… 음냐음냐…… 헉, 졸다가 잠들었네. 게다가 좋은 꿈을 꿨어…… 내용? 당연히 원고를 제출하는 꿈이지…… 하아, 현실은 어쩜 이렇게 잔혹할까…… 한 번 더 꿈을 꿔야겠어. 아아, 걱정 마, 꿈속에서 다 그릴 테니까 기다려 줘……"
-    }
-  },
-  {
-    "id": 126,
-    "category": 2,
-    "type": "gameend_noting",
-    "level_limit": 0,
-    "bond_limit": null,
-    "time_length": 5328,
-    "path": "gameend_noting",
-    "hide": null,
-    "date_limit": null,
-    "name": {
-      "chs": "未听牌",
-      "chs_t": "未聽牌",
-      "jp": "ノーテン",
-      "en": "No-ten (No Ready Hand)",
-      "kr": "노텐"
-    },
-    "words": {
-      "chs": "没听，平行世界BE达成。",
-      "chs_t": "沒聽，平行世界BE達成。",
-      "jp": "ノーテン。平行世界のバッドエンド達成か。",
-      "en": "No-ten. Guess I just unlocked the bad ending in another timeline.",
-      "kr": "노텐. 평행세계의 배드 엔딩 달성인가."
     }
   },
   {
