@@ -30969,7 +30969,11 @@
             "fileType": 1
         },
         {
-            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_copyright.png",
+            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_copyright_l.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_copyright_r.png",
             "fileType": 1
         },
         {
@@ -30982,6 +30986,10 @@
         },
         {
             "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_claim.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_claim_box.png",
             "fileType": 0
         },
         {
@@ -31034,6 +31042,14 @@
         },
         {
             "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_title.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_title_1.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_title_2.png",
             "fileType": 1
         },
         {
@@ -32638,6 +32654,10 @@
         },
         {
             "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26wansheng_0.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\signin_sp.png",
             "fileType": 1
         },
         {
@@ -34629,6 +34649,10 @@
             "fileType": 0
         },
         {
+            "filepath": "ui\\common\\main\\pic\\code.png",
+            "fileType": 0
+        },
+        {
             "filepath": "ui\\common\\main\\pic\\collected.png",
             "fileType": 1
         },
@@ -34846,6 +34870,46 @@
         },
         {
             "filepath": "ui\\common\\main\\pic\\option_switchskin_bottom.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_btn.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_logo.png",
+            "fileType": 1
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_logo_chs_t.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_logo_en.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_logo_kr.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_screenshot.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_screenshot_base.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_sdk_iphone.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\overseas_share_sdk_pc.png",
+            "fileType": 0
+        },
+        {
+            "filepath": "ui\\common\\main\\pic\\paipu_btn.png",
             "fileType": 0
         },
         {

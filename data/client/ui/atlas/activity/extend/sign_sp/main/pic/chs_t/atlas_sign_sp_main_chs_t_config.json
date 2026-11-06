@@ -1,7 +1,11 @@
 {
   "main_title": 0,
+  "main_title_1": 0,
+  "main_title_2": 0,
   "main_btn_confirm": 0,
   "main_btn_signin": 0,
-  "main_copyright": 0,
-  "main_logo": 0
+  "main_copyright_r": 0,
+  "main_logo": 0,
+  "main_copyright_l": 0,
+  "main_icon_claim": 0
 }

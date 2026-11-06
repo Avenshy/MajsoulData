@@ -2130,6 +2130,12 @@
     "type": "event"
   },
   {
+    "id": 10449,
+    "path": "ui/activity/extend/sign_sp/main/audio/2611fll_signin",
+    "time_length": null,
+    "type": "event"
+  },
+  {
     "id": 305032,
     "path": "deco/effect_lizhi/effect_liqi_canying/3d/audio/effect_liqi_canying",
     "time_length": 1314,
