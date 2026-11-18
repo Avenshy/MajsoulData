@@ -1190,6 +1190,80 @@ message ReqMajClubActivityUpgradeWaiting {
   uint32 activity_id = 1;
 }
 
+message ReqMajWorkshopActivityCollect {
+  uint32 activity_id = 1;
+  uint32 garden_id = 2;
+}
+
+message ReqMajWorkshopActivityCraft {
+  uint32 activity_id = 1;
+  repeated uint32 crafts = 2;
+}
+
+message ReqMajWorkshopActivityFetchData {
+  uint32 activity_id = 1;
+}
+
+message ReqMajWorkshopActivityGardenRestore {
+  uint32 activity_id = 1;
+  uint32 garden_id = 2;
+}
+
+message ReqMajWorkshopActivityGardenRestoreAndCollect {
+  uint32 activity_id = 1;
+  uint32 garden_id = 2;
+}
+
+message ReqMajWorkshopActivityQuickCraft {
+
+  message ActivityMajWorkshopGardenCollect {
+    uint32 garden_id = 1;
+    bool use_free_collect = 2;
+    uint32 cost = 3;
+  }
+
+  message CraftInput {
+    uint32 craft_id = 1;
+    uint32 from = 2;
+  }
+
+  message ActivityMajWorkshopCraftStep {
+    repeated .lq.ReqMajWorkshopActivityQuickCraft.CraftInput input = 1;
+    uint32 output_craft_id = 2;
+  }
+
+  uint32 activity_id = 1;
+  uint32 target_craft_id = 2;
+  repeated .lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect garden_collects = 3;
+  repeated .lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep craft_steps = 4;
+}
+
+message ReqMajWorkshopActivityRead {
+  uint32 activity_id = 1;
+  repeated uint32 craft_id_list = 2;
+}
+
+message ReqMajWorkshopActivityRecovery {
+  uint32 activity_id = 1;
+  uint32 craft_id = 2;
+}
+
+message ReqMajWorkshopActivitySetSelectedOrder {
+  uint32 activity_id = 1;
+  uint32 id = 2;
+}
+
+message ReqMajWorkshopActivitySubmitOrder {
+  uint32 activity_id = 1;
+  uint32 order_id = 2;
+  uint32 craft_id = 3;
+}
+
+message ReqMajWorkshopActivityUnderstandOrder {
+  uint32 activity_id = 1;
+  uint32 order_id = 2;
+}
+
 message ReqMarathonActivityFinishRace {
   uint32 activity_id = 1;
   repeated .lq.ActivityMarathonCheckData race_data = 2;
@@ -1668,6 +1742,10 @@ message ReqSetFriendRoomRandomBotChar {
 
 message ReqSetHiddenCharacter {
   repeated uint32 chara_list = 1;
+}
+
+message ReqSetHiddenHandsView {
+  repeated uint32 hidden_hands_view = 1;
 }
 
 message ReqSetLoadingImage {
@@ -2269,6 +2347,7 @@ message ResCharacterInfo {
   repeated uint32 character_sort = 9;
   repeated uint32 hidden_characters = 10;
   repeated uint32 other_character_sort = 11;
+  repeated uint32 hidden_hands_view = 12;
 }
 
 message ResClientValue {
@@ -3450,6 +3529,66 @@ message ResMajClubActivityStartDay {
   repeated .lq.ActivityMajClubCustomerData customers = 3;
 }
 
+message ResMajWorkshopActivityCollect {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivityCraft {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+  uint32 greate_craft_id = 3;
+  bool greate_success = 4;
+  repeated uint32 greate_success_craft = 5;
+}
+
+message ResMajWorkshopActivityFetchData {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopData data = 2;
+}
+
+message ResMajWorkshopActivityGardenRestore {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivityGardenRestoreAndCollect {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivityQuickCraft {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivityRead {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivityRecovery {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+  repeated .lq.ExecuteReward extra_reward = 3;
+}
+
+message ResMajWorkshopActivitySetSelectedOrder {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
+message ResMajWorkshopActivitySubmitOrder {
+  .lq.Error error = 1;
+  bool success = 2;
+  .lq.ActivityMajWorkshopChanges changes = 3;
+}
+
+message ResMajWorkshopActivityUnderstandOrder {
+  .lq.Error error = 1;
+  .lq.ActivityMajWorkshopChanges changes = 2;
+}
+
 message ResMarathonActivityFinishRace {
   .lq.Error error = 1;
   .lq.MarathonGameRecord highest_record = 2;
@@ -3963,6 +4102,11 @@ message ResServerTime {
 message ResSetHiddenCharacter {
   .lq.Error error = 1;
   repeated uint32 hidden_characters = 2;
+}
+
+message ResSetHiddenHandsView {
+  .lq.Error error = 1;
+  repeated uint32 hidden_hands_view = 2;
 }
 
 message ResSetVillageWorker {

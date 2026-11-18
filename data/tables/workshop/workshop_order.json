@@ -1,0 +1,866 @@
+[
+  {
+    "order_id": 1001,
+    "order_desc": 26112002,
+    "unlock_level": 1,
+    "tags": "A",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1002,
+    "order_desc": 26112004,
+    "unlock_level": 1,
+    "tags": "B",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1003,
+    "order_desc": 26112006,
+    "unlock_level": 1,
+    "tags": "C",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1004,
+    "order_desc": 26112014,
+    "unlock_level": 1,
+    "tags": "AA",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1005,
+    "order_desc": 26112016,
+    "unlock_level": 1,
+    "tags": "BB",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1006,
+    "order_desc": 26112003,
+    "unlock_level": 2,
+    "tags": "B",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1007,
+    "order_desc": 26112013,
+    "unlock_level": 2,
+    "tags": "AA",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1008,
+    "order_desc": 26112018,
+    "unlock_level": 2,
+    "tags": "CC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1009,
+    "order_desc": 26112017,
+    "unlock_level": 2,
+    "tags": "CC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1010,
+    "order_desc": 26112028,
+    "unlock_level": 2,
+    "tags": "AC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1011,
+    "order_desc": 26112027,
+    "unlock_level": 2,
+    "tags": "AC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1012,
+    "order_desc": 26112026,
+    "unlock_level": 2,
+    "tags": "AB",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1013,
+    "order_desc": 26112005,
+    "unlock_level": 3,
+    "tags": "C",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1014,
+    "order_desc": 26112001,
+    "unlock_level": 3,
+    "tags": "A",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1015,
+    "order_desc": 26112015,
+    "unlock_level": 3,
+    "tags": "BB",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1016,
+    "order_desc": 26112025,
+    "unlock_level": 3,
+    "tags": "AB",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1017,
+    "order_desc": 26112036,
+    "unlock_level": 3,
+    "tags": "BC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1018,
+    "order_desc": 26112035,
+    "unlock_level": 3,
+    "tags": "BC",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1019,
+    "order_desc": 26112008,
+    "unlock_level": 3,
+    "tags": "D",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1020,
+    "order_desc": 26112044,
+    "unlock_level": 3,
+    "tags": "CD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1021,
+    "order_desc": 26112038,
+    "unlock_level": 3,
+    "tags": "BD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1022,
+    "order_desc": 26112043,
+    "unlock_level": 4,
+    "tags": "CD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1023,
+    "order_desc": 26112020,
+    "unlock_level": 4,
+    "tags": "DD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1024,
+    "order_desc": 26112019,
+    "unlock_level": 4,
+    "tags": "DD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1025,
+    "order_desc": 26112037,
+    "unlock_level": 4,
+    "tags": "BD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1026,
+    "order_desc": 26112030,
+    "unlock_level": 4,
+    "tags": "AD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1027,
+    "order_desc": 26112029,
+    "unlock_level": 4,
+    "tags": "AD",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1028,
+    "order_desc": 26112007,
+    "unlock_level": 4,
+    "tags": "D",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1029,
+    "order_desc": 26112068,
+    "unlock_level": 4,
+    "tags": "AAY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1030,
+    "order_desc": 26112070,
+    "unlock_level": 4,
+    "tags": "BBY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1031,
+    "order_desc": 26112072,
+    "unlock_level": 4,
+    "tags": "CCY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1032,
+    "order_desc": 26112060,
+    "unlock_level": 4,
+    "tags": "CCZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1033,
+    "order_desc": 26112074,
+    "unlock_level": 5,
+    "tags": "DDY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1034,
+    "order_desc": 26112056,
+    "unlock_level": 5,
+    "tags": "AAZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1035,
+    "order_desc": 26112062,
+    "unlock_level": 5,
+    "tags": "DDZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1036,
+    "order_desc": 26112058,
+    "unlock_level": 5,
+    "tags": "BBZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1037,
+    "order_desc": 26112059,
+    "unlock_level": 5,
+    "tags": "CCZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1038,
+    "order_desc": 26112071,
+    "unlock_level": 5,
+    "tags": "CCY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1039,
+    "order_desc": 26112073,
+    "unlock_level": 5,
+    "tags": "DDY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1040,
+    "order_desc": 26112067,
+    "unlock_level": 5,
+    "tags": "AAY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1041,
+    "order_desc": 26112061,
+    "unlock_level": 5,
+    "tags": "DDZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1042,
+    "order_desc": 26112069,
+    "unlock_level": 5,
+    "tags": "BBY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1043,
+    "order_desc": 26112055,
+    "unlock_level": 5,
+    "tags": "AAZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1044,
+    "order_desc": 26112057,
+    "unlock_level": 5,
+    "tags": "BBZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1045,
+    "order_desc": 26112010,
+    "unlock_level": 5,
+    "tags": "E",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1046,
+    "order_desc": 26112022,
+    "unlock_level": 6,
+    "tags": "EE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1047,
+    "order_desc": 26112064,
+    "unlock_level": 6,
+    "tags": "EEZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1048,
+    "order_desc": 26112032,
+    "unlock_level": 6,
+    "tags": "AE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1049,
+    "order_desc": 26112076,
+    "unlock_level": 6,
+    "tags": "EEY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1050,
+    "order_desc": 26112040,
+    "unlock_level": 6,
+    "tags": "BE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1051,
+    "order_desc": 26112031,
+    "unlock_level": 6,
+    "tags": "AE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1052,
+    "order_desc": 26112046,
+    "unlock_level": 6,
+    "tags": "CE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1053,
+    "order_desc": 26112050,
+    "unlock_level": 6,
+    "tags": "DE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1054,
+    "order_desc": 26112039,
+    "unlock_level": 6,
+    "tags": "BE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1055,
+    "order_desc": 26112075,
+    "unlock_level": 6,
+    "tags": "EEY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1056,
+    "order_desc": 26112009,
+    "unlock_level": 6,
+    "tags": "E",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1057,
+    "order_desc": 26112063,
+    "unlock_level": 6,
+    "tags": "EEZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1058,
+    "order_desc": 26112045,
+    "unlock_level": 6,
+    "tags": "CE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1059,
+    "order_desc": 26112049,
+    "unlock_level": 6,
+    "tags": "DE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1060,
+    "order_desc": 26112021,
+    "unlock_level": 6,
+    "tags": "EE",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1061,
+    "order_desc": 26112080,
+    "unlock_level": 7,
+    "tags": "AABB",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1062,
+    "order_desc": 26112082,
+    "unlock_level": 7,
+    "tags": "AACC",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1063,
+    "order_desc": 26112090,
+    "unlock_level": 7,
+    "tags": "BBCC",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1064,
+    "order_desc": 26112100,
+    "unlock_level": 7,
+    "tags": "CCEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1065,
+    "order_desc": 26112094,
+    "unlock_level": 7,
+    "tags": "BBEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1066,
+    "order_desc": 26112093,
+    "unlock_level": 7,
+    "tags": "BBEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1067,
+    "order_desc": 26112098,
+    "unlock_level": 7,
+    "tags": "CCDD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1068,
+    "order_desc": 26112104,
+    "unlock_level": 7,
+    "tags": "DDEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1069,
+    "order_desc": 26112103,
+    "unlock_level": 7,
+    "tags": "DDEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1070,
+    "order_desc": 26112089,
+    "unlock_level": 7,
+    "tags": "BBCC",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1071,
+    "order_desc": 26112092,
+    "unlock_level": 7,
+    "tags": "BBDD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1072,
+    "order_desc": 26112099,
+    "unlock_level": 7,
+    "tags": "CCEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1073,
+    "order_desc": 26112084,
+    "unlock_level": 7,
+    "tags": "AADD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1074,
+    "order_desc": 26112097,
+    "unlock_level": 7,
+    "tags": "CCDD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1075,
+    "order_desc": 26112086,
+    "unlock_level": 7,
+    "tags": "AAEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1076,
+    "order_desc": 26112079,
+    "unlock_level": 7,
+    "tags": "AABB",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1077,
+    "order_desc": 26112085,
+    "unlock_level": 8,
+    "tags": "AAEE",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1078,
+    "order_desc": 26112091,
+    "unlock_level": 8,
+    "tags": "BBDD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1079,
+    "order_desc": 26112081,
+    "unlock_level": 8,
+    "tags": "AACC",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1080,
+    "order_desc": 26112083,
+    "unlock_level": 8,
+    "tags": "AADD",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1081,
+    "order_desc": 26112012,
+    "unlock_level": 8,
+    "tags": "F",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1082,
+    "order_desc": 26112054,
+    "unlock_level": 8,
+    "tags": "EF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1083,
+    "order_desc": 26112042,
+    "unlock_level": 8,
+    "tags": "BF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1084,
+    "order_desc": 26112053,
+    "unlock_level": 8,
+    "tags": "EF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1085,
+    "order_desc": 26112088,
+    "unlock_level": 8,
+    "tags": "AAFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1086,
+    "order_desc": 26112011,
+    "unlock_level": 8,
+    "tags": "F",
+    "weight": 100,
+    "reward": "30900110-50"
+  },
+  {
+    "order_id": 1087,
+    "order_desc": 26112108,
+    "unlock_level": 8,
+    "tags": "EEFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1088,
+    "order_desc": 26112048,
+    "unlock_level": 8,
+    "tags": "CF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1089,
+    "order_desc": 26112024,
+    "unlock_level": 8,
+    "tags": "FF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1090,
+    "order_desc": 26112066,
+    "unlock_level": 8,
+    "tags": "FFZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1091,
+    "order_desc": 26112102,
+    "unlock_level": 8,
+    "tags": "CCFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1092,
+    "order_desc": 26112096,
+    "unlock_level": 8,
+    "tags": "BBFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1093,
+    "order_desc": 26112052,
+    "unlock_level": 9,
+    "tags": "DF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1094,
+    "order_desc": 26112106,
+    "unlock_level": 9,
+    "tags": "DDFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1095,
+    "order_desc": 26112105,
+    "unlock_level": 9,
+    "tags": "DDFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1096,
+    "order_desc": 26112051,
+    "unlock_level": 9,
+    "tags": "DF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1097,
+    "order_desc": 26112101,
+    "unlock_level": 9,
+    "tags": "CCFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1098,
+    "order_desc": 26112107,
+    "unlock_level": 9,
+    "tags": "EEFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1099,
+    "order_desc": 26112034,
+    "unlock_level": 9,
+    "tags": "AF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1100,
+    "order_desc": 26112023,
+    "unlock_level": 9,
+    "tags": "FF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1101,
+    "order_desc": 26112078,
+    "unlock_level": 9,
+    "tags": "FFY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1102,
+    "order_desc": 26112077,
+    "unlock_level": 9,
+    "tags": "FFY",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1103,
+    "order_desc": 26112047,
+    "unlock_level": 9,
+    "tags": "CF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1104,
+    "order_desc": 26112041,
+    "unlock_level": 9,
+    "tags": "BF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1105,
+    "order_desc": 26112065,
+    "unlock_level": 9,
+    "tags": "FFZ",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1106,
+    "order_desc": 26112033,
+    "unlock_level": 9,
+    "tags": "AF",
+    "weight": 100,
+    "reward": "30900110-100"
+  },
+  {
+    "order_id": 1107,
+    "order_desc": 26112087,
+    "unlock_level": 9,
+    "tags": "AAFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  },
+  {
+    "order_id": 1108,
+    "order_desc": 26112095,
+    "unlock_level": 9,
+    "tags": "BBFF",
+    "weight": 100,
+    "reward": "30900110-200"
+  }
+]

@@ -292,6 +292,17 @@ service Lobby {
   rpc majClubActivityUpgradeCharacterTag (.lq.ReqMajClubActivityUpgradeCharacterTag) returns (.lq.ResMajClubActivityCommon);
   rpc majClubActivityUpgradeRoomFee (.lq.ReqMajClubActivityUpgradeRoomFee) returns (.lq.ResMajClubActivityCommon);
   rpc majClubActivityUpgradeWaiting (.lq.ReqMajClubActivityUpgradeWaiting) returns (.lq.ResMajClubActivityCommon);
+  rpc majWorkshopActivityCollect (.lq.ReqMajWorkshopActivityCollect) returns (.lq.ResMajWorkshopActivityCollect);
+  rpc majWorkshopActivityCraft (.lq.ReqMajWorkshopActivityCraft) returns (.lq.ResMajWorkshopActivityCraft);
+  rpc majWorkshopActivityFetchData (.lq.ReqMajWorkshopActivityFetchData) returns (.lq.ResMajWorkshopActivityFetchData);
+  rpc majWorkshopActivityGardenRestore (.lq.ReqMajWorkshopActivityGardenRestore) returns (.lq.ResMajWorkshopActivityGardenRestore);
+  rpc majWorkshopActivityGardenRestoreAndCollect (.lq.ReqMajWorkshopActivityGardenRestoreAndCollect) returns (.lq.ResMajWorkshopActivityGardenRestoreAndCollect);
+  rpc majWorkshopActivityQuickCraft (.lq.ReqMajWorkshopActivityQuickCraft) returns (.lq.ResMajWorkshopActivityQuickCraft);
+  rpc majWorkshopActivityRead (.lq.ReqMajWorkshopActivityRead) returns (.lq.ResMajWorkshopActivityRead);
+  rpc majWorkshopActivityRecovery (.lq.ReqMajWorkshopActivityRecovery) returns (.lq.ResMajWorkshopActivityRecovery);
+  rpc majWorkshopActivitySetSelectedOrder (.lq.ReqMajWorkshopActivitySetSelectedOrder) returns (.lq.ResMajWorkshopActivitySetSelectedOrder);
+  rpc majWorkshopActivitySubmitOrder (.lq.ReqMajWorkshopActivitySubmitOrder) returns (.lq.ResMajWorkshopActivitySubmitOrder);
+  rpc majWorkshopActivityUnderstandOrder (.lq.ReqMajWorkshopActivityUnderstandOrder) returns (.lq.ResMajWorkshopActivityUnderstandOrder);
   rpc marathonActivityFinishRace (.lq.ReqMarathonActivityFinishRace) returns (.lq.ResMarathonActivityFinishRace);
   rpc marathonActivityStartRace (.lq.ReqMarathonActivityStartRace) returns (.lq.ResMarathonActivityStartRace);
   rpc matchGame (.lq.ReqJoinMatchQueue) returns (.lq.ResCommon);
@@ -385,6 +396,7 @@ service Lobby {
   rpc setActivityBuff (.lq.ReqSetActivityBuff) returns (.lq.ResActivityBuff);
   rpc setFriendRoomRandomBotChar (.lq.ReqSetFriendRoomRandomBotChar) returns (.lq.ResCommon);
   rpc setHiddenCharacter (.lq.ReqSetHiddenCharacter) returns (.lq.ResSetHiddenCharacter);
+  rpc setHiddenHandsView (.lq.ReqSetHiddenHandsView) returns (.lq.ResSetHiddenHandsView);
   rpc setLoadingImage (.lq.ReqSetLoadingImage) returns (.lq.ResCommon);
   rpc setRandomCharacter (.lq.ReqRandomCharacter) returns (.lq.ResCommon);
   rpc setVerifiedHidden (.lq.ReqSetVerifiedHidden) returns (.lq.ResCommon);

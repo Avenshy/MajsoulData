@@ -3891,5 +3891,1018 @@
     "desc": null,
     "icon": null,
     "icon_transparent": null
+  },
+  {
+    "id": 70003001,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110001,
+    "desc_func": null,
+    "desc": 26111001,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_001.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003002,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110002,
+    "desc_func": null,
+    "desc": 26111002,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_002.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003003,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110003,
+    "desc_func": null,
+    "desc": 26111003,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_003.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003004,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110004,
+    "desc_func": null,
+    "desc": 26111004,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_004.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003005,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110005,
+    "desc_func": null,
+    "desc": 26111005,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_005.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003006,
+    "type": 10,
+    "args": [
+      261101,
+      1
+    ],
+    "name": 26110006,
+    "desc_func": null,
+    "desc": 26111006,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_006.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003007,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110007,
+    "desc_func": null,
+    "desc": 26111007,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_007.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003008,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110008,
+    "desc_func": null,
+    "desc": 26111008,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_008.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003009,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110009,
+    "desc_func": null,
+    "desc": 26111009,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_009.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003010,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110010,
+    "desc_func": null,
+    "desc": 26111010,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_010.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003011,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110011,
+    "desc_func": null,
+    "desc": 26111011,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_011.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003012,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110012,
+    "desc_func": null,
+    "desc": 26111012,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_012.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003013,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110013,
+    "desc_func": null,
+    "desc": 26111013,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_013.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003014,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110014,
+    "desc_func": null,
+    "desc": 26111014,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_014.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003015,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110015,
+    "desc_func": null,
+    "desc": 26111015,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_015.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003016,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110016,
+    "desc_func": null,
+    "desc": 26111016,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_016.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003017,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110017,
+    "desc_func": null,
+    "desc": 26111017,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_017.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003018,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110018,
+    "desc_func": null,
+    "desc": 26111018,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_018.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003019,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110019,
+    "desc_func": null,
+    "desc": 26111019,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_019.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003020,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110020,
+    "desc_func": null,
+    "desc": 26111020,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_020.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003021,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110021,
+    "desc_func": null,
+    "desc": 26111021,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_021.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003022,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110022,
+    "desc_func": null,
+    "desc": 26111022,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_022.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003023,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110023,
+    "desc_func": null,
+    "desc": 26111023,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_023.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003024,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110024,
+    "desc_func": null,
+    "desc": 26111024,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_024.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003025,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110025,
+    "desc_func": null,
+    "desc": 26111025,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_025.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003026,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110026,
+    "desc_func": null,
+    "desc": 26111026,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_026.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003027,
+    "type": 10,
+    "args": [
+      261101,
+      2
+    ],
+    "name": 26110027,
+    "desc_func": null,
+    "desc": 26111027,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_027.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003028,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110028,
+    "desc_func": null,
+    "desc": 26111028,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_028.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003029,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110029,
+    "desc_func": null,
+    "desc": 26111029,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_029.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003030,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110030,
+    "desc_func": null,
+    "desc": 26111030,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_030.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003031,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110031,
+    "desc_func": null,
+    "desc": 26111031,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_031.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003032,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110032,
+    "desc_func": null,
+    "desc": 26111032,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_032.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003033,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110033,
+    "desc_func": null,
+    "desc": 26111033,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_033.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003034,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110034,
+    "desc_func": null,
+    "desc": 26111034,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_034.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003035,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110035,
+    "desc_func": null,
+    "desc": 26111035,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_035.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003036,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110036,
+    "desc_func": null,
+    "desc": 26111036,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_036.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003037,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110037,
+    "desc_func": null,
+    "desc": 26111037,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_037.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003038,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110038,
+    "desc_func": null,
+    "desc": 26111038,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_038.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003039,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110039,
+    "desc_func": null,
+    "desc": 26111039,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_039.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003040,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110040,
+    "desc_func": null,
+    "desc": 26111040,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_040.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003041,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110041,
+    "desc_func": null,
+    "desc": 26111041,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_041.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003042,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110042,
+    "desc_func": null,
+    "desc": 26111042,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_042.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003043,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110043,
+    "desc_func": null,
+    "desc": 26111043,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_043.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003044,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110044,
+    "desc_func": null,
+    "desc": 26111044,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_044.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003045,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110045,
+    "desc_func": null,
+    "desc": 26111045,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_045.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003046,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110046,
+    "desc_func": null,
+    "desc": 26111046,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_046.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003047,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110047,
+    "desc_func": null,
+    "desc": 26111047,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_047.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003048,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110048,
+    "desc_func": null,
+    "desc": 26111048,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_048.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003049,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110049,
+    "desc_func": null,
+    "desc": 26111049,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_049.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003050,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110050,
+    "desc_func": null,
+    "desc": 26111050,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_050.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003051,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110051,
+    "desc_func": null,
+    "desc": 26111051,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_051.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003052,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110052,
+    "desc_func": null,
+    "desc": 26111052,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_052.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003053,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110053,
+    "desc_func": null,
+    "desc": 26111053,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_053.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003054,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110054,
+    "desc_func": null,
+    "desc": 26111054,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_054.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003055,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110055,
+    "desc_func": null,
+    "desc": 26111055,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_055.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003056,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110056,
+    "desc_func": null,
+    "desc": 26111056,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_056.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003057,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110057,
+    "desc_func": null,
+    "desc": 26111057,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_057.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003058,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110058,
+    "desc_func": null,
+    "desc": 26111058,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_058.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003059,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110059,
+    "desc_func": null,
+    "desc": 26111059,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_059.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003060,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110060,
+    "desc_func": null,
+    "desc": 26111060,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_060.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003061,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110061,
+    "desc_func": null,
+    "desc": 26111061,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_061.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003062,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110062,
+    "desc_func": null,
+    "desc": 26111062,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_062.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003063,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110063,
+    "desc_func": null,
+    "desc": 26111063,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_063.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003064,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110064,
+    "desc_func": null,
+    "desc": 26111064,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_064.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003065,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110065,
+    "desc_func": null,
+    "desc": 26111065,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_065.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003066,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110066,
+    "desc_func": null,
+    "desc": 26111066,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_066.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003067,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110067,
+    "desc_func": null,
+    "desc": 26111067,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_067.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003068,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110068,
+    "desc_func": null,
+    "desc": 26111068,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_068.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003069,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110069,
+    "desc_func": null,
+    "desc": 26111069,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_069.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003070,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110070,
+    "desc_func": null,
+    "desc": 26111070,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_070.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003071,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110071,
+    "desc_func": null,
+    "desc": 26111071,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_071.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003072,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110072,
+    "desc_func": null,
+    "desc": 26111072,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_072.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003073,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110073,
+    "desc_func": null,
+    "desc": 26111073,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_073.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003074,
+    "type": 10,
+    "args": [
+      261101,
+      3
+    ],
+    "name": 26110074,
+    "desc_func": null,
+    "desc": 26111074,
+    "icon": "ui/activity/extend/2611fll/main/pic_scattered/item_icon_collect_074.png",
+    "icon_transparent": null
+  },
+  {
+    "id": 70003100,
+    "type": 11,
+    "args": [
+      261101
+    ],
+    "name": null,
+    "desc_func": null,
+    "desc": null,
+    "icon": null,
+    "icon_transparent": null
+  },
+  {
+    "id": 70003101,
+    "type": 12,
+    "args": [
+      261101,
+      1
+    ],
+    "name": null,
+    "desc_func": null,
+    "desc": null,
+    "icon": null,
+    "icon_transparent": null
+  },
+  {
+    "id": 70003102,
+    "type": 12,
+    "args": [
+      261101,
+      2
+    ],
+    "name": null,
+    "desc_func": null,
+    "desc": null,
+    "icon": null,
+    "icon_transparent": null
+  },
+  {
+    "id": 70003103,
+    "type": 12,
+    "args": [
+      261101,
+      3
+    ],
+    "name": null,
+    "desc_func": null,
+    "desc": null,
+    "icon": null,
+    "icon_transparent": null
   }
 ]

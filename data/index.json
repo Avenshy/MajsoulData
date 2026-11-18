@@ -2019,5 +2019,25 @@
   {
     "TableName": "voice",
     "SheetName": "spot"
+  },
+  {
+    "TableName": "workshop",
+    "SheetName": "workshop_info"
+  },
+  {
+    "TableName": "workshop",
+    "SheetName": "workshop_craft"
+  },
+  {
+    "TableName": "workshop",
+    "SheetName": "workshop_tag"
+  },
+  {
+    "TableName": "workshop",
+    "SheetName": "workshop_garden"
+  },
+  {
+    "TableName": "workshop",
+    "SheetName": "workshop_order"
   }
 ]

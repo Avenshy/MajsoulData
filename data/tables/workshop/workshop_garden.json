@@ -1,0 +1,44 @@
+[
+  {
+    "garden_id": 1,
+    "name_str_id": 26115001,
+    "resource": "70003001-2",
+    "restore_cost": 100,
+    "unlock_level": 1
+  },
+  {
+    "garden_id": 2,
+    "name_str_id": 26115002,
+    "resource": "70003002-2",
+    "restore_cost": 100,
+    "unlock_level": 1
+  },
+  {
+    "garden_id": 3,
+    "name_str_id": 26115003,
+    "resource": "70003003-2",
+    "restore_cost": 100,
+    "unlock_level": 1
+  },
+  {
+    "garden_id": 4,
+    "name_str_id": 26115004,
+    "resource": "70003004-2",
+    "restore_cost": 100,
+    "unlock_level": 2
+  },
+  {
+    "garden_id": 5,
+    "name_str_id": 26115005,
+    "resource": "70003005-2",
+    "restore_cost": 100,
+    "unlock_level": 5
+  },
+  {
+    "garden_id": 6,
+    "name_str_id": 26115006,
+    "resource": "70003006-2",
+    "restore_cost": 100,
+    "unlock_level": 7
+  }
+]

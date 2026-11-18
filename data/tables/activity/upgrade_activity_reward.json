@@ -127,6 +127,20 @@
   },
   {
     "id": 23010199,
+    "level": 100,
+    "reward": "302001-1",
+    "unlock_day": null,
+    "highlight": 1
+  },
+  {
+    "id": 23010199,
+    "level": 140,
+    "reward": "302001-1",
+    "unlock_day": null,
+    "highlight": 1
+  },
+  {
+    "id": 23010199,
     "level": 10,
     "reward": "309110-1",
     "unlock_day": null,
@@ -190,13 +204,6 @@
   },
   {
     "id": 23010199,
-    "level": 100,
-    "reward": "302001-1",
-    "unlock_day": null,
-    "highlight": 1
-  },
-  {
-    "id": 23010199,
     "level": 110,
     "reward": "100002-15000",
     "unlock_day": null,
@@ -215,13 +222,6 @@
     "reward": "100002-15000",
     "unlock_day": null,
     "highlight": null
-  },
-  {
-    "id": 23010199,
-    "level": 140,
-    "reward": "302001-1",
-    "unlock_day": null,
-    "highlight": 1
   },
   {
     "id": 23010199,

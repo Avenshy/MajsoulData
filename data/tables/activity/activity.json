@@ -6835,5 +6835,87 @@
       "en": "Sky-High Ambition: Finders Kitties",
       "kr": "청운의 꿈: 냥냥 보물찾기"
     }
+  },
+  {
+    "id": 261101,
+    "type": "workshop",
+    "need_popout": 1,
+    "name": {
+      "chs": "雾眠之岛",
+      "chs_t": "霧眠之島",
+      "jp": "霧が眠る島",
+      "en": "Fogbound Isle",
+      "kr": "안개가 잠드는 섬"
+    }
+  },
+  {
+    "id": 261102,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261103,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261104,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 261105,
+    "type": "game_task",
+    "need_popout": null
+  },
+  {
+    "id": 261106,
+    "type": "story",
+    "need_popout": null
+  },
+  {
+    "id": 261110,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 261119,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 261120,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 261130,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261131,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 261140,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261141,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 261150,
+    "type": "activity_match",
+    "need_popout": null
+  },
+  {
+    "id": 261151,
+    "type": "activity_room",
+    "need_popout": null
   }
 ]

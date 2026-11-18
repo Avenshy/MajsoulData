@@ -1,17 +1,6 @@
 [
   {
     "map_id": 106401,
-    "location": null,
-    "pos_x": 4,
-    "pos_y": 0,
-    "piece_face": null,
-    "type": 0,
-    "param": 0,
-    "bonus_type": 0,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
     "location": 1,
     "pos_x": 5,
     "pos_y": 0,
@@ -41,17 +30,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
-    "location": 4,
-    "pos_x": 6,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1250
   },
   {
@@ -133,17 +111,6 @@
   },
   {
     "map_id": 106401,
-    "location": 12,
-    "pos_x": 2,
-    "pos_y": 6,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
     "location": 13,
     "pos_x": 1,
     "pos_y": 6,
@@ -188,17 +155,6 @@
   },
   {
     "map_id": 106401,
-    "location": 17,
-    "pos_x": 1,
-    "pos_y": 4,
-    "piece_face": null,
-    "type": 3,
-    "param": 0,
-    "bonus_type": 6,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
     "location": 18,
     "pos_x": 1,
     "pos_y": 3,
@@ -217,17 +173,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
-    "location": 20,
-    "pos_x": 0,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1250
   },
   {
@@ -287,17 +232,6 @@
   },
   {
     "map_id": 106401,
-    "location": 26,
-    "pos_x": 3,
-    "pos_y": 1,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1250
-  },
-  {
-    "map_id": 106401,
     "location": 27,
     "pos_x": 4,
     "pos_y": 1,
@@ -308,14 +242,69 @@
     "worth": 1250
   },
   {
-    "map_id": 107301,
-    "location": null,
+    "map_id": 106401,
+    "location": 0,
     "pos_x": 4,
     "pos_y": 0,
     "piece_face": null,
     "type": 0,
     "param": 0,
     "bonus_type": 0,
+    "worth": 1250
+  },
+  {
+    "map_id": 106401,
+    "location": 4,
+    "pos_x": 6,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 106401,
+    "location": 12,
+    "pos_x": 2,
+    "pos_y": 6,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 106401,
+    "location": 17,
+    "pos_x": 1,
+    "pos_y": 4,
+    "piece_face": null,
+    "type": 3,
+    "param": 0,
+    "bonus_type": 6,
+    "worth": 1250
+  },
+  {
+    "map_id": 106401,
+    "location": 20,
+    "pos_x": 0,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 106401,
+    "location": 26,
+    "pos_x": 3,
+    "pos_y": 1,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
     "worth": 1250
   },
   {
@@ -349,17 +338,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1250
-  },
-  {
-    "map_id": 107301,
-    "location": 4,
-    "pos_x": 6,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1250
   },
   {
@@ -441,17 +419,6 @@
   },
   {
     "map_id": 107301,
-    "location": 12,
-    "pos_x": 2,
-    "pos_y": 6,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1250
-  },
-  {
-    "map_id": 107301,
     "location": 13,
     "pos_x": 1,
     "pos_y": 6,
@@ -496,17 +463,6 @@
   },
   {
     "map_id": 107301,
-    "location": 17,
-    "pos_x": 1,
-    "pos_y": 4,
-    "piece_face": null,
-    "type": 3,
-    "param": 0,
-    "bonus_type": 6,
-    "worth": 1250
-  },
-  {
-    "map_id": 107301,
     "location": 18,
     "pos_x": 1,
     "pos_y": 3,
@@ -525,17 +481,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1250
-  },
-  {
-    "map_id": 107301,
-    "location": 20,
-    "pos_x": 0,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1250
   },
   {
@@ -595,17 +540,6 @@
   },
   {
     "map_id": 107301,
-    "location": 26,
-    "pos_x": 3,
-    "pos_y": 1,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1250
-  },
-  {
-    "map_id": 107301,
     "location": 27,
     "pos_x": 4,
     "pos_y": 1,
@@ -616,15 +550,70 @@
     "worth": 1250
   },
   {
-    "map_id": 109401,
-    "location": null,
-    "pos_x": 0,
+    "map_id": 107301,
+    "location": 0,
+    "pos_x": 4,
     "pos_y": 0,
     "piece_face": null,
     "type": 0,
     "param": 0,
     "bonus_type": 0,
-    "worth": 1200
+    "worth": 1250
+  },
+  {
+    "map_id": 107301,
+    "location": 4,
+    "pos_x": 6,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 107301,
+    "location": 12,
+    "pos_x": 2,
+    "pos_y": 6,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 107301,
+    "location": 17,
+    "pos_x": 1,
+    "pos_y": 4,
+    "piece_face": null,
+    "type": 3,
+    "param": 0,
+    "bonus_type": 6,
+    "worth": 1250
+  },
+  {
+    "map_id": 107301,
+    "location": 20,
+    "pos_x": 0,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
+  },
+  {
+    "map_id": 107301,
+    "location": 26,
+    "pos_x": 3,
+    "pos_y": 1,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1250
   },
   {
     "map_id": 109401,
@@ -646,17 +635,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 109401,
-    "location": 3,
-    "pos_x": 2,
-    "pos_y": 1,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -738,17 +716,6 @@
   },
   {
     "map_id": 109401,
-    "location": 11,
-    "pos_x": 5,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1200
-  },
-  {
-    "map_id": 109401,
     "location": 12,
     "pos_x": 5,
     "pos_y": 3,
@@ -793,17 +760,6 @@
   },
   {
     "map_id": 109401,
-    "location": 16,
-    "pos_x": 6,
-    "pos_y": 6,
-    "piece_face": null,
-    "type": 3,
-    "param": 0,
-    "bonus_type": 6,
-    "worth": 1200
-  },
-  {
-    "map_id": 109401,
     "location": 17,
     "pos_x": 5,
     "pos_y": 6,
@@ -822,17 +778,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 109401,
-    "location": 19,
-    "pos_x": 4,
-    "pos_y": 5,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -910,17 +855,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 109401,
-    "location": 27,
-    "pos_x": 1,
-    "pos_y": 4,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -968,14 +902,69 @@
     "worth": 1200
   },
   {
-    "map_id": 124601,
-    "location": null,
+    "map_id": 109401,
+    "location": 0,
     "pos_x": 0,
     "pos_y": 0,
     "piece_face": null,
     "type": 0,
     "param": 0,
     "bonus_type": 0,
+    "worth": 1200
+  },
+  {
+    "map_id": 109401,
+    "location": 3,
+    "pos_x": 2,
+    "pos_y": 1,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 109401,
+    "location": 11,
+    "pos_x": 5,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 109401,
+    "location": 16,
+    "pos_x": 6,
+    "pos_y": 6,
+    "piece_face": null,
+    "type": 3,
+    "param": 0,
+    "bonus_type": 6,
+    "worth": 1200
+  },
+  {
+    "map_id": 109401,
+    "location": 19,
+    "pos_x": 4,
+    "pos_y": 5,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 109401,
+    "location": 27,
+    "pos_x": 1,
+    "pos_y": 4,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -998,17 +987,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 124601,
-    "location": 3,
-    "pos_x": 2,
-    "pos_y": 1,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -1090,17 +1068,6 @@
   },
   {
     "map_id": 124601,
-    "location": 11,
-    "pos_x": 5,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1200
-  },
-  {
-    "map_id": 124601,
     "location": 12,
     "pos_x": 5,
     "pos_y": 3,
@@ -1145,17 +1112,6 @@
   },
   {
     "map_id": 124601,
-    "location": 16,
-    "pos_x": 6,
-    "pos_y": 6,
-    "piece_face": null,
-    "type": 3,
-    "param": 0,
-    "bonus_type": 6,
-    "worth": 1200
-  },
-  {
-    "map_id": 124601,
     "location": 17,
     "pos_x": 5,
     "pos_y": 6,
@@ -1174,17 +1130,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 124601,
-    "location": 19,
-    "pos_x": 4,
-    "pos_y": 5,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -1266,17 +1211,6 @@
   },
   {
     "map_id": 124601,
-    "location": 27,
-    "pos_x": 1,
-    "pos_y": 4,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1200
-  },
-  {
-    "map_id": 124601,
     "location": 28,
     "pos_x": 1,
     "pos_y": 3,
@@ -1320,14 +1254,69 @@
     "worth": 1200
   },
   {
-    "map_id": 24120101,
-    "location": null,
+    "map_id": 124601,
+    "location": 0,
     "pos_x": 0,
     "pos_y": 0,
     "piece_face": null,
     "type": 0,
     "param": 0,
     "bonus_type": 0,
+    "worth": 1200
+  },
+  {
+    "map_id": 124601,
+    "location": 3,
+    "pos_x": 2,
+    "pos_y": 1,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 124601,
+    "location": 11,
+    "pos_x": 5,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 124601,
+    "location": 16,
+    "pos_x": 6,
+    "pos_y": 6,
+    "piece_face": null,
+    "type": 3,
+    "param": 0,
+    "bonus_type": 6,
+    "worth": 1200
+  },
+  {
+    "map_id": 124601,
+    "location": 19,
+    "pos_x": 4,
+    "pos_y": 5,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 124601,
+    "location": 27,
+    "pos_x": 1,
+    "pos_y": 4,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -1350,17 +1339,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 24120101,
-    "location": 3,
-    "pos_x": 2,
-    "pos_y": 1,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -1442,17 +1420,6 @@
   },
   {
     "map_id": 24120101,
-    "location": 11,
-    "pos_x": 5,
-    "pos_y": 2,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1200
-  },
-  {
-    "map_id": 24120101,
     "location": 12,
     "pos_x": 5,
     "pos_y": 3,
@@ -1497,17 +1464,6 @@
   },
   {
     "map_id": 24120101,
-    "location": 16,
-    "pos_x": 6,
-    "pos_y": 6,
-    "piece_face": null,
-    "type": 3,
-    "param": 0,
-    "bonus_type": 6,
-    "worth": 1200
-  },
-  {
-    "map_id": 24120101,
     "location": 17,
     "pos_x": 5,
     "pos_y": 6,
@@ -1526,17 +1482,6 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
-    "worth": 1200
-  },
-  {
-    "map_id": 24120101,
-    "location": 19,
-    "pos_x": 4,
-    "pos_y": 5,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
     "worth": 1200
   },
   {
@@ -1618,17 +1563,6 @@
   },
   {
     "map_id": 24120101,
-    "location": 27,
-    "pos_x": 1,
-    "pos_y": 4,
-    "piece_face": null,
-    "type": 4,
-    "param": 0,
-    "bonus_type": 5,
-    "worth": 1200
-  },
-  {
-    "map_id": 24120101,
     "location": 28,
     "pos_x": 1,
     "pos_y": 3,
@@ -1669,6 +1603,72 @@
     "type": 1,
     "param": 60101,
     "bonus_type": 1,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 0,
+    "pos_x": 0,
+    "pos_y": 0,
+    "piece_face": null,
+    "type": 0,
+    "param": 0,
+    "bonus_type": 0,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 3,
+    "pos_x": 2,
+    "pos_y": 1,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 11,
+    "pos_x": 5,
+    "pos_y": 2,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 16,
+    "pos_x": 6,
+    "pos_y": 6,
+    "piece_face": null,
+    "type": 3,
+    "param": 0,
+    "bonus_type": 6,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 19,
+    "pos_x": 4,
+    "pos_y": 5,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
+    "worth": 1200
+  },
+  {
+    "map_id": 24120101,
+    "location": 27,
+    "pos_x": 1,
+    "pos_y": 4,
+    "piece_face": null,
+    "type": 4,
+    "param": 0,
+    "bonus_type": 5,
     "worth": 1200
   }
 ]

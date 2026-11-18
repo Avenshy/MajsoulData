@@ -130,5 +130,9 @@
   {
     "activity_id": 261004,
     "mail_template_id": 146
+  },
+  {
+    "activity_id": 261104,
+    "mail_template_id": 147
   }
 ]

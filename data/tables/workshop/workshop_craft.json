@@ -1,0 +1,594 @@
+[
+  {
+    "craft_id": 70003001,
+    "name_str_id": 26110001,
+    "des_str_id": 26111001,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "A"
+  },
+  {
+    "craft_id": 70003002,
+    "name_str_id": 26110002,
+    "des_str_id": 26111002,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "B"
+  },
+  {
+    "craft_id": 70003003,
+    "name_str_id": 26110003,
+    "des_str_id": 26111003,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "C"
+  },
+  {
+    "craft_id": 70003004,
+    "name_str_id": 26110004,
+    "des_str_id": 26111004,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "D"
+  },
+  {
+    "craft_id": 70003005,
+    "name_str_id": 26110005,
+    "des_str_id": 26111005,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "E"
+  },
+  {
+    "craft_id": 70003006,
+    "name_str_id": 26110006,
+    "des_str_id": 26111006,
+    "level": 1,
+    "price": "30900109-10",
+    "tag": "F"
+  },
+  {
+    "craft_id": 70003007,
+    "name_str_id": 26110007,
+    "des_str_id": 26111007,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AA"
+  },
+  {
+    "craft_id": 70003008,
+    "name_str_id": 26110008,
+    "des_str_id": 26111008,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "BB"
+  },
+  {
+    "craft_id": 70003009,
+    "name_str_id": 26110009,
+    "des_str_id": 26111009,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "CC"
+  },
+  {
+    "craft_id": 70003010,
+    "name_str_id": 26110010,
+    "des_str_id": 26111010,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "DD"
+  },
+  {
+    "craft_id": 70003011,
+    "name_str_id": 26110011,
+    "des_str_id": 26111011,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "EE"
+  },
+  {
+    "craft_id": 70003012,
+    "name_str_id": 26110012,
+    "des_str_id": 26111012,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "FF"
+  },
+  {
+    "craft_id": 70003013,
+    "name_str_id": 26110013,
+    "des_str_id": 26111013,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AB"
+  },
+  {
+    "craft_id": 70003014,
+    "name_str_id": 26110014,
+    "des_str_id": 26111014,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AC"
+  },
+  {
+    "craft_id": 70003015,
+    "name_str_id": 26110015,
+    "des_str_id": 26111015,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AD"
+  },
+  {
+    "craft_id": 70003016,
+    "name_str_id": 26110016,
+    "des_str_id": 26111016,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AE"
+  },
+  {
+    "craft_id": 70003017,
+    "name_str_id": 26110017,
+    "des_str_id": 26111017,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "AF"
+  },
+  {
+    "craft_id": 70003018,
+    "name_str_id": 26110018,
+    "des_str_id": 26111018,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "BC"
+  },
+  {
+    "craft_id": 70003019,
+    "name_str_id": 26110019,
+    "des_str_id": 26111019,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "BD"
+  },
+  {
+    "craft_id": 70003020,
+    "name_str_id": 26110020,
+    "des_str_id": 26111020,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "BE"
+  },
+  {
+    "craft_id": 70003021,
+    "name_str_id": 26110021,
+    "des_str_id": 26111021,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "BF"
+  },
+  {
+    "craft_id": 70003022,
+    "name_str_id": 26110022,
+    "des_str_id": 26111022,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "CD"
+  },
+  {
+    "craft_id": 70003023,
+    "name_str_id": 26110023,
+    "des_str_id": 26111023,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "CE"
+  },
+  {
+    "craft_id": 70003024,
+    "name_str_id": 26110024,
+    "des_str_id": 26111024,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "CF"
+  },
+  {
+    "craft_id": 70003025,
+    "name_str_id": 26110025,
+    "des_str_id": 26111025,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "DE"
+  },
+  {
+    "craft_id": 70003026,
+    "name_str_id": 26110026,
+    "des_str_id": 26111026,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "DF"
+  },
+  {
+    "craft_id": 70003027,
+    "name_str_id": 26110027,
+    "des_str_id": 26111027,
+    "level": 2,
+    "price": "30900109-20",
+    "tag": "EF"
+  },
+  {
+    "craft_id": 70003028,
+    "name_str_id": 26110028,
+    "des_str_id": 26111028,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AAZ"
+  },
+  {
+    "craft_id": 70003029,
+    "name_str_id": 26110029,
+    "des_str_id": 26111029,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBZ"
+  },
+  {
+    "craft_id": 70003030,
+    "name_str_id": 26110030,
+    "des_str_id": 26111030,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CCZ"
+  },
+  {
+    "craft_id": 70003031,
+    "name_str_id": 26110031,
+    "des_str_id": 26111031,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "DDZ"
+  },
+  {
+    "craft_id": 70003032,
+    "name_str_id": 26110032,
+    "des_str_id": 26111032,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "EEZ"
+  },
+  {
+    "craft_id": 70003033,
+    "name_str_id": 26110033,
+    "des_str_id": 26111033,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "FFZ"
+  },
+  {
+    "craft_id": 70003034,
+    "name_str_id": 26110034,
+    "des_str_id": 26111034,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AAY"
+  },
+  {
+    "craft_id": 70003035,
+    "name_str_id": 26110035,
+    "des_str_id": 26111035,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBY"
+  },
+  {
+    "craft_id": 70003036,
+    "name_str_id": 26110036,
+    "des_str_id": 26111036,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CCY"
+  },
+  {
+    "craft_id": 70003037,
+    "name_str_id": 26110037,
+    "des_str_id": 26111037,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "DDY"
+  },
+  {
+    "craft_id": 70003038,
+    "name_str_id": 26110038,
+    "des_str_id": 26111038,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "EEY"
+  },
+  {
+    "craft_id": 70003039,
+    "name_str_id": 26110039,
+    "des_str_id": 26111039,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "FFY"
+  },
+  {
+    "craft_id": 70003040,
+    "name_str_id": 26110040,
+    "des_str_id": 26111040,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AABB"
+  },
+  {
+    "craft_id": 70003041,
+    "name_str_id": 26110041,
+    "des_str_id": 26111041,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AACC"
+  },
+  {
+    "craft_id": 70003042,
+    "name_str_id": 26110042,
+    "des_str_id": 26111042,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AADD"
+  },
+  {
+    "craft_id": 70003043,
+    "name_str_id": 26110043,
+    "des_str_id": 26111043,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AAEE"
+  },
+  {
+    "craft_id": 70003044,
+    "name_str_id": 26110044,
+    "des_str_id": 26111044,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AAFF"
+  },
+  {
+    "craft_id": 70003045,
+    "name_str_id": 26110045,
+    "des_str_id": 26111045,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBCC"
+  },
+  {
+    "craft_id": 70003046,
+    "name_str_id": 26110046,
+    "des_str_id": 26111046,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBDD"
+  },
+  {
+    "craft_id": 70003047,
+    "name_str_id": 26110047,
+    "des_str_id": 26111047,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBEE"
+  },
+  {
+    "craft_id": 70003048,
+    "name_str_id": 26110048,
+    "des_str_id": 26111048,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BBFF"
+  },
+  {
+    "craft_id": 70003049,
+    "name_str_id": 26110049,
+    "des_str_id": 26111049,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CCDD"
+  },
+  {
+    "craft_id": 70003050,
+    "name_str_id": 26110050,
+    "des_str_id": 26111050,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CCEE"
+  },
+  {
+    "craft_id": 70003051,
+    "name_str_id": 26110051,
+    "des_str_id": 26111051,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CCFF"
+  },
+  {
+    "craft_id": 70003052,
+    "name_str_id": 26110052,
+    "des_str_id": 26111052,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "DDEE"
+  },
+  {
+    "craft_id": 70003053,
+    "name_str_id": 26110053,
+    "des_str_id": 26111053,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "DDFF"
+  },
+  {
+    "craft_id": 70003054,
+    "name_str_id": 26110054,
+    "des_str_id": 26111054,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "EEFF"
+  },
+  {
+    "craft_id": 70003055,
+    "name_str_id": 26110055,
+    "des_str_id": 26111055,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ABC"
+  },
+  {
+    "craft_id": 70003056,
+    "name_str_id": 26110056,
+    "des_str_id": 26111056,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ABD"
+  },
+  {
+    "craft_id": 70003057,
+    "name_str_id": 26110057,
+    "des_str_id": 26111057,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ABE"
+  },
+  {
+    "craft_id": 70003058,
+    "name_str_id": 26110058,
+    "des_str_id": 26111058,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ABF"
+  },
+  {
+    "craft_id": 70003059,
+    "name_str_id": 26110059,
+    "des_str_id": 26111059,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ACD"
+  },
+  {
+    "craft_id": 70003060,
+    "name_str_id": 26110060,
+    "des_str_id": 26111060,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ACE"
+  },
+  {
+    "craft_id": 70003061,
+    "name_str_id": 26110061,
+    "des_str_id": 26111061,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ACF"
+  },
+  {
+    "craft_id": 70003062,
+    "name_str_id": 26110062,
+    "des_str_id": 26111062,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ADE"
+  },
+  {
+    "craft_id": 70003063,
+    "name_str_id": 26110063,
+    "des_str_id": 26111063,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "ADF"
+  },
+  {
+    "craft_id": 70003064,
+    "name_str_id": 26110064,
+    "des_str_id": 26111064,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "AEF"
+  },
+  {
+    "craft_id": 70003065,
+    "name_str_id": 26110065,
+    "des_str_id": 26111065,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BCD"
+  },
+  {
+    "craft_id": 70003066,
+    "name_str_id": 26110066,
+    "des_str_id": 26111066,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BCE"
+  },
+  {
+    "craft_id": 70003067,
+    "name_str_id": 26110067,
+    "des_str_id": 26111067,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BCF"
+  },
+  {
+    "craft_id": 70003068,
+    "name_str_id": 26110068,
+    "des_str_id": 26111068,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BDE"
+  },
+  {
+    "craft_id": 70003069,
+    "name_str_id": 26110069,
+    "des_str_id": 26111069,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BDF"
+  },
+  {
+    "craft_id": 70003070,
+    "name_str_id": 26110070,
+    "des_str_id": 26111070,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "BEF"
+  },
+  {
+    "craft_id": 70003071,
+    "name_str_id": 26110071,
+    "des_str_id": 26111071,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CDE"
+  },
+  {
+    "craft_id": 70003072,
+    "name_str_id": 26110072,
+    "des_str_id": 26111072,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CDF"
+  },
+  {
+    "craft_id": 70003073,
+    "name_str_id": 26110073,
+    "des_str_id": 26111073,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "CEF"
+  },
+  {
+    "craft_id": 70003074,
+    "name_str_id": 26110074,
+    "des_str_id": 26111074,
+    "level": 3,
+    "price": "30900109-40",
+    "tag": "DEF"
+  }
+]

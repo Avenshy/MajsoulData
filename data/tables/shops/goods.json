@@ -17323,6 +17323,138 @@
     }
   },
   {
+    "id": 5507,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/fulilian_fll_shop.jpg",
+    "item_id": 40012803,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 1,
+    "discount": 10000,
+    "sell_activity": 261110,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "于遥远之地",
+      "chs_t": "於遙遠之地",
+      "jp": "遠き地にて",
+      "en": "In a Land Far Away",
+      "kr": "아득히 먼 땅에서"
+    },
+    "desc": {
+      "chs": "芙莉莲服饰",
+      "chs_t": "芙莉蓮服飾",
+      "jp": "フリーレンの着せ替え衣装",
+      "en": "Frieren Outfit",
+      "kr": "프리렌 스킨"
+    }
+  },
+  {
+    "id": 5508,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/feilun_fll_shop.jpg",
+    "item_id": 40012903,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 2,
+    "discount": 10000,
+    "sell_activity": 261110,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "于遥远之地",
+      "chs_t": "於遙遠之地",
+      "jp": "遠き地にて",
+      "en": "In a Land Far Away",
+      "kr": "아득히 먼 땅에서"
+    },
+    "desc": {
+      "chs": "菲伦服饰",
+      "chs_t": "費倫服飾",
+      "jp": "フェルンの着せ替え衣装",
+      "en": "Fern Outfit",
+      "kr": "페른 스킨"
+    }
+  },
+  {
+    "id": 5509,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/xiutaerke_fll_shop.jpg",
+    "item_id": 40013003,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 3,
+    "discount": 10000,
+    "sell_activity": 261110,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "于遥远之地",
+      "chs_t": "於遙遠之地",
+      "jp": "遠き地にて",
+      "en": "In a Land Far Away",
+      "kr": "아득히 먼 땅에서"
+    },
+    "desc": {
+      "chs": "休塔尔克服饰",
+      "chs_t": "修塔爾克服飾",
+      "jp": "シュタルクの着せ替え衣装",
+      "en": "Stark Outfit",
+      "kr": "슈타르크 스킨"
+    }
+  },
+  {
+    "id": 5510,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/youbeier_fll_shop.jpg",
+    "item_id": 40013103,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 4,
+    "discount": 10000,
+    "sell_activity": 261110,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "于遥远之地",
+      "chs_t": "於遙遠之地",
+      "jp": "遠き地にて",
+      "en": "In a Land Far Away",
+      "kr": "아득히 먼 땅에서"
+    },
+    "desc": {
+      "chs": "尤贝尔服饰",
+      "chs_t": "尤蓓爾服飾",
+      "jp": "ユーベルの着せ替え衣装",
+      "en": "Übel Outfit",
+      "kr": "위벨 스킨"
+    }
+  },
+  {
     "id": 6001,
     "category": 5,
     "category_goods": 100,
@@ -17688,9 +17820,9 @@
     "name": {
       "chs": "风车花田",
       "chs_t": "風車花田",
-      "jp": "風車と花畑",
-      "en": "Among the Wildflowers",
-      "kr": "꽃밭의 풍차"
+      "jp": "tbd",
+      "en": "tbd",
+      "kr": "tbd"
     }
   },
   {

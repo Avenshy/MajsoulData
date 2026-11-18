@@ -1051,7 +1051,7 @@
       "chs": "四暗刻单骑",
       "chs_t": "四暗刻單騎",
       "jp": "四暗刻単騎",
-      "en": "Single-wait Four Concealed Triplets",
+      "en": "Single-Wait Four Concealed Triplets",
       "kr": "스안커 단기"
     }
   },
@@ -1073,7 +1073,7 @@
       "chs": "国士无双十三面",
       "chs_t": "國士無雙十三面",
       "jp": "国士無双十三面待ち",
-      "en": "Thirteen-wait Thirteen Orphans",
+      "en": "Thirteen-Wait Thirteen Orphans",
       "kr": "국사무쌍 13면 대기"
     }
   },
@@ -1117,7 +1117,7 @@
       "chs": "燕返",
       "chs_t": "燕返",
       "jp": "燕返し",
-      "en": "Tsubame-gaeshi",
+      "en": "Tsubame Gaeshi",
       "kr": "츠바메가에시"
     }
   },
@@ -1161,7 +1161,7 @@
       "chs": "十二落抬",
       "chs_t": "十二落抬",
       "jp": "十二落抬",
-      "en": "Shiiaruraotai",
+      "en": "Shiiaru Raotai",
       "kr": "십이낙태"
     }
   },
@@ -1249,7 +1249,7 @@
       "chs": "一筒摸月",
       "chs_t": "一筒摸月",
       "jp": "一筒摸月",
-      "en": "Iipinmoyue",
+      "en": "Iipin Mouyue",
       "kr": "일통모월"
     }
   },
@@ -1271,7 +1271,7 @@
       "chs": "九筒捞鱼",
       "chs_t": "九筒撈魚",
       "jp": "九筒撈魚",
-      "en": "Chuupinraoyui",
+      "en": "Chuupin Raoyui",
       "kr": "구통노어"
     }
   },
@@ -1628,6 +1628,28 @@
     }
   },
   {
+    "id": 810,
+    "xuanshang": null,
+    "yiman": null,
+    "fan_menqing": 1,
+    "fan_fulu": 1,
+    "show_index": 340,
+    "sound": null,
+    "is_guyi": null,
+    "rarity": null,
+    "show_range_1": null,
+    "show_range_2": null,
+    "merge_id": null,
+    "mark": 1,
+    "name": {
+      "chs": "影牌",
+      "chs_t": "影牌",
+      "jp": "影牌",
+      "en": "Shadow Dora",
+      "kr": "영패"
+    }
+  },
+  {
     "id": 1000,
     "xuanshang": null,
     "yiman": null,
@@ -1689,7 +1711,7 @@
       "chs": "杠上炮",
       "chs_t": "槓上炮",
       "jp": "嶺上放銃",
-      "en": "Dealing into Win after Kan",
+      "en": "Discard After Kan",
       "kr": "영상방총"
     }
   },
@@ -2085,7 +2107,7 @@
       "chs": "清幺九",
       "chs_t": "清么九",
       "jp": "清幺九",
-      "en": "All Terminals",
+      "en": "Pure Terminals in All Sets",
       "kr": "청요구"
     }
   },

@@ -3433,6 +3433,80 @@
     "old_lobby_background_mark": null
   },
   {
+    "id": 308058,
+    "res_name": "ron_26fll",
+    "audio_id": 308058,
+    "character_id": null,
+    "sargs": [
+      "1500",
+      "1"
+    ],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 308059,
+    "res_name": "effect_liqi_26fll",
+    "audio_id": 308059,
+    "character_id": null,
+    "sargs": [
+      "shu",
+      "1"
+    ],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 308060,
+    "res_name": "liqi_26fll",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 308061,
+    "res_name": "tablecloth_26fll",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 308062,
+    "res_name": "mjp_26fll",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 308063,
+    "res_name": "headframe_26fll",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [
+      "55"
+    ],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
     "id": 308996,
     "res_name": "mjp_official",
     "audio_id": null,
@@ -5641,6 +5715,50 @@
   {
     "id": 30990016,
     "res_name": "hand_chilin",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": 2,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30990017,
+    "res_name": "hand_fulilian",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": 2,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30990018,
+    "res_name": "hand_feilun",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": 2,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30990019,
+    "res_name": "hand_xiutaerke",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": 2,
+    "seat_related": null,
+    "old_lobby_background_mark": null
+  },
+  {
+    "id": 30990020,
+    "res_name": "hand_youbeier",
     "audio_id": null,
     "character_id": null,
     "sargs": [],

@@ -4,30 +4,30 @@
   "product_version": "4.0.51",
   "loader": "chs_t-WebGL-release-4.0.51(51).loader.js",
   "bundle_profile": "ASTC",
-  "bundle_hash": "aa5e989ac392a2d7aa5406159f5b62ab2e034e82",
+  "bundle_hash": "79283db7d4c121d319813b26c43a4acb69444509",
   "raw_dir": "raw",
-  "tables": 283,
-  "rows": 74483,
+  "tables": 288,
+  "rows": 76436,
   "locale_sources": 461,
   "skipped_modules": 0,
   "protocol": {
     "modules": 11,
-    "messages": 1618,
+    "messages": 1657,
     "enums": 2,
-    "fields": 6959,
+    "fields": 7063,
     "proto_files": 11,
     "services": 3,
-    "rpcs": 466,
-    "unresolved_rpcs": 23,
+    "rpcs": 483,
+    "unresolved_rpcs": 28,
     "doc": "protoc-gen-doc"
   },
   "client_data": {
-    "docs_json": 197,
+    "docs_json": 203,
     "docs_version_json": 2,
-    "spot_scripts": 807,
-    "deco_illust_json": 451,
+    "spot_scripts": 837,
+    "deco_illust_json": 466,
     "deco_character_json": 35,
     "spine_info_csv": 32,
-    "ui_atlas_json": 333
+    "ui_atlas_json": 343
   }
 }

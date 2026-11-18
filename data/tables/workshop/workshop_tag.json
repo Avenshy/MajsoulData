@@ -1,0 +1,128 @@
+[
+  {
+    "tag": "A",
+    "name_str_id": 26113001,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#d0715e",
+    "bg_color": "#ffc7bc",
+    "icon": "huo"
+  },
+  {
+    "tag": "B",
+    "name_str_id": 26113002,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#42849a",
+    "bg_color": "#c1eaf8",
+    "icon": "shui"
+  },
+  {
+    "tag": "C",
+    "name_str_id": 26113003,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#489b8a",
+    "bg_color": "#b2edd6",
+    "icon": "feng"
+  },
+  {
+    "tag": "D",
+    "name_str_id": 26113004,
+    "unlock_level": 2,
+    "function": null,
+    "tag_color": "#b17f64",
+    "bg_color": "#ead6b0",
+    "icon": "tu"
+  },
+  {
+    "tag": "E",
+    "name_str_id": 26113005,
+    "unlock_level": 5,
+    "function": null,
+    "tag_color": "#ac753f",
+    "bg_color": "#f5df87",
+    "icon": "guang"
+  },
+  {
+    "tag": "F",
+    "name_str_id": 26113006,
+    "unlock_level": 7,
+    "function": null,
+    "tag_color": "#756ea3",
+    "bg_color": "#d5d1f1",
+    "icon": "an"
+  },
+  {
+    "tag": "AA",
+    "name_str_id": 26113007,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#d0715e",
+    "bg_color": "#ffc7bc",
+    "icon": "baopo"
+  },
+  {
+    "tag": "BB",
+    "name_str_id": 26113008,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#42849a",
+    "bg_color": "#c1eaf8",
+    "icon": "bingdong"
+  },
+  {
+    "tag": "CC",
+    "name_str_id": 26113009,
+    "unlock_level": 1,
+    "function": null,
+    "tag_color": "#489b8a",
+    "bg_color": "#b2edd6",
+    "icon": "piaofu"
+  },
+  {
+    "tag": "DD",
+    "name_str_id": 26113010,
+    "unlock_level": 2,
+    "function": null,
+    "tag_color": "#b17f64",
+    "bg_color": "#ead6b0",
+    "icon": "jianren"
+  },
+  {
+    "tag": "EE",
+    "name_str_id": 26113011,
+    "unlock_level": 5,
+    "function": null,
+    "tag_color": "#ac753f",
+    "bg_color": "#f5df87",
+    "icon": "shengming"
+  },
+  {
+    "tag": "FF",
+    "name_str_id": 26113012,
+    "unlock_level": 7,
+    "function": null,
+    "tag_color": "#756ea3",
+    "bg_color": "#d5d1f1",
+    "icon": "xinling"
+  },
+  {
+    "tag": "Y",
+    "name_str_id": 26113013,
+    "unlock_level": 3,
+    "function": 1,
+    "tag_color": "#5265a0",
+    "bg_color": "#c9d4ff",
+    "icon": "yise"
+  },
+  {
+    "tag": "Z",
+    "name_str_id": 26113014,
+    "unlock_level": 3,
+    "function": 2,
+    "tag_color": "#735f97",
+    "bg_color": "#f2ccf0",
+    "icon": "yongheng"
+  }
+]

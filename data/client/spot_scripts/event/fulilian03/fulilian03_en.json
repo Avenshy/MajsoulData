@@ -1,0 +1,586 @@
+[
+  {
+    "line": 26,
+    "text": "player"
+  },
+  {
+    "line": 154,
+    "text": "Clearing the Ruins"
+  },
+  {
+    "line": 155,
+    "text": "Frieren introduces everyone, and we brief Stark and Fern on the situation so far and what we know about the island."
+  },
+  {
+    "line": 156,
+    "text": "Fern"
+  },
+  {
+    "line": 157,
+    "text": "Master {var:player_nickname}, how did you know how to defeat that monster for good?"
+  },
+  {
+    "line": 159,
+    "text": "Because the patterns on its body formed a mahjong hand."
+  },
+  {
+    "line": 161,
+    "text": "Once you complete a winning hand, the tiles collapse."
+  },
+  {
+    "line": 162,
+    "text": "Stark"
+  },
+  {
+    "line": 163,
+    "text": "Mahjong...? A winning hand...?"
+  },
+  {
+    "line": 164,
+    "text": "Ichihime"
+  },
+  {
+    "line": 165,
+    "text": "That was Master's special move just now, nyaa!"
+  },
+  {
+    "line": 166,
+    "text": "Is that how magic works in your world?"
+  },
+  {
+    "line": 167,
+    "text": "You could say that, nyaa! Both mahjong and magic work miracles, nyaa!"
+  },
+  {
+    "line": 168,
+    "text": "If you want to learn, I can teach you, nyaa!"
+  },
+  {
+    "line": 169,
+    "text": "Learning mahjong seems essential for the journey ahead."
+  },
+  {
+    "line": 170,
+    "text": "We'll be counting on you, Ms. Ichihime, Master {var:player_nickname}."
+  },
+  {
+    "line": 171,
+    "text": "Fern and Stark officially join the party."
+  },
+  {
+    "line": 172,
+    "text": "Exploring ruins, locating crystal balls, transmuting materials... and learning mahjong on the side."
+  },
+  {
+    "line": 173,
+    "text": "Ichihime the Hero and her companions make steady progress across the island."
+  },
+  {
+    "line": 174,
+    "text": "Frieren"
+  },
+  {
+    "line": 175,
+    "text": "This mana... It might be a grimoire."
+  },
+  {
+    "line": 177,
+    "text": "No, there's definitely a valuable grimoire inside here. That's what my experience as a mage is telling me."
+  },
+  {
+    "line": 178,
+    "text": "Ms. Ichihime, please help me reason with her... Ah!"
+  },
+  {
+    "line": 180,
+    "text": "After much effort, we manage to rescue Ichihime."
+  },
+  {
+    "line": 181,
+    "text": "Now that we know these chests are fake, let's get moving."
+  },
+  {
+    "line": 182,
+    "text": "No... That just means we have even more reason to open the rest."
+  },
+  {
+    "line": 183,
+    "text": "{var:player_nickname}, did you know? Mikheit is only 99% accurate."
+  },
+  {
+    "line": 184,
+    "text": "Historical discoveries have been made by great mages who recognized that remaining 1%... So it's worth another shot."
+  },
+  {
+    "line": 185,
+    "text": "Exactly, nyaa! Probabilities can be deceptive, nyaa!"
+  },
+  {
+    "line": 186,
+    "text": "Just because mine was fake doesn't mean Frie's isn't the real deal, nyaa!"
+  },
+  {
+    "line": 187,
+    "text": "It's like getting away with a discard only to deal in on the exact same one next turn, nyaa! I know the feeling all too well, nyaa!"
+  },
+  {
+    "line": 188,
+    "text": "Why use such a jinxed example...?"
+  },
+  {
+    "line": 189,
+    "text": "Yes, she makes a good point. Here I go!"
+  },
+  {
+    "line": 190,
+    "text": "Wait!"
+  },
+  {
+    "line": 191,
+    "text": "Frieren, don't–"
+  },
+  {
+    "line": 192,
+    "text": "But it is already too late."
+  },
+  {
+    "line": 193,
+    "text": "It's so dark and scary in here!"
+  },
+  {
+    "line": 194,
+    "text": "And so, the adventure of Ichihime the Hero and her companions continues."
+  },
+  {
+    "line": 196,
+    "text": "Leia"
+  },
+  {
+    "line": 197,
+    "text": "Thank you all for your hard work these past few days."
+  },
+  {
+    "line": 198,
+    "text": "Don't mention it. I'm just glad we could be of help."
+  },
+  {
+    "line": 199,
+    "text": "And it hasn't been without its rewards."
+  },
+  {
+    "line": 200,
+    "text": "Kaavi"
+  },
+  {
+    "line": 201,
+    "text": "Remarkable techniques long thought lost to the currents of fate have been unearthed on this island."
+  },
+  {
+    "line": 202,
+    "text": "Yuzu"
+  },
+  {
+    "line": 203,
+    "text": "Argh, even the Red Panda Squad learned how to levitate scoring sticks when declaring Riichi and auto-swap tile backs every match!"
+  },
+  {
+    "line": 204,
+    "text": "If only we could make the tiles that aren't Dora sparkle like gems too, nyaa!"
+  },
+  {
+    "line": 205,
+    "text": "Speaking of which, I found something wonderful in the best-hidden chest... a spell that can create wind, blossoms, snow, and moonlight out of thin air!"
+  },
+  {
+    "line": 206,
+    "text": "Yes... Quite a worthwhile trip."
+  },
+  {
+    "line": 207,
+    "text": "Wind, blossoms, snow, and moonlight...? What's that? Sounds pretty fancy..."
+  },
+  {
+    "line": 208,
+    "text": "We haven't had a chance to try it out, so no one knows what it actually does yet."
+  },
+  {
+    "line": 210,
+    "text": "Let's ride this momentum and crush the final boss, nyaa!"
+  },
+  {
+    "line": 211,
+    "text": "This must be the deepest part of the ruins."
+  },
+  {
+    "line": 212,
+    "text": "Argh? Did you hear that? It sounds like voices..."
+  },
+  {
+    "line": 213,
+    "text": "Yes, whispers of fate echo here, but they are too jumbled to decipher."
+  },
+  {
+    "line": 214,
+    "text": "Our target lies among them."
+  },
+  {
+    "line": 215,
+    "text": "That's like fishing out the single winning tile left in the wall, nyaa... Way too hard, nyaa!"
+  },
+  {
+    "line": 216,
+    "text": "Spot-on analogy."
+  },
+  {
+    "line": 217,
+    "text": "Anything can happen on this island. It wouldn't surprise me if a tile actually spoke up."
+  },
+  {
+    "line": 218,
+    "text": "So the sound is coming from a mahjong tile? In that case, that spell I found earlier in the ruins might help..."
+  },
+  {
+    "line": 219,
+    "text": "N-no! It was just a figure of speech!"
+  },
+  {
+    "line": 220,
+    "text": "<color=#6CC2B6>Spell to find the extraordinary mahjong tile!</color>"
+  },
+  {
+    "line": 221,
+    "text": "No way... You can't seriously find a mahjong tile with special powers..."
+  },
+  {
+    "line": 222,
+    "text": "A giant mahjong tile appears suspended in midair, pulsing with light as if breathing."
+  },
+  {
+    "line": 223,
+    "text": "She actually found one?!"
+  },
+  {
+    "line": 224,
+    "text": "I can feel an immense surge of mana. It wasn't there a moment ago..."
+  },
+  {
+    "line": 225,
+    "text": "Why does this feel so familiar, nyaa?"
+  },
+  {
+    "line": 226,
+    "text": "It doesn't seem evil."
+  },
+  {
+    "line": 227,
+    "text": "It actually feels warm and inviting..."
+  },
+  {
+    "line": 228,
+    "text": "This must be the extraordinary mahjong tile."
+  },
+  {
+    "line": 229,
+    "text": "Ms. Frieren, Ms. Ichihime, are these fog-like tethers around the tile a seal?"
+  },
+  {
+    "line": 230,
+    "text": "Hm... Hard to say."
+  },
+  {
+    "line": 231,
+    "text": "Feels more like a protective barrier, nyaa."
+  },
+  {
+    "line": 232,
+    "text": "Something is wrong. The magical balance maintaining this place has been shattered..."
+  },
+  {
+    "line": 233,
+    "text": "Argh?! What did you do, you phony fortune teller?!"
+  },
+  {
+    "line": 234,
+    "text": "Stay sharp, everyone! Prepare for battle!"
+  },
+  {
+    "line": 235,
+    "text": "???"
+  },
+  {
+    "line": 236,
+    "text": "Gurgle..."
+  },
+  {
+    "line": 237,
+    "text": "Just as Leia warned, eerie growls echo through the ruins."
+  },
+  {
+    "line": 238,
+    "text": "Nyaaaa?! The monsters are swarming us like seagulls on a dropped sandwich, nyaa!"
+  },
+  {
+    "line": 239,
+    "text": "Master, what do we do, nyaa?"
+  },
+  {
+    "line": 240,
+    "text": "Grab the giant tile!"
+  },
+  {
+    "line": 241,
+    "text": "Sever those fog tethers!"
+  },
+  {
+    "line": 242,
+    "text": "Alright... Here I go!"
+  },
+  {
+    "line": 243,
+    "text": "Ms. Frieren, everyone, please lend us your strength!"
+  },
+  {
+    "line": 244,
+    "text": "However, with monsters closing in from all sides, we find no easy way to break through."
+  },
+  {
+    "line": 245,
+    "text": "I can't slice through these tethers no matter what I try..."
+  },
+  {
+    "line": 246,
+    "text": "Physical attacks aren't working either!"
+  },
+  {
+    "line": 247,
+    "text": "The monsters are multiplying. We need to finish this quickly."
+  },
+  {
+    "line": 248,
+    "text": "...But how do we cut them?"
+  },
+  {
+    "line": 249,
+    "text": "You're all overthinking this."
+  },
+  {
+    "line": 250,
+    "text": "<color=#70946E>Reelseiden!</color>"
+  },
+  {
+    "line": 251,
+    "text": "Monster"
+  },
+  {
+    "line": 252,
+    "text": "Grrrgh...!"
+  },
+  {
+    "line": 253,
+    "text": "Huh?"
+  },
+  {
+    "line": 254,
+    "text": "In an instant, the fog tethers are sliced clean through. The monsters, which had been fiercely guarding the giant tile, suddenly lose their will to fight."
+  },
+  {
+    "line": 255,
+    "text": "Sunlight streams down from the clearing skies as the fog nearby vanishes without a trace."
+  },
+  {
+    "line": 256,
+    "text": "It seems it's all over..."
+  },
+  {
+    "line": 257,
+    "text": "I knew following those little monsters would lead to something fun!"
+  },
+  {
+    "line": 258,
+    "text": "She just cut right through them so effortlessly..."
+  },
+  {
+    "line": 259,
+    "text": "Who are you?"
+  },
+  {
+    "line": 260,
+    "text": "Übel"
+  },
+  {
+    "line": 261,
+    "text": "Allow me to introduce myself. I'm Übel, a mage."
+  },
+  {
+    "line": 262,
+    "text": "You're a mage, too?"
+  },
+  {
+    "line": 263,
+    "text": "That's right."
+  },
+  {
+    "line": 264,
+    "text": "Nyaaa... Judging by her aura, she must be the fourth visitor the Shrine detected, nyaa!"
+  },
+  {
+    "line": 265,
+    "text": "I see. So the fourth one is Übel."
+  },
+  {
+    "line": 266,
+    "text": "Hm... So you ended up in this world as well?"
+  },
+  {
+    "line": 267,
+    "text": "Thanks for the help, Übel."
+  },
+  {
+    "line": 268,
+    "text": "It was nothing."
+  },
+  {
+    "line": 269,
+    "text": "By the way, I'm quite curious... What exactly is this clear block?"
+  },
+  {
+    "line": 270,
+    "text": "Yeah, we fought tooth and nail to get our hands on it, nyaa."
+  },
+  {
+    "line": 271,
+    "text": "Let me take a look..."
+  },
+  {
+    "line": 272,
+    "text": "While she examines it, let's head back to camp and resupply."
+  },
+  {
+    "line": 273,
+    "text": "Once everything is sorted, we can return."
+  },
+  {
+    "line": 274,
+    "text": "Some time passes..."
+  },
+  {
+    "line": 275,
+    "text": "Oh! So it conceals a formula like this inside."
+  },
+  {
+    "line": 276,
+    "text": "I should take ten years or so to study it thoroughly."
+  },
+  {
+    "line": 277,
+    "text": "Absolutely not."
+  },
+  {
+    "line": 278,
+    "text": "Whoa, hold on, that's way too long..."
+  },
+  {
+    "line": 279,
+    "text": "Ms. Frieren, shouldn't we return to camp first? At least to report our findings to Ms. Leia and the others."
+  },
+  {
+    "line": 280,
+    "text": "But the lingering mana traces around here seem worth studying too. I'd like to stay a bit longer..."
+  },
+  {
+    "line": 281,
+    "text": "Still, Fern is right. We can't stay here forever. Let's head back to camp first."
+  },
+  {
+    "line": 282,
+    "text": "Either way, light at the end of the tunnel at last, nyaa! Hurrah for us, nyaa!"
+  },
+  {
+    "line": 283,
+    "text": "Once the fog finally lifts, we should offer this tile at the Shrine as a souvenir of our adventure, nyaa!"
+  },
+  {
+    "line": 284,
+    "text": "Don't celebrate just yet."
+  },
+  {
+    "line": 285,
+    "text": "Nyaa-nyaa?! What is that creepy noise, nyaa...?"
+  },
+  {
+    "line": 287,
+    "text": "As she speaks, the calm monsters suddenly grow restless once more."
+  },
+  {
+    "line": 288,
+    "text": "Squishy Slime"
+  },
+  {
+    "line": 289,
+    "text": "Gurgle..."
+  },
+  {
+    "line": 290,
+    "text": "Man-Eating Mimic"
+  },
+  {
+    "line": 291,
+    "text": "Snap..."
+  },
+  {
+    "line": 292,
+    "text": "Stranger still, instead of attacking, they scatter in sheer panic."
+  },
+  {
+    "line": 293,
+    "text": "The ground and walls tremble as if struck by an earthquake."
+  },
+  {
+    "line": 294,
+    "text": "This level of shaking... Oh crap!"
+  },
+  {
+    "line": 295,
+    "text": "Watch out! The place is coming down!"
+  },
+  {
+    "line": 296,
+    "text": "Everyone, run!"
+  },
+  {
+    "line": 297,
+    "text": "We can't leave the tile behind after all our hard work, nyaa!"
+  },
+  {
+    "line": 298,
+    "text": "..."
+  },
+  {
+    "line": 299,
+    "text": "No... Absolutely not."
+  },
+  {
+    "line": 300,
+    "text": "You won't take... my Sacred Tile!"
+  },
+  {
+    "line": 303,
+    "text": "But Ms. Frieren, Mikheit has already shown that every chest here is a mimic."
+  },
+  {
+    "line": 306,
+    "text": "As we press on through the island's ruins, the truth behind the fog feels ever closer."
+  },
+  {
+    "line": 309,
+    "text": "It's eating me, nyaa!"
+  },
+  {
+    "line": 310,
+    "text": "Don't worry, nyaa! My gut tells me this magic is going to save the day, nyaa!"
+  },
+  {
+    "line": 311,
+    "text": "Who knows? Maybe the monsters are gathering again."
+  }
+]

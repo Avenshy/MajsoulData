@@ -122,6 +122,7 @@ message AccountActivityUpdate {
   repeated .lq.ActivityChooseGroupData choose_group_up_data = 21;
   repeated .lq.ActivityMMODataChanges mmo_data = 22;
   .lq.AccountActivityUpdate.ActivityBuffDataArrayDirty activity_buff = 23;
+  repeated .lq.ActivityMajWorkshopChanges work_shop_data = 24;
 }
 
 message AccountCacheView {
@@ -852,6 +853,79 @@ message ActivityMajClubUpgradeDataChanges {
   .lq.ActivityMajClubRoomDataArrayDirty rooms = 1;
   .lq.ActivityMajClubCharacterDataArrayDirty characters = 2;
   .lq.UInt32Dirty wait_zone_level = 4;
+}
+
+message ActivityMajWorkshopChanges {
+  .lq.ActivityMajWorkshopGameDataChanges game = 1;
+  .lq.ActivityMajWorkshopIllustratedBookChanges illustrated_book = 2;
+  uint32 activity_id = 3;
+}
+
+message ActivityMajWorkshopCraft {
+  uint32 id = 1;
+  uint32 count = 2;
+}
+
+message ActivityMajWorkshopCraftArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajWorkshopCraft value = 2;
+}
+
+message ActivityMajWorkshopData {
+  uint32 activity_id = 1;
+  .lq.ActivityMajWorkshopGameData game = 2;
+  .lq.ActivityMajWorkshopIllustratedBook illustrated_book = 3;
+}
+
+message ActivityMajWorkshopGameData {
+  uint32 level = 1;
+  uint32 sell_bouns_count = 2;
+  repeated .lq.ActivityMajWorkshopCraft crafts = 3;
+  repeated .lq.ActivityMajWorkshopGarden gardens = 4;
+  repeated .lq.ActivityMajWorkshopOrder orders = 5;
+  uint32 last_sell_bouns_time = 7;
+  repeated uint32 understood_order_ids = 8;
+  uint32 selected_order_id = 9;
+}
+
+message ActivityMajWorkshopGameDataChanges {
+  .lq.UInt32Dirty level = 1;
+  .lq.UInt32Dirty sell_bouns_count = 2;
+  .lq.ActivityMajWorkshopCraftArrayDirty crafts = 3;
+  .lq.ActivityMajWorkshopGardenArrayDirty gardens = 4;
+  .lq.ActivityMajWorkshopOrderArrayDirty orders = 5;
+  .lq.UInt32Dirty selected_order_id = 6;
+}
+
+message ActivityMajWorkshopGarden {
+  uint32 id = 1;
+  uint32 last_collected_time = 2;
+}
+
+message ActivityMajWorkshopGardenArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajWorkshopGarden value = 2;
+}
+
+message ActivityMajWorkshopIllustratedBook {
+  repeated uint32 unlocked_craft_id = 1;
+  repeated uint32 have_read_craft_id = 2;
+}
+
+message ActivityMajWorkshopIllustratedBookChanges {
+  .lq.UInt32ArrayDirty unlocked_craft_id = 1;
+  .lq.UInt32ArrayDirty have_read_craft_id = 2;
+}
+
+message ActivityMajWorkshopOrder {
+  uint32 order_id = 1;
+  uint32 id = 2;
+  bool understood = 3;
+}
+
+message ActivityMajWorkshopOrderArrayDirty {
+  bool dirty = 1;
+  repeated .lq.ActivityMajWorkshopOrder value = 2;
 }
 
 message ActivityMarathonCheckData {

@@ -4585,6 +4585,31 @@
     }
   },
   {
+    "id": 600173,
+    "icon": "deco/title/25jingubei/pic/25jingubei.png",
+    "icon_item": "deco/title/25jingubei/pic/25jingubei_item.jpg",
+    "priority": 40112,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557076
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "金古神手",
+      "chs_t": "金古神手",
+      "jp": "金古神手",
+      "en": "金古神手",
+      "kr": "金古神手"
+    },
+    "desc": {
+      "chs": "赠予金古杯赛事冠军",
+      "chs_t": "贈予金古盃賽事冠軍",
+      "jp": "贈予金古盃賽事冠軍",
+      "en": "贈予金古盃賽事冠軍",
+      "kr": "贈予金古盃賽事冠軍"
+    }
+  },
+  {
     "id": 600174,
     "icon": "deco/title/guanren/pic/guanren.png",
     "icon_item": "deco/title/guanren/pic/guanren_item.jpg",
@@ -4638,6 +4663,34 @@
       "jp": "「学生雀魂杯」優勝記念称号",
       "en": "「学生雀魂杯」優勝記念称号",
       "kr": "「学生雀魂杯」優勝記念称号"
+    }
+  },
+  {
+    "id": 600176,
+    "icon": "deco/title/26mjqnw2/pic/26mjqnw2.png",
+    "icon_item": "deco/title/26mjqnw2/pic/26mjqnw2_item.jpg",
+    "priority": 40118,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557079,
+      0,
+      0,
+      0
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "麻将全能王S2",
+      "chs_t": "麻將全能王S2",
+      "jp": "麻將全能王S2",
+      "en": "麻將全能王S2",
+      "kr": "麻將全能王S2"
+    },
+    "desc": {
+      "chs": "赠与哔哩哔哩【麻将全能王】活动赛冠军",
+      "chs_t": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+      "jp": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+      "en": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+      "kr": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍"
     }
   }
 ]

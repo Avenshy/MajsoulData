@@ -751,6 +751,10 @@ message TingPaiInfo {
   bool yiman_zimo = 7;
   uint32 count_zimo = 8;
   uint32 fu_zimo = 9;
+  uint32 dora_count = 10;
+  uint32 li_dora_count = 11;
+  uint32 red_dora_count = 12;
+  uint32 ying_count = 13;
 }
 
 message XiaKeShangInfo {

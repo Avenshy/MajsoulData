@@ -2,22 +2,82 @@
   {
     "activity_id": 230601,
     "day": 1,
-    "task_serial_number": 0,
-    "task_type": 999,
-    "period_task_id": 23060122,
-    "answer": null,
-    "right_str": null,
-    "wrong_str": null
-  },
-  {
-    "activity_id": 230601,
-    "day": 1,
     "task_serial_number": 1,
     "task_type": 1,
     "period_task_id": 23060101,
     "answer": 1,
     "right_str": 7004,
     "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 2,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060102,
+    "answer": 3,
+    "right_str": 7009,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 3,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060103,
+    "answer": 1,
+    "right_str": 7014,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 4,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060104,
+    "answer": 2,
+    "right_str": 7019,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 5,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060105,
+    "answer": 3,
+    "right_str": 7024,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 6,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060106,
+    "answer": 1,
+    "right_str": 7029,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 7,
+    "task_serial_number": 1,
+    "task_type": 1,
+    "period_task_id": 23060107,
+    "answer": 2,
+    "right_str": 7034,
+    "wrong_str": 7035
+  },
+  {
+    "activity_id": 230601,
+    "day": 1,
+    "task_serial_number": 0,
+    "task_type": 999,
+    "period_task_id": 23060122,
+    "answer": null,
+    "right_str": null,
+    "wrong_str": null
   },
   {
     "activity_id": 230601,
@@ -42,16 +102,6 @@
   {
     "activity_id": 230601,
     "day": 2,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060102,
-    "answer": 3,
-    "right_str": 7009,
-    "wrong_str": 7035
-  },
-  {
-    "activity_id": 230601,
-    "day": 2,
     "task_serial_number": 2,
     "task_type": null,
     "period_task_id": 23060109,
@@ -68,16 +118,6 @@
     "answer": null,
     "right_str": null,
     "wrong_str": null
-  },
-  {
-    "activity_id": 230601,
-    "day": 3,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060103,
-    "answer": 1,
-    "right_str": 7014,
-    "wrong_str": 7035
   },
   {
     "activity_id": 230601,
@@ -102,16 +142,6 @@
   {
     "activity_id": 230601,
     "day": 4,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060104,
-    "answer": 2,
-    "right_str": 7019,
-    "wrong_str": 7035
-  },
-  {
-    "activity_id": 230601,
-    "day": 4,
     "task_serial_number": 2,
     "task_type": null,
     "period_task_id": 23060111,
@@ -128,16 +158,6 @@
     "answer": null,
     "right_str": null,
     "wrong_str": null
-  },
-  {
-    "activity_id": 230601,
-    "day": 5,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060105,
-    "answer": 3,
-    "right_str": 7024,
-    "wrong_str": 7035
   },
   {
     "activity_id": 230601,
@@ -162,16 +182,6 @@
   {
     "activity_id": 230601,
     "day": 6,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060106,
-    "answer": 1,
-    "right_str": 7029,
-    "wrong_str": 7035
-  },
-  {
-    "activity_id": 230601,
-    "day": 6,
     "task_serial_number": 2,
     "task_type": null,
     "period_task_id": 23060113,
@@ -188,16 +198,6 @@
     "answer": null,
     "right_str": null,
     "wrong_str": null
-  },
-  {
-    "activity_id": 230601,
-    "day": 7,
-    "task_serial_number": 1,
-    "task_type": 1,
-    "period_task_id": 23060107,
-    "answer": 2,
-    "right_str": 7034,
-    "wrong_str": 7035
   },
   {
     "activity_id": 230601,

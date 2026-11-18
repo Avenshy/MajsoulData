@@ -1198,6 +1198,70 @@
       "request": "ReqMajClubActivityUpgradeWaiting",
       "response": "ResMajClubActivityCommon"
     },
+    "majWorkshopActivityAddAllCraft": {
+      "request": "ReqMajWorkshopActivityAddAllCraft",
+      "response": "ResMajWorkshopActivityAddAllCraft"
+    },
+    "majWorkshopActivityAddItem": {
+      "request": "ReqMajWorkshopActivityAddItem",
+      "response": "ResCommon"
+    },
+    "majWorkshopActivityCollect": {
+      "request": "ReqMajWorkshopActivityCollect",
+      "response": "ResMajWorkshopActivityCollect"
+    },
+    "majWorkshopActivityCraft": {
+      "request": "ReqMajWorkshopActivityCraft",
+      "response": "ResMajWorkshopActivityCraft"
+    },
+    "majWorkshopActivityDebug": {
+      "request": "ReqMajWorkshopActivityDebug",
+      "response": "ResCommon"
+    },
+    "majWorkshopActivityFetchData": {
+      "request": "ReqMajWorkshopActivityFetchData",
+      "response": "ResMajWorkshopActivityFetchData"
+    },
+    "majWorkshopActivityFetchDebugData": {
+      "request": "ReqMajWorkshopActivityFetchDebugData",
+      "response": "ResMajWorkshopActivityFetchDebugData"
+    },
+    "majWorkshopActivityGardenRestore": {
+      "request": "ReqMajWorkshopActivityGardenRestore",
+      "response": "ResMajWorkshopActivityGardenRestore"
+    },
+    "majWorkshopActivityGardenRestoreAndCollect": {
+      "request": "ReqMajWorkshopActivityGardenRestoreAndCollect",
+      "response": "ResMajWorkshopActivityGardenRestoreAndCollect"
+    },
+    "majWorkshopActivityQuickCraft": {
+      "request": "ReqMajWorkshopActivityQuickCraft",
+      "response": "ResMajWorkshopActivityQuickCraft"
+    },
+    "majWorkshopActivityRead": {
+      "request": "ReqMajWorkshopActivityRead",
+      "response": "ResMajWorkshopActivityRead"
+    },
+    "majWorkshopActivityRecovery": {
+      "request": "ReqMajWorkshopActivityRecovery",
+      "response": "ResMajWorkshopActivityRecovery"
+    },
+    "majWorkshopActivityReplaceOrder": {
+      "request": "ReqMajWorkshopActivityReplaceOrder",
+      "response": "ResMajWorkshopActivityReplaceOrder"
+    },
+    "majWorkshopActivitySetSelectedOrder": {
+      "request": "ReqMajWorkshopActivitySetSelectedOrder",
+      "response": "ResMajWorkshopActivitySetSelectedOrder"
+    },
+    "majWorkshopActivitySubmitOrder": {
+      "request": "ReqMajWorkshopActivitySubmitOrder",
+      "response": "ResMajWorkshopActivitySubmitOrder"
+    },
+    "majWorkshopActivityUnderstandOrder": {
+      "request": "ReqMajWorkshopActivityUnderstandOrder",
+      "response": "ResMajWorkshopActivityUnderstandOrder"
+    },
     "marathonActivityFinishRace": {
       "request": "ReqMarathonActivityFinishRace",
       "response": "ResMarathonActivityFinishRace"
@@ -1573,6 +1637,10 @@
     "setHiddenCharacter": {
       "request": "ReqSetHiddenCharacter",
       "response": "ResSetHiddenCharacter"
+    },
+    "setHiddenHandsView": {
+      "request": "ReqSetHiddenHandsView",
+      "response": "ResSetHiddenHandsView"
     },
     "setLoadingImage": {
       "request": "ReqSetLoadingImage",

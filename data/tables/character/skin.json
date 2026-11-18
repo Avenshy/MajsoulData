@@ -994,5 +994,53 @@
     "audio_click": "sn_se_40012503/click",
     "audio_click2": null,
     "celebrate_delay": null
+  },
+  {
+    "skinid": 40012803,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "fll_se_40012803/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "fll_se_40012803/greeting",
+    "audio_click": "fll_se_40012803/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 40012903,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "fl_se_40012903/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "fl_se_40012903/greeting",
+    "audio_click": "fl_se_40012903/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 40013003,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "xtek_se_40013003/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "xtek_se_40013003/greeting",
+    "audio_click": "xtek_se_40013003/click",
+    "audio_click2": null,
+    "celebrate_delay": null
+  },
+  {
+    "skinid": 40013103,
+    "spine_layers": 1,
+    "has_effect": 1,
+    "audio_celebrate": "ybe_se_40013103/celebrate",
+    "audio_celebrate_idle": null,
+    "audio_idle": null,
+    "audio_greeting": "ybe_se_40013103/greeting",
+    "audio_click": "ybe_se_40013103/click",
+    "audio_click2": null,
+    "celebrate_delay": null
   }
 ]

@@ -193,5 +193,17 @@
       "extendRes/rules_room/qiangduozhizhan1.png",
       "extendRes/rules_room/qiangduozhizhan2.png"
     ]
+  },
+  {
+    "id": 18,
+    "pre_rule": "baopaishuangren",
+    "sort": 18,
+    "str_name": "26110708",
+    "str_rule": "26110707",
+    "set_jushu": 1,
+    "rule_images": [
+      "extendRes/rules_room/baopaishuangren1.png",
+      "extendRes/rules_room/baopaishuangren2.png"
+    ]
   }
 ]

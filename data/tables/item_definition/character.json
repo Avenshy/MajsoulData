@@ -34,6 +34,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "一姬",
       "chs_t": "一姬",
@@ -126,6 +127,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "二阶堂美树",
       "chs_t": "二階堂美樹",
@@ -218,6 +220,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "藤田佳奈",
       "chs_t": "藤田佳奈",
@@ -310,6 +313,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "三上千织",
       "chs_t": "三上千織",
@@ -402,6 +406,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "相原舞",
       "chs_t": "相原舞",
@@ -494,6 +499,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "抚子",
       "chs_t": "撫子",
@@ -586,6 +592,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "八木唯",
       "chs_t": "八木唯",
@@ -678,6 +685,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "九条璃雨",
       "chs_t": "九條璃雨",
@@ -770,6 +778,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "泽尼娅",
       "chs_t": "澤尼婭",
@@ -862,6 +871,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "卡维",
       "chs_t": "卡維",
@@ -954,6 +964,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 1,
+    "hand_option": null,
     "name": {
       "chs": "四宫夏生",
       "chs_t": "四宮夏生",
@@ -1046,6 +1057,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "汪次郎",
       "chs_t": "汪次郎",
@@ -1138,6 +1150,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "一之濑空",
       "chs_t": "一之瀨空",
@@ -1230,6 +1243,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "明智英树",
       "chs_t": "明智英樹",
@@ -1322,6 +1336,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "轻库娘",
       "chs_t": "輕庫娘",
@@ -1421,6 +1436,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 2,
+    "hand_option": null,
     "name": {
       "chs": "莎拉",
       "chs_t": "莎拉",
@@ -1513,6 +1529,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "二之宫花",
       "chs_t": "二之宮花",
@@ -1605,6 +1622,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 1,
+    "hand_option": null,
     "name": {
       "chs": "白石奈奈",
       "chs_t": "白石奈奈",
@@ -1697,6 +1715,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "小鸟游雏田",
       "chs_t": "小鳥遊雛田",
@@ -1789,6 +1808,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "五十岚阳菜",
       "chs_t": "五十嵐陽菜",
@@ -1881,6 +1901,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "凉宫杏树",
       "chs_t": "涼宮杏樹",
@@ -1973,6 +1994,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "约瑟夫",
       "chs_t": "約瑟夫",
@@ -2065,6 +2087,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "斋藤治",
       "chs_t": "齋藤治",
@@ -2157,6 +2180,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "北见纱和子",
       "chs_t": "北見紗和子",
@@ -2249,6 +2273,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "艾因",
       "chs_t": "艾因",
@@ -2341,6 +2366,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "雏桃",
       "chs_t": "雛桃",
@@ -2433,6 +2459,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "月见山",
       "chs_t": "月見山",
@@ -2525,6 +2552,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "藤本绮罗",
       "chs_t": "藤本綺羅",
@@ -2617,6 +2645,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "辉夜姬",
       "chs_t": "輝夜姬",
@@ -2671,7 +2700,7 @@
       "chs_t": "自稱是神明輝夜姬的兔耳少女，雖然擁有著可愛的外表，但是因為其愛捉弄人的性格，常常讓人不禁懷疑她作為神明的真實性。來到魂天神社之後，想要讓魂天神社開始供奉自己，從此與一姬開始了水火不容，爭奪神社的日子……",
       "jp": "自称「神様のかぐや姫」だといううさ耳少女。見た目は可愛らしいが、嘘といたずらが大好きな性格のため、神であることへの信憑性が疑問視されている。魂天神社に来てからは、一姫と神社所有権をかけた争いが絶えない日々を送っているという。",
       "en": "This girl has rabbit ears and calls herself Kaguyahime. She declares that anyone who touches her ears will be cursed by the Moon. Occasionally, she may quote the famous line \"On behalf of the Moon, I shall exterminate you\" and makes you wonder whether she is really a goddess or not. While her appearance looks like a cute girl, she enjoys pranking others and lying. After her arrival at Mahjong Soul Shrine, she started to battle for the ownership of the shrine and the rivalry between her and Ichihime got really intense...",
-      "kr": "여신 카구야히메'라며 자칭하는 토끼귀 소녀. 외모는 귀엽지만, 거짓말과 장난을 매우 좋아하는 성격 탓에 여신이라는 사실에 대해 신빙성을 의심받고 있다. 혼천 신사에 온 뒤로는, 혼천 신사가 모셔야 하는 건 자신이라 우기며 싸움이 끊이질 않는 나날을 보내고 있다."
+      "kr": "'여신 카구야히메'라며 자칭하는 토끼귀 소녀. 외모는 귀엽지만, 거짓말과 장난을 매우 좋아하는 성격 탓에 여신이라는 사실에 대해 신빙성을 의심받고 있다. 혼천 신사에 온 뒤로는, 혼천 신사가 모셔야 하는 건 자신이라 우기며 싸움이 끊이질 않는 나날을 보내고 있다."
     }
   },
   {
@@ -2709,6 +2738,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "如月莲",
       "chs_t": "如月蓮",
@@ -2801,6 +2831,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "石原碓海",
       "chs_t": "石原碓海",
@@ -2893,6 +2924,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "艾丽莎",
       "chs_t": "艾麗莎",
@@ -2985,6 +3017,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 1,
+    "hand_option": null,
     "name": {
       "chs": "寺崎千穗理",
       "chs_t": "寺崎千穗理",
@@ -3077,6 +3110,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "宫永咲",
       "chs_t": "宮永咲",
@@ -3155,6 +3189,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "原村和",
       "chs_t": "原村和",
@@ -3233,6 +3268,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "天江衣",
       "chs_t": "天江衣",
@@ -3311,6 +3347,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "宫永照",
       "chs_t": "宮永照",
@@ -3389,6 +3426,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "福姬",
       "chs_t": "福姬",
@@ -3481,6 +3519,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "七夕",
       "chs_t": "七夕",
@@ -3573,6 +3612,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "蛇喰梦子",
       "chs_t": "蛇喰夢子",
@@ -3651,6 +3691,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "早乙女芽亚里",
       "chs_t": "早乙女芽亞里",
@@ -3729,6 +3770,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "生志摩妄",
       "chs_t": "生志摩妄",
@@ -3807,6 +3849,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "桃喰绮罗莉",
       "chs_t": "桃喰綺羅莉",
@@ -3885,6 +3928,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "七海礼奈",
       "chs_t": "七海禮奈",
@@ -3977,6 +4021,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "A-37",
       "chs_t": "A-37",
@@ -4069,6 +4114,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 1,
+    "hand_option": null,
     "name": {
       "chs": "姬川响",
       "chs_t": "姬川響",
@@ -4161,6 +4207,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "莱恩",
       "chs_t": "萊恩",
@@ -4253,6 +4300,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "森川绫子",
       "chs_t": "森川綾子",
@@ -4345,6 +4393,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "泷川夏彦",
       "chs_t": "瀧川夏彥",
@@ -4437,6 +4486,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "赤木茂",
       "chs_t": "赤木茂",
@@ -4529,6 +4579,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "鹫巢岩",
       "chs_t": "鷲巢巖",
@@ -4621,6 +4672,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "西园寺一羽",
       "chs_t": "西園寺一羽",
@@ -4713,6 +4765,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "小野寺七羽",
       "chs_t": "小野寺七羽",
@@ -4805,6 +4858,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "夏弥尔",
       "chs_t": "夏彌爾",
@@ -4897,6 +4951,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "四宫辉夜",
       "chs_t": "四宮輝夜",
@@ -4982,6 +5037,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "白银御行",
       "chs_t": "白銀御行",
@@ -5067,6 +5123,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "早坂爱",
       "chs_t": "早坂愛",
@@ -5152,6 +5209,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "白银圭",
       "chs_t": "白銀圭",
@@ -5237,6 +5295,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 4,
+    "hand_option": null,
     "name": {
       "chs": "柚",
       "chs_t": "柚",
@@ -5329,6 +5388,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "泽克斯",
       "chs_t": "澤克斯",
@@ -5421,6 +5481,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "北原莉莉",
       "chs_t": "北原莉莉",
@@ -5513,6 +5574,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "竹井久",
       "chs_t": "竹井久",
@@ -5591,6 +5653,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "福路美穗子",
       "chs_t": "福路美穗子",
@@ -5669,6 +5732,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "新子憧",
       "chs_t": "新子憧",
@@ -5747,6 +5811,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "园城寺怜",
       "chs_t": "園城寺怜",
@@ -5825,6 +5890,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "四宫冬实",
       "chs_t": "四宮冬實",
@@ -5917,6 +5983,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 5,
+    "hand_option": null,
     "name": {
       "chs": "青鸾",
       "chs_t": "青鸞",
@@ -6009,6 +6076,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "如月彩音",
       "chs_t": "如月彩音",
@@ -6101,6 +6169,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": 3,
+    "hand_option": null,
     "name": {
       "chs": "未来",
       "chs_t": "未來",
@@ -6193,6 +6262,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "鲁鲁修·兰佩洛基",
       "chs_t": "魯路修·蘭佩洛基",
@@ -6278,6 +6348,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "C.C.",
       "chs_t": "C.C.",
@@ -6363,6 +6434,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "枢木朱雀",
       "chs_t": "樞木朱雀",
@@ -6448,6 +6520,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "红月卡莲",
       "chs_t": "紅月卡蓮",
@@ -6533,6 +6606,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "岚星",
       "chs_t": "嵐星",
@@ -6625,6 +6699,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "凌",
       "chs_t": "凌",
@@ -6717,6 +6792,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "东城玄音",
       "chs_t": "東城玄音",
@@ -6809,6 +6885,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "汉娜",
       "chs_t": "漢娜",
@@ -6901,6 +6978,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "穆萨",
       "chs_t": "穆薩",
@@ -6993,6 +7071,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "伊莉雅",
       "chs_t": "伊莉雅",
@@ -7078,6 +7157,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "美游",
       "chs_t": "美遊",
@@ -7163,6 +7243,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "小黑",
       "chs_t": "小黑",
@@ -7248,6 +7329,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "吉尔",
       "chs_t": "吉爾",
@@ -7333,6 +7415,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "伊芙·克里斯特",
       "chs_t": "伊芙·克里斯特",
@@ -7425,6 +7508,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "琳琅",
       "chs_t": "琳琅",
@@ -7517,6 +7601,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "袁枫",
       "chs_t": "袁楓",
@@ -7609,6 +7694,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "砂狼白子",
       "chs_t": "砂狼白子",
@@ -7687,6 +7773,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "小鸟游星野",
       "chs_t": "小鳥遊星野",
@@ -7765,6 +7852,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "陆八魔爱露",
       "chs_t": "陸八魔亞瑠",
@@ -7843,6 +7931,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "浅黄睦月",
       "chs_t": "淺黃無月",
@@ -7921,6 +8010,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "玖辻",
       "chs_t": "玖辻",
@@ -8013,6 +8103,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "希里",
       "chs_t": "希里",
@@ -8105,6 +8196,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "局",
       "chs_t": "局",
@@ -8197,6 +8289,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "莱娅",
       "chs_t": "萊婭",
@@ -8289,6 +8382,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "辛西娅",
       "chs_t": "辛西婭",
@@ -8381,6 +8475,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "南枫花",
       "chs_t": "南楓花",
@@ -8473,6 +8568,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "非名",
       "chs_t": "非名",
@@ -8565,6 +8661,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "萨塔恩",
       "chs_t": "薩塔恩",
@@ -8657,6 +8754,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "花语青",
       "chs_t": "花語青",
@@ -8749,6 +8847,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "花语白",
       "chs_t": "花語白",
@@ -8841,6 +8940,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "浅仓透",
       "chs_t": "浅倉透",
@@ -8919,6 +9019,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "樋口圆香",
       "chs_t": "樋口圓香",
@@ -8997,6 +9098,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "福丸小糸",
       "chs_t": "福丸小糸",
@@ -9075,6 +9177,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "市川雏菜",
       "chs_t": "市川雛菜",
@@ -9153,6 +9256,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "简",
       "chs_t": "簡",
@@ -9245,6 +9349,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "元宵",
       "chs_t": "元宵",
@@ -9337,6 +9442,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "间桐樱",
       "chs_t": "間桐櫻",
@@ -9422,6 +9528,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "远坂凛",
       "chs_t": "遠坂凜",
@@ -9507,6 +9614,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "Saber",
       "chs_t": "Saber",
@@ -9592,6 +9700,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "Archer",
       "chs_t": "Archer",
@@ -9677,6 +9786,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "璃央",
       "chs_t": "璃央",
@@ -9769,6 +9879,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "坂田银时",
       "chs_t": "坂田銀時",
@@ -9840,6 +9951,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "桂小太郎",
       "chs_t": "桂小太郎",
@@ -9911,6 +10023,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "高杉晋助",
       "chs_t": "高杉晉助",
@@ -9982,6 +10095,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "坂本辰马",
       "chs_t": "坂本辰馬",
@@ -10053,6 +10167,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "弥拉",
       "chs_t": "彌拉",
@@ -10145,6 +10260,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "北落",
       "chs_t": "北落",
@@ -10237,6 +10353,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "筱原米亚",
       "chs_t": "筱原米亞",
@@ -10329,6 +10446,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "金乌",
       "chs_t": "金烏",
@@ -10421,6 +10539,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "赤麟",
       "chs_t": "赤麟",
@@ -10513,6 +10632,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "桐人",
       "chs_t": "桐人",
@@ -10584,6 +10704,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "亚丝娜",
       "chs_t": "亞絲娜",
@@ -10655,6 +10776,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "莉法",
       "chs_t": "莉法",
@@ -10726,6 +10848,7 @@
     "ur_cutin": null,
     "limited": 1,
     "treasure_sp": null,
+    "hand_option": 1,
     "name": {
       "chs": "诗乃",
       "chs_t": "詩乃",
@@ -10797,6 +10920,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "墨菲",
       "chs_t": "墨菲",
@@ -10889,6 +11013,7 @@
     "ur_cutin": null,
     "limited": null,
     "treasure_sp": null,
+    "hand_option": null,
     "name": {
       "chs": "泠星",
       "chs_t": "泠星",
@@ -10944,6 +11069,334 @@
       "jp": "才能と努力を兼ね備えたピアニスト。\n氷のように凛とした佇まいの奥には、清流のせせらぎのように繊細な想いが流れている。\n口下手な彼女は、胸の内をうまく言葉にできない。それでも、鍵盤から紡がれる音色は、客席にいるあなたへ、きっとその想いを届けてくれる。",
       "en": "A gifted pianist whose talent is matched only by her dedication. Beneath her cool, aloof exterior lies a gentle and sensitive soul. She may struggle to put her feelings into words, but every note she plays speaks in her place – and carries them straight to you in the audience.",
       "kr": "재능과 노력을 겸비한 피아니스트. 빙산같이 차가운 분위기 아래 가느다란 물결 같은 섬세한 마음이 자리하고 있다. 생각을 말로 잘 표현하진 못하지만, 건반 위에서 울려 퍼지는 음들이 그녀의 마음을 청중석에 있는 당신에게 반드시 전해줄 것이다."
+    }
+  },
+  {
+    "id": 20000128,
+    "sort": 128,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012801,
+    "full_fetter_skin": 40012802,
+    "hand": 30990017,
+    "favorite": 7,
+    "star_5_material": "302011-10,302012-10,303173|303073-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000128",
+    "sound": 128,
+    "sound_volume": 1,
+    "sound_folder": "fulilian",
+    "sex": 1,
+    "collaboration": 4,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": 1,
+    "treasure_sp": null,
+    "hand_option": 1,
+    "name": {
+      "chs": "芙莉莲",
+      "chs_t": "芙莉蓮",
+      "jp": "フリーレン",
+      "en": "Frieren",
+      "kr": "프리렌"
+    },
+    "desc_stature": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_birth": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_bloodtype": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_cv": {
+      "chs": "种崎敦美",
+      "chs_t": "種崎敦美",
+      "jp": "種﨑 敦美",
+      "en": "Atsumi Tanezaki",
+      "kr": "타네자키 아츠미"
+    },
+    "desc_hobby": {
+      "chs": "水星布丁、魔导书",
+      "chs_t": "水星布丁、魔導書",
+      "jp": "メルクーアプリン、魔導書",
+      "en": "Merkur pudding, grimoires",
+      "kr": "메르쿠어 푸딩, 마도서"
+    },
+    "desc": {
+      "chs": "曾经参与过魔王讨伐，活了上千年的精灵魔法使。一直以来性情淡然，但以辛美尔的死为契机，产生了想要去了解人类的念头。平时有着收集各种魔法的兴趣，在一番市停留期间，也正在尝试学习名为麻将的全新事物。",
+      "chs_t": "曾經參與過魔王討伐，活了上千年的精靈魔法使。一直以來性情淡然，但以欣梅爾的死為契機，產生了想要了解人類的念頭。平時有著收集各種魔法的興趣，在一番市停留期間，也正在嘗試學習名為麻將的全新事物。",
+      "jp": "千年以上生きるエルフで、勇者パーティーとして魔王を倒した魔法使い。\nずぼらでドライな性格、ヒンメルの死をきっかけに「人間を知りたい」と思うようになった。\n魔法であればどんなものでも興味を持つ魔法オタクで、一飜市に滞在している間は、「麻雀」という新たなものを学ぼうとしている。",
+      "en": "Frieren the Mage is an over-one-thousand-year-old elf who defeated the Demon King as part of the Hero's party.\nStoic and aloof, she began seeking to understand humans after the death of Himmel the Hero.\nShe is obsessed with magic and interested in anything and everything magical, but while staying in One Han City, she has decided to try something completely new: mahjong.",
+      "kr": "천 년 이상 산 엘프이자, 용사 파티의 일원으로 마왕을 쓰러뜨린 마법사. 흐리터분하고 무미건조한 성격이었으나, 힘멜의 죽음을 계기로 '인간을 알고 싶다'라는 마음을 가지게 되었다. 마법이라면 어떤 것이든 흥미를 느끼는 마법 오타쿠로, 이한시에 머무는 동안에도 '마작'이라는 새로운 것을 배우려고 하고 있다."
+    }
+  },
+  {
+    "id": 20000129,
+    "sort": 129,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40012901,
+    "full_fetter_skin": 40012902,
+    "hand": 30990018,
+    "favorite": 1,
+    "star_5_material": "302008-10,302009-10,303113|303013-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000129",
+    "sound": 129,
+    "sound_volume": 1,
+    "sound_folder": "feilun",
+    "sex": 1,
+    "collaboration": 4,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": 1,
+    "treasure_sp": null,
+    "hand_option": 1,
+    "name": {
+      "chs": "菲伦",
+      "chs_t": "費倫",
+      "jp": "フェルン",
+      "en": "Fern",
+      "kr": "페른"
+    },
+    "desc_stature": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_birth": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_bloodtype": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_cv": {
+      "chs": "市之濑加那",
+      "chs_t": "市之瀨加那",
+      "jp": "市ノ瀬 加那",
+      "en": "Kana Ichinose",
+      "kr": "이치노세 카나"
+    },
+    "desc_hobby": {
+      "chs": "甜味食物",
+      "chs_t": "甜味食物",
+      "jp": "甘い物",
+      "en": "Sweets",
+      "kr": "단 것"
+    },
+    "desc": {
+      "chs": "芙莉莲的徒弟，与芙莉莲一同旅行。\n自幼便拥有超凡的魔力，并且能以极高的精度进行操控，加上和芙莉莲一起修行累积的经验，她顺利通过了一级魔法使的考试。在一番市的这段时间里，菲伦认真对待着麻将的修行。",
+      "chs_t": "芙莉蓮的徒弟，與芙莉蓮一同旅行。\n自幼便擁有超凡的魔力，並且能以極高的精準度進行操控，加上和芙莉蓮一起修行累積的經驗，她順利通過了一級魔法使的考試。在一番市的這段期間，費倫認真對待著麻將的修行。",
+      "jp": "フリーレンの弟子として共に旅をする魔法使い。\n幼少時から身につけた卓越した魔力の操作技術とフリーレンの修行で、一級魔法使い試験に合格した。\n一飜市では麻雀の修行に打ち込んでいる。",
+      "en": "Fern is a mage who travels with Frieren as her apprentice.\nGifted with exceptional mana control from a young age, Fern honed her skills on the road with Frieren and went on to pass the first-class mage exam.\nNow in One Han City, she is applying that same diligent focus to her mahjong training.",
+      "kr": "프리렌의 제자로, 프리렌과 함께 여행하는 마법사. 어린 시절부터 몸에 익힌 탁월한 마력 조작 기술과 프리렌과의 수행으로 1급 마법사 시험에 합격했다. 이한시에서는 마작 수행에 몰두하고 있다."
+    }
+  },
+  {
+    "id": 20000130,
+    "sort": 130,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40013001,
+    "full_fetter_skin": 40013002,
+    "hand": 30990019,
+    "favorite": 1,
+    "star_5_material": "302005-10,302007-10,303113|303013-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000130",
+    "sound": 130,
+    "sound_volume": 1,
+    "sound_folder": "xiutaerke",
+    "sex": 2,
+    "collaboration": 4,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": 1,
+    "treasure_sp": null,
+    "hand_option": 1,
+    "name": {
+      "chs": "休塔尔克",
+      "chs_t": "修塔爾克",
+      "jp": "シュタルク",
+      "en": "Stark",
+      "kr": "슈타르크"
+    },
+    "desc_stature": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_birth": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_bloodtype": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_cv": {
+      "chs": "小林千晃",
+      "chs_t": "小林千晃",
+      "jp": "小林 千晃",
+      "en": "Chiaki Kobayashi",
+      "kr": "코바야시 치아키"
+    },
+    "desc_hobby": {
+      "chs": "巨无霸莓果冰淇淋",
+      "chs_t": "巨無霸莓果冰淇淋",
+      "jp": "ジャンボベリースペシャル",
+      "en": "Jumbo Berry Special",
+      "kr": "점보 베리 스페셜"
+    },
+    "desc": {
+      "chs": "与芙莉莲和菲伦一同踏上旅途的战士。孩子气，有些笨拙，偶尔会露出胆小的一面，但心地十分善良。\n战斗力超群，在队伍里担任前卫一职。\n在一番市遇见麻将后，为了让自己的麻将技术变得更强，正在努力训练。",
+      "chs_t": "與芙莉蓮和費倫一同踏上旅途的戰士。孩子氣，有些笨拙，偶爾會露出膽小的一面，但心地十分善良。\n戰鬥力超群，在隊伍裡擔任前衛一職。\n在一番市遇見麻將後，為了讓自己的麻將技術變得更強，正在努力訓練。",
+      "jp": "フリーレンとフェルンと共に旅をすることになった戦士。\n子供っぽい性格かつ不器用で臆病ながら、優しい心の持ち主。\n高い戦闘力を持ち、パーティーの前衛を務める。\n一飜市で知った麻雀が強くなるように、日々鍛錬を積んでいる。",
+      "en": "Stark is a warrior who joins Frieren and Fern on their journey.\nThough he can be a bit childish, clumsy, and even cowardly at times, he has an undeniable heart of gold.\nHe possesses great combat prowess and fights on the front lines of battle.\nEver since discovering mahjong in One Han City, he has been training hard to improve his game.",
+      "kr": "프리렌, 페른과 함께 여행을 하는 전사. 어린아이 같은 성격에 서툴고 겁이 많지만, 상냥한 마음의 소유자이다. 높은 전투력을 가져 파티에서 전위를 맡고 있다. 이한시에서 마작을 알게 된 후, 자신의 마작 실력을 늘리기 위해 매일 훈련 중이다."
+    }
+  },
+  {
+    "id": 20000131,
+    "sort": 131,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "name_chs2": null,
+    "name_chs_t2": null,
+    "name_jp2": null,
+    "open": 1,
+    "init_skin": 40013101,
+    "full_fetter_skin": 40013102,
+    "hand": 30990020,
+    "favorite": 8,
+    "star_5_material": "302006-10,302010-10,303183|303083-5,302002-10,302004-100",
+    "star_5_cost": null,
+    "can_marry": 1,
+    "exchange_item_id": 302002,
+    "exchange_item_num": 75,
+    "emo": "deco/emo/e20000131",
+    "sound": 131,
+    "sound_volume": 1,
+    "sound_folder": "youbeier",
+    "sex": 1,
+    "collaboration": 4,
+    "region_limit": null,
+    "skin_lib": [],
+    "ur": null,
+    "ur_ron": null,
+    "ur_liqi": null,
+    "ur_cutin": null,
+    "limited": 1,
+    "treasure_sp": null,
+    "hand_option": 1,
+    "name": {
+      "chs": "尤贝尔",
+      "chs_t": "尤蓓爾",
+      "jp": "ユーベル",
+      "en": "Übel",
+      "kr": "위벨"
+    },
+    "desc_stature": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_birth": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_bloodtype": {
+      "chs": "不明",
+      "chs_t": "不明",
+      "jp": "不明",
+      "en": "Unknown",
+      "kr": "불명"
+    },
+    "desc_cv": {
+      "chs": "长谷川育美",
+      "chs_t": "長谷川育美",
+      "jp": "長谷川 育美",
+      "en": "Ikumi Hasegawa",
+      "kr": "하세가와 이쿠미"
+    },
+    "desc_hobby": {
+      "chs": "剪裁布料的声音",
+      "chs_t": "剪裁布料的聲音",
+      "jp": "布を裁断する音",
+      "en": "The sound of cutting fabric",
+      "kr": "옷감을 재단하는 소리"
+    },
+    "desc": {
+      "chs": "凭感性行动的直觉派一级魔法使。通过与他人“共鸣”，可以使用他人的魔法。\n来到了一番市的她，似乎找到了在牌桌上与人共鸣的方法……",
+      "chs_t": "憑感性行動的直覺派一級魔法使。透過與他人「共鳴」，可以使用他人的魔法。\n來到了一番市的她，似乎找到了在牌桌上與人共鳴的方法……",
+      "jp": "感性や直感を元に行動する超感覚派の一級魔法使いで、他人に共感することでその人の魔法が使用可能になる能力を持っている。\n一飜市では、雀卓で共感できることを見つけたようだ。",
+      "en": "Guided by feeling and intuition, Übel is a first-class mage capable of using the specialty magic of people she empathizes with.\nSince arriving in One Han City, she seems to have found a way to empathize with her fellow players at the mahjong table...",
+      "kr": "감성이나 직감을 바탕으로 행동하는 초감각파의 1급 마법사. 타인과의 '공감'을 통해, 타인의 마법을 사용할 수 있는 능력을 가지고 있다. 이한시에서는, 작탁에서 공감할 수 있는 무언가를 찾은 듯하다."
     }
   }
 ]

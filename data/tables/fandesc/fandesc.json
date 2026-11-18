@@ -16,14 +16,14 @@
       "chs": "门前清状态听牌即可立直，立直状态下和牌",
       "chs_t": "門前清狀態聽牌即可立直，立直狀態下和牌",
       "jp": "門前清の状態で聴牌していると立直をかけることができ、立直後に和了した場合に成立する",
-      "en": "Win a hand after you declared Riichi; You may declare Riichi when you achieve Tenpai (ready hand) at Menzenchin (closed hand)",
+      "en": "Win a hand after declaring Riichi. To declare Riichi, your hand must be Menzenchin (closed) and in Tenpai (one tile away from winning).",
       "kr": "멘젠 상태에서 텐파이하면 리치를 걸 수 있고, 리치 후 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -44,7 +44,7 @@
       "chs": "手牌中不包含幺九牌（19万，19筒，19条，字牌）",
       "chs_t": "手牌中不包含么九牌（19萬、19筒、19條、字牌）",
       "jp": "幺九牌（一九字牌）を使わずに和了した場合に成立する",
-      "en": "Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)",
+      "en": "Win a hand without any Terminal tiles (1/9 Man, 1/9 Pin, 1/9 Sou) or Honor tiles (Winds and Dragons).",
       "kr": "요구패(1, 9 숫자패와 자패)를 사용하지 않고 화료하면 성립된다."
     }
   },
@@ -65,14 +65,14 @@
       "chs": "门前清状态下自摸和牌",
       "chs_t": "門前清狀態下自摸和牌",
       "jp": "門前かつツモ和了した場合に成立する",
-      "en": "Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand)",
+      "en": "Win a closed hand by Tsumo (drawing the winning tile yourself).",
       "kr": "멘젠 상태에서 쯔모로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -86,14 +86,14 @@
       "chs": "役牌：自风牌",
       "chs_t": "役牌：自風牌",
       "jp": "役牌:自風牌（トン・ナン・シャー・ペー）",
-      "en": "Seat Wind",
+      "en": "Yakuhai: Seat Wind",
       "kr": "역패: 자풍패"
     },
     "desc": {
       "chs": "包含自风刻子",
       "chs_t": "包含自風刻子",
       "jp": "自分の位置と同じ牌による刻子もしくは槓子があった場合に成立する",
-      "en": "Win a hand with a Triplet of Player Wind",
+      "en": "Win a hand with a triplet or quad of your Seat Wind.",
       "kr": "자신의 위치와 같은 풍패를 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -107,14 +107,14 @@
       "chs": "役牌：场风牌",
       "chs_t": "役牌：場風牌",
       "jp": "役牌:場風牌（トン・ナン・シャー・ペー）",
-      "en": "Prevalent Wind",
+      "en": "Yakuhai: Prevalent Wind",
       "kr": "역패: 장풍패"
     },
     "desc": {
       "chs": "包含场风刻子",
       "chs_t": "包含場風刻子",
       "jp": "場と同じ牌による刻子もしくは槓子があった場合に成立する",
-      "en": "Win a hand with a Triplet of Round Wind",
+      "en": "Win a hand with a triplet or quad of the current Round Wind.",
       "kr": "현재 장과 같은 풍패를 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -128,14 +128,14 @@
       "chs": "役牌：三元牌",
       "chs_t": "役牌：三元牌",
       "jp": "役牌:三元牌（ハク・ハツ・チュン）",
-      "en": "Dragons",
+      "en": "Yakuhai: Dragons",
       "kr": "역패: 삼원패"
     },
     "desc": {
       "chs": "包含白，发，中的刻子",
       "chs_t": "包含白、發、中的刻子",
       "jp": "白・發・中のいずれかの刻子もしくは槓子があった場合に成立する",
-      "en": "Win a hand with a Triplet of Dragon Tile (White, Green or Red)",
+      "en": "Win a hand with a triplet or quad of Dragon tiles (White, Green, or Red).",
       "kr": "백, 발, 중 3가지 중 하나를 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -156,14 +156,14 @@
       "chs": "4组顺子+非役牌的雀头+最后是顺子的两面听",
       "chs_t": "4組順子+非役牌的雀頭+最後是順子的兩面聽",
       "jp": "順子を4組作り、雀頭は役牌でなく、最後の順子が両面待ちで和了した場合に成立する",
-      "en": "Win a hand with four Sequences and one non-Yakuhai Pair, plus the potential winning tiles must be tiles from both side of a Sequence",
+      "en": "Win a closed hand with four sequences and a pair that is not Dragon, Seat Wind, or Round Wind tiles. The winning tile must complete a sequence on a two-sided wait (e.g., 6-7 waiting for 5 or 8).",
       "kr": "슌쯔를 4개 만들고, 또이쯔는 역패가 아니며, 마지막 슌쯔가 양면대기인 상태에서 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -184,14 +184,14 @@
       "chs": "2组完全相同的顺子",
       "chs_t": "2組完全相同的順子",
       "jp": "同種同数の順子が2組あった場合に成立する",
-      "en": "Win a hand with two identical Sequences",
+      "en": "Win a closed hand with two identical sequences (the same numbers in the same suit).",
       "kr": "똑같은 모양의 슌쯔가 2개 있으면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -212,7 +212,7 @@
       "chs": "别家加杠的时候荣和（国士无双可以抢暗杠）",
       "chs_t": "別家加槓的時候榮和（國士無雙可以搶暗槓）",
       "jp": "他家が加槓を宣言した牌が自らの和了牌であればロン和了可能で、その場合に成立する（国士無双は暗槓に対しても槍槓可能）",
-      "en": "Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai for Thirteen Orphans, you can call on a Closed Kan)",
+      "en": "Win a hand by Ron on the tile another player attempts to add to an open triplet to make a Kan. (With Thirteen Orphans, you can also call Ron on a closed Kan.)",
       "kr": "다른 플레이어가 가깡을 선언한 패가 자신의 오름패라면 론 화료할 수 있으며 그 경우 성립된다. (국사무쌍은 안깡도 창깡 가능)"
     }
   },
@@ -233,7 +233,7 @@
       "chs": "用摸到的岭上牌和牌",
       "chs_t": "用摸到的嶺上牌和牌",
       "jp": "嶺上牌で和了した場合に成立する",
-      "en": "Win a hand with the tile drawn from the Dead Wall after immediately calling a Kan",
+      "en": "Win a hand on the tile drawn from the Dead Wall immediately after calling a Kan.",
       "kr": "영상패로 화료한 경우 성립된다."
     }
   },
@@ -254,7 +254,7 @@
       "chs": "最后一张牌自摸和牌",
       "chs_t": "最後一張牌自摸和牌",
       "jp": "その局の最後のツモ牌でツモ和了した場合に成立する",
-      "en": "Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall",
+      "en": "Win a hand by Tsumo on the last tile drawn from the Tile Wall.",
       "kr": "패산의 마지막 쯔모패로 쯔모 화료한 경우 성립된다."
     }
   },
@@ -275,7 +275,7 @@
       "chs": "最后一张牌荣和",
       "chs_t": "最後一張牌榮和",
       "jp": "その局の最後の捨て牌でロン和了した場合に成立する",
-      "en": "Win a hand by calling Ron (declare winning) on the last discarded tile",
+      "en": "Win a hand by Ron on the final discard after the last tile is drawn from the Tile Wall.",
       "kr": "마지막 버림패로 론 화료한 경우 성립된다."
     }
   },
@@ -296,14 +296,14 @@
       "chs": "立直后，无人鸣牌的状态下一巡内和牌",
       "chs_t": "立直後，在無人鳴牌的狀態一巡內和牌",
       "jp": "立直をかけた後、誰の鳴き(ポン・チー・カン)も入らないで1巡以内に和了した場合に成立する",
-      "en": "Win a hand within 1 turn after declaring Riichi, in addition, draws/discards must not be interrupted by tile calls during that turn",
+      "en": "Win a hand within one turn after declaring Riichi, with no intervening calls (Chii, Pon, or Kan) by any player.",
       "kr": "리치를 건 후 아무도 후로하지 않고 1바퀴 이내에 화료한 경우 성립된다."
     },
     "desc2": {
       "chs": "",
       "chs_t": "",
       "jp": "リーチ時​のみ",
-      "en": "",
+      "en": "Riichi only",
       "kr": "리치 한정"
     }
   },
@@ -324,7 +324,7 @@
       "chs": "宝牌指示牌的下一张牌",
       "chs_t": "寶牌指示牌的下一張牌",
       "jp": "ドラ表示牌の次位牌",
-      "en": "The next tile immediately after the flipped Dora Indicator Tile",
+      "en": "The next tile in sequence after the revealed Dora indicator.",
       "kr": "도라 표시패의 다음 패"
     },
     "desc2": {
@@ -352,7 +352,7 @@
       "chs": "红5万，红5筒，红5索",
       "chs_t": "紅5萬、紅5筒、紅5索",
       "jp": "赤五萬・赤五筒・赤五索",
-      "en": "Red 5-Man, Red 5-Pin, Red 5-Sou",
+      "en": "Red 5 Man, Red 5 Pin, Red 5 Sou. (Also known as Red Dora.)",
       "kr": "적 5만, 적 5통, 적 5삭"
     },
     "desc2": {
@@ -380,7 +380,7 @@
       "chs": "在三人麻将中，北风在拔北操作后可以被当做宝牌（手牌中不算）",
       "chs_t": "在三人麻將中，北風在拔北操作後可以被當做寶牌（手牌中不算）",
       "jp": "三人対戦のみ。北は抜かれた後にドラとして扱う",
-      "en": "In 3-Player Mahjong, North Wind can be considered as a Dora after “Kita” is called (does not count as a Dora if North Wind remains in hand)",
+      "en": "In 3-player mahjong, declare Kita to set aside a North Wind tile and count it as bonus Dora. (North Wind tiles kept in your hand do not count as bonus Dora.)",
       "kr": "3인 대국 한정. 북빼기 시 도라로 취급"
     },
     "desc2": {
@@ -401,14 +401,14 @@
       "chs": "古役：燕返",
       "chs_t": "古役：燕返",
       "jp": "ローカル役：燕返し（ツバメガエシ）",
-      "en": "Local Yaku: Tsubame-gaeshi",
+      "en": "Local Yaku: Tsubame Gaeshi",
       "kr": "로컬역: 츠바메가에시"
     },
     "desc": {
       "chs": "荣和别家的立直宣言牌（仅第一张的宣言牌）",
       "chs_t": "榮和他家的立直宣言牌（僅第一張的宣言牌）",
       "jp": "他家のリーチ宣言牌でロン和了した場合に成立する",
-      "en": "Call a Ron on the first tile discarded by another player to declare Riichi",
+      "en": "(Swallow Return) Win a hand by Ron on another player's Riichi declaration discard.",
       "kr": "다른 플레이어가 리치 선언 직후 버린 패를 론하면 성립된다."
     },
     "desc2": {
@@ -436,7 +436,7 @@
       "chs": "在别家杠完后打出一张牌时自家荣和",
       "chs_t": "在他家槓完後打出一張牌時自家榮和",
       "jp": "槓をした直後の打牌に対してロン和了した場合に成立する",
-      "en": "Call a Ron on a tile discarded by another player who just called Kan",
+      "en": "Win a hand by Ron on the first tile another player discards after they declare a Kan.",
       "kr": "다른 플레이어가 깡 선언 직후 버린 패를 론하면 성립된다."
     },
     "desc2": {
@@ -457,14 +457,14 @@
       "chs": "古役：十二落抬",
       "chs_t": "古役：十二落抬",
       "jp": "ローカル役：十二落抬（シーアルラオタイ）",
-      "en": "Local Yaku: Shiiaruraotai",
+      "en": "Local Yaku: Shiiaru Raotai",
       "kr": "로컬역: 십이낙태"
     },
     "desc": {
       "chs": "四副露自摸或者荣和",
       "chs_t": "四副露自摸或者榮和",
       "jp": "4面子すべてを鳴いて単騎待ちで和了した場合に成立する",
-      "en": "Win a hand by Tsumo or Ron with 4 open Chii, Pon, or Kan",
+      "en": "Win a hand with four open sets (formed by Chii, Pon, or Kan) and a single-tile wait to complete the pair.",
       "kr": "몸통 4개 모두를 후로로 만들고 단기대기 상태로 화료하면 성립된다."
     },
     "desc2": {
@@ -492,14 +492,14 @@
       "chs": "轮到自己之前无人鸣牌的状态下第一巡就立直",
       "chs_t": "輪到自己之前無人鳴牌的狀態下第一巡就立直",
       "jp": "誰の鳴き(ポン・チー・カン)も入らないで自分の第1打で立直した場合成立する",
-      "en": "Declare Riichi with your starting hand before any tiles are called",
+      "en": "Declare Riichi on your first discard, before any player makes a tile call (Chii, Pon, or Kan).",
       "kr": "아무도 후로하지 않은 상태일 때, 자신의 첫 타에서 리치를 선언하고 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -520,7 +520,7 @@
       "chs": "万，筒，索都有相同数字的刻子",
       "chs_t": "萬，筒，索都有相同數位的刻子",
       "jp": "萬子・索子・筒子それぞれの色で同じ数字の刻子・槓子があった場合に成立する",
-      "en": "Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)",
+      "en": "Win a hand with three triplets or quads of the same number, one in each suit (Man, Pin, and Sou).",
       "kr": "똑같은 숫자의 숫자패 3가지 모두를 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -541,7 +541,7 @@
       "chs": "一人开杠3次",
       "chs_t": "一人開槓3次",
       "jp": "槓子を3つ作って和了した場合に成立する",
-      "en": "Win a hand with three Quads",
+      "en": "Win a hand with three quads (Kans).",
       "kr": "깡쯔를 3개 만들고 화료하면 성립된다."
     }
   },
@@ -562,7 +562,7 @@
       "chs": "拥有4组刻子或者杠",
       "chs_t": "擁有4組刻子或者槓",
       "jp": "刻子・槓子を4つ作って和了した場合に成立する",
-      "en": "Win a hand with four Triplets or Quads",
+      "en": "Win a hand with four triplets or quads.",
       "kr": "커쯔 또는 깡쯔를 4개 만들고 화료하면 성립된다."
     }
   },
@@ -583,7 +583,7 @@
       "chs": "拥有3组没有碰的刻子",
       "chs_t": "擁有3組沒有碰的刻子",
       "jp": "暗刻を3つ作って和了した場合に成立する",
-      "en": "Win a hand with three closed Triplets or closed Quads",
+      "en": "Win a hand with three concealed triplets or quads.",
       "kr": "안커를 3개 만들고 화료하면 성립된다."
     }
   },
@@ -604,7 +604,7 @@
       "chs": "包含白、发、中其中2种的刻子+剩下1种的雀头",
       "chs_t": "包含白、發、中其中2種的刻子+剩下1種的雀頭",
       "jp": "白・發・中のいずれかを雀頭とし、残り2つを刻子・槓子にして和了した場合に成立する",
-      "en": "Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), plus a Pair of the third Dragon Tile",
+      "en": "Win a hand with two triplets or quads of different Dragons (White, Green, or Red) and a pair of the third.",
       "kr": "백, 발, 중 중 하나를 또이쯔로 만들고, 나머지를 둘을 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -625,7 +625,7 @@
       "chs": "胡牌时只包含老头牌（19万，19筒，19索）和字牌",
       "chs_t": "胡牌時只包含老頭牌（19萬、19筒、19索）和字牌",
       "jp": "幺九牌（一九牌と字牌）だけで和了した場合に成立する",
-      "en": "Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)",
+      "en": "Win a hand containing only Terminal tiles (1/9 Man, 1/9 Pin, 1/9 Sou) and Honor tiles (Winds and Dragons).",
       "kr": "요구패(1, 9 숫자패와 자패)만 가지고 화료하면 성립된다."
     }
   },
@@ -646,14 +646,14 @@
       "chs": "7组不同的对子",
       "chs_t": "7組不同的對子",
       "jp": "違う対子を7組そろえた場合に成立する",
-      "en": "Win a hand with seven different Pairs",
+      "en": "Win a hand with seven distinct pairs.",
       "kr": "서로 다른 또이쯔를 7개 모으면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -674,7 +674,7 @@
       "chs": "包含老头牌加上字牌的4组顺子和刻子+幺九牌的雀头",
       "chs_t": "包含老頭牌加上字牌的4組順子和刻子+么九牌的雀頭",
       "jp": "4面子1雀頭の全てに幺九牌（一九牌と字牌）が関わっていた場合に成立する",
-      "en": "Win a hand where every Sequence, Triplet and Pair contains at least one Terminal Tile",
+      "en": "Win a hand with at least one Terminal or Honor tile in every set and in the pair.",
       "kr": "몸통 4개와 머리 1개 전부 요구패(1, 9 숫자패와 자패)가 들어가 있으면 성립된다."
     },
     "desc2": {
@@ -702,7 +702,7 @@
       "chs": "同种数牌组成123,456,789的顺子",
       "chs_t": "同種數牌組成123,456,789的順子",
       "jp": "同種の数牌で123・456・789の順子があった場合に成立する",
-      "en": "Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, 789-Man)",
+      "en": "Win a hand with the sequences 123, 456, and 789 in the same suit.",
       "kr": "한 종류의 숫자패로 123, 456, 789를 슌쯔로 모으면 성립된다."
     },
     "desc2": {
@@ -730,7 +730,7 @@
       "chs": "万，筒，索都有相同数字的顺子",
       "chs_t": "萬，筒，索都有相同數位的順子",
       "jp": "萬子・索子・筒子それぞれの色で同じ並びの順子があった場合に成立する",
-      "en": "Win a hand with three Sequences with the same numbers out of three different Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)",
+      "en": "Win a hand with three sequences of the same numbers, one in each suit (Man, Pin, and Sou).",
       "kr": "숫자패 3가지 모두를 똑같은 슌쯔로 만들면 성립된다."
     },
     "desc2": {
@@ -758,7 +758,7 @@
       "chs": "包含万，筒，索，风牌，三元牌",
       "chs_t": "包含萬、筒、索、風牌與三元牌",
       "jp": "萬子・筒子・索子・風牌・三元牌を全て使って和了した場合に成立する",
-      "en": "Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles",
+      "en": "Win a hand containing tiles from all five categories: Man, Pin, Sou, Winds, and Dragons.",
       "kr": "만수패, 삭수패, 통수패, 풍패, 삼원패를 모두 사용하여 화료하면 성립된다."
     },
     "desc2": {
@@ -786,7 +786,7 @@
       "chs": "包含三个连续的同种类的刻子",
       "chs_t": "包含三個連續的同種類刻子",
       "jp": "連続する3つの刻子を作って和了した場合に成立する",
-      "en": "Win a hand with 3 consecutive Triplets",
+      "en": "Win a hand with three triplets or quads of consecutive numbers in the same suit.",
       "kr": "연속된 3개의 커쯔를 만들면 성립된다."
     },
     "desc2": {
@@ -814,14 +814,14 @@
       "chs": "包含2组一杯口",
       "chs_t": "包含2組一盃口",
       "jp": "一盃口が2つあった場合に成立する",
-      "en": "Win a hand with two sets two identical Sequences",
+      "en": "Win a closed hand with two pairs of identical sequences (the same numbers in the same suit within each pair).",
       "kr": "이페코가 둘이면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -842,7 +842,7 @@
       "chs": "只包含老头牌的4组顺子和刻子+老头牌的雀头",
       "chs_t": "只包含老頭牌的4組順子和刻子+老頭牌的雀頭",
       "jp": "4面子1雀頭の全てに老頭牌（一九牌）が関わっていた場合に成立する",
-      "en": "Win a hand with every Sequence, Triplet and Pair contains at least one 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)",
+      "en": "Win a hand with at least one Terminal tile (1/9 Man, 1/9 Pin, 1/9 Sou) in every set and in the pair.",
       "kr": "몸통 4개와 머리 1개 전부 노두패(1, 9 숫자패)가 들어가 있으면 성립된다."
     },
     "desc2": {
@@ -870,7 +870,7 @@
       "chs": "只包含1种数牌，并且含有字牌的刻子或者雀头",
       "chs_t": "只包含1種數牌，並且含有字牌的刻子或者雀頭",
       "jp": "萬子、索子、筒子のどれか一種と、字牌だけを使って和了した場合に成立する",
-      "en": "Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou) and Honor Tiles (Wind Tiles and Dragon Tiles)",
+      "en": "Win a hand with tiles from only one suit (Man, Pin, or Sou) and Honor tiles (Winds and Dragons).",
       "kr": "한 종류의 수패와 자패만으로 화료하면 성립된다."
     },
     "desc2": {
@@ -898,14 +898,14 @@
       "chs": "包含三组完全相同的顺子",
       "chs_t": "包含三組完全相同的順子",
       "jp": "同じ種類の同じ数の順子を3つ作って和了した場合に成立する",
-      "en": "Win a hand with three identical Sequences",
+      "en": "(Pure Triple Sequence) Win a hand with three identical sequences (the same numbers in the same suit).",
       "kr": "동일한 3개의 슌쯔를 만들면 성립된다."
     },
     "desc2": {
       "chs": "副露减1番，段位场不使用",
       "chs_t": "副露減1番，段位場不使用",
       "jp": "食い下がり​一飜",
-      "en": "-1 Han after making a call; Not used in Ranked Match",
+      "en": "-1 Han after making a call; not used in Ranked Match",
       "kr": "후로 시 1판 감소, 등급전 미적용"
     }
   },
@@ -926,7 +926,7 @@
       "chs": "只包含1种数牌，不能含有字牌",
       "chs_t": "只包含1種數牌，不能含有字牌",
       "jp": "萬子、索子、筒子のどれか一種だけを使って和了した場合に成立する",
-      "en": "Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou)",
+      "en": "Win a hand with tiles from only one suit (Man, Pin, or Sou).",
       "kr": "한 종류의 숫자패만으로 화료하면 성립된다."
     },
     "desc2": {
@@ -954,7 +954,7 @@
       "chs": "自己的舍张全是幺九牌并且没有被他家吃碰杠的状态下荒牌流局",
       "chs_t": "自己的舍張全是么九牌並且沒有被他家吃碰槓的狀態下荒牌流局",
       "jp": "流局時に、自分の捨て牌がすべて幺九牌で他家に1枚もポン・チー・カンをされなかった場合に成立する",
-      "en": "When a game ends in Exhaustive Draw, you win with this Yaku if all your discarded tiles are Terminal Tiles and none were called by other players",
+      "en": "At an exhaustive draw, score a Mangan if all your discards are Terminal or Honor tiles and none have been called by other players.",
       "kr": "유국됐을 때, 자신이 버린 패가 전부 요구패이며 그것을 아무도 후로하지 않았을 경우 성립된다."
     }
   },
@@ -968,14 +968,14 @@
       "chs": "古役：一筒摸月",
       "chs_t": "古役：一筒摸月",
       "jp": "ローカル役：一筒摸月(イーピンモーユエ)",
-      "en": "Local Yaku: Iipinmoyue",
+      "en": "Local Yaku: Iipin Mouyue",
       "kr": "로컬역: 일통모월"
     },
     "desc": {
       "chs": "最后一张牌自摸和牌，且这张牌为1筒（五番）",
       "chs_t": "最後一張牌自摸和牌，且這張牌為1筒（五番）",
       "jp": "海底で引いたツモ和了牌が一筒だった場合に成立する（五飜）",
-      "en": "Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall, and that tile must be 1-Pin(5 Han)",
+      "en": "Win a hand by Tsumo on the last tile drawn from the Tile Wall, which must be 1 Pin. (5 Han)",
       "kr": "해저로월을 1통으로 화료하면 성립된다. (5판)"
     },
     "desc2": {
@@ -996,14 +996,14 @@
       "chs": "古役：九筒捞鱼",
       "chs_t": "古役：九筒撈魚",
       "jp": "ローカル役：九筒撈魚（チューピンラオユイ）",
-      "en": "Local Yaku: Chuupinraoyui",
+      "en": "Local Yaku: Chuupin Raoyui",
       "kr": "로컬역: 구통노어"
     },
     "desc": {
       "chs": "最后一张牌荣和，且这张牌为9筒（五番）",
       "chs_t": "最後一張牌榮和，且這張牌為9筒（五番）",
       "jp": "河底で打牌された九筒でロン和了した場合に成立する（五飜）",
-      "en": "Call a Ron on the last tile drawn from the Wall, and that tile must be 9-Pin(5 Han)",
+      "en": "Win a hand by Ron on the final discard after the last tile is drawn from the Tile Wall. That discard must be 9 Pin. (5 Han)",
       "kr": "하저로어를 9통으로 화료하면 성립된다. (5판)"
     },
     "desc2": {
@@ -1031,14 +1031,14 @@
       "chs": "庄家配牌时，14张牌为和牌状态",
       "chs_t": "莊家配牌時，14張牌為和牌狀態",
       "jp": "親の配牌の時点で既に和了した場合に成立する",
-      "en": "Win a hand by Tsumo as a dealer in the first turn with the first draw",
+      "en": "Win a hand as the dealer with your initial 14 tiles.",
       "kr": "오야가 처음 배패에서 이미 화료된 경우 성립된다."
     },
     "desc2": {
       "chs": "庄家限定",
       "chs_t": "莊家限定",
       "jp": "親のみ",
-      "en": "Dealer Only",
+      "en": "Dealer only",
       "kr": "오야 한정"
     }
   },
@@ -1059,14 +1059,14 @@
       "chs": "轮到自己之前无人鸣牌的状态下第一巡自摸和牌",
       "chs_t": "輪到自己之前無人鳴牌的狀態下第一巡自摸和牌",
       "jp": "子が配牌時点で聴牌し、誰の鳴き(ポン・チー・カン)も入らないで第1ツモで和了した場合に成立する",
-      "en": "Win a hand by Tsumo as a non-dealer in the first turn before any tiles are called",
+      "en": "Win a hand by Tsumo as a non-dealer on your first draw, before any player makes a tile call (Chii, Pon, or Kan).",
       "kr": "처음 배패로 텐파이하고, 아무도 후로하지 않은 상태에서 처음 쯔모한 패로 화료한 경우 성립된다."
     },
     "desc2": {
       "chs": "子家限定",
       "chs_t": "子家限定",
       "jp": "子のみ",
-      "en": "Non-Dealer Only",
+      "en": "Non-dealer only",
       "kr": "자 한정"
     }
   },
@@ -1087,7 +1087,7 @@
       "chs": "包含白、发、中的三组刻子",
       "chs_t": "包含白、發、中的三組刻子",
       "jp": "白・發・中の三種類の刻子もしくは槓子があった場合に成立する",
-      "en": "Win a hand with three Triplets or Quads of all the three Dragon Tiles",
+      "en": "Win a hand with a triplet or quad of each Dragon (White, Green, and Red).",
       "kr": "백, 발, 중 3가지를 모두 커쯔 또는 깡쯔로 만들면 성립된다."
     }
   },
@@ -1108,14 +1108,14 @@
       "chs": "包含没有碰的4组刻子",
       "chs_t": "包含沒有碰的4組刻子",
       "jp": "暗刻を4つ作って和了した場合に成立する",
-      "en": "Win a hand with four closed Triplets",
+      "en": "Win a hand with four concealed triplets or quads.",
       "kr": "안커를 4개 만들고 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1136,7 +1136,7 @@
       "chs": "只包含字牌",
       "chs_t": "只有包含字牌",
       "jp": "字牌だけを使って和了した場合に成立する",
-      "en": "Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and Dragon Tiles)",
+      "en": "Win a hand with only Honor tiles (Winds and Dragons).",
       "kr": "자패만으로 화료하면 성립된다."
     }
   },
@@ -1157,14 +1157,14 @@
       "chs": "只包含索子的23468以及发",
       "chs_t": "只包含索子的23468以及發",
       "jp": "二索、三索、四索、六索、八索と發だけを使って和了した場合に成立する",
-      "en": "Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou and/or Green (F)",
+      "en": "Win a hand with only green-colored tiles: 2/3/4/6/8 Sou and/or Green Dragons.",
       "kr": "2, 3, 4, 6, 8삭과 발패만으로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "无发也可以",
       "chs_t": "無發也可以",
       "jp": "發は必要ではない",
-      "en": "Green Dragon is not Necessary",
+      "en": "Green Dragon optional",
       "kr": "발패 없이도 가능"
     }
   },
@@ -1185,7 +1185,7 @@
       "chs": "手牌中只有老头牌（19万，19筒，19索）",
       "chs_t": "手牌中只有老頭牌（19萬、19筒、19索）",
       "jp": "老頭牌（一九牌）だけを使って和了した場合に成立する",
-      "en": "Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)",
+      "en": "Win a hand with only Terminal tiles (1/9 Man, 1/9 Pin, 1/9 Sou).",
       "kr": "노두패(1,9 숫자패)만으로 화료하면 성립된다."
     }
   },
@@ -1206,14 +1206,14 @@
       "chs": "全部十三种幺九牌各1张外加其中一种再有1张",
       "chs_t": "全部十三種么九牌各1張外加其中一種再有1張",
       "jp": "幺九牌13種すべて1枚ずつ揃え、そのうちのどれか1種を雀頭として和了した場合に成立する",
-      "en": "Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of them",
+      "en": "Win a hand with one of each of the 13 Terminal and Honor tiles, plus a duplicate of any one of them.",
       "kr": "요구패 13종을 모두 1장씩 가지고, 그중 하나를 2개 가지고 있으면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1234,7 +1234,7 @@
       "chs": "包含三种风牌的刻子+剩下一种风牌的雀头",
       "chs_t": "包含三種風牌的刻子+剩下一種風牌的雀頭",
       "jp": "東・南・西・北のうち3種を刻子・槓子にし、残り1種を雀頭にして和了した場合に成立する",
-      "en": "Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of the fourth wind",
+      "en": "Win a hand with triplets or quads of three different Winds, plus a pair of the fourth Wind.",
       "kr": "동, 남, 서, 북 중 3가지를 커쯔 또는 깡쯔로 만들고, 나머지 1가지를 또이쯔로 만들어 화료하면 성립된다."
     }
   },
@@ -1255,7 +1255,7 @@
       "chs": "1人开杠4次",
       "chs_t": "1人開槓4次",
       "jp": "槓子を4つ作って和了した場合に成立する",
-      "en": "Win a hand with four Quads",
+      "en": "Win a hand with four quads (Kans).",
       "kr": "깡쯔를 4개 만들고 화료하면 성립된다."
     }
   },
@@ -1276,14 +1276,14 @@
       "chs": "同种数牌1112345678999+其中任意一种再有1张",
       "chs_t": "同種數牌1112345678999+其中任意一種再有1張",
       "jp": "萬子、索子、筒子のどれか一種だけで「1112345678999+X」の形を作って和了した場合に成立する",
-      "en": "Win a hand with tiles from only one of the three Number Tiles in the order of “1112345678999”, plus any tile matches one of them",
+      "en": "Win a closed hand with 1112345678999 in a single suit (Man, Pin, or Sou), plus one additional tile of the same suit.",
       "kr": "숫자패 중 한 종류만으로 '1112345678999' 형태로 만들고 같은 종류의 아무 숫자패를 하나 더 가지고 있으면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1304,14 +1304,14 @@
       "chs": "身为子家，第一巡无人鸣牌的情况下，轮到自己摸牌前荣和",
       "chs_t": "身為子家，第一巡無人鳴牌的情況下，輪到自己摸牌前榮和",
       "jp": "子が自身の第1ツモ以前にロン和了した場合に成立する",
-      "en": "Call a Ron as a non-dealer in the first turn you draw a tile and before any tiles are called",
+      "en": "Win a hand by Ron as a non-dealer before your first draw and before any player makes a tile call (Chii, Pon, or Kan).",
       "kr": "자신의 첫 쯔모가 오기 전에 론 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1332,14 +1332,14 @@
       "chs": "由筒子“2-8”各两张牌所组成的七对子",
       "chs_t": "由筒子「2-8」各兩張牌所組成的七對子",
       "jp": "門前で2～8の筒子のみで対子を7組作って和了した場合に成立する",
-      "en": "Win a hand with 7 Pairs consist of 2-Pin to 8-Pin",
+      "en": "Win a hand with seven pairs, one pair of each Pin tile from 2 through 8.",
       "kr": "2~8 통수패만으로 또이쯔를 7개 만들면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1360,14 +1360,14 @@
       "chs": "由索子\"2-8\"各两张牌所组成的七对子",
       "chs_t": "由索子「2-8」各兩張牌所組成的七對子",
       "jp": "門前で2～8の索子のみで対子を7組作って和了した場合に成立する",
-      "en": "Win a hand with 7 Pairs consist of 2-Sou to 8-Sou",
+      "en": "Win a hand with seven pairs, one pair of each Sou tile from 2 through 8.",
       "kr": "2~8 삭수패만으로 또이쯔를 7개 만들면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1388,14 +1388,14 @@
       "chs": "由万子\"2-8\"各两张牌所组成的七对子",
       "chs_t": "由萬子「2-8」各兩張牌所組成的七對子",
       "jp": "門前で2～8の萬子のみで対子を7組作って和了した場合に成立する",
-      "en": "Win a hand with 7 Pairs consist of 2-Man to 8-Man",
+      "en": "Win a hand with seven pairs, one pair of each Man tile from 2 through 8.",
       "kr": "2~8 만수패만으로 또이쯔를 7개 만들면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1416,14 +1416,14 @@
       "chs": "两立直+海底摸月 或 两立直+河底捞鱼",
       "chs_t": "兩立直+海底摸月 或 兩立直+河底撈魚",
       "jp": "ダブル立直した状態かつ、海底摸月または河底撈魚を複合させた場合に成立する",
-      "en": "Win a hand with Double Riichi as well as Under the Sea/River",
+      "en": "(Three Years on a Stone) Win a hand with Double Riichi and either Under the Sea or Under the River.",
       "kr": "더블리치 상태에서 해저로월 또는 하저로어로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1437,21 +1437,21 @@
       "chs": "四暗刻单骑",
       "chs_t": "四暗刻單騎",
       "jp": "四暗刻単騎（スーアンコウタンキ）",
-      "en": "Single-wait Four Concealed Triplets",
+      "en": "Single-Wait Four Concealed Triplets",
       "kr": "스안커 단기"
     },
     "desc": {
       "chs": "四暗刻最后单骑听牌和牌",
       "chs_t": "四暗刻最後單騎聽牌和牌",
       "jp": "四暗刻を単騎待ちで和了した場合に成立する",
-      "en": "Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one remaining tile to form a Pair)",
+      "en": "Win a hand with four concealed triplets or quads after waiting on a single tile type to complete the pair.",
       "kr": "스안커를 단기 대기로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1465,21 +1465,21 @@
       "chs": "国士无双十三面",
       "chs_t": "國士無雙十三面",
       "jp": "国士無双十三面待ち（コクシムソウジュウサンメンマチ）",
-      "en": "Thirteen-wait Thirteen Orphans",
+      "en": "Thirteen-Wait Thirteen Orphans",
       "kr": "국사무쌍 13면 대기"
     },
     "desc": {
       "chs": "国士无双最后13面听牌和牌",
       "chs_t": "國士無雙最後13面聽牌和牌",
       "jp": "国士無双を十三面待ちで和了した場合に成立する",
-      "en": "Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting for 1 out of 13 possible tiles to win)",
+      "en": "Win a hand by drawing a duplicate while already holding one of each of the 13 Terminal and Honor tiles. Any of these tiles can be the winning tile.",
       "kr": "국사무쌍을 13면 대기로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1500,14 +1500,14 @@
       "chs": "九莲宝灯最后9面听牌和牌",
       "chs_t": "九蓮寶燈最後9面聽牌和牌",
       "jp": "九蓮宝燈を九面待ちで和了した場合に成立する",
-      "en": "Achieve Tenpai with tiles from only one of the three Number Tiles in the order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win)",
+      "en": "Win a hand while already holding 1112345678999 in a single suit, with any tile of that suit as the winning tile.",
       "kr": "구련보등을 9면 대기로 화료하면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定",
       "chs_t": "門前清限定",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only",
+      "en": "Closed hand only",
       "kr": "멘젠 한정"
     }
   },
@@ -1528,7 +1528,7 @@
       "chs": "包含4种风牌的刻子",
       "chs_t": "包含4種風牌的刻子",
       "jp": "東・南・西・北の4種を刻子・槓子にして和了した場合に成立する",
-      "en": "Win a hand with four Triplets or Quads of the Wind Tiles",
+      "en": "Win a hand with a triplet or quad of each Wind (East, South, West, and North).",
       "kr": "동, 남, 서, 북 4가지를 모두 커쯔 또는 깡쯔로 갖고 있으면 성립된다."
     }
   },
@@ -1549,14 +1549,14 @@
       "chs": "由七种字牌所组成的七对子",
       "chs_t": "由七種字牌所組成的七對子",
       "jp": "字牌7種をすべて使って七対子を作った場合に成立",
-      "en": "Win a hand with 7 Pairs consist of only Word tiles",
+      "en": "Win a hand with seven pairs, one pair of each Honor tile (Winds and Dragons).",
       "kr": "자패 7종을 모두 사용해 치또이쯔를 만들면 성립된다."
     },
     "desc2": {
       "chs": "门前清限定，段位场不使用",
       "chs_t": "門前清限定，段位場不使用",
       "jp": "門前清の場合のみ",
-      "en": "Menzenchin Only; Not used in Ranked Match",
+      "en": "Closed hand only; not used in Ranked Match",
       "kr": "멘젠 한정, 등급전 미적용"
     }
   },
@@ -1577,7 +1577,7 @@
       "chs": "无人鸣牌的状况下4人都在第一巡打出同一种风牌",
       "chs_t": "無人鳴牌的狀況下4人都在第一巡打出同一種風牌",
       "jp": "誰の鳴き(ポン・チー・カン)も入らないで全プレイヤーが最初の打牌で同じ風牌を捨てた場合流局とする",
-      "en": "The game becomes a draw when each player discards the same Wind Tile in the first turn",
+      "en": "The hand ends in an abortive draw if all four players discard the same Wind tile on their first turn and no tile calls have been made.",
       "kr": "모든 플레이어가 첫 타패로 모두 같은 풍패를 버렸을 경우 유국된다."
     }
   },
@@ -1591,14 +1591,14 @@
       "chs": "四杠散了",
       "chs_t": "四槓散了",
       "jp": "四槓散了（スーカンナガレ）",
-      "en": "Four-kan Abortion",
+      "en": "Four-Kan Abortion",
       "kr": "사깡유국"
     },
     "desc": {
       "chs": "2人以上合计开杠4次",
       "chs_t": "2人以上合計開槓4次",
       "jp": "複数のプレイヤーにより合計で4回の槓が行われた場合流局とする",
-      "en": "The game becomes a draw when two or more players called for a total of four Quads",
+      "en": "The hand ends in an abortive draw when two or more players have called a total of four Kans.",
       "kr": "2인 이상의 플레이어가 합계 4번의 깡을 했을 경우 유국된다."
     }
   },
@@ -1619,7 +1619,7 @@
       "chs": "第一巡轮到自己之前无人鸣牌的状态下拥有9种及以上的幺九牌",
       "chs_t": "第一巡輪到自己之前無人鳴牌的狀態下擁有9種及以上的么九牌",
       "jp": "誰の鳴き(ポン・チー・カン)も入らないで、親の配牌または子の第1ツモの時点で手牌の中に幺九牌が9種類以上あった場合、倒牌して流局することができる",
-      "en": "You have the option to declare a draw in the first turn if your hand consists of 9 different Terminal Tiles  before any tiles are called",
+      "en": "You may declare an abortive draw before your first discard if you hold at least 9 different Terminal and Honor tiles and no player has made a tile call.",
       "kr": "오야의 배패 혹은 자의 첫 쯔모 이후 손패 안에 요구패가 9종류 이상 있을 경우 패를 공개하고 유국시킬 수 있다."
     }
   },
@@ -1633,14 +1633,14 @@
       "chs": "四家立直",
       "chs_t": "四家立直",
       "jp": "四家立直（スーチャリーチ）",
-      "en": "Four-player Riichi",
+      "en": "Four-Player Riichi",
       "kr": "사가리치"
     },
     "desc": {
       "chs": "4人全部宣告立直成功",
       "chs_t": "4人全部宣告立直成功",
       "jp": "4人のプレイヤー全員が立直した場合に流局とする",
-      "en": "The game becomes a draw when all players have declared Riichi",
+      "en": "The hand ends in an abortive draw when all four players have declared Riichi.",
       "kr": "4명이 전부 리치한 경우 유국된다."
     }
   },
@@ -1661,7 +1661,7 @@
       "chs": "不满足任何役种的基础和牌型",
       "chs_t": "不滿足任何役種的基礎和牌型",
       "jp": "（赤血の戦限定）役が一切成立しない状態で和了の形を完成した場合に成立する",
-      "en": "The basic winning hand that does not satisfy any Yaku (except bonus Yaku) in the Bloodshed Skirmish.",
+      "en": "A basic winning hand in Bloodshed Skirmish with no yaku other than bonus yaku, if any.",
       "kr": "(적혈전 한정) 역이 성립되지 않는 상태에서 화료하면 성립된다."
     }
   },
@@ -1675,14 +1675,14 @@
       "chs": "奖励役：杠上花",
       "chs_t": "獎勵役：槓上花",
       "jp": "嶺上開花（リンシャン）",
-      "en": "Bonus Yaku:After a Kan",
+      "en": "Bonus Yaku: After a Kan",
       "kr": "영상개화"
     },
     "desc": {
       "chs": "使用杠后摸到的牌和牌",
       "chs_t": "使用槓後摸到的牌和牌",
       "jp": "嶺上牌で和了した場合に成立する",
-      "en": "Win a hand with the tile drawn from the Dead Wall after immediately calling a Kan.",
+      "en": "Win a hand on the tile drawn from the Dead Wall immediately after calling a Kan.",
       "kr": "영상패로 화료한 경우 성립된다."
     }
   },
@@ -1696,14 +1696,14 @@
       "chs": "奖励役：杠上炮",
       "chs_t": "獎勵役：槓上炮",
       "jp": "嶺上放銃（リンシャンホウジュウ）",
-      "en": "Bonus Yaku:Dealing into Win after Kan",
+      "en": "Bonus Yaku: Discard After Kan",
       "kr": "영상방총"
     },
     "desc": {
       "chs": "荣和别家杠后打出的牌",
       "chs_t": "榮和別家槓後打出的牌",
       "jp": "（赤血の戦限定）他家が槓した後の打牌でロン和了した場合に成立する",
-      "en": "Win a hand with the discarded tile of another player who just called a Kan.",
+      "en": "Win a hand by Ron on the first tile another player discards after they declare a Kan.",
       "kr": "(적혈전 한정) 다른 플레이어가 깡 선언 직후 버린 패를 론하면 성립된다."
     }
   },
@@ -1717,14 +1717,14 @@
       "chs": "奖励役：抢杠",
       "chs_t": "獎勵役：搶槓",
       "jp": "槍槓（チャンカン）",
-      "en": "Bonus Yaku:Robbing a Kan",
+      "en": "Bonus Yaku: Robbing a Kan",
       "kr": "창깡"
     },
     "desc": {
       "chs": "别家加杠的时候荣和",
       "chs_t": "別家加槓的時候榮和",
       "jp": "他家加槓を宣言した牌が自らの和了牌であればロン和了可能で、その場合に成立する",
-      "en": "Win a hand when another player adds to an Open Triplet.",
+      "en": "Win a hand by Ron on the tile another player attempts to add to an open triplet to make a Kan.",
       "kr": "다른 플레이어가 가깡을 선언한 패가 자신의 오름패라면 론 화료할 수 있으며 그 경우 성립된다."
     }
   },
@@ -1738,14 +1738,14 @@
       "chs": "奖励役：海底捞月",
       "chs_t": "獎勵役：海底撈月",
       "jp": "海底摸月（ハイテイ）",
-      "en": "Bonus Yaku:Under the Sea",
+      "en": "Bonus Yaku: Under the Sea",
       "kr": "해저로월"
     },
     "desc": {
       "chs": "最后一张牌荣和或自摸",
       "chs_t": "最後一張牌榮和或自摸",
       "jp": "（赤血の戦限定）その局最後の捨て牌またはツモ牌で和了した場合に成立する",
-      "en": "Win a hand by Ron or Tsumo with the last tile drawn from the Wall.",
+      "en": "Win a hand by Tsumo on the last tile drawn from the Tile Wall, or by Ron on the discard that follows.",
       "kr": "(적혈전 한정)마지막 쯔모패 또는 마지막 버림패로 론 화료한 경우 성립된다."
     }
   },
@@ -1759,14 +1759,14 @@
       "chs": "奖励役：根",
       "chs_t": "獎勵役：根",
       "jp": "根（ルート）",
-      "en": "Bonus Yaku:Root",
+      "en": "Bonus Yaku: Root",
       "kr": "루트"
     },
     "desc": {
       "chs": "手牌与副露牌合计，同一种类的牌集齐4张（包括杠）",
       "chs_t": "手牌與副露牌合計，同一種類的牌集齊4張（包括槓）",
       "jp": "（赤血の戦限定）同じ牌を4枚そろえた場合に成立する",
-      "en": "Have 4 of the same tiles, counting Hand and callings (including Kans).",
+      "en": "Have four identical tiles in total across your hand and called sets (including Kans).",
       "kr": "(적혈전 한정) 같은 패를 4장 사용하면 성립된다."
     }
   },
@@ -1787,7 +1787,7 @@
       "chs": "拥有4组刻子或者杠",
       "chs_t": "擁有4組刻子或者槓",
       "jp": "刻子・槓子を4つ作って和了した場合に成立する",
-      "en": "Have 4 sets of Triplets or Kans.",
+      "en": "Win a hand with four triplets or quads.",
       "kr": "커쯔 또는 깡쯔를 4개 만들고 화료하면 성립된다."
     }
   },
@@ -1808,7 +1808,7 @@
       "chs": "只包含1种花色的牌（万，筒，索之一）",
       "chs_t": "只包含1種花色的牌（萬，筒，索之一）",
       "jp": "萬子・筒子・索子のどれか一種だけを使って和了した場合に成立する",
-      "en": "Have tiles from only one of the three suits (Man/Pin/Sou).",
+      "en": "Win a hand with tiles from only one suit (Man, Pin, or Sou).",
       "kr": "한 종류의 숫자패만으로 화료하면 성립된다."
     }
   },
@@ -1829,7 +1829,7 @@
       "chs": "7组对子（可以有相同的对子）",
       "chs_t": "7組對子（可以有相同的對子）",
       "jp": "（赤血の戦限定）対子を7組そろえた場合に成立する（同じ対子でも可）",
-      "en": "7 sets of Pairs (same pairs are allowed).",
+      "en": "Win a hand with seven pairs. Four identical tiles may count as two pairs.",
       "kr": "(적혈전 한정) 또이쯔를 7개 모으면 성립된다. (같은 또이쯔도 가능)"
     }
   },
@@ -1850,7 +1850,7 @@
       "chs": "只包含老头牌的4组顺子和刻子+老头牌的雀头",
       "chs_t": "只包含老頭牌的4組順子和刻子+老頭牌的雀頭",
       "jp": "（赤血の戦限定）4面子1雀頭のすべてに幺九牌（一九牌）が関わっていた場合に成立する",
-      "en": "Have only the 4 sets of Sequences and Triplets of Terminals + Pair of Terminals.",
+      "en": "Win a hand with at least one Terminal tile (1/9 Man, 1/9 Pin, 1/9 Sou) in every set and in the pair.",
       "kr": "(적혈전 한정) 몸통 4개와 머리 1개 전부 요구패(1, 9 숫자패와 자패)가 들어가 있으면 성립된다."
     }
   },
@@ -1871,7 +1871,7 @@
       "chs": "四次碰牌或杠牌后和牌",
       "chs_t": "四次碰牌或槓牌後和牌",
       "jp": "（赤血の戦限定）4回副露した後に単騎待ちの状態で和了した場合に成立する",
-      "en": "Tsumo or Ron with four callings.",
+      "en": "Win a hand with four open triplets or quads (formed by Pon or Kan).",
       "kr": "(적혈전 한정) 후로 4번 이후 단기대기 상태로 화료하면 성립된다."
     }
   },
@@ -1892,7 +1892,7 @@
       "chs": "清一色的对对和",
       "chs_t": "清一色的對對和",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って対々和を成立させた場合に成立する",
-      "en": "A Full Flush consist of all triplets.",
+      "en": "Win a hand with four triplets or quads and a pair, all in the same suit. (Full Flush + All Triplets)",
       "kr": "(적혈전 한정) 한 종류의 숫자패만 사용하여 또이또이 형태로 만들면 성립된다."
     }
   },
@@ -1913,7 +1913,7 @@
       "chs": "对对和，且所有牌的数字均为258之一。",
       "chs_t": "對對和，且所有牌的數字均為258之一。",
       "jp": "（赤血の戦限定）2・5・8の牌のみを使って対々和を成立させた場合に成立する",
-      "en": "All Triplets with all of the tiles numbered 2, 5, or 8.",
+      "en": "Win a hand with All Triplets using only tiles numbered 2, 5, or 8.",
       "kr": "(적혈전 한정) 2, 5, 8 숫자패만 사용해 또이또이 형태로 만들면 성립된다."
     }
   },
@@ -1934,7 +1934,7 @@
       "chs": "七对子，且其中有两组相同的对子",
       "chs_t": "七對子，且其中有兩組相同的對子",
       "jp": "（赤血の戦限定）同じ対子を含めて七対子を成立させた場合に成立する",
-      "en": "Seven Pairs with two of the same pair.",
+      "en": "Win a hand with seven pairs, including four identical tiles counted as two pairs.",
       "kr": "(적혈전 한정) 같은 또이쯔를 포함해 치또이쯔 형태로 만들면 성립된다."
     }
   },
@@ -1955,7 +1955,7 @@
       "chs": "清一色的七对子",
       "chs_t": "清一色的七對子",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って七対子を成立させた場合に成立する",
-      "en": "A Full Flush consist of seven pairs.",
+      "en": "Win a hand with seven pairs, all in the same suit. (Full Flush + Seven Pairs)",
       "kr": "(적혈전 한정) 한 종류의 숫자패만 사용하여 치또이쯔 형태로 만들면 성립된다."
     }
   },
@@ -1969,14 +1969,14 @@
       "chs": "清幺九",
       "chs_t": "清么九",
       "jp": "清幺九（チンヤオチュウ）",
-      "en": "All Terminals",
+      "en": "Pure Terminals in All Sets",
       "kr": "청요구"
     },
     "desc": {
       "chs": "清一色的带幺九",
       "chs_t": "清一色的帶么九",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って帯幺九を成立させた場合に成立する",
-      "en": "A Full Flush consist of Terminals in all sets.",
+      "en": "Win a hand with tiles from only one suit and at least one Terminal tile in every set and in the pair. (Full Flush + Terminals in All Sets)",
       "kr": "(적혈전 한정) 한 종류의 숫자패만 사용하여 대요구 형태로 만들면 성립된다."
     }
   },
@@ -1997,7 +1997,7 @@
       "chs": "清一色的金钩钓",
       "chs_t": "清一色的四副露自摸或者榮和",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って金勾釣を成立させた場合に成立する",
-      "en": "Single Wait after 4 Triplets of Full Flush.",
+      "en": "Win a hand with four open triplets or quads and a pair, all in the same suit. (Full Flush + Single Wait after 4 Triplets)",
       "kr": "(적혈전 한정) 한 종류의 숫자패만 사용하여 금구조 형태로 만들면 성립된다."
     }
   },
@@ -2018,7 +2018,7 @@
       "chs": "庄家第一巡和牌",
       "chs_t": "莊家第一巡和牌",
       "jp": "親の配牌の時点で既に和了した場合に成立する",
-      "en": "Win a hand by Tsumo as a dealer in the first turn with the first draw.",
+      "en": "Win a hand as the dealer with your initial 14 tiles.",
       "kr": "오야가 처음 배패에서 이미 화료된 경우 성립된다."
     }
   },
@@ -2039,7 +2039,7 @@
       "chs": "轮到自己之前无人鸣牌的状态下第一巡自摸和牌",
       "chs_t": "輪到自己之前無人鳴牌的狀態下第一巡自摸和牌",
       "jp": "子が配牌の時点で聴牌し、誰の鳴きも入らないで第一ツモで和了した場合に成立する",
-      "en": "Win a hand by Tsumo as a non-dealer in the first turn before any tiles are called.",
+      "en": "Win a hand by Tsumo as a non-dealer on your first draw, before any player makes a tile call (Chii, Pon, or Kan).",
       "kr": "처음 배패로 텐파이하고, 아무도 후로하지 않은 상태에서 처음 쯔모한 패로 화료한 경우 성립된다."
     }
   },
@@ -2060,7 +2060,7 @@
       "chs": "清一色的七对子，且其中有两组相同的对子",
       "chs_t": "清一色的七對子，且其中有兩組相同的對子",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って龍七対を成立させた場合に成立する",
-      "en": "A Full Flush consist of seven pairs with two same pairs.",
+      "en": "Win a hand with seven pairs in a single suit, including four identical tiles counted as two pairs. (Full Flush + Seven Pairs with One Duplicate)",
       "kr": "(적혈전 한정)한 종류의 숫자패만 사용하여 용치또이 형태로 만들면 성립된다."
     }
   },
@@ -2081,7 +2081,7 @@
       "chs": "开杠4次",
       "chs_t": "開槓4次",
       "jp": "（赤血の戦限定）4回槓して和了した場合に成立する",
-      "en": "Call a Kan for 4 times.",
+      "en": "Win a hand with four quads (Kans).",
       "kr": "(적혈전 한정)깡을 4번하고 화료하면 성립된다."
     }
   },
@@ -2102,7 +2102,7 @@
       "chs": "清一色，且开杠4次",
       "chs_t": "清一色，且開槓4次",
       "jp": "（赤血の戦限定）萬子・筒子・索子のどれか一種だけを使って十八羅漢を成立させた場合に成立する",
-      "en": "Call a Kan for 4 times and win a hand with Full Flush",
+      "en": "Win a hand with four quads and a pair, all in the same suit. (Full Flush + Four Quads)",
       "kr": "(적혈전 한정)한 종류의 숫자패만 사용하여 십팔라한 형태로 만들면 성립된다."
     }
   }

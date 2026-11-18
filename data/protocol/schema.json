@@ -12947,6 +12947,398 @@
           "nested_messages": []
         },
         {
+          "name": "ReqMajWorkshopActivityCollect",
+          "full_name": ".lq.ReqMajWorkshopActivityCollect",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityCollect.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "garden_id",
+              "full_name": ".lq.ReqMajWorkshopActivityCollect.garden_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityCraft",
+          "full_name": ".lq.ReqMajWorkshopActivityCraft",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityCraft.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "crafts",
+              "full_name": ".lq.ReqMajWorkshopActivityCraft.crafts",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityFetchData",
+          "full_name": ".lq.ReqMajWorkshopActivityFetchData",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityFetchData.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityGardenRestore",
+          "full_name": ".lq.ReqMajWorkshopActivityGardenRestore",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityGardenRestore.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "garden_id",
+              "full_name": ".lq.ReqMajWorkshopActivityGardenRestore.garden_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityGardenRestoreAndCollect",
+          "full_name": ".lq.ReqMajWorkshopActivityGardenRestoreAndCollect",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityGardenRestoreAndCollect.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "garden_id",
+              "full_name": ".lq.ReqMajWorkshopActivityGardenRestoreAndCollect.garden_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityQuickCraft",
+          "full_name": ".lq.ReqMajWorkshopActivityQuickCraft",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "target_craft_id",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.target_craft_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "garden_collects",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.garden_collects",
+              "number": 3,
+              "label": "repeated",
+              "type": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect",
+              "type_code": 11,
+              "raw_type_ref": "REQMAJWORKSHOPACTIVITYQUICKCRAFT_ACTIVITYMAJWORKSHOPGARDENCOLLECT"
+            },
+            {
+              "name": "craft_steps",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.craft_steps",
+              "number": 4,
+              "label": "repeated",
+              "type": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep",
+              "type_code": 11,
+              "raw_type_ref": "REQMAJWORKSHOPACTIVITYQUICKCRAFT_ACTIVITYMAJWORKSHOPCRAFTSTEP"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": [
+            {
+              "name": "ActivityMajWorkshopGardenCollect",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect",
+              "fields": [
+                {
+                  "name": "garden_id",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect.garden_id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "use_free_collect",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect.use_free_collect",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "bool",
+                  "type_code": 8,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "cost",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect.cost",
+                  "number": 3,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            },
+            {
+              "name": "CraftInput",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.CraftInput",
+              "fields": [
+                {
+                  "name": "craft_id",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.CraftInput.craft_id",
+                  "number": 1,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                },
+                {
+                  "name": "from",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.CraftInput.from",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            },
+            {
+              "name": "ActivityMajWorkshopCraftStep",
+              "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep",
+              "fields": [
+                {
+                  "name": "input",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep.input",
+                  "number": 1,
+                  "label": "repeated",
+                  "type": ".lq.ReqMajWorkshopActivityQuickCraft.CraftInput",
+                  "type_code": 11,
+                  "raw_type_ref": "REQMAJWORKSHOPACTIVITYQUICKCRAFT_CRAFTINPUT"
+                },
+                {
+                  "name": "output_craft_id",
+                  "full_name": ".lq.ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep.output_craft_id",
+                  "number": 2,
+                  "label": "optional",
+                  "type": "uint32",
+                  "type_code": 13,
+                  "raw_type_ref": null
+                }
+              ],
+              "nested_enums": [],
+              "nested_messages": []
+            }
+          ]
+        },
+        {
+          "name": "ReqMajWorkshopActivityRead",
+          "full_name": ".lq.ReqMajWorkshopActivityRead",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityRead.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "craft_id_list",
+              "full_name": ".lq.ReqMajWorkshopActivityRead.craft_id_list",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityRecovery",
+          "full_name": ".lq.ReqMajWorkshopActivityRecovery",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityRecovery.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "craft_id",
+              "full_name": ".lq.ReqMajWorkshopActivityRecovery.craft_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivitySetSelectedOrder",
+          "full_name": ".lq.ReqMajWorkshopActivitySetSelectedOrder",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivitySetSelectedOrder.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "id",
+              "full_name": ".lq.ReqMajWorkshopActivitySetSelectedOrder.id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivitySubmitOrder",
+          "full_name": ".lq.ReqMajWorkshopActivitySubmitOrder",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivitySubmitOrder.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "order_id",
+              "full_name": ".lq.ReqMajWorkshopActivitySubmitOrder.order_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "craft_id",
+              "full_name": ".lq.ReqMajWorkshopActivitySubmitOrder.craft_id",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqMajWorkshopActivityUnderstandOrder",
+          "full_name": ".lq.ReqMajWorkshopActivityUnderstandOrder",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ReqMajWorkshopActivityUnderstandOrder.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "order_id",
+              "full_name": ".lq.ReqMajWorkshopActivityUnderstandOrder.order_id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ReqMarathonActivityFinishRace",
           "full_name": ".lq.ReqMarathonActivityFinishRace",
           "fields": [
@@ -15418,6 +15810,23 @@
             {
               "name": "chara_list",
               "full_name": ".lq.ReqSetHiddenCharacter.chara_list",
+              "number": 1,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ReqSetHiddenHandsView",
+          "full_name": ".lq.ReqSetHiddenHandsView",
+          "fields": [
+            {
+              "name": "hidden_hands_view",
+              "full_name": ".lq.ReqSetHiddenHandsView.hidden_hands_view",
               "number": 1,
               "label": "repeated",
               "type": "uint32",
@@ -18818,6 +19227,15 @@
               "name": "other_character_sort",
               "full_name": ".lq.ResCharacterInfo.other_character_sort",
               "number": 11,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "hidden_hands_view",
+              "full_name": ".lq.ResCharacterInfo.hidden_hands_view",
+              "number": 12,
               "label": "repeated",
               "type": "uint32",
               "type_code": 13,
@@ -25652,6 +26070,337 @@
           "nested_messages": []
         },
         {
+          "name": "ResMajWorkshopActivityCollect",
+          "full_name": ".lq.ResMajWorkshopActivityCollect",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityCollect.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityCollect.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityCraft",
+          "full_name": ".lq.ResMajWorkshopActivityCraft",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityCraft.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityCraft.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            },
+            {
+              "name": "greate_craft_id",
+              "full_name": ".lq.ResMajWorkshopActivityCraft.greate_craft_id",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "greate_success",
+              "full_name": ".lq.ResMajWorkshopActivityCraft.greate_success",
+              "number": 4,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "greate_success_craft",
+              "full_name": ".lq.ResMajWorkshopActivityCraft.greate_success_craft",
+              "number": 5,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityFetchData",
+          "full_name": ".lq.ResMajWorkshopActivityFetchData",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityFetchData.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "data",
+              "full_name": ".lq.ResMajWorkshopActivityFetchData.data",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopData",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPDATA"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityGardenRestore",
+          "full_name": ".lq.ResMajWorkshopActivityGardenRestore",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityGardenRestore.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityGardenRestore.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityGardenRestoreAndCollect",
+          "full_name": ".lq.ResMajWorkshopActivityGardenRestoreAndCollect",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityGardenRestoreAndCollect.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityGardenRestoreAndCollect.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityQuickCraft",
+          "full_name": ".lq.ResMajWorkshopActivityQuickCraft",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityQuickCraft.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityQuickCraft.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityRead",
+          "full_name": ".lq.ResMajWorkshopActivityRead",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityRead.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityRead.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityRecovery",
+          "full_name": ".lq.ResMajWorkshopActivityRecovery",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityRecovery.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityRecovery.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            },
+            {
+              "name": "extra_reward",
+              "full_name": ".lq.ResMajWorkshopActivityRecovery.extra_reward",
+              "number": 3,
+              "label": "repeated",
+              "type": ".lq.ExecuteReward",
+              "type_code": 11,
+              "raw_type_ref": "b.EXECUTEREWARD"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivitySetSelectedOrder",
+          "full_name": ".lq.ResMajWorkshopActivitySetSelectedOrder",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivitySetSelectedOrder.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivitySetSelectedOrder.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivitySubmitOrder",
+          "full_name": ".lq.ResMajWorkshopActivitySubmitOrder",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivitySubmitOrder.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "success",
+              "full_name": ".lq.ResMajWorkshopActivitySubmitOrder.success",
+              "number": 2,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivitySubmitOrder.changes",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ResMajWorkshopActivityUnderstandOrder",
+          "full_name": ".lq.ResMajWorkshopActivityUnderstandOrder",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResMajWorkshopActivityUnderstandOrder.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "changes",
+              "full_name": ".lq.ResMajWorkshopActivityUnderstandOrder.changes",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "b.ACTIVITYMAJWORKSHOPCHANGES"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ResMarathonActivityFinishRace",
           "full_name": ".lq.ResMarathonActivityFinishRace",
           "fields": [
@@ -28549,6 +29298,32 @@
           "nested_messages": []
         },
         {
+          "name": "ResSetHiddenHandsView",
+          "full_name": ".lq.ResSetHiddenHandsView",
+          "fields": [
+            {
+              "name": "error",
+              "full_name": ".lq.ResSetHiddenHandsView.error",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.Error",
+              "type_code": 11,
+              "raw_type_ref": "b.ERROR"
+            },
+            {
+              "name": "hidden_hands_view",
+              "full_name": ".lq.ResSetHiddenHandsView.hidden_hands_view",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
           "name": "ResSetVillageWorker",
           "full_name": ".lq.ResSetVillageWorker",
           "fields": [
@@ -31028,6 +31803,15 @@
               "type": ".lq.AccountActivityUpdate.ActivityBuffDataArrayDirty",
               "type_code": 11,
               "raw_type_ref": "ACCOUNTACTIVITYUPDATE_ACTIVITYBUFFDATAARRAYDIRTY"
+            },
+            {
+              "name": "work_shop_data",
+              "full_name": ".lq.AccountActivityUpdate.work_shop_data",
+              "number": 24,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPCHANGES"
             }
           ],
           "nested_enums": [],
@@ -35429,6 +36213,435 @@
               "type": ".lq.UInt32Dirty",
               "type_code": 11,
               "raw_type_ref": "UINT32DIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopChanges",
+          "full_name": ".lq.ActivityMajWorkshopChanges",
+          "fields": [
+            {
+              "name": "game",
+              "full_name": ".lq.ActivityMajWorkshopChanges.game",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopGameDataChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPGAMEDATACHANGES"
+            },
+            {
+              "name": "illustrated_book",
+              "full_name": ".lq.ActivityMajWorkshopChanges.illustrated_book",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopIllustratedBookChanges",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPILLUSTRATEDBOOKCHANGES"
+            },
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ActivityMajWorkshopChanges.activity_id",
+              "number": 3,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopCraft",
+          "full_name": ".lq.ActivityMajWorkshopCraft",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajWorkshopCraft.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "count",
+              "full_name": ".lq.ActivityMajWorkshopCraft.count",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopCraftArrayDirty",
+          "full_name": ".lq.ActivityMajWorkshopCraftArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajWorkshopCraftArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajWorkshopCraftArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopCraft",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPCRAFT"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopData",
+          "full_name": ".lq.ActivityMajWorkshopData",
+          "fields": [
+            {
+              "name": "activity_id",
+              "full_name": ".lq.ActivityMajWorkshopData.activity_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "game",
+              "full_name": ".lq.ActivityMajWorkshopData.game",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopGameData",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPGAMEDATA"
+            },
+            {
+              "name": "illustrated_book",
+              "full_name": ".lq.ActivityMajWorkshopData.illustrated_book",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopIllustratedBook",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPILLUSTRATEDBOOK"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopGameData",
+          "full_name": ".lq.ActivityMajWorkshopGameData",
+          "fields": [
+            {
+              "name": "level",
+              "full_name": ".lq.ActivityMajWorkshopGameData.level",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "sell_bouns_count",
+              "full_name": ".lq.ActivityMajWorkshopGameData.sell_bouns_count",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "crafts",
+              "full_name": ".lq.ActivityMajWorkshopGameData.crafts",
+              "number": 3,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopCraft",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPCRAFT"
+            },
+            {
+              "name": "gardens",
+              "full_name": ".lq.ActivityMajWorkshopGameData.gardens",
+              "number": 4,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopGarden",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPGARDEN"
+            },
+            {
+              "name": "orders",
+              "full_name": ".lq.ActivityMajWorkshopGameData.orders",
+              "number": 5,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopOrder",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPORDER"
+            },
+            {
+              "name": "last_sell_bouns_time",
+              "full_name": ".lq.ActivityMajWorkshopGameData.last_sell_bouns_time",
+              "number": 7,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "understood_order_ids",
+              "full_name": ".lq.ActivityMajWorkshopGameData.understood_order_ids",
+              "number": 8,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "selected_order_id",
+              "full_name": ".lq.ActivityMajWorkshopGameData.selected_order_id",
+              "number": 9,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopGameDataChanges",
+          "full_name": ".lq.ActivityMajWorkshopGameDataChanges",
+          "fields": [
+            {
+              "name": "level",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.level",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            },
+            {
+              "name": "sell_bouns_count",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.sell_bouns_count",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            },
+            {
+              "name": "crafts",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.crafts",
+              "number": 3,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopCraftArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPCRAFTARRAYDIRTY"
+            },
+            {
+              "name": "gardens",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.gardens",
+              "number": 4,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopGardenArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPGARDENARRAYDIRTY"
+            },
+            {
+              "name": "orders",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.orders",
+              "number": 5,
+              "label": "optional",
+              "type": ".lq.ActivityMajWorkshopOrderArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPORDERARRAYDIRTY"
+            },
+            {
+              "name": "selected_order_id",
+              "full_name": ".lq.ActivityMajWorkshopGameDataChanges.selected_order_id",
+              "number": 6,
+              "label": "optional",
+              "type": ".lq.UInt32Dirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32DIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopGarden",
+          "full_name": ".lq.ActivityMajWorkshopGarden",
+          "fields": [
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajWorkshopGarden.id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "last_collected_time",
+              "full_name": ".lq.ActivityMajWorkshopGarden.last_collected_time",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopGardenArrayDirty",
+          "full_name": ".lq.ActivityMajWorkshopGardenArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajWorkshopGardenArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajWorkshopGardenArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopGarden",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPGARDEN"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopIllustratedBook",
+          "full_name": ".lq.ActivityMajWorkshopIllustratedBook",
+          "fields": [
+            {
+              "name": "unlocked_craft_id",
+              "full_name": ".lq.ActivityMajWorkshopIllustratedBook.unlocked_craft_id",
+              "number": 1,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "have_read_craft_id",
+              "full_name": ".lq.ActivityMajWorkshopIllustratedBook.have_read_craft_id",
+              "number": 2,
+              "label": "repeated",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopIllustratedBookChanges",
+          "full_name": ".lq.ActivityMajWorkshopIllustratedBookChanges",
+          "fields": [
+            {
+              "name": "unlocked_craft_id",
+              "full_name": ".lq.ActivityMajWorkshopIllustratedBookChanges.unlocked_craft_id",
+              "number": 1,
+              "label": "optional",
+              "type": ".lq.UInt32ArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32ARRAYDIRTY"
+            },
+            {
+              "name": "have_read_craft_id",
+              "full_name": ".lq.ActivityMajWorkshopIllustratedBookChanges.have_read_craft_id",
+              "number": 2,
+              "label": "optional",
+              "type": ".lq.UInt32ArrayDirty",
+              "type_code": 11,
+              "raw_type_ref": "UINT32ARRAYDIRTY"
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopOrder",
+          "full_name": ".lq.ActivityMajWorkshopOrder",
+          "fields": [
+            {
+              "name": "order_id",
+              "full_name": ".lq.ActivityMajWorkshopOrder.order_id",
+              "number": 1,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "id",
+              "full_name": ".lq.ActivityMajWorkshopOrder.id",
+              "number": 2,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "understood",
+              "full_name": ".lq.ActivityMajWorkshopOrder.understood",
+              "number": 3,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            }
+          ],
+          "nested_enums": [],
+          "nested_messages": []
+        },
+        {
+          "name": "ActivityMajWorkshopOrderArrayDirty",
+          "full_name": ".lq.ActivityMajWorkshopOrderArrayDirty",
+          "fields": [
+            {
+              "name": "dirty",
+              "full_name": ".lq.ActivityMajWorkshopOrderArrayDirty.dirty",
+              "number": 1,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
+            },
+            {
+              "name": "value",
+              "full_name": ".lq.ActivityMajWorkshopOrderArrayDirty.value",
+              "number": 2,
+              "label": "repeated",
+              "type": ".lq.ActivityMajWorkshopOrder",
+              "type_code": 11,
+              "raw_type_ref": "ACTIVITYMAJWORKSHOPORDER"
             }
           ],
           "nested_enums": [],
@@ -74076,6 +75289,42 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
+            },
+            {
+              "name": "dora_count",
+              "full_name": ".lq.TingPaiInfo.dora_count",
+              "number": 10,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "li_dora_count",
+              "full_name": ".lq.TingPaiInfo.li_dora_count",
+              "number": 11,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "red_dora_count",
+              "full_name": ".lq.TingPaiInfo.red_dora_count",
+              "number": 12,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
+            },
+            {
+              "name": "ying_count",
+              "full_name": ".lq.TingPaiInfo.ying_count",
+              "number": 13,
+              "label": "optional",
+              "type": "uint32",
+              "type_code": 13,
+              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -76066,7 +77315,7 @@
     }
   ],
   "module_count": 11,
-  "message_count": 1618,
+  "message_count": 1657,
   "enum_count": 2,
-  "field_count": 6959
+  "field_count": 7063
 }

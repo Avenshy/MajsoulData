@@ -4311,7 +4311,7 @@
       "chs": "铜之间对战1次",
       "chs_t": "銅之間對戰1次",
       "jp": "銅の間の対戦で1戦最後まで打つ",
-      "en": "Play 1 matches in Bronze Room",
+      "en": "Play 1 match in Bronze Room.",
       "kr": "동탁에서 1회 대국"
     }
   },
@@ -4333,7 +4333,7 @@
       "chs": "铜之间对战2次",
       "chs_t": "銅之間對戰2次",
       "jp": "銅の間の対戦で2戦最後まで打つ",
-      "en": "Play 2 matches in Bronze Room",
+      "en": "Play 2 matches in Bronze Room.",
       "kr": "동탁에서 2회 대국"
     }
   },
@@ -4356,7 +4356,7 @@
       "chs": "铜之间取得顺位2或1的成绩1次",
       "chs_t": "銅之間取得順位2或1的成績1次",
       "jp": "銅の間の対戦で2位以上の順位を1回取得する",
-      "en": "Get 1st or 2nd 1 time in Bronze Room",
+      "en": "Finish 1st or 2nd in a match in Bronze Room.",
       "kr": "동탁에서 2위 이상 달성 1회"
     }
   },
@@ -4379,7 +4379,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -4402,7 +4402,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -4429,7 +4429,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -4451,7 +4451,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   },
@@ -4473,7 +4473,7 @@
       "chs": "铜之间或银之间对战1次",
       "chs_t": "銅之間或銀之間對戰1次",
       "jp": "銅の間または銀の間の対局で1戦最後まで打つ",
-      "en": "Play 1 match in Bronze Room or Silver Room",
+      "en": "Play 1 match in Bronze Room or Silver Room.",
       "kr": "동탁/은탁에서 대국 1회"
     }
   },
@@ -4495,7 +4495,7 @@
       "chs": "铜之间或银之间对战2次",
       "chs_t": "銅之間或銀之間對戰2次",
       "jp": "銅の間または銀の間の対局で2戦最後まで打つ",
-      "en": "Play 2 match in Bronze Room or Silver Room",
+      "en": "Play 2 matches in Bronze Room or Silver Room.",
       "kr": "동탁/은탁에서 대국 2회"
     }
   },
@@ -4518,7 +4518,7 @@
       "chs": "铜之间或银之间取得顺位2或1的成绩1次",
       "chs_t": "銅之間或銀之間取得順位2或1的成績1次",
       "jp": "銅の間または銀の間の対局で2位以上を獲得する",
-      "en": "Finish 1 match in Bronze Room or Silver Room in 2nd or 1st place",
+      "en": "Finish 1st or 2nd in a match in Bronze Room or Silver Room.",
       "kr": "동탁/은탁에서 1위 혹은 2위하기 1회"
     }
   },
@@ -4541,7 +4541,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -4564,7 +4564,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -4591,7 +4591,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -4613,7 +4613,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   },
@@ -4635,7 +4635,7 @@
       "chs": "银之间或金之间对战1次",
       "chs_t": "銀之間或金之間對戰1次",
       "jp": "銀の間または金の間の対局で1戦最後まで打つ",
-      "en": "Play 1 match in Silver Room or Gold Room",
+      "en": "Play 1 match in Silver Room or Gold Room.",
       "kr": "은탁/금탁에서 대국 1회"
     }
   },
@@ -4657,7 +4657,7 @@
       "chs": "银之间或金之间对战2次",
       "chs_t": "銀之間或金之間對戰2次",
       "jp": "銀の間または金の間の対局で2戦最後まで打つ",
-      "en": "Play 2 match in Silver Room or Gold Room",
+      "en": "Play 2 matches in Silver Room or Gold Room.",
       "kr": "은탁/금탁에서 대국 2회"
     }
   },
@@ -4680,7 +4680,7 @@
       "chs": "银之间或金之间取得顺位2或1的成绩1次",
       "chs_t": "銀之間或金之間取得順位2或1的成績1次",
       "jp": "銀の間または金の間の対局で2位以上を獲得する",
-      "en": "Finish 1 match in Silver Room or Gold Room in 2nd or 1st place",
+      "en": "Finish 1st or 2nd in a match in Silver Room or Gold Room.",
       "kr": "은탁/금탁에서 1위 혹은 2위하기 1회"
     }
   },
@@ -4703,7 +4703,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -4726,7 +4726,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -4753,7 +4753,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -4774,7 +4774,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   },
@@ -4796,7 +4796,7 @@
       "chs": "金之间或玉之间对战1次",
       "chs_t": "金之間或玉之間對戰1次",
       "jp": "金の間または玉の間の対局で1戦最後まで打つ",
-      "en": "Play 1 match in Gold Room or Jade Room",
+      "en": "Play 1 match in Gold Room or Jade Room.",
       "kr": "금탁/옥탁에서 대국 1회"
     }
   },
@@ -4818,7 +4818,7 @@
       "chs": "金之间或玉之间对战2次",
       "chs_t": "金之間或玉之間對戰2次",
       "jp": "金の間または玉の間の対局で2戦最後まで打つ",
-      "en": "Play 2 match in Gold Room or Jade Room",
+      "en": "Play 2 matches in Gold Room or Jade Room.",
       "kr": "금탁/옥탁에서 대국 2회"
     }
   },
@@ -4841,7 +4841,7 @@
       "chs": "金之间或玉之间取得顺位2或1的成绩1次",
       "chs_t": "金之間或玉之間取得順位2或1的成績1次",
       "jp": "金の間または玉の間の対局で2位以上を獲得する",
-      "en": "Finish 1 match in Gold Room or Jade Room in 2nd or 1st place",
+      "en": "Finish 1st or 2nd in a match in Gold Room or Jade Room.",
       "kr": "금탁/옥탁에서 1위 혹은 2위하기 1회"
     }
   },
@@ -4864,7 +4864,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -4887,7 +4887,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -4914,7 +4914,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -4936,7 +4936,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   },
@@ -4958,7 +4958,7 @@
       "chs": "玉之间或王座之间对战1次",
       "chs_t": "玉之間或王座之間對戰1次",
       "jp": "玉の間または王座の間の対局で1戦最後まで打つ",
-      "en": "Play 1 match in Jade Room or Throne Room",
+      "en": "Play 1 match in Jade Room or Throne Room.",
       "kr": "옥탁/왕좌탁에서 대국 1회"
     }
   },
@@ -4980,7 +4980,7 @@
       "chs": "玉之间或王座之间对战2次",
       "chs_t": "玉之間或王座之間對戰2次",
       "jp": "玉の間または王座の間の対局で2戦最後まで打つ",
-      "en": "Play 2 match in Jade Room or Throne Room",
+      "en": "Play 2 matches in Jade Room or Throne Room.",
       "kr": "옥탁/왕좌탁에서 대국 2회"
     }
   },
@@ -5003,7 +5003,7 @@
       "chs": "玉之间或王座之间取得顺位2或1的成绩1次",
       "chs_t": "玉之間或王座之間取得順位2或1的成績1次",
       "jp": "玉の間または王座の間の対局で2位以上を獲得する",
-      "en": "Finish 1 match in Jade Room or Throne Room in 2nd or 1st place",
+      "en": "Finish 1st or 2nd in a match in Jade Room or Throne Room.",
       "kr": "옥탁/왕좌탁에서 1위 혹은 2위하기 1회"
     }
   },
@@ -5026,7 +5026,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -5049,7 +5049,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -5076,7 +5076,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -5098,7 +5098,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   },
@@ -5120,7 +5120,7 @@
       "chs": "王座之间对局1次",
       "chs_t": "王座之間對局1次",
       "jp": "王座の間の対戦で1戦最後まで打つ",
-      "en": "Play 1 matches in Room of the Throne",
+      "en": "Play 1 match in Throne Room.",
       "kr": "왕좌탁에서 1회 대국"
     }
   },
@@ -5142,7 +5142,7 @@
       "chs": "王座之间对局2次",
       "chs_t": "王座之間對局2次",
       "jp": "王座の間の対戦で2戦最後まで打つ",
-      "en": "Play 2 matches in Room of the Throne",
+      "en": "Play 2 matches in Throne Room.",
       "kr": "왕좌탁에서 2회 대국"
     }
   },
@@ -5165,7 +5165,7 @@
       "chs": "王座之间取得顺位2或1的成绩1次",
       "chs_t": "王座之間取得順位2或1的成績1次",
       "jp": "王座の間の対戦で2位以上の順位を1回取得する",
-      "en": "Get 1st or 2nd 1 time in Room of the Throne",
+      "en": "Finish 1st or 2nd in a match in Throne Room.",
       "kr": "왕좌탁에서 2위 이상 달성 1회"
     }
   },
@@ -5188,7 +5188,7 @@
       "chs": "累计荣和4次",
       "chs_t": "累計榮和4次",
       "jp": "対戦で合計4回ロンあがりする",
-      "en": "Win 4 games with Ron",
+      "en": "Win 4 hands by Ron.",
       "kr": "론 화료 4회"
     }
   },
@@ -5211,7 +5211,7 @@
       "chs": "累计自摸2次",
       "chs_t": "累計自摸2次",
       "jp": "対戦で合計2回ツモあがりする",
-      "en": "Win 2 games with Tsumo",
+      "en": "Win 2 hands by Tsumo.",
       "kr": "쯔모 화료 2회"
     }
   },
@@ -5238,7 +5238,7 @@
       "chs": "累计6局不放铳",
       "chs_t": "累計6局不放銃",
       "jp": "対戦で合計6局放銃しないで最後まで打つ",
-      "en": "Avoid dealing into others' in 6 games",
+      "en": "Complete 6 hands without dealing in.",
       "kr": "방총하지 않고 대국 종료 6회"
     }
   },
@@ -5260,7 +5260,7 @@
       "chs": "好友房对战2次（可以包含电脑）",
       "chs_t": "好友房對戰2次（可以包含電腦）",
       "jp": "友人戦の対局で2戦最後まで打つ（CPU相手でも可）",
-      "en": "Play 2 matches in Friends Room (including matches with AI)",
+      "en": "Play 2 matches in Friends Room (including matches with AI).",
       "kr": "친선전에서 대국 2회 (AI 대국 포함)"
     }
   }

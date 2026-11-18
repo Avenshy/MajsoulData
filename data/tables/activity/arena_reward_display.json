@@ -1,6 +1,19 @@
 [
   {
     "group_id": 124501,
+    "win_count_min": 12,
+    "win_count_max": 12,
+    "reward_1": 304102,
+    "reward_1_remark": "1",
+    "reward_2": 304006,
+    "reward_2_remark": "1",
+    "reward_3": 304008,
+    "reward_3_remark": "2",
+    "reward_4": 100002,
+    "reward_4_remark": null
+  },
+  {
+    "group_id": 124501,
     "win_count_min": 0,
     "win_count_max": 2,
     "reward_1": 304007,
@@ -49,19 +62,6 @@
     "reward_3": 100002,
     "reward_3_remark": null,
     "reward_4": null,
-    "reward_4_remark": null
-  },
-  {
-    "group_id": 124501,
-    "win_count_min": 12,
-    "win_count_max": 12,
-    "reward_1": 304102,
-    "reward_1_remark": "1",
-    "reward_2": 304006,
-    "reward_2_remark": "1",
-    "reward_3": 304008,
-    "reward_3_remark": "2",
-    "reward_4": 100002,
     "reward_4_remark": null
   }
 ]

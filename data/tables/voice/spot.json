@@ -7714,6 +7714,230 @@
     "type_desc": "疑惑"
   },
   {
+    "id": 8415,
+    "character": 200084,
+    "type": 15,
+    "path": "audio/sound/linlang/spot/linlang01",
+    "type_desc": "肚子饿了"
+  },
+  {
+    "id": 8416,
+    "character": 200084,
+    "type": 16,
+    "path": "audio/sound/linlang/spot/linlang02",
+    "type_desc": "吃饭的哈姆声"
+  },
+  {
+    "id": 8417,
+    "character": 200084,
+    "type": 17,
+    "path": "audio/sound/linlang/spot/linlang03",
+    "type_desc": "吃饭声"
+  },
+  {
+    "id": 8418,
+    "character": 200084,
+    "type": 18,
+    "path": "audio/sound/linlang/spot/linlang04",
+    "type_desc": "怪叫"
+  },
+  {
+    "id": 8419,
+    "character": 200084,
+    "type": 19,
+    "path": "audio/sound/linlang/spot/linlang05",
+    "type_desc": "表思索的嗯"
+  },
+  {
+    "id": 8420,
+    "character": 200084,
+    "type": 20,
+    "path": "audio/sound/linlang/spot/linlang06",
+    "type_desc": "唔……"
+  },
+  {
+    "id": 8421,
+    "character": 200084,
+    "type": 21,
+    "path": "audio/sound/linlang/spot/linlang07",
+    "type_desc": "啊唔"
+  },
+  {
+    "id": 8422,
+    "character": 200084,
+    "type": 22,
+    "path": "audio/sound/linlang/spot/linlang08",
+    "type_desc": "唔诶！"
+  },
+  {
+    "id": 8423,
+    "character": 200084,
+    "type": 23,
+    "path": "audio/sound/linlang/spot/linlang09",
+    "type_desc": "呼"
+  },
+  {
+    "id": 8424,
+    "character": 200084,
+    "type": 24,
+    "path": "audio/sound/linlang/spot/linlang10",
+    "type_desc": "呼吸声"
+  },
+  {
+    "id": 8425,
+    "character": 200084,
+    "type": 25,
+    "path": "audio/sound/linlang/spot/linlang11",
+    "type_desc": "呼吸声前段，咻，所以理解为松了一口气之类的"
+  },
+  {
+    "id": 8426,
+    "character": 200084,
+    "type": 26,
+    "path": "audio/sound/linlang/spot/linlang12",
+    "type_desc": "呼吸声后段"
+  },
+  {
+    "id": 8427,
+    "character": 200084,
+    "type": 27,
+    "path": "audio/sound/linlang/spot/linlang13",
+    "type_desc": "唔"
+  },
+  {
+    "id": 8428,
+    "character": 200084,
+    "type": 28,
+    "path": "audio/sound/linlang/spot/linlang14",
+    "type_desc": "哎……"
+  },
+  {
+    "id": 8429,
+    "character": 200084,
+    "type": 29,
+    "path": "audio/sound/linlang/spot/linlang15",
+    "type_desc": "嗯……"
+  },
+  {
+    "id": 8430,
+    "character": 200084,
+    "type": 30,
+    "path": "audio/sound/linlang/spot/linlang16",
+    "type_desc": "还有吃的东西吗？"
+  },
+  {
+    "id": 8431,
+    "character": 200084,
+    "type": 31,
+    "path": "audio/sound/linlang/spot/linlang17",
+    "type_desc": "不行吗？"
+  },
+  {
+    "id": 8432,
+    "character": 200084,
+    "type": 32,
+    "path": "audio/sound/linlang/spot/linlang18",
+    "type_desc": "为什么？"
+  },
+  {
+    "id": 8433,
+    "character": 200084,
+    "type": 33,
+    "path": "audio/sound/linlang/spot/linlang19",
+    "type_desc": "唱歌"
+  },
+  {
+    "id": 8434,
+    "character": 200084,
+    "type": 34,
+    "path": "audio/sound/linlang/spot/linlang20",
+    "type_desc": "满足了！"
+  },
+  {
+    "id": 8435,
+    "character": 200084,
+    "type": 35,
+    "path": "audio/sound/linlang/spot/linlang21",
+    "type_desc": "等等"
+  },
+  {
+    "id": 8436,
+    "character": 200084,
+    "type": 36,
+    "path": "audio/sound/linlang/spot/linlang22",
+    "type_desc": "加油喔"
+  },
+  {
+    "id": 8437,
+    "character": 200084,
+    "type": 37,
+    "path": "audio/sound/linlang/spot/linlang23",
+    "type_desc": "安心吧。"
+  },
+  {
+    "id": 8438,
+    "character": 200084,
+    "type": 38,
+    "path": "audio/sound/linlang/spot/linlang24",
+    "type_desc": "非常，非常长（用于蜃龙关于时间的台词？）"
+  },
+  {
+    "id": 8439,
+    "character": 200084,
+    "type": 39,
+    "path": "audio/sound/linlang/spot/linlang25",
+    "type_desc": "所以"
+  },
+  {
+    "id": 8440,
+    "character": 200084,
+    "type": 40,
+    "path": "audio/sound/linlang/spot/linlang26",
+    "type_desc": "总而言之"
+  },
+  {
+    "id": 8441,
+    "character": 200084,
+    "type": 41,
+    "path": "audio/sound/linlang/spot/linlang27",
+    "type_desc": "果然"
+  },
+  {
+    "id": 8442,
+    "character": 200084,
+    "type": 42,
+    "path": "audio/sound/linlang/spot/linlang28",
+    "type_desc": "真的真的……（ほんとにほんとに……）"
+  },
+  {
+    "id": 8443,
+    "character": 200084,
+    "type": 43,
+    "path": "audio/sound/linlang/spot/linlang29",
+    "type_desc": "请多指教"
+  },
+  {
+    "id": 8444,
+    "character": 200084,
+    "type": 44,
+    "path": "audio/sound/linlang/spot/linlang30",
+    "type_desc": "不要不要不要"
+  },
+  {
+    "id": 8445,
+    "character": 200084,
+    "type": 45,
+    "path": "audio/sound/linlang/spot/linlang31",
+    "type_desc": "好难吃"
+  },
+  {
+    "id": 8446,
+    "character": 200084,
+    "type": 46,
+    "path": "audio/sound/linlang/spot/linlang32",
+    "type_desc": "power up！"
+  },
+  {
     "id": 8501,
     "character": 200085,
     "type": 1,
@@ -12885,5 +13109,1517 @@
     "type": 14,
     "path": "audio/sound/lingxing/spot/jtm_res_245",
     "type_desc": "疑惑"
+  },
+  {
+    "id": 12801,
+    "character": 20000128,
+    "type": 1,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_232",
+    "type_desc": "表示惊讶"
+  },
+  {
+    "id": 12802,
+    "character": 20000128,
+    "type": 2,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_233",
+    "type_desc": "表示肯定"
+  },
+  {
+    "id": 12803,
+    "character": 20000128,
+    "type": 3,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_234",
+    "type_desc": "表示否定"
+  },
+  {
+    "id": 12804,
+    "character": 20000128,
+    "type": 4,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_235",
+    "type_desc": "中午打招呼"
+  },
+  {
+    "id": 12805,
+    "character": 20000128,
+    "type": 5,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_236",
+    "type_desc": "告别"
+  },
+  {
+    "id": 12806,
+    "character": 20000128,
+    "type": 6,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_237",
+    "type_desc": "承接"
+  },
+  {
+    "id": 12807,
+    "character": 20000128,
+    "type": 7,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_238",
+    "type_desc": "叹气"
+  },
+  {
+    "id": 12808,
+    "character": 20000128,
+    "type": 8,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_239",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 12809,
+    "character": 20000128,
+    "type": 9,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_240",
+    "type_desc": "生气"
+  },
+  {
+    "id": 12810,
+    "character": 20000128,
+    "type": 10,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_241",
+    "type_desc": "递进"
+  },
+  {
+    "id": 12811,
+    "character": 20000128,
+    "type": 11,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_242",
+    "type_desc": "转折"
+  },
+  {
+    "id": 12812,
+    "character": 20000128,
+    "type": 12,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_243",
+    "type_desc": "疑惑"
+  },
+  {
+    "id": 12813,
+    "character": 20000128,
+    "type": 13,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_244",
+    "type_desc": "EX1"
+  },
+  {
+    "id": 12814,
+    "character": 20000128,
+    "type": 14,
+    "path": "audio/sound/fulilian/spot/jtm_frr_frr_245",
+    "type_desc": "EX2"
+  },
+  {
+    "id": 12815,
+    "character": 20000128,
+    "type": 15,
+    "path": "audio/sound/fulilian/spot/fulilian01",
+    "type_desc": "高兴1"
+  },
+  {
+    "id": 12816,
+    "character": 20000128,
+    "type": 16,
+    "path": "audio/sound/fulilian/spot/fulilian02",
+    "type_desc": "高兴2"
+  },
+  {
+    "id": 12817,
+    "character": 20000128,
+    "type": 17,
+    "path": "audio/sound/fulilian/spot/fulilian03",
+    "type_desc": "高兴3"
+  },
+  {
+    "id": 12818,
+    "character": 20000128,
+    "type": 18,
+    "path": "audio/sound/fulilian/spot/fulilian04",
+    "type_desc": "高兴4"
+  },
+  {
+    "id": 12819,
+    "character": 20000128,
+    "type": 19,
+    "path": "audio/sound/fulilian/spot/fulilian05",
+    "type_desc": "高兴5"
+  },
+  {
+    "id": 12820,
+    "character": 20000128,
+    "type": 20,
+    "path": "audio/sound/fulilian/spot/fulilian06",
+    "type_desc": "战斗1"
+  },
+  {
+    "id": 12821,
+    "character": 20000128,
+    "type": 21,
+    "path": "audio/sound/fulilian/spot/fulilian07",
+    "type_desc": "战斗2"
+  },
+  {
+    "id": 12822,
+    "character": 20000128,
+    "type": 22,
+    "path": "audio/sound/fulilian/spot/fulilian08",
+    "type_desc": "战斗3"
+  },
+  {
+    "id": 12823,
+    "character": 20000128,
+    "type": 23,
+    "path": "audio/sound/fulilian/spot/fulilian09",
+    "type_desc": "战斗4"
+  },
+  {
+    "id": 12824,
+    "character": 20000128,
+    "type": 24,
+    "path": "audio/sound/fulilian/spot/fulilian10",
+    "type_desc": "战斗5"
+  },
+  {
+    "id": 12825,
+    "character": 20000128,
+    "type": 25,
+    "path": "audio/sound/fulilian/spot/fulilian11",
+    "type_desc": "战斗6"
+  },
+  {
+    "id": 12826,
+    "character": 20000128,
+    "type": 26,
+    "path": "audio/sound/fulilian/spot/fulilian12",
+    "type_desc": "战斗7"
+  },
+  {
+    "id": 12827,
+    "character": 20000128,
+    "type": 27,
+    "path": "audio/sound/fulilian/spot/fulilian13",
+    "type_desc": "战斗8"
+  },
+  {
+    "id": 12828,
+    "character": 20000128,
+    "type": 28,
+    "path": "audio/sound/fulilian/spot/fulilian14",
+    "type_desc": "递进1"
+  },
+  {
+    "id": 12829,
+    "character": 20000128,
+    "type": 29,
+    "path": "audio/sound/fulilian/spot/fulilian15",
+    "type_desc": "递进2"
+  },
+  {
+    "id": 12830,
+    "character": 20000128,
+    "type": 30,
+    "path": "audio/sound/fulilian/spot/fulilian16",
+    "type_desc": "递进3"
+  },
+  {
+    "id": 12831,
+    "character": 20000128,
+    "type": 31,
+    "path": "audio/sound/fulilian/spot/fulilian17",
+    "type_desc": "递进4"
+  },
+  {
+    "id": 12832,
+    "character": 20000128,
+    "type": 32,
+    "path": "audio/sound/fulilian/spot/fulilian18",
+    "type_desc": "递进5"
+  },
+  {
+    "id": 12833,
+    "character": 20000128,
+    "type": 33,
+    "path": "audio/sound/fulilian/spot/fulilian19",
+    "type_desc": "递进6"
+  },
+  {
+    "id": 12834,
+    "character": 20000128,
+    "type": 34,
+    "path": "audio/sound/fulilian/spot/fulilian20",
+    "type_desc": "递进7"
+  },
+  {
+    "id": 12835,
+    "character": 20000128,
+    "type": 35,
+    "path": "audio/sound/fulilian/spot/fulilian21",
+    "type_desc": "递进8"
+  },
+  {
+    "id": 12836,
+    "character": 20000128,
+    "type": 36,
+    "path": "audio/sound/fulilian/spot/fulilian22",
+    "type_desc": "递进9"
+  },
+  {
+    "id": 12837,
+    "character": 20000128,
+    "type": 37,
+    "path": "audio/sound/fulilian/spot/fulilian23",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 12838,
+    "character": 20000128,
+    "type": 38,
+    "path": "audio/sound/fulilian/spot/fulilian24",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 12839,
+    "character": 20000128,
+    "type": 39,
+    "path": "audio/sound/fulilian/spot/fulilian25",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 12840,
+    "character": 20000128,
+    "type": 40,
+    "path": "audio/sound/fulilian/spot/fulilian26",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 12841,
+    "character": 20000128,
+    "type": 41,
+    "path": "audio/sound/fulilian/spot/fulilian27",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 12842,
+    "character": 20000128,
+    "type": 42,
+    "path": "audio/sound/fulilian/spot/fulilian28",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 12843,
+    "character": 20000128,
+    "type": 43,
+    "path": "audio/sound/fulilian/spot/fulilian29",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 12844,
+    "character": 20000128,
+    "type": 44,
+    "path": "audio/sound/fulilian/spot/fulilian30",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 12845,
+    "character": 20000128,
+    "type": 45,
+    "path": "audio/sound/fulilian/spot/fulilian31",
+    "type_desc": "语气8"
+  },
+  {
+    "id": 12846,
+    "character": 20000128,
+    "type": 46,
+    "path": "audio/sound/fulilian/spot/fulilian32",
+    "type_desc": "语气9"
+  },
+  {
+    "id": 12847,
+    "character": 20000128,
+    "type": 47,
+    "path": "audio/sound/fulilian/spot/fulilian33",
+    "type_desc": "否定1"
+  },
+  {
+    "id": 12848,
+    "character": 20000128,
+    "type": 48,
+    "path": "audio/sound/fulilian/spot/fulilian34",
+    "type_desc": "否定2"
+  },
+  {
+    "id": 12849,
+    "character": 20000128,
+    "type": 49,
+    "path": "audio/sound/fulilian/spot/fulilian35",
+    "type_desc": "研究1"
+  },
+  {
+    "id": 12850,
+    "character": 20000128,
+    "type": 50,
+    "path": "audio/sound/fulilian/spot/fulilian36",
+    "type_desc": "研究2"
+  },
+  {
+    "id": 12851,
+    "character": 20000128,
+    "type": 51,
+    "path": "audio/sound/fulilian/spot/fulilian37",
+    "type_desc": "研究3"
+  },
+  {
+    "id": 12852,
+    "character": 20000128,
+    "type": 52,
+    "path": "audio/sound/fulilian/spot/fulilian38",
+    "type_desc": "惊讶1"
+  },
+  {
+    "id": 12853,
+    "character": 20000128,
+    "type": 53,
+    "path": "audio/sound/fulilian/spot/fulilian39",
+    "type_desc": "道谢1"
+  },
+  {
+    "id": 12854,
+    "character": 20000128,
+    "type": 54,
+    "path": "audio/sound/fulilian/spot/fulilian40",
+    "type_desc": "道谢2"
+  },
+  {
+    "id": 12855,
+    "character": 20000128,
+    "type": 55,
+    "path": "audio/sound/fulilian/spot/fulilian41",
+    "type_desc": "无奈1"
+  },
+  {
+    "id": 12856,
+    "character": 20000128,
+    "type": 56,
+    "path": "audio/sound/fulilian/spot/fulilian42",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 12857,
+    "character": 20000128,
+    "type": 57,
+    "path": "audio/sound/fulilian/spot/fulilian43",
+    "type_desc": "疑惑1"
+  },
+  {
+    "id": 12858,
+    "character": 20000128,
+    "type": 58,
+    "path": "audio/sound/fulilian/spot/fulilian44",
+    "type_desc": "疑惑2"
+  },
+  {
+    "id": 12859,
+    "character": 20000128,
+    "type": 59,
+    "path": "audio/sound/fulilian/spot/fulilian45",
+    "type_desc": "疑惑3"
+  },
+  {
+    "id": 12901,
+    "character": 20000129,
+    "type": 15,
+    "path": "audio/sound/feilun/spot/feilun01",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 12901,
+    "character": 20000129,
+    "type": 1,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_232",
+    "type_desc": "表示惊讶"
+  },
+  {
+    "id": 12902,
+    "character": 20000129,
+    "type": 16,
+    "path": "audio/sound/feilun/spot/feilun02",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 12902,
+    "character": 20000129,
+    "type": 2,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_233",
+    "type_desc": "表示肯定"
+  },
+  {
+    "id": 12903,
+    "character": 20000129,
+    "type": 17,
+    "path": "audio/sound/feilun/spot/feilun03",
+    "type_desc": "占卜1"
+  },
+  {
+    "id": 12903,
+    "character": 20000129,
+    "type": 3,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_234",
+    "type_desc": "表示否定"
+  },
+  {
+    "id": 12904,
+    "character": 20000129,
+    "type": 18,
+    "path": "audio/sound/feilun/spot/feilun04",
+    "type_desc": "占卜2"
+  },
+  {
+    "id": 12904,
+    "character": 20000129,
+    "type": 4,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_235",
+    "type_desc": "中午打招呼"
+  },
+  {
+    "id": 12905,
+    "character": 20000129,
+    "type": 19,
+    "path": "audio/sound/feilun/spot/feilun05",
+    "type_desc": "占卜3"
+  },
+  {
+    "id": 12905,
+    "character": 20000129,
+    "type": 5,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_236",
+    "type_desc": "告别"
+  },
+  {
+    "id": 12906,
+    "character": 20000129,
+    "type": 20,
+    "path": "audio/sound/feilun/spot/feilun06",
+    "type_desc": "占卜4"
+  },
+  {
+    "id": 12906,
+    "character": 20000129,
+    "type": 6,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_237",
+    "type_desc": "承接"
+  },
+  {
+    "id": 12907,
+    "character": 20000129,
+    "type": 21,
+    "path": "audio/sound/feilun/spot/feilun07",
+    "type_desc": "占卜5"
+  },
+  {
+    "id": 12907,
+    "character": 20000129,
+    "type": 7,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_238",
+    "type_desc": "叹气"
+  },
+  {
+    "id": 12908,
+    "character": 20000129,
+    "type": 22,
+    "path": "audio/sound/feilun/spot/feilun08",
+    "type_desc": "占卜6"
+  },
+  {
+    "id": 12908,
+    "character": 20000129,
+    "type": 8,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_239",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 12909,
+    "character": 20000129,
+    "type": 23,
+    "path": "audio/sound/feilun/spot/feilun09",
+    "type_desc": "占卜7"
+  },
+  {
+    "id": 12909,
+    "character": 20000129,
+    "type": 9,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_240",
+    "type_desc": "生气"
+  },
+  {
+    "id": 12910,
+    "character": 20000129,
+    "type": 24,
+    "path": "audio/sound/feilun/spot/feilun10",
+    "type_desc": "占卜8"
+  },
+  {
+    "id": 12910,
+    "character": 20000129,
+    "type": 10,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_241",
+    "type_desc": "递进"
+  },
+  {
+    "id": 12911,
+    "character": 20000129,
+    "type": 25,
+    "path": "audio/sound/feilun/spot/feilun11",
+    "type_desc": "占卜9"
+  },
+  {
+    "id": 12911,
+    "character": 20000129,
+    "type": 11,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_242",
+    "type_desc": "转折"
+  },
+  {
+    "id": 12912,
+    "character": 20000129,
+    "type": 26,
+    "path": "audio/sound/feilun/spot/feilun12",
+    "type_desc": "疑惑1"
+  },
+  {
+    "id": 12912,
+    "character": 20000129,
+    "type": 12,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_243",
+    "type_desc": "疑惑"
+  },
+  {
+    "id": 12913,
+    "character": 20000129,
+    "type": 27,
+    "path": "audio/sound/feilun/spot/feilun13",
+    "type_desc": "疑惑2"
+  },
+  {
+    "id": 12913,
+    "character": 20000129,
+    "type": 13,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_244",
+    "type_desc": "EX1"
+  },
+  {
+    "id": 12914,
+    "character": 20000129,
+    "type": 28,
+    "path": "audio/sound/feilun/spot/feilun14",
+    "type_desc": "疑惑3"
+  },
+  {
+    "id": 12914,
+    "character": 20000129,
+    "type": 14,
+    "path": "audio/sound/feilun/spot/jtm_frr_frn_245",
+    "type_desc": "EX2"
+  },
+  {
+    "id": 12915,
+    "character": 20000129,
+    "type": 29,
+    "path": "audio/sound/feilun/spot/feilun15",
+    "type_desc": "疑惑4"
+  },
+  {
+    "id": 12915,
+    "character": 20000129,
+    "type": 15,
+    "path": "audio/sound/feilun/spot/feilun01",
+    "type_desc": "战斗1"
+  },
+  {
+    "id": 12916,
+    "character": 20000129,
+    "type": 30,
+    "path": "audio/sound/feilun/spot/feilun16",
+    "type_desc": "疑惑5"
+  },
+  {
+    "id": 12916,
+    "character": 20000129,
+    "type": 16,
+    "path": "audio/sound/feilun/spot/feilun02",
+    "type_desc": "战斗2"
+  },
+  {
+    "id": 12917,
+    "character": 20000129,
+    "type": 31,
+    "path": "audio/sound/feilun/spot/feilun17",
+    "type_desc": "高兴1"
+  },
+  {
+    "id": 12917,
+    "character": 20000129,
+    "type": 17,
+    "path": "audio/sound/feilun/spot/feilun03",
+    "type_desc": "战斗3"
+  },
+  {
+    "id": 12918,
+    "character": 20000129,
+    "type": 32,
+    "path": "audio/sound/feilun/spot/feilun18",
+    "type_desc": "高兴2"
+  },
+  {
+    "id": 12918,
+    "character": 20000129,
+    "type": 18,
+    "path": "audio/sound/feilun/spot/feilun04",
+    "type_desc": "战斗4"
+  },
+  {
+    "id": 12919,
+    "character": 20000129,
+    "type": 33,
+    "path": "audio/sound/feilun/spot/feilun19",
+    "type_desc": "高兴3"
+  },
+  {
+    "id": 12919,
+    "character": 20000129,
+    "type": 19,
+    "path": "audio/sound/feilun/spot/feilun05",
+    "type_desc": "战斗5"
+  },
+  {
+    "id": 12920,
+    "character": 20000129,
+    "type": 34,
+    "path": "audio/sound/feilun/spot/feilun20",
+    "type_desc": "高兴4"
+  },
+  {
+    "id": 12920,
+    "character": 20000129,
+    "type": 20,
+    "path": "audio/sound/feilun/spot/feilun06",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 12921,
+    "character": 20000129,
+    "type": 35,
+    "path": "audio/sound/feilun/spot/feilun21",
+    "type_desc": "高兴5"
+  },
+  {
+    "id": 12921,
+    "character": 20000129,
+    "type": 21,
+    "path": "audio/sound/feilun/spot/feilun07",
+    "type_desc": "打招呼2"
+  },
+  {
+    "id": 12922,
+    "character": 20000129,
+    "type": 36,
+    "path": "audio/sound/feilun/spot/feilun22",
+    "type_desc": "高兴6"
+  },
+  {
+    "id": 12922,
+    "character": 20000129,
+    "type": 22,
+    "path": "audio/sound/feilun/spot/feilun08",
+    "type_desc": "打招呼3"
+  },
+  {
+    "id": 12923,
+    "character": 20000129,
+    "type": 37,
+    "path": "audio/sound/feilun/spot/feilun23",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 12923,
+    "character": 20000129,
+    "type": 23,
+    "path": "audio/sound/feilun/spot/feilun09",
+    "type_desc": "高兴1"
+  },
+  {
+    "id": 12924,
+    "character": 20000129,
+    "type": 38,
+    "path": "audio/sound/feilun/spot/feilun24",
+    "type_desc": "打招呼2"
+  },
+  {
+    "id": 12924,
+    "character": 20000129,
+    "type": 24,
+    "path": "audio/sound/feilun/spot/feilun10",
+    "type_desc": "高兴2"
+  },
+  {
+    "id": 12925,
+    "character": 20000129,
+    "type": 39,
+    "path": "audio/sound/feilun/spot/feilun25",
+    "type_desc": "战斗1"
+  },
+  {
+    "id": 12925,
+    "character": 20000129,
+    "type": 25,
+    "path": "audio/sound/feilun/spot/feilun11",
+    "type_desc": "高兴3"
+  },
+  {
+    "id": 12926,
+    "character": 20000129,
+    "type": 40,
+    "path": "audio/sound/feilun/spot/feilun26",
+    "type_desc": "战斗2"
+  },
+  {
+    "id": 12926,
+    "character": 20000129,
+    "type": 26,
+    "path": "audio/sound/feilun/spot/feilun12",
+    "type_desc": "高兴4"
+  },
+  {
+    "id": 12927,
+    "character": 20000129,
+    "type": 41,
+    "path": "audio/sound/feilun/spot/feilun27",
+    "type_desc": "战斗3"
+  },
+  {
+    "id": 12927,
+    "character": 20000129,
+    "type": 27,
+    "path": "audio/sound/feilun/spot/feilun13",
+    "type_desc": "递进1"
+  },
+  {
+    "id": 12928,
+    "character": 20000129,
+    "type": 42,
+    "path": "audio/sound/feilun/spot/feilun28",
+    "type_desc": "道谢1"
+  },
+  {
+    "id": 12928,
+    "character": 20000129,
+    "type": 28,
+    "path": "audio/sound/feilun/spot/feilun14",
+    "type_desc": "递进2"
+  },
+  {
+    "id": 12929,
+    "character": 20000129,
+    "type": 43,
+    "path": "audio/sound/feilun/spot/feilun29",
+    "type_desc": "转折1"
+  },
+  {
+    "id": 12929,
+    "character": 20000129,
+    "type": 29,
+    "path": "audio/sound/feilun/spot/feilun15",
+    "type_desc": "递进3"
+  },
+  {
+    "id": 12930,
+    "character": 20000129,
+    "type": 44,
+    "path": "audio/sound/feilun/spot/feilun30",
+    "type_desc": "惊讶1"
+  },
+  {
+    "id": 12930,
+    "character": 20000129,
+    "type": 30,
+    "path": "audio/sound/feilun/spot/feilun16",
+    "type_desc": "递进4"
+  },
+  {
+    "id": 12931,
+    "character": 20000129,
+    "type": 45,
+    "path": "audio/sound/feilun/spot/feilun31",
+    "type_desc": "惊讶2"
+  },
+  {
+    "id": 12931,
+    "character": 20000129,
+    "type": 31,
+    "path": "audio/sound/feilun/spot/feilun17",
+    "type_desc": "递进5"
+  },
+  {
+    "id": 12932,
+    "character": 20000129,
+    "type": 46,
+    "path": "audio/sound/feilun/spot/feilun32",
+    "type_desc": "惊讶3"
+  },
+  {
+    "id": 12932,
+    "character": 20000129,
+    "type": 32,
+    "path": "audio/sound/feilun/spot/feilun18",
+    "type_desc": "研究1"
+  },
+  {
+    "id": 12933,
+    "character": 20000129,
+    "type": 47,
+    "path": "audio/sound/feilun/spot/feilun33",
+    "type_desc": "惊讶4"
+  },
+  {
+    "id": 12933,
+    "character": 20000129,
+    "type": 33,
+    "path": "audio/sound/feilun/spot/feilun19",
+    "type_desc": "研究2"
+  },
+  {
+    "id": 12934,
+    "character": 20000129,
+    "type": 48,
+    "path": "audio/sound/feilun/spot/feilun34",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 12934,
+    "character": 20000129,
+    "type": 34,
+    "path": "audio/sound/feilun/spot/feilun20",
+    "type_desc": "研究3"
+  },
+  {
+    "id": 12935,
+    "character": 20000129,
+    "type": 49,
+    "path": "audio/sound/feilun/spot/feilun35",
+    "type_desc": "肯定2"
+  },
+  {
+    "id": 12935,
+    "character": 20000129,
+    "type": 35,
+    "path": "audio/sound/feilun/spot/feilun21",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 12936,
+    "character": 20000129,
+    "type": 50,
+    "path": "audio/sound/feilun/spot/feilun36",
+    "type_desc": "否定1"
+  },
+  {
+    "id": 12936,
+    "character": 20000129,
+    "type": 36,
+    "path": "audio/sound/feilun/spot/feilun22",
+    "type_desc": "肯定2"
+  },
+  {
+    "id": 12937,
+    "character": 20000129,
+    "type": 51,
+    "path": "audio/sound/feilun/spot/feilun37",
+    "type_desc": "承接1"
+  },
+  {
+    "id": 12937,
+    "character": 20000129,
+    "type": 37,
+    "path": "audio/sound/feilun/spot/feilun23",
+    "type_desc": "肯定3"
+  },
+  {
+    "id": 12938,
+    "character": 20000129,
+    "type": 38,
+    "path": "audio/sound/feilun/spot/feilun24",
+    "type_desc": "道谢1"
+  },
+  {
+    "id": 12939,
+    "character": 20000129,
+    "type": 39,
+    "path": "audio/sound/feilun/spot/feilun25",
+    "type_desc": "疑问1"
+  },
+  {
+    "id": 12940,
+    "character": 20000129,
+    "type": 40,
+    "path": "audio/sound/feilun/spot/feilun26",
+    "type_desc": "否定1"
+  },
+  {
+    "id": 13001,
+    "character": 20000130,
+    "type": 1,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_232",
+    "type_desc": "表示惊讶"
+  },
+  {
+    "id": 13002,
+    "character": 20000130,
+    "type": 2,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_233",
+    "type_desc": "表示肯定"
+  },
+  {
+    "id": 13003,
+    "character": 20000130,
+    "type": 3,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_234",
+    "type_desc": "表示否定"
+  },
+  {
+    "id": 13004,
+    "character": 20000130,
+    "type": 4,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_235",
+    "type_desc": "中午打招呼"
+  },
+  {
+    "id": 13005,
+    "character": 20000130,
+    "type": 5,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_236",
+    "type_desc": "告别"
+  },
+  {
+    "id": 13006,
+    "character": 20000130,
+    "type": 6,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_237",
+    "type_desc": "承接"
+  },
+  {
+    "id": 13007,
+    "character": 20000130,
+    "type": 7,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_238",
+    "type_desc": "叹气"
+  },
+  {
+    "id": 13008,
+    "character": 20000130,
+    "type": 8,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_239",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 13009,
+    "character": 20000130,
+    "type": 9,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_240",
+    "type_desc": "生气"
+  },
+  {
+    "id": 13010,
+    "character": 20000130,
+    "type": 10,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_241",
+    "type_desc": "递进"
+  },
+  {
+    "id": 13011,
+    "character": 20000130,
+    "type": 11,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_242",
+    "type_desc": "转折"
+  },
+  {
+    "id": 13012,
+    "character": 20000130,
+    "type": 12,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_243",
+    "type_desc": "疑惑"
+  },
+  {
+    "id": 13013,
+    "character": 20000130,
+    "type": 13,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_244",
+    "type_desc": "EX1"
+  },
+  {
+    "id": 13014,
+    "character": 20000130,
+    "type": 14,
+    "path": "audio/sound/xiutaerke/spot/jtm_frr_strk_245",
+    "type_desc": "EX2"
+  },
+  {
+    "id": 13015,
+    "character": 20000130,
+    "type": 15,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke01",
+    "type_desc": "战斗1"
+  },
+  {
+    "id": 13016,
+    "character": 20000130,
+    "type": 16,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke02",
+    "type_desc": "战斗2"
+  },
+  {
+    "id": 13017,
+    "character": 20000130,
+    "type": 17,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke03",
+    "type_desc": "战斗3"
+  },
+  {
+    "id": 13018,
+    "character": 20000130,
+    "type": 18,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke04",
+    "type_desc": "战斗4"
+  },
+  {
+    "id": 13019,
+    "character": 20000130,
+    "type": 19,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke05",
+    "type_desc": "战斗5"
+  },
+  {
+    "id": 13020,
+    "character": 20000130,
+    "type": 20,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke06",
+    "type_desc": "战斗6"
+  },
+  {
+    "id": 13021,
+    "character": 20000130,
+    "type": 21,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke07",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 13022,
+    "character": 20000130,
+    "type": 22,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke08",
+    "type_desc": "打招呼2"
+  },
+  {
+    "id": 13023,
+    "character": 20000130,
+    "type": 23,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke09",
+    "type_desc": "高兴1"
+  },
+  {
+    "id": 13024,
+    "character": 20000130,
+    "type": 24,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke10",
+    "type_desc": "高兴2"
+  },
+  {
+    "id": 13025,
+    "character": 20000130,
+    "type": 25,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke11",
+    "type_desc": "高兴3"
+  },
+  {
+    "id": 13026,
+    "character": 20000130,
+    "type": 26,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke12",
+    "type_desc": "肯定1"
+  },
+  {
+    "id": 13027,
+    "character": 20000130,
+    "type": 27,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke13",
+    "type_desc": "肯定2"
+  },
+  {
+    "id": 13028,
+    "character": 20000130,
+    "type": 28,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke14",
+    "type_desc": "肯定3"
+  },
+  {
+    "id": 13029,
+    "character": 20000130,
+    "type": 29,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke15",
+    "type_desc": "道谢1"
+  },
+  {
+    "id": 13030,
+    "character": 20000130,
+    "type": 30,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke16",
+    "type_desc": "道谢2"
+  },
+  {
+    "id": 13031,
+    "character": 20000130,
+    "type": 31,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke17",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 13032,
+    "character": 20000130,
+    "type": 32,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke18",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 13033,
+    "character": 20000130,
+    "type": 33,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke19",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 13034,
+    "character": 20000130,
+    "type": 34,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke20",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 13035,
+    "character": 20000130,
+    "type": 35,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke21",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 13036,
+    "character": 20000130,
+    "type": 36,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke22",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 13037,
+    "character": 20000130,
+    "type": 37,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke23",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 13038,
+    "character": 20000130,
+    "type": 38,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke24",
+    "type_desc": "转折1"
+  },
+  {
+    "id": 13039,
+    "character": 20000130,
+    "type": 39,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke25",
+    "type_desc": "害怕1"
+  },
+  {
+    "id": 13040,
+    "character": 20000130,
+    "type": 40,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke26",
+    "type_desc": "害怕2"
+  },
+  {
+    "id": 13041,
+    "character": 20000130,
+    "type": 41,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke27",
+    "type_desc": "害怕3"
+  },
+  {
+    "id": 13042,
+    "character": 20000130,
+    "type": 42,
+    "path": "audio/sound/xiutaerke/spot/xiutaerke28",
+    "type_desc": "递进1"
+  },
+  {
+    "id": 13101,
+    "character": 20000131,
+    "type": 1,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_232",
+    "type_desc": "表示惊讶"
+  },
+  {
+    "id": 13102,
+    "character": 20000131,
+    "type": 2,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_233",
+    "type_desc": "表示肯定"
+  },
+  {
+    "id": 13103,
+    "character": 20000131,
+    "type": 3,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_234",
+    "type_desc": "表示否定"
+  },
+  {
+    "id": 13104,
+    "character": 20000131,
+    "type": 4,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_235",
+    "type_desc": "中午打招呼"
+  },
+  {
+    "id": 13105,
+    "character": 20000131,
+    "type": 5,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_236",
+    "type_desc": "告别"
+  },
+  {
+    "id": 13106,
+    "character": 20000131,
+    "type": 6,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_237",
+    "type_desc": "承接"
+  },
+  {
+    "id": 13107,
+    "character": 20000131,
+    "type": 7,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_238",
+    "type_desc": "叹气"
+  },
+  {
+    "id": 13108,
+    "character": 20000131,
+    "type": 8,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_239",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 13109,
+    "character": 20000131,
+    "type": 9,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_240",
+    "type_desc": "生气"
+  },
+  {
+    "id": 13110,
+    "character": 20000131,
+    "type": 10,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_241",
+    "type_desc": "递进"
+  },
+  {
+    "id": 13111,
+    "character": 20000131,
+    "type": 11,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_242",
+    "type_desc": "转折"
+  },
+  {
+    "id": 13112,
+    "character": 20000131,
+    "type": 12,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_243",
+    "type_desc": "疑惑"
+  },
+  {
+    "id": 13113,
+    "character": 20000131,
+    "type": 13,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_244",
+    "type_desc": "EX1"
+  },
+  {
+    "id": 13114,
+    "character": 20000131,
+    "type": 14,
+    "path": "audio/sound/youbeier/spot/jtm_frr_ubl_245",
+    "type_desc": "EX2"
+  },
+  {
+    "id": 13115,
+    "character": 20000131,
+    "type": 15,
+    "path": "audio/sound/youbeier/spot/youbeier01",
+    "type_desc": "高兴1"
+  },
+  {
+    "id": 13116,
+    "character": 20000131,
+    "type": 16,
+    "path": "audio/sound/youbeier/spot/youbeier02",
+    "type_desc": "高兴2"
+  },
+  {
+    "id": 13117,
+    "character": 20000131,
+    "type": 17,
+    "path": "audio/sound/youbeier/spot/youbeier03",
+    "type_desc": "高兴3"
+  },
+  {
+    "id": 13118,
+    "character": 20000131,
+    "type": 18,
+    "path": "audio/sound/youbeier/spot/youbeier04",
+    "type_desc": "疑问1"
+  },
+  {
+    "id": 13119,
+    "character": 20000131,
+    "type": 19,
+    "path": "audio/sound/youbeier/spot/youbeier05",
+    "type_desc": "疑问2"
+  },
+  {
+    "id": 13120,
+    "character": 20000131,
+    "type": 20,
+    "path": "audio/sound/youbeier/spot/youbeier06",
+    "type_desc": "疑问3"
+  },
+  {
+    "id": 13121,
+    "character": 20000131,
+    "type": 21,
+    "path": "audio/sound/youbeier/spot/youbeier07",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 13122,
+    "character": 20000131,
+    "type": 22,
+    "path": "audio/sound/youbeier/spot/youbeier08",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 13123,
+    "character": 20000131,
+    "type": 23,
+    "path": "audio/sound/youbeier/spot/youbeier09",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 13124,
+    "character": 20000131,
+    "type": 24,
+    "path": "audio/sound/youbeier/spot/youbeier10",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 13125,
+    "character": 20000131,
+    "type": 25,
+    "path": "audio/sound/youbeier/spot/youbeier11",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 13126,
+    "character": 20000131,
+    "type": 26,
+    "path": "audio/sound/youbeier/spot/youbeier12",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 13127,
+    "character": 20000131,
+    "type": 27,
+    "path": "audio/sound/youbeier/spot/youbeier13",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 13128,
+    "character": 20000131,
+    "type": 28,
+    "path": "audio/sound/youbeier/spot/youbeier14",
+    "type_desc": "语气8"
+  },
+  {
+    "id": 13129,
+    "character": 20000131,
+    "type": 29,
+    "path": "audio/sound/youbeier/spot/youbeier15",
+    "type_desc": "语气9"
+  },
+  {
+    "id": 13130,
+    "character": 20000131,
+    "type": 30,
+    "path": "audio/sound/youbeier/spot/youbeier16",
+    "type_desc": "语气10"
+  },
+  {
+    "id": 13131,
+    "character": 20000131,
+    "type": 31,
+    "path": "audio/sound/youbeier/spot/youbeier17",
+    "type_desc": "语气11"
+  },
+  {
+    "id": 13132,
+    "character": 20000131,
+    "type": 32,
+    "path": "audio/sound/youbeier/spot/youbeier18",
+    "type_desc": "语气12"
+  },
+  {
+    "id": 13133,
+    "character": 20000131,
+    "type": 33,
+    "path": "audio/sound/youbeier/spot/youbeier19",
+    "type_desc": "战斗1"
+  },
+  {
+    "id": 13134,
+    "character": 20000131,
+    "type": 34,
+    "path": "audio/sound/youbeier/spot/youbeier20",
+    "type_desc": "战斗2"
+  },
+  {
+    "id": 13135,
+    "character": 20000131,
+    "type": 35,
+    "path": "audio/sound/youbeier/spot/youbeier21",
+    "type_desc": "战斗3"
+  },
+  {
+    "id": 13136,
+    "character": 20000131,
+    "type": 36,
+    "path": "audio/sound/youbeier/spot/youbeier22",
+    "type_desc": "战斗4"
+  },
+  {
+    "id": 13137,
+    "character": 20000131,
+    "type": 37,
+    "path": "audio/sound/youbeier/spot/youbeier23",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 13138,
+    "character": 20000131,
+    "type": 38,
+    "path": "audio/sound/youbeier/spot/youbeier24",
+    "type_desc": "打招呼2"
   }
 ]

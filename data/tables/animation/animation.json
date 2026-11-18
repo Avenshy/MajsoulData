@@ -1780,5 +1780,221 @@
       450,
       900
     ]
+  },
+  {
+    "id": 1003401,
+    "name": "Dapai",
+    "type": "hand_fulilian",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003402,
+    "name": "LiQiPai",
+    "type": "hand_fulilian",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003403,
+    "name": "LiZhi",
+    "type": "hand_fulilian",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003404,
+    "name": "Fulu",
+    "type": "hand_fulilian",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003405,
+    "name": "Zimo",
+    "type": "hand_fulilian",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003501,
+    "name": "Dapai",
+    "type": "hand_feilun",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003502,
+    "name": "LiQiPai",
+    "type": "hand_feilun",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003503,
+    "name": "LiZhi",
+    "type": "hand_feilun",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003504,
+    "name": "Fulu",
+    "type": "hand_feilun",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003505,
+    "name": "Zimo",
+    "type": "hand_feilun",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
+  },
+  {
+    "id": 1003601,
+    "name": "Dapai",
+    "type": "hand_xiutaerke",
+    "lifetime": 800,
+    "speed": 1.5,
+    "keypoint": [
+      650,
+      650
+    ]
+  },
+  {
+    "id": 1003602,
+    "name": "LiQiPai",
+    "type": "hand_xiutaerke",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      270,
+      650
+    ]
+  },
+  {
+    "id": 1003603,
+    "name": "LiZhi",
+    "type": "hand_xiutaerke",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003604,
+    "name": "Fulu",
+    "type": "hand_xiutaerke",
+    "lifetime": 500,
+    "speed": 1,
+    "keypoint": [
+      100,
+      325
+    ]
+  },
+  {
+    "id": 1003605,
+    "name": "Zimo",
+    "type": "hand_xiutaerke",
+    "lifetime": 833,
+    "speed": 1,
+    "keypoint": [
+      520,
+      800
+    ]
+  },
+  {
+    "id": 1003701,
+    "name": "Dapai",
+    "type": "hand_youbeier",
+    "lifetime": 460,
+    "speed": 0.94,
+    "keypoint": [
+      319,
+      319
+    ]
+  },
+  {
+    "id": 1003702,
+    "name": "LiQiPai",
+    "type": "hand_youbeier",
+    "lifetime": 1615,
+    "speed": 2,
+    "keypoint": [
+      550,
+      1300
+    ]
+  },
+  {
+    "id": 1003703,
+    "name": "LiZhi",
+    "type": "hand_youbeier",
+    "lifetime": 800,
+    "speed": 1,
+    "keypoint": [
+      500
+    ]
+  },
+  {
+    "id": 1003704,
+    "name": "Fulu",
+    "type": "hand_youbeier",
+    "lifetime": 900,
+    "speed": 2,
+    "keypoint": [
+      150,
+      733
+    ]
+  },
+  {
+    "id": 1003705,
+    "name": "Zimo",
+    "type": "hand_youbeier",
+    "lifetime": 900,
+    "speed": 1,
+    "keypoint": [
+      450,
+      900
+    ]
   }
 ]

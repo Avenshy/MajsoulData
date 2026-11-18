@@ -342,6 +342,12 @@
     "type": "lobby"
   },
   {
+    "id": 160,
+    "path": "ui/lobby/main/audio/gacha_banner_fll",
+    "time_length": null,
+    "type": "lobby"
+  },
+  {
     "id": 201,
     "path": "ui/mj/main/audio/beiman",
     "time_length": 2098,
@@ -2130,6 +2136,78 @@
     "type": "event"
   },
   {
+    "id": 10437,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_bgm",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10438,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_page",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10439,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_combine_blend",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10440,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_combine_success1",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10441,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_combine_success2",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10442,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_reveal",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10443,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_reveal_page",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10444,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_offer_success",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10445,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_offer_failed",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10446,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_level_up",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10447,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_harvest",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10448,
+    "path": "ui/activity/extend/2611fll/main/audio/2611fll_collect",
+    "time_length": null,
+    "type": "event"
+  },
+  {
     "id": 10449,
     "path": "ui/activity/extend/sign_sp/main/audio/2611fll_signin",
     "time_length": null,
@@ -2642,6 +2720,18 @@
   {
     "id": 308049,
     "path": "deco/effect_lizhi/effect_liqi_26dj/3d/audio/effect_liqi_26dj",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 308058,
+    "path": "deco/effect_hupai/ron_26fll/3d/audio/ron_26fll",
+    "time_length": null,
+    "type": "effect"
+  },
+  {
+    "id": 308059,
+    "path": "deco/effect_lizhi/effect_liqi_26fll/3d/audio/effect_liqi_26fll",
     "time_length": null,
     "type": "effect"
   },

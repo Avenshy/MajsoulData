@@ -8008,5 +8008,105 @@
     "limit_id": null,
     "single_trigger": null,
     "deprecated": null
+  },
+  {
+    "id": 26110501,
+    "activity_id": 261105,
+    "base_task_id": 25120,
+    "reward": "30900109-200",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110502,
+    "activity_id": 261105,
+    "base_task_id": 25121,
+    "reward": "30900109-150",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110503,
+    "activity_id": 261105,
+    "base_task_id": 25122,
+    "reward": "30900109-100",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110504,
+    "activity_id": 261105,
+    "base_task_id": 25123,
+    "reward": "30900109-50",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110505,
+    "activity_id": 261105,
+    "base_task_id": 25124,
+    "reward": "30900109-150",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110506,
+    "activity_id": 261105,
+    "base_task_id": 25125,
+    "reward": "30900109-100",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110507,
+    "activity_id": 261105,
+    "base_task_id": 25126,
+    "reward": "30900109-50",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110508,
+    "activity_id": 261105,
+    "base_task_id": 25127,
+    "reward": "70003101-1",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110509,
+    "activity_id": 261105,
+    "base_task_id": 25128,
+    "reward": "70003102-1",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
+  },
+  {
+    "id": 26110510,
+    "activity_id": 261105,
+    "base_task_id": 25129,
+    "reward": "70003103-1",
+    "hidden_reward": null,
+    "limit_id": null,
+    "single_trigger": null,
+    "deprecated": null
   }
 ]

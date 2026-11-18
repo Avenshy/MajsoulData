@@ -1,0 +1,147 @@
+26:player
+
+154:Clearing the Ruins
+155:Frieren introduces everyone, and we brief Stark and Fern on the situation so far and what we know about the island.
+156:Fern
+157:Master {var:player_nickname}, how did you know how to defeat that monster for good?
+159:Because the patterns on its body formed a mahjong hand.
+161:Once you complete a winning hand, the tiles collapse.
+162:Stark
+163:Mahjong...? A winning hand...?
+164:Ichihime
+165:That was Master's special move just now, nyaa!
+166:Is that how magic works in your world?
+167:You could say that, nyaa! Both mahjong and magic work miracles, nyaa!
+168:If you want to learn, I can teach you, nyaa!
+169:Learning mahjong seems essential for the journey ahead.
+170:We'll be counting on you, Ms. Ichihime, Master {var:player_nickname}.
+171:Fern and Stark officially join the party.
+172:Exploring ruins, locating crystal balls, transmuting materials... and learning mahjong on the side.
+173:Ichihime the Hero and her companions make steady progress across the island.
+174:Frieren
+175:This mana... It might be a grimoire.
+177:No, there's definitely a valuable grimoire inside here. That's what my experience as a mage is telling me.
+178:Ms. Ichihime, please help me reason with her... Ah!
+180:After much effort, we manage to rescue Ichihime.
+181:Now that we know these chests are fake, let's get moving.
+182:No... That just means we have even more reason to open the rest.
+183:{var:player_nickname}, did you know? Mikheit is only 99% accurate.
+184:Historical discoveries have been made by great mages who recognized that remaining 1%... So it's worth another shot.
+185:Exactly, nyaa! Probabilities can be deceptive, nyaa!
+186:Just because mine was fake doesn't mean Frie's isn't the real deal, nyaa!
+187:It's like getting away with a discard only to deal in on the exact same one next turn, nyaa! I know the feeling all too well, nyaa!
+188:Why use such a jinxed example...?
+189:Yes, she makes a good point. Here I go!
+190:Wait!
+191:Frieren, don't–
+192:But it is already too late.
+193:It's so dark and scary in here!
+194:And so, the adventure of Ichihime the Hero and her companions continues.
+196:Leia
+197:Thank you all for your hard work these past few days.
+198:Don't mention it. I'm just glad we could be of help.
+199:And it hasn't been without its rewards.
+200:Kaavi
+201:Remarkable techniques long thought lost to the currents of fate have been unearthed on this island.
+202:Yuzu
+203:Argh, even the Red Panda Squad learned how to levitate scoring sticks when declaring Riichi and auto-swap tile backs every match!
+204:If only we could make the tiles that aren't Dora sparkle like gems too, nyaa!
+205:Speaking of which, I found something wonderful in the best-hidden chest... a spell that can create wind, blossoms, snow, and moonlight out of thin air!
+206:Yes... Quite a worthwhile trip.
+207:Wind, blossoms, snow, and moonlight...? What's that? Sounds pretty fancy...
+208:We haven't had a chance to try it out, so no one knows what it actually does yet.
+210:Let's ride this momentum and crush the final boss, nyaa!
+211:This must be the deepest part of the ruins.
+212:Argh? Did you hear that? It sounds like voices...
+213:Yes, whispers of fate echo here, but they are too jumbled to decipher.
+214:Our target lies among them.
+215:That's like fishing out the single winning tile left in the wall, nyaa... Way too hard, nyaa!
+216:Spot-on analogy.
+217:Anything can happen on this island. It wouldn't surprise me if a tile actually spoke up.
+218:So the sound is coming from a mahjong tile? In that case, that spell I found earlier in the ruins might help...
+219:N-no! It was just a figure of speech!
+220:<color=#6CC2B6>Spell to find the extraordinary mahjong tile!</color>
+221:No way... You can't seriously find a mahjong tile with special powers...
+222:A giant mahjong tile appears suspended in midair, pulsing with light as if breathing.
+223:She actually found one?!
+224:I can feel an immense surge of mana. It wasn't there a moment ago...
+225:Why does this feel so familiar, nyaa?
+226:It doesn't seem evil.
+227:It actually feels warm and inviting...
+228:This must be the extraordinary mahjong tile.
+229:Ms. Frieren, Ms. Ichihime, are these fog-like tethers around the tile a seal?
+230:Hm... Hard to say.
+231:Feels more like a protective barrier, nyaa.
+232:Something is wrong. The magical balance maintaining this place has been shattered...
+233:Argh?! What did you do, you phony fortune teller?!
+234:Stay sharp, everyone! Prepare for battle!
+235:???
+236:Gurgle...
+237:Just as Leia warned, eerie growls echo through the ruins.
+238:Nyaaaa?! The monsters are swarming us like seagulls on a dropped sandwich, nyaa!
+239:Master, what do we do, nyaa?
+240:Grab the giant tile!
+241:Sever those fog tethers!
+242:Alright... Here I go!
+243:Ms. Frieren, everyone, please lend us your strength!
+244:However, with monsters closing in from all sides, we find no easy way to break through.
+245:I can't slice through these tethers no matter what I try...
+246:Physical attacks aren't working either!
+247:The monsters are multiplying. We need to finish this quickly.
+248:...But how do we cut them?
+249:You're all overthinking this.
+250:<color=#70946E>Reelseiden!</color>
+251:Monster
+252:Grrrgh...!
+253:Huh?
+254:In an instant, the fog tethers are sliced clean through. The monsters, which had been fiercely guarding the giant tile, suddenly lose their will to fight.
+255:Sunlight streams down from the clearing skies as the fog nearby vanishes without a trace.
+256:It seems it's all over...
+257:I knew following those little monsters would lead to something fun!
+258:She just cut right through them so effortlessly...
+259:Who are you?
+260:Übel
+261:Allow me to introduce myself. I'm Übel, a mage.
+262:You're a mage, too?
+263:That's right.
+264:Nyaaa... Judging by her aura, she must be the fourth visitor the Shrine detected, nyaa!
+265:I see. So the fourth one is Übel.
+266:Hm... So you ended up in this world as well?
+267:Thanks for the help, Übel.
+268:It was nothing.
+269:By the way, I'm quite curious... What exactly is this clear block?
+270:Yeah, we fought tooth and nail to get our hands on it, nyaa.
+271:Let me take a look...
+272:While she examines it, let's head back to camp and resupply.
+273:Once everything is sorted, we can return.
+274:Some time passes...
+275:Oh! So it conceals a formula like this inside.
+276:I should take ten years or so to study it thoroughly.
+277:Absolutely not.
+278:Whoa, hold on, that's way too long...
+279:Ms. Frieren, shouldn't we return to camp first? At least to report our findings to Ms. Leia and the others.
+280:But the lingering mana traces around here seem worth studying too. I'd like to stay a bit longer...
+281:Still, Fern is right. We can't stay here forever. Let's head back to camp first.
+282:Either way, light at the end of the tunnel at last, nyaa! Hurrah for us, nyaa!
+283:Once the fog finally lifts, we should offer this tile at the Shrine as a souvenir of our adventure, nyaa!
+284:Don't celebrate just yet.
+285:Nyaa-nyaa?! What is that creepy noise, nyaa...?
+287:As she speaks, the calm monsters suddenly grow restless once more.
+288:Squishy Slime
+289:Gurgle...
+290:Man-Eating Mimic
+291:Snap...
+292:Stranger still, instead of attacking, they scatter in sheer panic.
+293:The ground and walls tremble as if struck by an earthquake.
+294:This level of shaking... Oh crap!
+295:Watch out! The place is coming down!
+296:Everyone, run!
+297:We can't leave the tile behind after all our hard work, nyaa!
+298:...
+299:No... Absolutely not.
+300:You won't take... my Sacred Tile!
+303:But Ms. Frieren, Mikheit has already shown that every chest here is a mimic.
+306:As we press on through the island's ruins, the truth behind the fog feels ever closer.
+309:It's eating me, nyaa!
+310:Don't worry, nyaa! My gut tells me this magic is going to save the day, nyaa!
+311:Who knows? Maybe the monsters are gathering again.

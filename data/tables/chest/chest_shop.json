@@ -9069,7 +9069,7 @@
     "check_activity": null,
     "launch_time": "2026-10-21 11:00:00+08",
     "remove_limit_mark": null,
-    "sort": 1,
+    "sort": 554,
     "name": {
       "chs": "泠星",
       "chs_t": "",
@@ -9144,6 +9144,168 @@
     "sort": 1004,
     "name": {
       "chs": "对局音乐",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1537,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000128,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1538,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000129,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 2,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1539,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000130,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 3,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1540,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 20000131,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 4,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1541,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 308058,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1542,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 308059,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1543,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 308061,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1544,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 308062,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1545,
+    "chest_id": 1000,
+    "icon": null,
+    "item_id": 308063,
+    "price": 100,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "头像框",
       "chs_t": "",
       "jp": "",
       "en": ""
@@ -18237,7 +18399,7 @@
     "check_activity": null,
     "launch_time": "2026-10-21 11:00:00+08",
     "remove_limit_mark": null,
-    "sort": 1,
+    "sort": 554,
     "name": {
       "chs": "泠星",
       "chs_t": "",
@@ -18312,6 +18474,168 @@
     "sort": 1004,
     "name": {
       "chs": "对局音乐",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3537,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000128,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3538,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000129,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 2,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3539,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000130,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 3,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3540,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 20000131,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 4,
+    "name": {
+      "chs": "fll",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3541,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 308058,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3542,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 308059,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3543,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 308061,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3544,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 308062,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3545,
+    "chest_id": 1001,
+    "icon": null,
+    "item_id": 308063,
+    "price": 100,
+    "need_amount": null,
+    "check_activity": 261119,
+    "launch_time": "2026-11-18 11:00:00+08",
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "头像框",
       "chs_t": "",
       "jp": "",
       "en": ""

@@ -365,6 +365,20 @@
     - [ReqMajClubActivityUpgradeCharacterTag](#lq-ReqMajClubActivityUpgradeCharacterTag)
     - [ReqMajClubActivityUpgradeRoomFee](#lq-ReqMajClubActivityUpgradeRoomFee)
     - [ReqMajClubActivityUpgradeWaiting](#lq-ReqMajClubActivityUpgradeWaiting)
+    - [ReqMajWorkshopActivityCollect](#lq-ReqMajWorkshopActivityCollect)
+    - [ReqMajWorkshopActivityCraft](#lq-ReqMajWorkshopActivityCraft)
+    - [ReqMajWorkshopActivityFetchData](#lq-ReqMajWorkshopActivityFetchData)
+    - [ReqMajWorkshopActivityGardenRestore](#lq-ReqMajWorkshopActivityGardenRestore)
+    - [ReqMajWorkshopActivityGardenRestoreAndCollect](#lq-ReqMajWorkshopActivityGardenRestoreAndCollect)
+    - [ReqMajWorkshopActivityQuickCraft](#lq-ReqMajWorkshopActivityQuickCraft)
+    - [ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep](#lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopCraftStep)
+    - [ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect](#lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopGardenCollect)
+    - [ReqMajWorkshopActivityQuickCraft.CraftInput](#lq-ReqMajWorkshopActivityQuickCraft-CraftInput)
+    - [ReqMajWorkshopActivityRead](#lq-ReqMajWorkshopActivityRead)
+    - [ReqMajWorkshopActivityRecovery](#lq-ReqMajWorkshopActivityRecovery)
+    - [ReqMajWorkshopActivitySetSelectedOrder](#lq-ReqMajWorkshopActivitySetSelectedOrder)
+    - [ReqMajWorkshopActivitySubmitOrder](#lq-ReqMajWorkshopActivitySubmitOrder)
+    - [ReqMajWorkshopActivityUnderstandOrder](#lq-ReqMajWorkshopActivityUnderstandOrder)
     - [ReqMarathonActivityFinishRace](#lq-ReqMarathonActivityFinishRace)
     - [ReqMarathonActivityStartRace](#lq-ReqMarathonActivityStartRace)
     - [ReqModifyBirthday](#lq-ReqModifyBirthday)
@@ -449,6 +463,7 @@
     - [ReqSetActivityBuff.BuffInfo](#lq-ReqSetActivityBuff-BuffInfo)
     - [ReqSetFriendRoomRandomBotChar](#lq-ReqSetFriendRoomRandomBotChar)
     - [ReqSetHiddenCharacter](#lq-ReqSetHiddenCharacter)
+    - [ReqSetHiddenHandsView](#lq-ReqSetHiddenHandsView)
     - [ReqSetLoadingImage](#lq-ReqSetLoadingImage)
     - [ReqSetVerifiedHidden](#lq-ReqSetVerifiedHidden)
     - [ReqSetVillageWorker](#lq-ReqSetVillageWorker)
@@ -748,6 +763,17 @@
     - [ResMajClubActivityFetchData](#lq-ResMajClubActivityFetchData)
     - [ResMajClubActivityFinishDay](#lq-ResMajClubActivityFinishDay)
     - [ResMajClubActivityStartDay](#lq-ResMajClubActivityStartDay)
+    - [ResMajWorkshopActivityCollect](#lq-ResMajWorkshopActivityCollect)
+    - [ResMajWorkshopActivityCraft](#lq-ResMajWorkshopActivityCraft)
+    - [ResMajWorkshopActivityFetchData](#lq-ResMajWorkshopActivityFetchData)
+    - [ResMajWorkshopActivityGardenRestore](#lq-ResMajWorkshopActivityGardenRestore)
+    - [ResMajWorkshopActivityGardenRestoreAndCollect](#lq-ResMajWorkshopActivityGardenRestoreAndCollect)
+    - [ResMajWorkshopActivityQuickCraft](#lq-ResMajWorkshopActivityQuickCraft)
+    - [ResMajWorkshopActivityRead](#lq-ResMajWorkshopActivityRead)
+    - [ResMajWorkshopActivityRecovery](#lq-ResMajWorkshopActivityRecovery)
+    - [ResMajWorkshopActivitySetSelectedOrder](#lq-ResMajWorkshopActivitySetSelectedOrder)
+    - [ResMajWorkshopActivitySubmitOrder](#lq-ResMajWorkshopActivitySubmitOrder)
+    - [ResMajWorkshopActivityUnderstandOrder](#lq-ResMajWorkshopActivityUnderstandOrder)
     - [ResMarathonActivityFinishRace](#lq-ResMarathonActivityFinishRace)
     - [ResMarathonActivityStartRace](#lq-ResMarathonActivityStartRace)
     - [ResMisc](#lq-ResMisc)
@@ -822,6 +848,7 @@
     - [ResServerSettings](#lq-ResServerSettings)
     - [ResServerTime](#lq-ResServerTime)
     - [ResSetHiddenCharacter](#lq-ResSetHiddenCharacter)
+    - [ResSetHiddenHandsView](#lq-ResSetHiddenHandsView)
     - [ResSetVillageWorker](#lq-ResSetVillageWorker)
     - [ResShootActivityAttackEnemies](#lq-ResShootActivityAttackEnemies)
     - [ResShootActivityAttackEnemies.ActivityShootAttackRecord](#lq-ResShootActivityAttackEnemies-ActivityShootAttackRecord)
@@ -1010,6 +1037,18 @@
     - [ActivityMajClubRoomDataArrayDirty](#lq-ActivityMajClubRoomDataArrayDirty)
     - [ActivityMajClubUpgradeData](#lq-ActivityMajClubUpgradeData)
     - [ActivityMajClubUpgradeDataChanges](#lq-ActivityMajClubUpgradeDataChanges)
+    - [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges)
+    - [ActivityMajWorkshopCraft](#lq-ActivityMajWorkshopCraft)
+    - [ActivityMajWorkshopCraftArrayDirty](#lq-ActivityMajWorkshopCraftArrayDirty)
+    - [ActivityMajWorkshopData](#lq-ActivityMajWorkshopData)
+    - [ActivityMajWorkshopGameData](#lq-ActivityMajWorkshopGameData)
+    - [ActivityMajWorkshopGameDataChanges](#lq-ActivityMajWorkshopGameDataChanges)
+    - [ActivityMajWorkshopGarden](#lq-ActivityMajWorkshopGarden)
+    - [ActivityMajWorkshopGardenArrayDirty](#lq-ActivityMajWorkshopGardenArrayDirty)
+    - [ActivityMajWorkshopIllustratedBook](#lq-ActivityMajWorkshopIllustratedBook)
+    - [ActivityMajWorkshopIllustratedBookChanges](#lq-ActivityMajWorkshopIllustratedBookChanges)
+    - [ActivityMajWorkshopOrder](#lq-ActivityMajWorkshopOrder)
+    - [ActivityMajWorkshopOrderArrayDirty](#lq-ActivityMajWorkshopOrderArrayDirty)
     - [ActivityMarathonCheckData](#lq-ActivityMarathonCheckData)
     - [ActivityMarathonData](#lq-ActivityMarathonData)
     - [ActivityMarathonData.MarathonRaceData](#lq-ActivityMarathonData-MarathonRaceData)
@@ -7831,6 +7870,233 @@
 
 
 
+<a name="lq-ReqMajWorkshopActivityCollect"></a>
+
+### ReqMajWorkshopActivityCollect
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| garden_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityCraft"></a>
+
+### ReqMajWorkshopActivityCraft
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| crafts | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityFetchData"></a>
+
+### ReqMajWorkshopActivityFetchData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityGardenRestore"></a>
+
+### ReqMajWorkshopActivityGardenRestore
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| garden_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityGardenRestoreAndCollect"></a>
+
+### ReqMajWorkshopActivityGardenRestoreAndCollect
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| garden_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityQuickCraft"></a>
+
+### ReqMajWorkshopActivityQuickCraft
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| target_craft_id | [uint32](#uint32) |  |  |
+| garden_collects | [ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect](#lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopGardenCollect) | repeated |  |
+| craft_steps | [ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep](#lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopCraftStep) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopCraftStep"></a>
+
+### ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopCraftStep
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| input | [ReqMajWorkshopActivityQuickCraft.CraftInput](#lq-ReqMajWorkshopActivityQuickCraft-CraftInput) | repeated |  |
+| output_craft_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityQuickCraft-ActivityMajWorkshopGardenCollect"></a>
+
+### ReqMajWorkshopActivityQuickCraft.ActivityMajWorkshopGardenCollect
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| garden_id | [uint32](#uint32) |  |  |
+| use_free_collect | [bool](#bool) |  |  |
+| cost | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityQuickCraft-CraftInput"></a>
+
+### ReqMajWorkshopActivityQuickCraft.CraftInput
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| craft_id | [uint32](#uint32) |  |  |
+| from | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityRead"></a>
+
+### ReqMajWorkshopActivityRead
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| craft_id_list | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityRecovery"></a>
+
+### ReqMajWorkshopActivityRecovery
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| craft_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivitySetSelectedOrder"></a>
+
+### ReqMajWorkshopActivitySetSelectedOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivitySubmitOrder"></a>
+
+### ReqMajWorkshopActivitySubmitOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| order_id | [uint32](#uint32) |  |  |
+| craft_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ReqMajWorkshopActivityUnderstandOrder"></a>
+
+### ReqMajWorkshopActivityUnderstandOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| order_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
 <a name="lq-ReqMarathonActivityFinishRace"></a>
 
 ### ReqMarathonActivityFinishRace
@@ -9167,6 +9433,21 @@
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
 | chara_list | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ReqSetHiddenHandsView"></a>
+
+### ReqSetHiddenHandsView
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| hidden_hands_view | [uint32](#uint32) | repeated |  |
 
 
 
@@ -10881,6 +11162,7 @@
 | character_sort | [uint32](#uint32) | repeated |  |
 | hidden_characters | [uint32](#uint32) | repeated |  |
 | other_character_sort | [uint32](#uint32) | repeated |  |
+| hidden_hands_view | [uint32](#uint32) | repeated |  |
 
 
 
@@ -14276,6 +14558,187 @@
 
 
 
+<a name="lq-ResMajWorkshopActivityCollect"></a>
+
+### ResMajWorkshopActivityCollect
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityCraft"></a>
+
+### ResMajWorkshopActivityCraft
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+| greate_craft_id | [uint32](#uint32) |  |  |
+| greate_success | [bool](#bool) |  |  |
+| greate_success_craft | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityFetchData"></a>
+
+### ResMajWorkshopActivityFetchData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| data | [ActivityMajWorkshopData](#lq-ActivityMajWorkshopData) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityGardenRestore"></a>
+
+### ResMajWorkshopActivityGardenRestore
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityGardenRestoreAndCollect"></a>
+
+### ResMajWorkshopActivityGardenRestoreAndCollect
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityQuickCraft"></a>
+
+### ResMajWorkshopActivityQuickCraft
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityRead"></a>
+
+### ResMajWorkshopActivityRead
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityRecovery"></a>
+
+### ResMajWorkshopActivityRecovery
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+| extra_reward | [ExecuteReward](#lq-ExecuteReward) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivitySetSelectedOrder"></a>
+
+### ResMajWorkshopActivitySetSelectedOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivitySubmitOrder"></a>
+
+### ResMajWorkshopActivitySubmitOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| success | [bool](#bool) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
+<a name="lq-ResMajWorkshopActivityUnderstandOrder"></a>
+
+### ResMajWorkshopActivityUnderstandOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| changes | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) |  |  |
+
+
+
+
+
+
 <a name="lq-ResMarathonActivityFinishRace"></a>
 
 ### ResMarathonActivityFinishRace
@@ -15515,6 +15978,22 @@
 
 
 
+<a name="lq-ResSetHiddenHandsView"></a>
+
+### ResSetHiddenHandsView
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| error | [Error](#lq-Error) |  |  |
+| hidden_hands_view | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
 <a name="lq-ResSetVillageWorker"></a>
 
 ### ResSetVillageWorker
@@ -16581,6 +17060,7 @@
 | choose_group_up_data | [ActivityChooseGroupData](#lq-ActivityChooseGroupData) | repeated |  |
 | mmo_data | [ActivityMMODataChanges](#lq-ActivityMMODataChanges) | repeated |  |
 | activity_buff | [AccountActivityUpdate.ActivityBuffDataArrayDirty](#lq-AccountActivityUpdate-ActivityBuffDataArrayDirty) |  |  |
+| work_shop_data | [ActivityMajWorkshopChanges](#lq-ActivityMajWorkshopChanges) | repeated |  |
 
 
 
@@ -18790,6 +19270,211 @@
 | rooms | [ActivityMajClubRoomDataArrayDirty](#lq-ActivityMajClubRoomDataArrayDirty) |  |  |
 | characters | [ActivityMajClubCharacterDataArrayDirty](#lq-ActivityMajClubCharacterDataArrayDirty) |  |  |
 | wait_zone_level | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopChanges"></a>
+
+### ActivityMajWorkshopChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| game | [ActivityMajWorkshopGameDataChanges](#lq-ActivityMajWorkshopGameDataChanges) |  |  |
+| illustrated_book | [ActivityMajWorkshopIllustratedBookChanges](#lq-ActivityMajWorkshopIllustratedBookChanges) |  |  |
+| activity_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopCraft"></a>
+
+### ActivityMajWorkshopCraft
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| count | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopCraftArrayDirty"></a>
+
+### ActivityMajWorkshopCraftArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajWorkshopCraft](#lq-ActivityMajWorkshopCraft) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopData"></a>
+
+### ActivityMajWorkshopData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| activity_id | [uint32](#uint32) |  |  |
+| game | [ActivityMajWorkshopGameData](#lq-ActivityMajWorkshopGameData) |  |  |
+| illustrated_book | [ActivityMajWorkshopIllustratedBook](#lq-ActivityMajWorkshopIllustratedBook) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopGameData"></a>
+
+### ActivityMajWorkshopGameData
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| level | [uint32](#uint32) |  |  |
+| sell_bouns_count | [uint32](#uint32) |  |  |
+| crafts | [ActivityMajWorkshopCraft](#lq-ActivityMajWorkshopCraft) | repeated |  |
+| gardens | [ActivityMajWorkshopGarden](#lq-ActivityMajWorkshopGarden) | repeated |  |
+| orders | [ActivityMajWorkshopOrder](#lq-ActivityMajWorkshopOrder) | repeated |  |
+| last_sell_bouns_time | [uint32](#uint32) |  |  |
+| understood_order_ids | [uint32](#uint32) | repeated |  |
+| selected_order_id | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopGameDataChanges"></a>
+
+### ActivityMajWorkshopGameDataChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| level | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+| sell_bouns_count | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+| crafts | [ActivityMajWorkshopCraftArrayDirty](#lq-ActivityMajWorkshopCraftArrayDirty) |  |  |
+| gardens | [ActivityMajWorkshopGardenArrayDirty](#lq-ActivityMajWorkshopGardenArrayDirty) |  |  |
+| orders | [ActivityMajWorkshopOrderArrayDirty](#lq-ActivityMajWorkshopOrderArrayDirty) |  |  |
+| selected_order_id | [UInt32Dirty](#lq-UInt32Dirty) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopGarden"></a>
+
+### ActivityMajWorkshopGarden
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| id | [uint32](#uint32) |  |  |
+| last_collected_time | [uint32](#uint32) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopGardenArrayDirty"></a>
+
+### ActivityMajWorkshopGardenArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajWorkshopGarden](#lq-ActivityMajWorkshopGarden) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopIllustratedBook"></a>
+
+### ActivityMajWorkshopIllustratedBook
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| unlocked_craft_id | [uint32](#uint32) | repeated |  |
+| have_read_craft_id | [uint32](#uint32) | repeated |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopIllustratedBookChanges"></a>
+
+### ActivityMajWorkshopIllustratedBookChanges
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| unlocked_craft_id | [UInt32ArrayDirty](#lq-UInt32ArrayDirty) |  |  |
+| have_read_craft_id | [UInt32ArrayDirty](#lq-UInt32ArrayDirty) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopOrder"></a>
+
+### ActivityMajWorkshopOrder
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| order_id | [uint32](#uint32) |  |  |
+| id | [uint32](#uint32) |  |  |
+| understood | [bool](#bool) |  |  |
+
+
+
+
+
+
+<a name="lq-ActivityMajWorkshopOrderArrayDirty"></a>
+
+### ActivityMajWorkshopOrderArrayDirty
+
+
+
+| Field | Type | Label | Description |
+| ----- | ---- | ----- | ----------- |
+| dirty | [bool](#bool) |  |  |
+| value | [ActivityMajWorkshopOrder](#lq-ActivityMajWorkshopOrder) | repeated |  |
 
 
 
@@ -30284,6 +30969,10 @@
 | yiman_zimo | [bool](#bool) |  |  |
 | count_zimo | [uint32](#uint32) |  |  |
 | fu_zimo | [uint32](#uint32) |  |  |
+| dora_count | [uint32](#uint32) |  |  |
+| li_dora_count | [uint32](#uint32) |  |  |
+| red_dora_count | [uint32](#uint32) |  |  |
+| ying_count | [uint32](#uint32) |  |  |
 
 
 
@@ -31712,6 +32401,17 @@
 | majClubActivityUpgradeCharacterTag | [ReqMajClubActivityUpgradeCharacterTag](#lq-ReqMajClubActivityUpgradeCharacterTag) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
 | majClubActivityUpgradeRoomFee | [ReqMajClubActivityUpgradeRoomFee](#lq-ReqMajClubActivityUpgradeRoomFee) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
 | majClubActivityUpgradeWaiting | [ReqMajClubActivityUpgradeWaiting](#lq-ReqMajClubActivityUpgradeWaiting) | [ResMajClubActivityCommon](#lq-ResMajClubActivityCommon) |  |
+| majWorkshopActivityCollect | [ReqMajWorkshopActivityCollect](#lq-ReqMajWorkshopActivityCollect) | [ResMajWorkshopActivityCollect](#lq-ResMajWorkshopActivityCollect) |  |
+| majWorkshopActivityCraft | [ReqMajWorkshopActivityCraft](#lq-ReqMajWorkshopActivityCraft) | [ResMajWorkshopActivityCraft](#lq-ResMajWorkshopActivityCraft) |  |
+| majWorkshopActivityFetchData | [ReqMajWorkshopActivityFetchData](#lq-ReqMajWorkshopActivityFetchData) | [ResMajWorkshopActivityFetchData](#lq-ResMajWorkshopActivityFetchData) |  |
+| majWorkshopActivityGardenRestore | [ReqMajWorkshopActivityGardenRestore](#lq-ReqMajWorkshopActivityGardenRestore) | [ResMajWorkshopActivityGardenRestore](#lq-ResMajWorkshopActivityGardenRestore) |  |
+| majWorkshopActivityGardenRestoreAndCollect | [ReqMajWorkshopActivityGardenRestoreAndCollect](#lq-ReqMajWorkshopActivityGardenRestoreAndCollect) | [ResMajWorkshopActivityGardenRestoreAndCollect](#lq-ResMajWorkshopActivityGardenRestoreAndCollect) |  |
+| majWorkshopActivityQuickCraft | [ReqMajWorkshopActivityQuickCraft](#lq-ReqMajWorkshopActivityQuickCraft) | [ResMajWorkshopActivityQuickCraft](#lq-ResMajWorkshopActivityQuickCraft) |  |
+| majWorkshopActivityRead | [ReqMajWorkshopActivityRead](#lq-ReqMajWorkshopActivityRead) | [ResMajWorkshopActivityRead](#lq-ResMajWorkshopActivityRead) |  |
+| majWorkshopActivityRecovery | [ReqMajWorkshopActivityRecovery](#lq-ReqMajWorkshopActivityRecovery) | [ResMajWorkshopActivityRecovery](#lq-ResMajWorkshopActivityRecovery) |  |
+| majWorkshopActivitySetSelectedOrder | [ReqMajWorkshopActivitySetSelectedOrder](#lq-ReqMajWorkshopActivitySetSelectedOrder) | [ResMajWorkshopActivitySetSelectedOrder](#lq-ResMajWorkshopActivitySetSelectedOrder) |  |
+| majWorkshopActivitySubmitOrder | [ReqMajWorkshopActivitySubmitOrder](#lq-ReqMajWorkshopActivitySubmitOrder) | [ResMajWorkshopActivitySubmitOrder](#lq-ResMajWorkshopActivitySubmitOrder) |  |
+| majWorkshopActivityUnderstandOrder | [ReqMajWorkshopActivityUnderstandOrder](#lq-ReqMajWorkshopActivityUnderstandOrder) | [ResMajWorkshopActivityUnderstandOrder](#lq-ResMajWorkshopActivityUnderstandOrder) |  |
 | marathonActivityFinishRace | [ReqMarathonActivityFinishRace](#lq-ReqMarathonActivityFinishRace) | [ResMarathonActivityFinishRace](#lq-ResMarathonActivityFinishRace) |  |
 | marathonActivityStartRace | [ReqMarathonActivityStartRace](#lq-ReqMarathonActivityStartRace) | [ResMarathonActivityStartRace](#lq-ResMarathonActivityStartRace) |  |
 | matchGame | [ReqJoinMatchQueue](#lq-ReqJoinMatchQueue) | [ResCommon](#lq-ResCommon) |  |
@@ -31805,6 +32505,7 @@
 | setActivityBuff | [ReqSetActivityBuff](#lq-ReqSetActivityBuff) | [ResActivityBuff](#lq-ResActivityBuff) |  |
 | setFriendRoomRandomBotChar | [ReqSetFriendRoomRandomBotChar](#lq-ReqSetFriendRoomRandomBotChar) | [ResCommon](#lq-ResCommon) |  |
 | setHiddenCharacter | [ReqSetHiddenCharacter](#lq-ReqSetHiddenCharacter) | [ResSetHiddenCharacter](#lq-ResSetHiddenCharacter) |  |
+| setHiddenHandsView | [ReqSetHiddenHandsView](#lq-ReqSetHiddenHandsView) | [ResSetHiddenHandsView](#lq-ResSetHiddenHandsView) |  |
 | setLoadingImage | [ReqSetLoadingImage](#lq-ReqSetLoadingImage) | [ResCommon](#lq-ResCommon) |  |
 | setRandomCharacter | [ReqRandomCharacter](#lq-ReqRandomCharacter) | [ResCommon](#lq-ResCommon) |  |
 | setVerifiedHidden | [ReqSetVerifiedHidden](#lq-ReqSetVerifiedHidden) | [ResCommon](#lq-ResCommon) |  |
