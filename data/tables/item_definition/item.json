@@ -47747,6 +47747,162 @@
     }
   },
   {
+    "id": 30557080,
+    "sort": 6097,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/26syzqz/pic/26syzqz_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-12-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "声優最強戦2026",
+      "chs_t": "声優最強戦2026",
+      "jp": "声優最強戦2026",
+      "en": "声優最強戦2026",
+      "kr": "声優最強戦2026"
+    },
+    "desc_func": {
+      "chs": "「声優最強戦2026」優勝記念称号",
+      "chs_t": "「声優最強戦2026」優勝記念称号",
+      "jp": "「声優最強戦2026」優勝記念称号",
+      "en": "「声優最強戦2026」優勝記念称号",
+      "kr": "「声優最強戦2026」優勝記念称号"
+    },
+    "expire_desc": {
+      "chs": "2027年12月1日まで",
+      "chs_t": "2027年12月1日まで",
+      "jp": "2027年12月1日まで",
+      "en": "2027年12月1日まで",
+      "kr": "2027年12月1日まで"
+    }
+  },
+  {
+    "id": 30557081,
+    "sort": 6098,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/2301hfz/pic/2301hfz_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2028-01-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "華風戦優勝",
+      "chs_t": "華風戦優勝",
+      "jp": "華風戦優勝",
+      "en": "華風戦優勝",
+      "kr": "華風戦優勝"
+    },
+    "desc_func": {
+      "chs": "「華風戦」優勝賞品",
+      "chs_t": "「華風戦」優勝賞品",
+      "jp": "「華風戦」優勝賞品",
+      "en": "「華風戦」優勝賞品",
+      "kr": "「華風戦」優勝賞品"
+    },
+    "expire_desc": {
+      "chs": "2028年1月1日まで",
+      "chs_t": "2028年1月1日まで",
+      "jp": "2028年1月1日まで",
+      "en": "2028年1月1日まで",
+      "kr": "2028年1月1日まで"
+    }
+  },
+  {
+    "id": 30557082,
+    "sort": 6099,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/26million/pic/26million_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-11-30 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "ミリオネア完全制覇",
+      "chs_t": "ミリオネア完全制覇",
+      "jp": "ミリオネア完全制覇",
+      "en": "ミリオネア完全制覇",
+      "kr": "ミリオネア完全制覇"
+    },
+    "desc_func": {
+      "chs": "「麻雀ミリオネア」で5戦全て勝ち抜いた猛者が冠する限定称号",
+      "chs_t": "「麻雀ミリオネア」で5戦全て勝ち抜いた猛者が冠する限定称号",
+      "jp": "「麻雀ミリオネア」で5戦全て勝ち抜いた猛者が冠する限定称号",
+      "en": "「麻雀ミリオネア」で5戦全て勝ち抜いた猛者が冠する限定称号",
+      "kr": "「麻雀ミリオネア」で5戦全て勝ち抜いた猛者が冠する限定称号"
+    },
+    "expire_desc": {
+      "chs": "2027年11月30日まで",
+      "chs_t": "2027年11月30日まで",
+      "jp": "2027年11月30日まで",
+      "en": "2027年11月30日まで",
+      "kr": "2027年11月30日まで"
+    }
+  },
+  {
     "id": 30560001,
     "sort": 7028,
     "name_chs_t2": null,

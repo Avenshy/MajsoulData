@@ -4,10 +4,10 @@
   "product_version": "4.0.51",
   "loader": "chs_t-WebGL-release-4.0.51(51).loader.js",
   "bundle_profile": "ASTC",
-  "bundle_hash": "79283db7d4c121d319813b26c43a4acb69444509",
+  "bundle_hash": "d624a20f6e57699c1e331c83e7bd3a91804f93c3",
   "raw_dir": "raw",
   "tables": 288,
-  "rows": 76436,
+  "rows": 76442,
   "locale_sources": 461,
   "skipped_modules": 0,
   "protocol": {
