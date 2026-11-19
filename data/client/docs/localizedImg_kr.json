@@ -24669,6 +24669,10 @@
       "fileType": 0
     },
     {
+      "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\guide_hand_tips.png",
+      "fileType": 0
+    },
+    {
       "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\icon_miwujingchen_70.png",
       "fileType": 0
     },
@@ -25245,7 +25249,23 @@
       "fileType": 1
     },
     {
+      "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\skip.png",
+      "fileType": 1
+    },
+    {
       "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\spot_bottom.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\supplement_collect_btn_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\supplement_workshop_list_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\2611fll\\main\\pic\\supplement_workshop_tabs_deliver_selected.png",
       "fileType": 0
     },
     {
