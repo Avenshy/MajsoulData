@@ -60,10 +60,6 @@
     "text": "Where... am I?"
   },
   {
-    "line": 144,
-    "text": "I was only gone for a mere few hundred years... Why has everything changed?"
-  },
-  {
     "line": 145,
     "text": "I'm... I'm back..."
   },
@@ -468,10 +464,6 @@
     "text": "Hang on, {var:player_nickname} gave me an ancient grimoire that seems to record mystical magic..."
   },
   {
-    "line": 253,
-    "text": "As soon as I find the spell to turn all tiles into Red Five, I'll help you out."
-  },
-  {
     "line": 254,
     "text": "No, actually... that's just a game log..."
   },
@@ -500,7 +492,15 @@
     "text": "That person asked me to carry the Sacred Tile, record everything I saw along the way, and come back someday so we could trade stories."
   },
   {
-    "line": 263,
-    "text": "Use that spell of yours to make non-Dora tiles sparkle like gems or something!"
+    "line": 264,
+    "text": "I was only gone for a mere few hundred years... Why has everything changed?"
+  },
+  {
+    "line": 267,
+    "text": "Isn't there some spell that might work?!"
+  },
+  {
+    "line": 268,
+    "text": "As soon as I find the spell to make non-Dora tiles sparkle like gems, I'll help you out."
   }
 ]
